@@ -1,0 +1,27 @@
+name: Veille IA Evolium (collecte)
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # 3h UTC = 5h Paris (heure d'été), 4h l'hiver
+  workflow_dispatch:       # bouton "Run workflow" pour lancer à la main
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python collect.py
+      - name: Commit du rapport du jour
+        run: |
+          git config user.name "veille-bot"
+          git config user.email "veille-bot@users.noreply.github.com"
+          git add data state
+          git diff --cached --quiet || git commit -m "veille: rapport $(date -u +%F)"
+          git push

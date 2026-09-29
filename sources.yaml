@@ -1,0 +1,76 @@
+# Sources du collecteur Evolium Veille IA.
+# modes : rss | github_releases | hn | reddit | arxiv | hf_papers | page_links
+# Pour rss : si l'URL ne répond pas ou n'est pas un flux, le script tente une auto-découverte
+#            depuis la page (balise <link rel="alternate">). Les échecs sont listés dans state/sources_status.json.
+# Pour page_links : le script mémorise les liens vus sur la page ; tout nouveau lien = une news.
+#            Idéal pour les blogs et changelogs sans flux RSS.
+
+window_hours: 36
+
+sources:
+
+  # ---------- Labos et modèles ----------
+  - {name: "Anthropic news",            family: "Modèles et labos", mode: page_links, url: "https://www.anthropic.com/news", pattern: "/news/"}
+  - {name: "Anthropic engineering",     family: "Modèles et labos", mode: page_links, url: "https://www.anthropic.com/engineering", pattern: "/engineering/"}
+  - {name: "Claude API changelog",      family: "Agents, code et automatisation", mode: page_links, url: "https://docs.claude.com/en/release-notes/overview", pattern: "release-notes"}
+  - {name: "Claude Code changelog",     family: "Agents, code et automatisation", mode: github_releases, repo: "anthropics/claude-code"}
+  - {name: "OpenAI news",               family: "Modèles et labos", mode: rss, url: "https://openai.com/news/rss.xml"}
+  - {name: "Google DeepMind blog",      family: "Modèles et labos", mode: rss, url: "https://deepmind.google/blog/rss.xml"}
+  - {name: "Google AI blog",            family: "Modèles et labos", mode: rss, url: "https://blog.google/technology/ai/rss/"}
+  - {name: "Meta AI blog",              family: "Modèles et labos", mode: page_links, url: "https://ai.meta.com/blog/", pattern: "/blog/"}
+  - {name: "Mistral news",              family: "Modèles et labos", mode: page_links, url: "https://mistral.ai/news", pattern: "/news/"}
+  - {name: "Hugging Face blog",         family: "Open source et recherche", mode: rss, url: "https://huggingface.co/blog/feed.xml"}
+  - {name: "Hugging Face papers du jour", family: "Open source et recherche", mode: hf_papers}
+  - {name: "Black Forest Labs",         family: "Vidéo, image et audio génératifs", mode: page_links, url: "https://bfl.ai/blog", pattern: "/blog/"}
+
+  # ---------- Vidéo, image, audio (plateformes) ----------
+  - {name: "Higgsfield blog",           family: "Vidéo, image et audio génératifs", mode: page_links, url: "https://higgsfield.ai/blog", pattern: "/blog/"}
+  - {name: "Runway research",           family: "Vidéo, image et audio génératifs", mode: page_links, url: "https://runwayml.com/research", pattern: "/research/"}
+  - {name: "Luma AI",                   family: "Vidéo, image et audio génératifs", mode: page_links, url: "https://lumalabs.ai/blog", pattern: "/blog/"}
+  - {name: "Kling AI",                  family: "Vidéo, image et audio génératifs", mode: page_links, url: "https://klingai.com/", pattern: "release"}
+  - {name: "fal.ai nouveaux modèles",   family: "Vidéo, image et audio génératifs", mode: page_links, url: "https://fal.ai/models", pattern: "/models/"}
+  - {name: "Replicate blog",            family: "Vidéo, image et audio génératifs", mode: page_links, url: "https://replicate.com/blog", pattern: "/blog/"}
+  - {name: "ElevenLabs blog",           family: "Vidéo, image et audio génératifs", mode: page_links, url: "https://elevenlabs.io/blog", pattern: "/blog/"}
+  - {name: "Topaz Labs",                family: "Montage, motion et broadcast", mode: page_links, url: "https://www.topazlabs.com/learn", pattern: "/learn/"}
+  - {name: "ComfyUI releases",          family: "Open source et recherche", mode: github_releases, repo: "comfyanonymous/ComfyUI"}
+  - {name: "Descript",                  family: "Montage, motion et broadcast", mode: page_links, url: "https://www.descript.com/blog", pattern: "/blog/"}
+
+  # ---------- Montage, motion, broadcast ----------
+  - {name: "Adobe blog vidéo",          family: "Montage, motion et broadcast", mode: page_links, url: "https://blog.adobe.com/en/topics/video-audio", pattern: "/publish/"}
+  - {name: "Blackmagic news",           family: "Montage, motion et broadcast", mode: page_links, url: "https://www.blackmagicdesign.com/media/news", pattern: "/media/release/"}
+  - {name: "DaVinci Resolve (support)", family: "Montage, motion et broadcast", mode: page_links, url: "https://www.blackmagicdesign.com/support/family/davinci-resolve-and-fusion", pattern: "/support/"}
+  - {name: "NDI news",                  family: "Montage, motion et broadcast", mode: page_links, url: "https://ndi.video/news/", pattern: "/news/"}
+  - {name: "Vizrt / TriCaster",         family: "Montage, motion et broadcast", mode: page_links, url: "https://www.vizrt.com/press-releases/", pattern: "/press-releases/"}
+  - {name: "Bitfocus Companion",        family: "Montage, motion et broadcast", mode: github_releases, repo: "bitfocus/companion"}
+  - {name: "Node-RED",                  family: "Agents, code et automatisation", mode: github_releases, repo: "node-red/node-red"}
+  - {name: "FFmpeg",                    family: "Montage, motion et broadcast", mode: github_releases, repo: "FFmpeg/FFmpeg"}
+  - {name: "OBS Studio",                family: "Montage, motion et broadcast", mode: github_releases, repo: "obsproject/obs-studio"}
+  - {name: "Remotion",                  family: "Montage, motion et broadcast", mode: github_releases, repo: "remotion-dev/remotion"}
+  - {name: "faster-whisper",            family: "Open source et recherche", mode: github_releases, repo: "SYSTRAN/faster-whisper"}
+  - {name: "whisper.cpp",               family: "Open source et recherche", mode: github_releases, repo: "ggml-org/whisper.cpp"}
+  - {name: "auto-editor (montage auto)", family: "Montage, motion et broadcast", mode: github_releases, repo: "WyattBlue/auto-editor"}
+  - {name: "Frame.io",                  family: "Montage, motion et broadcast", mode: page_links, url: "https://blog.frame.io/", pattern: "blog.frame.io/20"}
+
+  # ---------- Agents, code, automatisation ----------
+  - {name: "MCP servers (repo)",        family: "Agents, code et automatisation", mode: github_releases, repo: "modelcontextprotocol/servers"}
+  - {name: "n8n",                       family: "Agents, code et automatisation", mode: github_releases, repo: "n8n-io/n8n"}
+  - {name: "OpenAI Codex",              family: "Agents, code et automatisation", mode: github_releases, repo: "openai/codex"}
+  - {name: "Gemini CLI",                family: "Agents, code et automatisation", mode: github_releases, repo: "google-gemini/gemini-cli"}
+
+  # ---------- Communautés, curation ----------
+  - {name: "Simon Willison",            family: "Modèles et labos", mode: rss, url: "https://simonwillison.net/atom/everything/"}
+  - {name: "The Verge IA",              family: "Business, prix et régulation", mode: rss, url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"}
+  - {name: "TechCrunch IA",             family: "Business, prix et régulation", mode: rss, url: "https://techcrunch.com/category/artificial-intelligence/feed/"}
+  - {name: "Ars Technica IA",           family: "Business, prix et régulation", mode: rss, url: "https://arstechnica.com/ai/feed/"}
+  - {name: "Latent Space",              family: "Agents, code et automatisation", mode: rss, url: "https://www.latent.space/feed"}
+  - {name: "r/LocalLLaMA",              family: "Open source et recherche", mode: reddit, sub: "LocalLLaMA"}
+  - {name: "r/StableDiffusion",         family: "Vidéo, image et audio génératifs", mode: reddit, sub: "StableDiffusion"}
+  - {name: "r/aivideo",                 family: "Vidéo, image et audio génératifs", mode: reddit, sub: "aivideo"}
+  - {name: "r/VideoEditing",            family: "Montage, motion et broadcast", mode: reddit, sub: "VideoEditing"}
+  - {name: "r/ClaudeAI",                family: "Agents, code et automatisation", mode: reddit, sub: "ClaudeAI"}
+  - {name: "Hacker News IA",            family: "Modèles et labos", mode: hn, query: "AI model"}
+  - {name: "Hacker News vidéo IA",      family: "Vidéo, image et audio génératifs", mode: hn, query: "video generation"}
+  - {name: "Hacker News ffmpeg/whisper", family: "Montage, motion et broadcast", mode: hn, query: "ffmpeg OR whisper OR transcription"}
+  - {name: "Hacker News Claude",        family: "Agents, code et automatisation", mode: hn, query: "Claude"}
+  - {name: "arXiv vidéo",               family: "Open source et recherche", mode: arxiv, query: "(video generation OR video editing OR lip sync OR talking head OR audio-visual synchronization) AND (cat:cs.CV OR cat:cs.MM)"}
+  - {name: "arXiv agents",              family: "Open source et recherche", mode: arxiv, query: "(agent OR tool use) AND large language model AND cat:cs.AI"}
