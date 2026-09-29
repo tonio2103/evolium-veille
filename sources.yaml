@@ -37,10 +37,10 @@ sources:
 
   # ---------- Montage, motion, broadcast ----------
   - {name: "Adobe blog vidéo",          family: "Montage, motion et broadcast", mode: page_links, url: "https://blog.adobe.com/en/topics/video-audio", pattern: "/publish/"}
-  - {name: "Blackmagic news",           family: "Montage, motion et broadcast", mode: page_links, url: "https://www.blackmagicdesign.com/media/news", pattern: "/media/release/"}
+  - {name: "Blackmagic (Google News)", family: "Montage, motion et broadcast", mode: rss, url: "https://news.google.com/rss/search?q=%22Blackmagic+Design%22+OR+%22DaVinci+Resolve%22+OR+ATEM+when:2d&hl=en-US&gl=US&ceid=US:en"}
   - {name: "DaVinci Resolve (support)", family: "Montage, motion et broadcast", mode: page_links, url: "https://www.blackmagicdesign.com/support/family/davinci-resolve-and-fusion", pattern: "/support/"}
-  - {name: "NDI news",                  family: "Montage, motion et broadcast", mode: page_links, url: "https://ndi.video/news/", pattern: "/news/"}
-  - {name: "Vizrt / TriCaster",         family: "Montage, motion et broadcast", mode: page_links, url: "https://www.vizrt.com/press-releases/", pattern: "/press-releases/"}
+  - {name: "NDI (Google News)", family: "Montage, motion et broadcast", mode: rss, url: "https://news.google.com/rss/search?q=%22NDI%22+video+OR+%22NDI+6%22+OR+%22NDI+HX%22+when:2d&hl=en-US&gl=US&ceid=US:en"}
+  - {name: "Vizrt / TriCaster (Google News)", family: "Montage, motion et broadcast", mode: rss, url: "https://news.google.com/rss/search?q=TriCaster+OR+Vizrt+OR+%22Bitfocus+Companion%22+when:2d&hl=en-US&gl=US&ceid=US:en"}
   - {name: "Bitfocus Companion",        family: "Montage, motion et broadcast", mode: github_releases, repo: "bitfocus/companion"}
   - {name: "Node-RED",                  family: "Agents, code et automatisation", mode: github_releases, repo: "node-red/node-red"}
   - {name: "FFmpeg",                    family: "Montage, motion et broadcast", mode: github_releases, repo: "FFmpeg/FFmpeg"}
@@ -64,10 +64,6 @@ sources:
   - {name: "Ars Technica IA",           family: "Business, prix et régulation", mode: rss, url: "https://arstechnica.com/ai/feed/"}
   - {name: "Latent Space",              family: "Agents, code et automatisation", mode: rss, url: "https://www.latent.space/feed"}
   - {name: "r/LocalLLaMA",              family: "Open source et recherche", mode: reddit, sub: "LocalLLaMA"}
-  - {name: "r/StableDiffusion",         family: "Vidéo, image et audio génératifs", mode: reddit, sub: "StableDiffusion"}
-  - {name: "r/aivideo",                 family: "Vidéo, image et audio génératifs", mode: reddit, sub: "aivideo"}
-  - {name: "r/VideoEditing",            family: "Montage, motion et broadcast", mode: reddit, sub: "VideoEditing"}
-  - {name: "r/ClaudeAI",                family: "Agents, code et automatisation", mode: reddit, sub: "ClaudeAI"}
   - {name: "Hacker News IA",            family: "Modèles et labos", mode: hn, query: "AI model"}
   - {name: "Hacker News vidéo IA",      family: "Vidéo, image et audio génératifs", mode: hn, query: "video generation"}
   - {name: "Hacker News ffmpeg/whisper", family: "Montage, motion et broadcast", mode: hn, query: "ffmpeg OR whisper OR transcription"}
