@@ -1,0 +1,275 @@
+{
+ "Anthropic news": {
+  "ok": true,
+  "items": 0,
+  "s": 0.2
+ },
+ "Anthropic engineering": {
+  "ok": true,
+  "items": 0,
+  "s": 0.2
+ },
+ "Claude API changelog": {
+  "ok": true,
+  "items": 0,
+  "s": 0.8
+ },
+ "Claude Code changelog": {
+  "ok": true,
+  "items": 2,
+  "s": 0.6
+ },
+ "OpenAI news": {
+  "ok": true,
+  "items": 5,
+  "s": 0.5
+ },
+ "Google DeepMind blog": {
+  "ok": true,
+  "items": 0,
+  "s": 0.2
+ },
+ "Google AI blog": {
+  "ok": true,
+  "items": 1,
+  "s": 0.4
+ },
+ "Meta AI blog": {
+  "ok": true,
+  "items": 0,
+  "s": 1.6
+ },
+ "Mistral news": {
+  "ok": true,
+  "items": 0,
+  "s": 0.3
+ },
+ "Hugging Face blog": {
+  "ok": true,
+  "items": 2,
+  "s": 0.3
+ },
+ "Hugging Face papers du jour": {
+  "ok": true,
+  "items": 0,
+  "s": 0.1
+ },
+ "Black Forest Labs": {
+  "ok": true,
+  "items": 0,
+  "s": 0.5
+ },
+ "Higgsfield blog": {
+  "ok": true,
+  "items": 0,
+  "s": 0.9
+ },
+ "Runway research": {
+  "ok": true,
+  "items": 0,
+  "s": 0.3
+ },
+ "Luma AI": {
+  "ok": true,
+  "items": 0,
+  "s": 0.8
+ },
+ "Kling AI": {
+  "ok": true,
+  "items": 0,
+  "s": 0.8
+ },
+ "fal.ai nouveaux modèles": {
+  "ok": true,
+  "items": 0,
+  "s": 1.4
+ },
+ "Replicate blog": {
+  "ok": true,
+  "items": 0,
+  "s": 0.5
+ },
+ "ElevenLabs blog": {
+  "ok": true,
+  "items": 0,
+  "s": 0.2
+ },
+ "Topaz Labs": {
+  "ok": true,
+  "items": 0,
+  "s": 0.2
+ },
+ "ComfyUI releases": {
+  "ok": true,
+  "items": 1,
+  "s": 1.2
+ },
+ "Descript": {
+  "ok": true,
+  "items": 0,
+  "s": 0.5
+ },
+ "Adobe blog vidéo": {
+  "ok": true,
+  "items": 0,
+  "s": 0.5
+ },
+ "Blackmagic news": {
+  "ok": false,
+  "error": "404 Client Error: Not Found for url: https://www.blackmagicdesign.com/media/news"
+ },
+ "DaVinci Resolve (support)": {
+  "ok": true,
+  "items": 0,
+  "s": 0.2
+ },
+ "NDI news": {
+  "ok": false,
+  "error": "404 Client Error: Not Found for url: https://ndi.video/news/"
+ },
+ "Vizrt / TriCaster": {
+  "ok": false,
+  "error": "404 Client Error: Not Found for url: https://www.vizrt.com/press-releases/"
+ },
+ "Bitfocus Companion": {
+  "ok": true,
+  "items": 0,
+  "s": 0.6
+ },
+ "Node-RED": {
+  "ok": true,
+  "items": 0,
+  "s": 0.8
+ },
+ "FFmpeg": {
+  "ok": true,
+  "items": 0,
+  "s": 0.4
+ },
+ "OBS Studio": {
+  "ok": true,
+  "items": 0,
+  "s": 0.9
+ },
+ "Remotion": {
+  "ok": true,
+  "items": 1,
+  "s": 1.6
+ },
+ "faster-whisper": {
+  "ok": true,
+  "items": 0,
+  "s": 0.8
+ },
+ "whisper.cpp": {
+  "ok": true,
+  "items": 0,
+  "s": 1.0
+ },
+ "auto-editor (montage auto)": {
+  "ok": true,
+  "items": 0,
+  "s": 0.5
+ },
+ "Frame.io": {
+  "ok": true,
+  "items": 0,
+  "s": 0.4
+ },
+ "MCP servers (repo)": {
+  "ok": true,
+  "items": 0,
+  "s": 0.4
+ },
+ "n8n": {
+  "ok": true,
+  "items": 4,
+  "s": 1.0
+ },
+ "OpenAI Codex": {
+  "ok": true,
+  "items": 9,
+  "s": 0.7
+ },
+ "Gemini CLI": {
+  "ok": true,
+  "items": 3,
+  "s": 0.8
+ },
+ "Simon Willison": {
+  "ok": true,
+  "items": 4,
+  "s": 0.6
+ },
+ "The Verge IA": {
+  "ok": true,
+  "items": 10,
+  "s": 0.1
+ },
+ "TechCrunch IA": {
+  "ok": true,
+  "items": 20,
+  "s": 0.1
+ },
+ "Ars Technica IA": {
+  "ok": true,
+  "items": 10,
+  "s": 0.4
+ },
+ "Latent Space": {
+  "ok": true,
+  "items": 3,
+  "s": 1.0
+ },
+ "r/LocalLLaMA": {
+  "ok": true,
+  "items": 15,
+  "s": 0.5
+ },
+ "r/StableDiffusion": {
+  "ok": false,
+  "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/StableDiffusion/top/.rss?t=day&limit=15"
+ },
+ "r/aivideo": {
+  "ok": false,
+  "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/aivideo/top/.rss?t=day&limit=15"
+ },
+ "r/VideoEditing": {
+  "ok": false,
+  "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/VideoEditing/top/.rss?t=day&limit=15"
+ },
+ "r/ClaudeAI": {
+  "ok": false,
+  "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/ClaudeAI/top/.rss?t=day&limit=15"
+ },
+ "Hacker News IA": {
+  "ok": true,
+  "items": 3,
+  "s": 0.3
+ },
+ "Hacker News vidéo IA": {
+  "ok": true,
+  "items": 1,
+  "s": 0.2
+ },
+ "Hacker News ffmpeg/whisper": {
+  "ok": true,
+  "items": 0,
+  "s": 0.3
+ },
+ "Hacker News Claude": {
+  "ok": true,
+  "items": 2,
+  "s": 0.2
+ },
+ "arXiv vidéo": {
+  "ok": true,
+  "items": 15,
+  "s": 0.7
+ },
+ "arXiv agents": {
+  "ok": true,
+  "items": 15,
+  "s": 0.7
+ }
+}
