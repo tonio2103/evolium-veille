@@ -7,37 +7,37 @@
  "Anthropic engineering": {
   "ok": true,
   "items": 0,
-  "s": 0.1
+  "s": 0.2
  },
  "Claude API changelog": {
   "ok": true,
   "items": 0,
-  "s": 0.5
+  "s": 0.6
  },
  "Claude Code changelog": {
   "ok": true,
   "items": 0,
-  "s": 0.3
+  "s": 0.5
  },
  "OpenAI news": {
   "ok": true,
   "items": 0,
-  "s": 0.5
+  "s": 0.4
  },
  "Google DeepMind blog": {
   "ok": true,
   "items": 0,
-  "s": 0.1
+  "s": 0.5
  },
  "Google AI blog": {
   "ok": true,
   "items": 0,
-  "s": 0.1
+  "s": 0.3
  },
  "Meta AI blog": {
   "ok": true,
   "items": 0,
-  "s": 1.4
+  "s": 1.7
  },
  "Mistral news": {
   "ok": true,
@@ -47,7 +47,7 @@
  "Hugging Face blog": {
   "ok": true,
   "items": 0,
-  "s": 0.3
+  "s": 0.2
  },
  "Hugging Face papers du jour": {
   "ok": true,
@@ -62,92 +62,92 @@
  "Higgsfield blog": {
   "ok": true,
   "items": 0,
-  "s": 0.4
+  "s": 0.7
  },
  "Runway research": {
   "ok": true,
   "items": 0,
-  "s": 0.3
+  "s": 0.4
  },
  "Luma AI": {
   "ok": true,
   "items": 0,
-  "s": 1.3
+  "s": 1.8
  },
  "Kling AI": {
   "ok": true,
   "items": 0,
-  "s": 1.5
+  "s": 1.3
  },
  "fal.ai nouveaux modèles": {
   "ok": true,
   "items": 0,
-  "s": 0.9
+  "s": 1.0
  },
  "Replicate blog": {
   "ok": true,
   "items": 0,
-  "s": 0.1
+  "s": 0.3
  },
  "ElevenLabs blog": {
   "ok": true,
   "items": 0,
-  "s": 0.1
+  "s": 0.3
  },
  "Topaz Labs": {
   "ok": true,
   "items": 0,
-  "s": 0.1
+  "s": 0.2
  },
  "ComfyUI releases": {
   "ok": true,
   "items": 0,
-  "s": 0.6
+  "s": 1.0
  },
  "Descript": {
   "ok": true,
   "items": 0,
-  "s": 0.2
+  "s": 0.4
  },
  "Adobe blog vidéo": {
   "ok": true,
   "items": 0,
-  "s": 0.1
+  "s": 0.2
  },
  "Blackmagic (Google News)": {
   "ok": true,
-  "items": 11,
+  "items": 6,
   "s": 0.3
  },
  "DaVinci Resolve (support)": {
   "ok": true,
   "items": 0,
-  "s": 0.1
+  "s": 0.2
  },
  "NDI (Google News)": {
   "ok": true,
-  "items": 1,
-  "s": 0.3
+  "items": 0,
+  "s": 0.2
  },
  "Vizrt / TriCaster (Google News)": {
   "ok": true,
-  "items": 1,
+  "items": 0,
   "s": 0.2
  },
  "Bitfocus Companion": {
   "ok": true,
   "items": 0,
-  "s": 0.4
+  "s": 0.7
  },
  "Node-RED": {
   "ok": true,
   "items": 0,
-  "s": 0.4
+  "s": 0.5
  },
  "FFmpeg": {
   "ok": true,
   "items": 0,
-  "s": 0.2
+  "s": 0.4
  },
  "OBS Studio": {
   "ok": true,
@@ -157,7 +157,7 @@
  "Remotion": {
   "ok": true,
   "items": 0,
-  "s": 0.8
+  "s": 1.7
  },
  "faster-whisper": {
   "ok": true,
@@ -172,36 +172,36 @@
  "auto-editor (montage auto)": {
   "ok": true,
   "items": 0,
-  "s": 0.3
+  "s": 0.4
  },
  "Frame.io": {
   "ok": true,
   "items": 0,
-  "s": 0.3
+  "s": 0.2
  },
  "MCP servers (repo)": {
   "ok": true,
   "items": 0,
-  "s": 0.2
+  "s": 0.3
  },
  "n8n": {
   "ok": true,
-  "items": 0,
+  "items": 4,
   "s": 0.7
  },
  "OpenAI Codex": {
   "ok": true,
-  "items": 0,
-  "s": 0.4
+  "items": 3,
+  "s": 0.7
  },
  "Gemini CLI": {
   "ok": true,
-  "items": 0,
-  "s": 0.6
+  "items": 1,
+  "s": 0.7
  },
  "Simon Willison": {
   "ok": true,
-  "items": 0,
+  "items": 1,
   "s": 0.3
  },
  "The Verge IA": {
@@ -211,22 +211,22 @@
  },
  "TechCrunch IA": {
   "ok": true,
-  "items": 0,
-  "s": 0.0
+  "items": 2,
+  "s": 0.1
  },
  "Ars Technica IA": {
   "ok": true,
   "items": 0,
-  "s": 0.3
+  "s": 0.4
  },
  "Latent Space": {
   "ok": true,
-  "items": 0,
+  "items": 1,
   "s": 0.5
  },
  "r/LocalLLaMA": {
   "ok": true,
-  "items": 0,
+  "items": 6,
   "s": 0.3
  },
  "Hacker News IA": {
@@ -242,21 +242,21 @@
  "Hacker News ffmpeg/whisper": {
   "ok": true,
   "items": 0,
-  "s": 0.5
+  "s": 0.3
  },
  "Hacker News Claude": {
   "ok": true,
   "items": 0,
-  "s": 0.2
+  "s": 0.3
  },
  "arXiv vidéo": {
   "ok": true,
-  "items": 0,
-  "s": 0.2
+  "items": 15,
+  "s": 1.0
  },
  "arXiv agents": {
   "ok": true,
-  "items": 0,
-  "s": 0.1
+  "items": 15,
+  "s": 0.6
  }
 }
