@@ -1,0 +1,611 @@
+[
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Guides How to Make an AI Music Video for a Real Artist in 2026 10 min · Oct 1, 2026",
+  "url": "https://higgsfield.ai/blog/ai-music-video-real-artist-2026",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-02T09:11:48.502731+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Listicles 9 Best AI Video Generation APIs in 2026 12 min · Oct 1, 2026",
+  "url": "https://higgsfield.ai/blog/best-ai-video-generation-apis",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-02T09:11:48.502731+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Editorials Introducing Higgsfield Ads Studio: How It Works and What You Can Create 7 min · Oct 1, 2026",
+  "url": "https://higgsfield.ai/blog/higgsfield-ads-studio",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-02T09:11:48.502731+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "new minimax / h3-max-turbo/extend-video Extend an existing video with H3 Max Turbo: add 1 to 15 seconds of prompt-guided footage, with optional audio references",
+  "url": "https://fal.ai/models/minimax/h3-max-turbo/extend-video",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-02T09:11:48.502731+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "new minimax / h3-max/recast Recast the people in a video using reference photos with H3 Max, while preserving the source motion, camera, cuts, and audio. video-",
+  "url": "https://fal.ai/models/minimax/h3-max/recast",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-02T09:11:48.502731+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "new xai / grok-imagine-video/v1.5/lite/image-to-video Generate videos from images using xAI's Grok Imagine Video 1.5 Lite model. image-to-video",
+  "url": "https://fal.ai/models/xai/grok-imagine-video/v1.5/lite/image-to-video",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-02T09:11:48.502731+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "new xai / grok-imagine-video/v1.5/lite/text-to-video Generate videos from text prompts using xAI's Grok Imagine Video 1.5 Lite model. text-to-video",
+  "url": "https://fal.ai/models/xai/grok-imagine-video/v1.5/lite/text-to-video",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-02T09:11:48.502731+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "new blackforestlabs / flux-3/text-to-image FLUX 3 Image is Black Forest Labs' newest image model. Generate detailed, well-composed images in native 2K and 4K wi",
+  "url": "https://fal.ai/models/blackforestlabs/flux-3/text-to-image",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-02T09:11:48.502731+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "new blackforestlabs / flux-3/edit-image FLUX 3 Image Edit from Black Forest Labs makes precise local edits without changing the rest of the image, and combines",
+  "url": "https://fal.ai/models/blackforestlabs/flux-3/edit-image",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-02T09:11:48.502731+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.162.0-alpha.5",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.5",
+  "summary": "Release 0.162.0-alpha.5",
+  "date": "2026-10-02T08:22:02+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.41.6",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.41.6",
+  "summary": "2.41.6 (2026-10-02) Bug Fixes core: Keep the task runner running on an unhandled promise rejection ( #40092 ) ( d719c87 )",
+  "date": "2026-10-02T07:31:02+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Treasure & Dirt Shot with URSA Cine 17K 65 - FilmInk",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGpVMGNxQ29YNmxtbUc5a01YQmRhMzR2ejZpVzRJVzlxcVFMTVZtRjFaU2JSVXhPR3BiS2JRVWxreGgxV09fbW90bWtRZ3dGcmdYOWpsQkM2ek16ejlCcnAyRkhqQjhzWVZVSWhTTTB3REdsVzJhRkd4dFlJZ2hkbkt0YjRQYmdVVkE?oc=5",
+  "summary": "Treasure & Dirt Shot with URSA Cine 17K 65 FilmInk",
+  "date": "2026-10-02T06:57:24+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "DaVinci Resolve 21.1.1 improves trim editor support - RedShark News",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15VkZpWlU4V3VhNkhfei1xRDI5azNLX0ZUV2pjeFp6X0tILXFMWDh0YWdDaFVCSE5oZTdTSXJNRHpYNzlaRzU5aG8wUFNkeUJWQ3ZPdmFONVk2TGtia2pmTy10MVFWcWpHdFo0UEJB0gF-QVVfeXFMT2tKd0hDcDV5YXBDQUhPeHlKS2wtVHdvN2tJSk1zdE5INmp2WTZFM3FHZ1luVXp2cVVVa0VwOTRRaFJTUFNCM0RhcFF0b0l6NVNRVnFHbWJVUDdwNzFiWGVyY0ZxNDhCa1VDaXRTZjZ5RWV6UHNfQ0hGaU1lakZn?oc=5",
+  "summary": "DaVinci Resolve 21.1.1 improves trim editor support RedShark News",
+  "date": "2026-10-02T06:44:36+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
+  "url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
+  "summary": "the minimalist harness goes stable... and TypeScript!",
+  "date": "2026-10-02T06:40:53+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Intel Releases Arc GPU Graphics Drivers 101.9034 Beta - TechPowerUp",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcW1PLUFwUXBJcjVxVU83SUI2Y0V3TnJ1cGRkeTk1eVY5Sjg3MU4tR3NRbXZEMUlWY1p6WXJXTlpVOUVGZHBxNTlKaEJRemllWXNrYm0xclNIeDJjNXFFMFlMR2ZPWURLR1JLNTYxZ2JIcG10emhkV3Z0dWpTbGNDRkFuazA5eng3LXpYcExWcVpOejJZMVNz0gGXAUFVX3lxTFBxbU8tQXBRcElyNXFVTzdJQjZjRXdOcnVwZGR5OTV5VjlKODcxTi1Hc1FtdkQxSVZjWnpZcldOWlU5RUZkcHE1OUpoQlF6aWVZc2tibTFyU0h4MmM1cUUwWUxHZk9ZREtHUks1NjFnYkhwbXR6aGRXdnR1alNsY0NGQW5rMDl6eDctelhwTFZxWk56MlkxU3M?oc=5",
+  "summary": "Intel Releases Arc GPU Graphics Drivers 101.9034 Beta TechPowerUp",
+  "date": "2026-10-02T06:13:16+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.162.0-alpha.4",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.4",
+  "summary": "Release 0.162.0-alpha.4",
+  "date": "2026-10-02T05:54:49+00:00"
+ },
+ {
+  "source": "Hugging Face blog",
+  "family": "Open source et recherche",
+  "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+  "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+  "summary": "",
+  "date": "2026-10-02T04:01:31+00:00"
+ },
+ {
+  "source": "Vizrt / TriCaster (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Vizrt Brings 3D Analysis to Richmond AFL Coaching - Content + Technology",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1ZuanQxTGZDV3YwdU9QVzRxZ0F5eFBqMVJTcDZFeUdDeEczZEtFMnVuTnlVSHZXZFZ3NHpuQ0lScTY2VjhGVmN0OHZKdjdRbVlINXBOMkdkTUw2ZVcxRjVaVVJKRnk1RGxtVlQ0ald0NmJTa3FpQ2s5T09xT1Vva1daMGU3YVBVVXZDVktnMnR1LWo5MGMtdkVUcWlNRVRh?oc=5",
+  "summary": "Vizrt Brings 3D Analysis to Richmond AFL Coaching Content + Technology",
+  "date": "2026-10-02T03:57:07+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.162.0-alpha.3",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.3",
+  "summary": "Release 0.162.0-alpha.3",
+  "date": "2026-10-02T03:50:27+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Update on the “Monstrosity”. 6 BC-250 board cluster",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wviphh/update_on_the_monstrosity_6_bc250_board_cluster/",
+  "summary": "This is 6 bc-250 ex mining boards with 5 in the asrock 4u12g case they came in. After a lot of testing my current preferred setup is 4 boards running Qwen Next Flash IQ2_XS at 100k context with around 28 tok/s for short generation and 24 tok/s at 50k with around 115 ppt. The other two boards run 3.6 35b q4 at 60 tok/s with 100k context and 450 ppt. This is all using llama with vulkan and rpc over ",
+  "date": "2026-10-02T02:49:25+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Anyone wonder why americans lag so far behind in the open LLM market?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvipaz/anyone_wonder_why_americans_lag_so_far_behind_in/",
+  "summary": "I mean , DeepSeek, Kimi, GLM, MiniMax -- the list of Chinese LLM's is such a long freaking list. As American's -- why don't we feel .. a little funny .. about being so far behind? Chinese entrepreneurs are peneuring like crazy and American's .. just obsess on .. what ? update -- already I'm starting to see some clear answers. American's are putting money ahead of technology. Completely understanda",
+  "date": "2026-10-02T02:49:11+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.162.0-alpha.2",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.2",
+  "summary": "Release 0.162.0-alpha.2",
+  "date": "2026-10-02T01:55:11+00:00"
+ },
+ {
+  "source": "ComfyUI releases",
+  "family": "Open source et recherche",
+  "title": "comfyanonymous/ComfyUI v0.38.2",
+  "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.38.2",
+  "summary": "ComfyUI v0.38.2",
+  "date": "2026-10-02T01:49:30+00:00"
+ },
+ {
+  "source": "Gemini CLI",
+  "family": "Agents, code et automatisation",
+  "title": "google-gemini/gemini-cli Release v0.64.0-nightly.20261002.gc9096a847",
+  "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.64.0-nightly.20261002.gc9096a847",
+  "summary": "What's Changed fix(core): implement append-only delta patching and bounded history windowing in ChatRecordingService by @jvargassanchez-dot in #29568 fix(cli): persist state atomically and recover from backup on corruption by @urielefrenvirtusa in #29558 fix(cli): ensure Ctrl+C emergency abort reaches cancellation handler during active operations by @urielefrenvirtusa in #29586 fix(cli): resolve @",
+  "date": "2026-10-02T01:33:21+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Perplexity Decider 27B: Open weights decision model fine tune of Qwen3.8 27B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvfz9n/perplexity_decider_27b_open_weights_decision/",
+  "summary": "submitted by /u/rm-rf-rm [link] [comments]",
+  "date": "2026-10-02T00:35:39+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "Academia is for Ambition — Alex Zhang, MIT",
+  "url": "https://www.latent.space/p/rlm",
+  "summary": "We catch up with RLM first author Alex Zhang, MIT PhD, on Jev, PhD masxing, and the future of harnesses.",
+  "date": "2026-10-02T00:28:04+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "DaVinci Resolve 21.1.1 - Newsshooter",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HRFZJUW9KS0I0cVNGNmNLSHAzanZnempSMmJyTmNxeVhfRVRLRmVmSHdYbGI0aDd6SlVTTjRQbDRNRkZWMmZUUDlLMHFfT3cyOUpkOEUyUDRSM2ZuZ21HZmtsQk52SjR6TlNuaFBFNA?oc=5",
+  "summary": "DaVinci Resolve 21.1.1 Newsshooter",
+  "date": "2026-10-02T00:26:07+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Pi 1.0 released - MCP support now included by default",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvffcr/pi_10_released_mcp_support_now_included_by_default/",
+  "summary": "submitted by /u/psychohistorian8 [link] [comments]",
+  "date": "2026-10-02T00:09:04+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.162.0-alpha.1",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.1",
+  "summary": "Release 0.162.0-alpha.1",
+  "date": "2026-10-01T23:13:21+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+  "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+  "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+  "date": "2026-10-01T21:08:11+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Show HN: Rhun, an open-source code editor written in assembly",
+  "url": "https://rhun.app/",
+  "summary": "52 points, 30 commentaires HN",
+  "date": "2026-10-01T20:32:18+00:00",
+  "hn": "https://news.ycombinator.com/item?id=49926726"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+  "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+  "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
+  "date": "2026-10-01T20:11:55+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Google’s new Guided Vision feature can help you read the fine print",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+  "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around […]",
+  "date": "2026-10-01T19:47:51+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "AMA about K2 Horizon, Meet our team from IFM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv8zww/ama_about_k2_horizon_meet_our_team_from_ifm/",
+  "summary": "Hi r/LocalLLaMA! We’re researchers at the Institute of Foundation Models (IFM), an AI research lab dedicated to open and independent development of frontier-class foundation models. We recently released K2 Horizon a connected fleet of six fully open models with size ranging from 0.9B to 375B. In addition to weights, we also open-sourced training data and recipes, training code, intermediate checkp",
+  "date": "2026-10-01T19:34:20+00:00"
+ },
+ {
+  "source": "Bitfocus Companion",
+  "family": "Montage, motion et broadcast",
+  "title": "bitfocus/companion Bitfocus Companion v5.0.7",
+  "url": "https://github.com/bitfocus/companion/releases/tag/v5.0.7",
+  "summary": "📦 Downloads available at https://user.bitfocus.io/download 💵 Donate to the project at open collective https://opencollective.com/companion Companion v5.0.7 - Release Notes 🐞 BUG FIXES only add imageBuffers layer to simple presets when a feedback declares imageBuffer #4490 limit preset advanced-feedback style overrides to affectedProperties #4410 #4490 some surface open race conditions update elgat",
+  "date": "2026-10-01T19:28:51+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "ChatGPT can now virtually try on clothes for you",
+  "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+  "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+  "date": "2026-10-01T19:21:53+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+  "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+  "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+  "date": "2026-10-01T19:18:03+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Now which lab is behind fledge alpha?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv7t3a/now_which_lab_is_behind_fledge_alpha/",
+  "summary": "New free/trial model dropped on OC. Details are yet to be provided. Could this be deepseek v4.1 pro? submitted by /u/Gohab2001 [link] [comments]",
+  "date": "2026-10-01T18:50:10+00:00"
+ },
+ {
+  "source": "Claude Code changelog",
+  "family": "Agents, code et automatisation",
+  "title": "anthropics/claude-code v2.1.287",
+  "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.287",
+  "summary": "What's changed Added Claude Mods: plugins may now modify deeper behavior Added You should know, a built-in mod where a side agent watches your back and flags things you or Claude might miss. Turn it on with /plugin enable cc-plugin-you-should-know@builtin (for first-party sessions with telemetry on) Added an n:<text> filter to the agents view that matches session names and tasks; a filter now show",
+  "date": "2026-10-01T18:43:19+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+  "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+  "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+  "date": "2026-10-01T18:14:42+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+  "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+  "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+  "date": "2026-10-01T17:50:19+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Update #2: Post training yandex/AliceAI-80B-A3B [instruct!] from scratch",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv5h8x/update_2_post_training_yandexaliceai80ba3b/",
+  "summary": "Last update: https://www.reddit.com/r/LocalLLaMA/comments/1wu9ksu/update_yandexaliceai_80ba3b_fine_tune_progress/ - basically, an instruct fine tune on the base model using a synthetic distilled data set. I've been posting regular updates so I imagine at least a few people have seen this. Live stream: https://figure-bios-expect-cio.trycloudflare.com/ UPDATE: Finished train. hopefully some examples",
+  "date": "2026-10-01T17:22:35+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+  "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+  "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC […]",
+  "date": "2026-10-01T17:12:21+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Clef: Open Weights decision model by Cloudflare",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv4zzi/clef_open_weights_decision_model_by_cloudflare/",
+  "summary": "submitted by /u/paf1138 [link] [comments]",
+  "date": "2026-10-01T17:04:38+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Utopai Studios Launches PAI Production Platform and Utopai X Video Model - Animation World Network",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMUF0TURia1JINThuRHRRS2hpRXJLbmc5SmpqekdXNmhjWVJQMmM3MDVfZXJHRk5sWGp4TmFDVXRwZ2RnNlBKYXk5a0RsVTN0WTJ4ekUxQ0xuVHRqY3Vfc2JSLURxVEdRM09aY2xhVlNzcHRIcXNaYTNfNURiRUdzelJ2a2RoTTRLR2ZZMzVGYXBHS1UyVGpnTzNpZkFQZw?oc=5",
+  "summary": "Utopai Studios Launches PAI Production Platform and Utopai X Video Model Animation World Network",
+  "date": "2026-10-01T17:04:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Heretic is on PewDiePie!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv4vot/heretic_is_on_pewdiepie/",
+  "summary": "So I haven’t played a computer game in 20 years, and I know nothing about Minecraft, and I definitely prefer classical literature over YouTube culture, but even I have heard about the individual called PewDiePie, for two reasons: His monicker starts with the initials of my own name I remember a recurring Internet meme a few years ago where he was competing for the most subscribers with an Indian f",
+  "date": "2026-10-01T17:00:21+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "The eternal complement",
+  "url": "https://openai.com/index/the-eternal-complement",
+  "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+  "date": "2026-10-01T17:00:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Amazon releases its own Jev clone as decision models flood the web",
+  "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+  "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+  "date": "2026-10-01T16:49:22+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.161.0-alpha.13",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.161.0-alpha.13",
+  "summary": "Release 0.161.0-alpha.13",
+  "date": "2026-10-01T16:47:56+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+  "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+  "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+  "date": "2026-10-01T16:44:35+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "With most information hidden, the game Stratego had stumped AI—until now",
+  "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+  "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
+  "date": "2026-10-01T16:28:04+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "How Albertsons Companies is reimagining retail from the inside out",
+  "url": "https://openai.com/index/albertsons-reimagining-retail",
+  "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+  "date": "2026-10-01T16:00:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Brian Chesky interview: AI agents need their own operating system",
+  "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+  "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+  "date": "2026-10-01T15:12:00+00:00"
+ },
+ {
+  "source": "Hugging Face blog",
+  "family": "Open source et recherche",
+  "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+  "url": "https://huggingface.co/blog/allenai/olmocore3",
+  "summary": "",
+  "date": "2026-10-01T15:01:43+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.161.0-alpha.12",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.161.0-alpha.12",
+  "summary": "Release 0.161.0-alpha.12",
+  "date": "2026-10-01T14:54:43+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Pi extension: Skip reasoning with local Qwen 27B and proceed to answer right now",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv1e60/pi_extension_skip_reasoning_with_local_qwen_27b/",
+  "summary": "pi-llama-skip-reasoning is an extension for the Pi.dev harness that forces a local llama.cpp model to stop reasoning and answer / act immediately. When you are deep into the ctx session and ask 27B a simple question about a fact or need a direct action , the model may still feel the urge to indulge in copious deliberation in the reasoning trace. This extension allows the user to force the model to",
+  "date": "2026-10-01T14:47:48+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+  "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6 Astra, \"inspired by the cool agents that we […]",
+  "date": "2026-10-01T14:36:50+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Telefónica Equips New TSAmediaHUB Monitoring Room With Alfalite LED Wall - Live Design Online",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMmhJTi1kZDVLOVowTHVGMENGeTk1Rm9zQmtDVUo5eU0xWHp3RXFoMm5LVDBaMWNZQUxURzloZ1Fyd3ZOT0szUFlCRTNzWl85d0pUTzZyT3htX1ZuUG4tdWl6U1FUNnEtRmllcHF1clpIdUpTTnFoZnpraHdyZVp2bTdWT1UzV0puMlFXbVlDWno4REpnWHhfWjdLNjlXLU5PX01oTUNjWWE?oc=5",
+  "summary": "Telefónica Equips New TSAmediaHUB Monitoring Room With Alfalite LED Wall Live Design Online",
+  "date": "2026-10-01T14:25:19+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Kiir warns financial sector failures will no longer be tolerated - eyeradio.org",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLTNEa3dFT21ZZHhkRHEycjZJY0RBdm1KeTNRRmFXeW9WTmFIVWxuWjJ0VnpwN25wQ0hWVlYwMjNqM3BEM1lvQkVXdDZObm92T3NnR0x5a3pGc29lVHdBT3RKSTlySkdLRnNxd2hmdUhnRjFpY0hZS1JnVklMXzJVdUtXRXplMExzV1BWOVN4MNIBlAFBVV95cUxQeFRUYUluVjdERktwUkFUQW9QTm1GcDhuQ25WQ2oyaFBaQ1ptTWptbWJFdWI4ZzFwdGJhaUJHbDF6NXlndVRSdDNJTGxpNmloeU85bGtSRkpmUkVZVGVUUVUya1E0Uk9HSE5zNVEtQlk2eTNvVFpfWGhVRkM1UmtFcHV4T2ZnNUIyUnAwN3p3V1J4Y2Np?oc=5",
+  "summary": "Kiir warns financial sector failures will no longer be tolerated eyeradio.org",
+  "date": "2026-10-01T14:20:56+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "We benchmarked 18 RAG pipelines against an agent loop on Google's FRAMES. The best pipeline hit 78.9%. The agent loop hit 92.7%.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv0lww/we_benchmarked_18_rag_pipelines_against_an_agent/",
+  "summary": "Hybrid search, reranking, query decomposition, and query expansion are often treated as must-haves for good RAG. We wanted to see how much each actually helped, so we tested them. Same model, same embeddings, same documents, across all 824 multi-hop questions in FRAMES. We built 18 pipeline variants. The best one scored 78.9%. Our agent loop (with retrieval tools) that could read the results and s",
+  "date": "2026-10-01T14:16:31+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+  "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+  "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of […]",
+  "date": "2026-10-01T14:00:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+  "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+  "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+  "date": "2026-10-01T14:00:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Jeff-Qwen3.5-0.8B v1.2 + 9 LoRA adapters: put it in front of Qwen3.8-27B for 38× faster decisions and +8.7 points accuracy, for under 2 GB extra memory",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv05u1/jeffqwen3508b_v12_9_lora_adapters_put_it_in_front/",
+  "summary": "A few days ago I released Jeff-Qwen3.5-0.8B, a small \"System 1\" model that picks between options you define and returns a calibrated probability for each, in one forward pass. Speed was great on my M4 Max and RTX PRO 6000, but as a general zero-shot classifier it trailed the big models. Then it occurred to me that most decisions an agent makes in front of a local model aren't open-ended. They fall",
+  "date": "2026-10-01T13:58:41+00:00"
+ },
+ {
+  "source": "Vizrt / TriCaster (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Vizrt brings 3D analysis to Richmond AFL - proavl-asia.com",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjZtY1Z1bWMzRVg3enBkbDQ3RF9vRlpGRmt0cUwzdDdwQ2pCOFZ0OEpWLUJlcFpXN0pNLVZfQlZOcXZDSEh0ZW4xS1ZRZ1ZJVm03TTd6MHFoZEVVRC1VNXdRZlBEMXdpMTA1NmZnUk4yOHV4NjFSV3JGQ0o2dHphWFBOcTNicWdpRnc?oc=5",
+  "summary": "Vizrt brings 3D analysis to Richmond AFL proavl-asia.com",
+  "date": "2026-10-01T13:49:35+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "$5400 eBay 8x V100 server cranks on flash-next",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuztnq/5400_ebay_8x_v100_server_cranks_on_flashnext/",
+  "summary": "Had opus 5.5 do the bring up.. super solid results. Using only 4 GPU results in KV of like 120k with image on. 27B TP=4 results in >200 tok/s with dflash, prefill around 2.5-3.5k. Both these are running the nvfp4 Nvidia checkpoints. Found a magic repo that unpacks into fp16 on the fly ( https://github.com/1CatAI/1Cat-vLLM ) and heavily optimized it submitted by /u/MzCWzL [link] [comments]",
+  "date": "2026-10-01T13:44:36+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Hearing tech startup Legato launches its AI hearing glasses",
+  "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+  "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+  "date": "2026-10-01T13:00:00+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.161.0-alpha.11",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.161.0-alpha.11",
+  "summary": "Release 0.161.0-alpha.11",
+  "date": "2026-10-01T12:32:41+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Why am I like this? (Full Chat and Image generation on a 286 Tandy 1000 TL/3)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuxzdg/why_am_i_like_this_full_chat_and_image_generation/",
+  "summary": "40 year tech gap? No problem! The Tandy runs DeskMind, a native DOS program. It talks over WiFi (a PicoMEM 2 card with mTCP) to a small Python server on my PC. That server drives Qwen3.8-27B (NInfer on a 5090) and Krea 2 (ComfyUI on a 4090). The 286 never sees JSON, base64 or a PNG. It gets plain text lines and pictures that are ready to copy into video memory. Drawing from chat without tool calli",
+  "date": "2026-10-01T12:20:55+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "CVP announces PYXIS 12K Pro filmmakers workshop - Cinematography World",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzVkdVlCb1VDNk8ydi1HNm52MWdNd2N1M1Z1ZE9LN3c4YkRyQjNFN1dZSkRBdFk5SjBBT1laUVFMR1lia3NSckg1UmtBaGVTSm9uVmFpTkFhN0d5bG8zUlNIN1g0NFNSeW5LN0JVYlU2WXNPdEh5R3VVMF9ySlhKaENSYk5wTll6?oc=5",
+  "summary": "CVP announces PYXIS 12K Pro filmmakers workshop Cinematography World",
+  "date": "2026-10-01T12:18:28+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+  "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+  "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+  "date": "2026-10-01T12:00:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Qwen4Exp: add MTP by am17an · Pull Request #29761 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuwrsk/qwen4exp_add_mtp_by_am17an_pull_request_29761/",
+  "summary": "now you can use MTP with Qwen Flash Next, time to switch from Qwen 3.8 27B? (merged after 17h of development) quants: https://huggingface.co/ggml-org/Qwen3.8-Flash-Next-GGUF link to the previous discussion (I deleted the old post to avoid duplicates): https://www.reddit.com/r/LocalLLaMA/comments/1wur4lt/qwen_flash_next_mtp_work_restarted/ submitted by /u/jacek2023 [link] [comments]",
+  "date": "2026-10-01T11:18:34+00:00"
+ },
+ {
+  "source": "Vizrt / TriCaster (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Outline adds Bitfocus Companion plug-in to Newton - LSi Online",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWlhNS1rc3lCX1NjV1RNcnVRajlqS3BNWTRLdHdFTXJ6SEhBeGNtMGdtb2hQdnBtSUNOR2ROYlpBYk84SXFaTDcxeU9meWJqRVJLME5Pcmo3TEsyajdTb1FwX1dmZ1JHczZYTW5kMGdxWHU5cUJkSGgzQkZQbnNLZkJHa0xzdXpw?oc=5",
+  "summary": "Outline adds Bitfocus Companion plug-in to Newton LSi Online",
+  "date": "2026-10-01T09:49:20+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Award Winning New Horror Film Shot Using Blackmagic Camera App - FilmInk",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMDBlajcxV2J4cndoQXM4Umk0aUMteUhFWFNSQnF5Ung3aWNfRVlNWktsZWp1U1RTVDFoSHRpc1JXX0lrWEJlNHFzNVF6bEc4RmpoblZUcUwyc1lLS1hKZGg0alZfZlR6WWg0Ym5td2dfVk85a2pIN2dUNzdiN3hIZmxjcGxROTF1QUdsWVJsZ0NzaENrZlJxcEh2SlY1bGt6VmE0UVFaRQ?oc=5",
+  "summary": "Award Winning New Horror Film Shot Using Blackmagic Camera App FilmInk",
+  "date": "2026-10-01T07:55:58+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Dr Othow vows to improve staff welfare after strikes under predecessor - eyeradio.org",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdm1kSDZCU25uQXQzc1Ixb19Pa2V2dUFRM2J1MGhjdG1DU3RvQkVvMWNHR0VKUTlpOFpEWWtiYlFrQlNoWUItOXhISHJ5U0tmMUxSUVJXQk9zYS1VaG5VS29ZTGVudEI5cmltVzhSZG9MWHUtWTEzVnhiQ3hfMm1jcU9qekRiT2hHaE9mWl92TXYtakxxT3V30gGcAUFVX3lxTE1WRGVqZjNrVFlpbndDNEpyeW1ZV21EdzdJUjBHZElfQnJHd2lzMEN3RHdwU2FMWEt6bUVtenJYcmM2aERHUDhWWElkRTFnUVJ1WTRSelVhck1femVVazJrT0NvRDZKdDRWSGp5UHRTNm9aN1ExUDJXem1kcU5sVjlFaG9GbWhVaWQ0MjJUeWs4XzBGMDFuZF9lVkZwbQ?oc=5",
+  "summary": "Dr Othow vows to improve staff welfare after strikes under predecessor eyeradio.org",
+  "date": "2026-10-01T03:24:27+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Indie Feature The Cashier Shot with Blackmagic Design Cameras - FilmInk",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVQtMlE5d2lnWmw4V3V2ekhUWWNRSS12YmdmVk9qYnN5blA3WUFOR0ZZVE5DSjF2ai1NOW5WWTNDQktOZjJvSnFJR0xubEhwakhBQ0RRMGtBcS1oOUduNFIwR0xpR0ZwcXItWFJWd0VEZEU3dGdySlh1N215UnI3Y2FCa0RTSmxPYnlZNFl0dzNZbWhwcWJDNkc1R2VRZ05OWnA1Q0h3?oc=5",
+  "summary": "Indie Feature The Cashier Shot with Blackmagic Design Cameras FilmInk",
+  "date": "2026-10-01T00:33:03+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+  "url": "https://openai.com/index/the-den-family-social",
+  "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+  "date": "2026-10-01T00:00:00+00:00"
+ }
+]
