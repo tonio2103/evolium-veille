@@ -1,0 +1,621 @@
+[
+ {
+  "source": "Anthropic news",
+  "family": "Modèles et labos",
+  "title": "Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+  "url": "https://www.anthropic.com/news/claude-frontier-academy",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-03T08:44:49.588988+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Guides How to Automate AI Video Generation With n8n and Make 10 min · Oct 2, 2026",
+  "url": "https://higgsfield.ai/blog/automate-ai-video-n8n-make",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-03T08:44:49.588988+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "new marigold-v2 Estimate depth from a single image with Marigold V2, a diffusion-based depth model built on Qwen-Image-Edit, returning a colorized depth map. de",
+  "url": "https://fal.ai/models/fal-ai/marigold-v2",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-03T08:44:49.588988+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "NSCN-IM constitutes 11-member delegation to meet Ao Senden - MokokchungTimes.com",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ3ozYzByNElxSnNqeGlHRmQtUWR3dmlEc05TVnhLdDlETUlFN3FoZDRmdC0xM1l6V0tuU05BN2JJUTBTZGkwbFNnMHJsMlJtb3d0OUNucXNITUdMSUttX3NOUHhKWnF5RUZoeVh2UW9aWXczNk16NnlCWW5RcUc1WFg4b1BlVEhBdGZKUUluMDHSAZgBQVVfeXFMTWs2WXkzUUd5eFU1MGlERW9PYXdZSjRFY25HclhBY1B6OENnZGQ3MTk2TXpNYTBPMVNvby1OczRoQzhyZnNTRFd0VGdUZ0VGN1VhQXJsSFVmV25oUjlTU2h3YWtoVFgyQm9WR2NXUXZ3OFpRZXRKR0ptZjh4RWl1MkdNZXZ3d0xjZ0ZMY0t6UXJETjBoSXh5ckw?oc=5",
+  "summary": "NSCN-IM constitutes 11-member delegation to meet Ao Senden MokokchungTimes.com",
+  "date": "2026-10-03T06:48:19+00:00"
+ },
+ {
+  "source": "auto-editor (montage auto)",
+  "family": "Montage, motion et broadcast",
+  "title": "WyattBlue/auto-editor 31.7.2",
+  "url": "https://github.com/WyattBlue/auto-editor/releases/tag/31.7.2",
+  "summary": "Fixes A packet that fails to decode no longer aborts the whole analysis. The bad packet is skipped with a warning and the rest of the file is still read, so one damaged frame in a long recording can't throw away the entire result. Analysis now drains the decoder at the end of a stream. An analysis taken over skipped packets is no longer written to the cache, so holes can't be served back as real s",
+  "date": "2026-10-03T02:36:18+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Could the EU Kids Act (or the like) be use potentially(Trojan horse) as excuse to go after the AI Open weights?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwbzmr/could_the_eu_kids_act_or_the_like_be_use/",
+  "summary": "submitted by /u/UltraFOV [link] [comments]",
+  "date": "2026-10-03T02:32:33+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "I'm pretty close to the middle thanks to you all",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwbcdt/im_pretty_close_to_the_middle_thanks_to_you_all/",
+  "summary": "It's been a blast and learning a ton. But seriously, you all have me down a rabbit hole that my wallet and hours of sleep need to be pulled out of. submitted by /u/pmarsh [link] [comments]",
+  "date": "2026-10-03T01:58:20+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.162.0-alpha.9",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.9",
+  "summary": "Release 0.162.0-alpha.9",
+  "date": "2026-10-03T01:36:18+00:00"
+ },
+ {
+  "source": "Gemini CLI",
+  "family": "Agents, code et automatisation",
+  "title": "google-gemini/gemini-cli Release v0.64.0-nightly.20261003.gfb972b2f8",
+  "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.64.0-nightly.20261003.gfb972b2f8",
+  "summary": "What's Changed fix(cli): ensure Enter and Spacebar reliably confirm selection list options by @ugorla-dev in #29502 Full Changelog : v0.64.0-nightly.20261002.gc9096a847...v0.64.0-nightly.20261003.gfb972b2f8",
+  "date": "2026-10-03T01:29:14+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Meta wants your next gadget to be Muse-infused",
+  "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+  "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+  "date": "2026-10-03T00:45:39+00:00"
+ },
+ {
+  "source": "OBS Studio",
+  "family": "Montage, motion et broadcast",
+  "title": "obsproject/obs-studio OBS Studio 33.0.0 Beta 6",
+  "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0-beta6",
+  "summary": "Beta 6 Changes Fixed a crash during certain actions involving groups in Beta 1-5 [prgmitchell] ( #13978 ) Fixed scripting not working on macOS in Beta 1-5 [PatTheMav] ( #13976 ) Fixed game capture hooks not updating in Beta 1-5 [Warchamp7] ( #13968 ) Fixed clock Lua script not working in Beta 1-5 [RytoEX] ( #13974 ) Changed Safe Mode to not start WebSocket Server [FiniteSingularity/RytoEX] ( #1398",
+  "date": "2026-10-02T23:27:06+00:00"
+ },
+ {
+  "source": "OBS Studio",
+  "family": "Montage, motion et broadcast",
+  "title": "obsproject/obs-studio OBS Studio 33.0.0 Beta 4",
+  "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0-beta4",
+  "summary": "Beta 4 Changes Fixed a CI and packaging issue. There are no application changes since Beta 1. Beta 3 Changes Fixed a CI issue. There are no application changes since Beta 1. Beta 2 Changes Fixed a versioning issue. There are no application changes since Beta 1. 33.0 New Features Updated CEF from 127/6533 to 150/7871 [WizardCM] ( #13900 ) This is a massive update to the underlying framework used fo",
+  "date": "2026-10-02T23:26:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "So... Should we turn the page on this past week hype? or Do you have any success cases to inspire the rest?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ww86ny/so_should_we_turn_the_page_on_this_past_week_hype/",
+  "summary": "submitted by /u/JLeonsarmiento [link] [comments]",
+  "date": "2026-10-02T23:18:18+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+  "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+  "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+  "date": "2026-10-02T23:03:16+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.162.0-alpha.8",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.8",
+  "summary": "Release 0.162.0-alpha.8",
+  "date": "2026-10-02T22:51:00+00:00"
+ },
+ {
+  "source": "auto-editor (montage auto)",
+  "family": "Montage, motion et broadcast",
+  "title": "WyattBlue/auto-editor 31.7.0",
+  "url": "https://github.com/WyattBlue/auto-editor/releases/tag/31.7.0",
+  "summary": "Features The pixelate action can now be animated Fixes Use ffmpeg 9.0.2 Misc. Update the bundled whisper.cpp to 1.9.4. Full Changelog : 31.6.0...31.7.0",
+  "date": "2026-10-02T21:35:13+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Sean Parker is rebuilding Stability AI around music",
+  "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+  "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+  "date": "2026-10-02T21:09:14+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Meta open sources code to let you make Muse AI gadgets",
+  "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+  "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or […]",
+  "date": "2026-10-02T21:08:37+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Buying RTX 5090 At Micro Center Reportedly Now Requires Paperwork, Including A No-Export Declaration",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ww4hne/buying_rtx_5090_at_micro_center_reportedly_now/",
+  "summary": "submitted by /u/Boomfrag [link] [comments]",
+  "date": "2026-10-02T20:35:45+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+  "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+  "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
+  "date": "2026-10-02T20:30:27+00:00"
+ },
+ {
+  "source": "Claude Code changelog",
+  "family": "Agents, code et automatisation",
+  "title": "anthropics/claude-code v2.1.288",
+  "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.288",
+  "summary": "What's changed Added $.ui.selection() for mods: returns the text you last selected in fullscreen mode and, when the selection lies within one transcript row, that row Added a built-in gh api to cloud sessions whose image has no GitHub CLI, and fixed the built-in sending control characters from file names, jq filters or GitHub errors to the terminal Added recovery for a prompt cleared with Ctrl+C: ",
+  "date": "2026-10-02T20:19:57+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "microsoft/FrogNano-4B-2609 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ww40o2/microsoftfrognano4b2609_hugging_face/",
+  "summary": "An agentic model from Microsoft for the GPU poor https://huggingface.co/bartowski/FrogNano-4B-2609-GGUF FrogNano is derived from Qwen/Qwen3.5-4B, a general-purpose post-trained model designed for language, reasoning, coding, agentic, and multimodal tasks. FrogNano inherits Qwen3.5-4B's dense 32-layer hybrid Gated DeltaNet and gated-attention architecture, but its additional post-training is text-o",
+  "date": "2026-10-02T20:16:26+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+  "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+  "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do […]",
+  "date": "2026-10-02T20:08:40+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "Show HN: Made an open-source Lego AI generator",
+  "url": "https://github.com/anteloc/ldraw-nova",
+  "summary": "112 points, 44 commentaires HN",
+  "date": "2026-10-02T20:00:15+00:00",
+  "hn": "https://news.ycombinator.com/item?id=49937916"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Deerstalker Pictures The Exorcism of Nixie Shot With Blackmagic Cameras - Blackmagic Design",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vcEZ6TkRrVm9VdzVyUFUtcTdlSDJqX2xFUnZfOWw3LThZaVhlRllzam5kZWltUVphYUpzMmNrWEVlaTlpV0g0VlZnQ2w3d2ZjTkxVaWhUNnpPQ0JEQ2haeDBvTk1SU2VJRlE?oc=5",
+  "summary": "Deerstalker Pictures The Exorcism of Nixie Shot With Blackmagic Cameras Blackmagic Design",
+  "date": "2026-10-02T19:57:56+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Self-hosting AI does not save money, and I do it anyway",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ww2jsu/selfhosting_ai_does_not_save_money_and_i_do_it/",
+  "summary": "Hi folks, I'm a long-time lurker and big fan of this subreddit and a massive self-hosting fan (also outside of AI). I doubt many people will disagree with me here because I see the same arguments being made in many posts. However, I thought it might be interesting to share anyway. I wrote down why self-hosting AI does not save money: https://www.nijho.lt/post/self-hosting-ai-is-not-cheaper/ EDIT: ",
+  "date": "2026-10-02T19:17:01+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+  "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+  "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+  "date": "2026-10-02T19:15:51+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+  "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+  "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
+  "date": "2026-10-02T18:39:36+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+  "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+  "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+  "date": "2026-10-02T18:11:27+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+  "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced […]",
+  "date": "2026-10-02T18:00:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+  "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+  "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as t",
+  "date": "2026-10-02T17:56:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+  "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+  "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as t",
+  "date": "2026-10-02T17:48:16+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "New Architecture from Percepta: Spotlight — separating intelligence from memory, allowing knowledge and skills to grow without changing the model's weights.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ww09ab/new_architecture_from_percepta_spotlight/",
+  "summary": "https://www.percepta.ai/blog/can-llms-grow-their-own-capabilities https://www.percepta.ai/blog/spotlight-memory \"Our new architecture, Spotlight, replaces attention with a memory that escapes this trade-off: it is the first architecture to achieve infinitely growing memory without increasing the access cost. Every token reads from and writes to an unbounded memory, but because the model learns to ",
+  "date": "2026-10-02T17:47:44+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Breaking up (with Elon Musk) is hard to do",
+  "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+  "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following and unfollowing each other. That post noted […]",
+  "date": "2026-10-02T17:37:36+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+  "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+  "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+  "date": "2026-10-02T17:32:05+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.162.0-alpha.7",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.7",
+  "summary": "Release 0.162.0-alpha.7",
+  "date": "2026-10-02T17:06:46+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+  "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+  "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
+  "date": "2026-10-02T17:00:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "I made my iPhone a second GPU for my 24 GB MacBook: Qwen 3.8 27B prefills 29–44% faster & my holds part of the CTX window.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvz1ex/i_made_my_iphone_a_second_gpu_for_my_24_gb/",
+  "summary": "**DISCLAIMER** THE PREFILLING TPS SHOWN ON THE PHONE IS COMPUTED ONLY FOR THE LAYERS IT HOLDS. ALREADY FIXING IT TO SHOW END-TO-END PREFILL RATE. NUMBERS BELOW ARE ACCURATE FOR E2E PREFILL RATE. Every file or tool result my agent reads on a 24 GB M4 Pro MacBook is a wait, and 64k of 8-bit context is all that fits next to Qwen 3.8 27B (IQ4_XS), even with the wired limit raised to 20480. An iPhone 1",
+  "date": "2026-10-02T16:59:22+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Pallaso - Ndi Bulungi (Lyrics Video) - YouTube",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9veFNhSmpCc2N4dEpiNkV5NWVSQTNrWks0SFNiYkREMlJkbHZ6Rzk3WUp5ODhJWl92TWpNdHlXT3ZFZ1dwdW1BMTNzTUpUTHZaenZBSDZ1QmhZbFFa?oc=5",
+  "summary": "Pallaso - Ndi Bulungi (Lyrics Video) YouTube",
+  "date": "2026-10-02T16:57:32+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "New 64GB DGX Spark. Significantly higher price for the original 128GB model $6,950 USD",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvyxzg/new_64gb_dgx_spark_significantly_higher_price_for/",
+  "summary": "submitted by /u/Norwood_Reaper_ [link] [comments]",
+  "date": "2026-10-02T16:55:32+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "DaVinci Resolve 21.1.1 Adds Trim Editor Improvements for Audio Clips and Multiple Edit Point Control - No Film School",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zLWJzLWdwLW16Wjh2TDNldE5lazNCZlJQRXpyai1XcjhraG9YOG9XUHFESjRQNFhZODlKb2pibEZfSTRLS24tZkhjN3YtQkg3SjFuV2kyV0ZzaGxUamJPUnZ3bUw?oc=5",
+  "summary": "DaVinci Resolve 21.1.1 Adds Trim Editor Improvements for Audio Clips and Multiple Edit Point Control No Film School",
+  "date": "2026-10-02T16:42:51+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "A model guide for the GPT-6 family",
+  "url": "https://openai.com/index/practical-guide-building-gpt-6",
+  "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+  "date": "2026-10-02T16:15:00+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Next Sony FX5 delay now official: new shipment start date is November 16 - SonyAlphaRumors",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOakJ6ZGNyU2o3NXpJbF9rdGFrRGNfcFZRZmhKN1BoRTFlNl9fWmtpd0tmWURwYXlhcktYOUdfeC02RFRLR2k5QksxS3c5MWZaZUJsM0dmQWd2N1h0WEdfeGpTUzRzaTdtM3I5OUhQSVhfYkJiSGlJbEliRjBCdzJmb3pBZEdRQXZTWGxDUTJKV0ZBWi1jXzBYbHVoYy1ELTd2QnRrdE5MNNIBrAFBVV95cUxQSzFyVzJ0NEdiNjd0NXAtbnBUeTNwcXpPdmZHLVZiYkFMb29MZ0lLOGhxcWZ3eFhDQUloUGxqUXh4SVZWN3NtYjVKN0cyRmJ6bU5kRlJOQWoyaUpxam9uc1prM1FFUEs1aWVRLU9zTzVLVVBicjBwRE1la25TMk50T3J2WlZQT1hFc2t4SkcyMWs1cEdENEctTWhMUmhXc1EwOHhMd0VpRkd4QW9L?oc=5",
+  "summary": "Next Sony FX5 delay now official: new shipment start date is November 16 SonyAlphaRumors",
+  "date": "2026-10-02T16:05:32+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Qwen3.8-27B-Humanlike-Chat 2.0: texts like a human, now with tool calls and better instruction following",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvxl4n/qwen3827bhumanlikechat_20_texts_like_a_human_now/",
+  "summary": "Last month I posted a Qwen3.8-27B LoRA that makes it talk like a person instead of an assistant. It got a lot more attention than I expected: 700+ upvotes, 248 comments and 44k downloads since. I read every comment. People really don't like assistant speak, so its tone of voice resonated. The rest got roasted, very fairly: incapable of producing more than a few words at a time. single default pers",
+  "date": "2026-10-02T16:00:50+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Pope Leo XIV is not a fan of AI-generated art",
+  "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+  "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+  "date": "2026-10-02T15:39:41+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Strata on a power limited 5090 and 96GB of DDR5-6400 is cranking out 150-200 tok/s decode and 5-6k prefill! Qwen3.8-Flash-Next at IQ3_S, CTX at 128k tokens (8-bit).",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvwssq/strata_on_a_power_limited_5090_and_96gb_of/",
+  "summary": "submitted by /u/z0_o6 [link] [comments]",
+  "date": "2026-10-02T15:29:54+00:00"
+ },
+ {
+  "source": "Hugging Face blog",
+  "family": "Open source et recherche",
+  "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+  "url": "https://huggingface.co/blog/allenai/astabrief",
+  "summary": "",
+  "date": "2026-10-02T15:19:50+00:00"
+ },
+ {
+  "source": "Google AI blog",
+  "family": "Modèles et labos",
+  "title": "The latest AI news we announced in September 2026",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+  "summary": "A video showing the September AI updates",
+  "date": "2026-10-02T15:00:00+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+  "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+  "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
+  "date": "2026-10-02T14:52:16+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "2026 Oscar® Nominated Films Powered by Blackmagic Design - FilmInk",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWVZxakUtcUdBeFg2UUU2QklBOGpFVkhNbThYcmZmV2IzMmRtejNxWU1neWNSQ1pHU1NraTNlTm1PVEQ5VkJrbGpraE1NYnJMbGZ5blpZMHVEQ3pGN2Jkb0F4dm92ZG9jNy1NMlExSjBqb3g4V2FDdVZEcTV1RUV5Vk5aVzdYck96cWo3cmNMazRNd3NfU3Y4ZnhiVGF6Zw?oc=5",
+  "summary": "2026 Oscar® Nominated Films Powered by Blackmagic Design FilmInk",
+  "date": "2026-10-02T14:50:21+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "A Short Documentary About a Giant Pencil Edited with DaVinci Resolve Studio - FilmInk",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSDJWNlo0UGdLR0pYMWlCdDhlcnhLaS1CLXNhakdpaHJlZkxiNzVaSHFfOVlIbFlDdGZjSGRCdkZsUVB1WGxfUGdoVXFTRmxWWWJtYTdHSFRPc3Y4b2xWSm5Qb0VWNzkxNlB3RFFhTzMxNkpDSnk0QlJ5eVpXQjljMS1fdjNQaG02ajlybjhVY19pQ1pxdjFaTEF0Tk1HdFA0VTEyZ191QTYyRGxoQ0x3UllUUl9vVnlI?oc=5",
+  "summary": "A Short Documentary About a Giant Pencil Edited with DaVinci Resolve Studio FilmInk",
+  "date": "2026-10-02T14:42:14+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+  "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+  "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+  "date": "2026-10-02T14:30:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "New in llama.cpp: Decision Models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvv6im/new_in_llamacpp_decision_models/",
+  "summary": "submitted by /u/paf1138 [link] [comments]",
+  "date": "2026-10-02T14:25:06+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
+  "url": "https://www.latent.space/p/airbnb",
+  "summary": "After leading Meta’s Llama models, Ahmad Al-Dahle is now transforming Airbnb with AI — from how its teams develop products to how it serves guests.",
+  "date": "2026-10-02T14:04:49+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+  "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+  "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find your startup?",
+  "date": "2026-10-02T14:00:00+00:00"
+ },
+ {
+  "source": "Vizrt / TriCaster (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Richmond AFL Deploys Vizrt’s Viz Libero Teams for Coaching and Content - Sports Video Group",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXFJclhhUkFvYnc3SGoycl9Rb192dkpLdTZpa09hbi1HT2F2NUhoV08tTkpTNE9ZeVYySHVBS3k4ekN0V3V3UFZOTklYdUt3QlBtT0V5WHVjTzdGWXNSdGRkUWxjeWtVZjdoQlZEWHhjM0xyNWh3cFpHcFJINEQ3OE9PVVhOQThtTVBxdjkyUlBVbGpnQzdqSjB2Z0xjejEyWm1hM0xPT2U3QkpMREE?oc=5",
+  "summary": "Richmond AFL Deploys Vizrt’s Viz Libero Teams for Coaching and Content Sports Video Group",
+  "date": "2026-10-02T13:01:12+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Two 96 GB Ascend cards crun Qwen3.8-flash-next hardware notes, vLLM work, benchmarks, and what is next",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvt1m4/two_96_gb_ascend_cards_crun_qwen38flashnext/",
+  "summary": "I have been building a somewhat unusual local inference machine around two Huawei Atlas 300I Duo cards. They are relatively inexpensive, passive, dual-accelerator PCIe cards with 96 GB of device memory apiece. They are also absolutely not drop-in CUDA replacements. When I first brought up Qwen3.8 Flash-Next these past two weeks, it was often incoherent and lived around 1 generated token per second",
+  "date": "2026-10-02T12:54:04+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Control Rooms: Telefónica Adds 23-Square-Meter LED Wall To Monitoring Hub - Sixteen:Nine",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYnktWlJDV2RMTU56SmkzSEJCMGZJVlE2dkZpQkV4VW5rc0pNREUtdGZiX3R6Wk50OU5vQmpReDZtek9KWFVrZ2g1VTNISU1rOUExOGJNeHg3MFBBaURxNmRibWlGNENfOVpDdzRCMFFxYWM5WTNmV0hMcUJ5WjEtTjV0akhxOHhqc1ByWkFFdlh2UG9ZaWlhQlowc21ZV2lmUG91LU5CMWVvNlNPMTl3QUNVMzRNQXBtSjRDY3Fldw?oc=5",
+  "summary": "Control Rooms: Telefónica Adds 23-Square-Meter LED Wall To Monitoring Hub Sixteen:Nine",
+  "date": "2026-10-02T12:46:35+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude",
+  "url": "https://www.reddit.com/r/Physics/comments/1wvin77/harvard_particle_physicist_matthew_schwartz_drops/",
+  "summary": "48 points, 73 commentaires HN",
+  "date": "2026-10-02T12:12:38+00:00",
+  "hn": "https://news.ycombinator.com/item?id=49932606"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "AI hallucinations are making entitled customers even worse",
+  "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+  "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked that her last name be withheld to […]",
+  "date": "2026-10-02T12:00:00+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+  "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+  "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive \"hyperscale\" facilities spanning millions of square feet and housing the physical infrastructure for AI. There are now more […]",
+  "date": "2026-10-02T12:00:00+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.162.0-alpha.6",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.6",
+  "summary": "Release 0.162.0-alpha.6",
+  "date": "2026-10-02T11:55:35+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Amazon writes scary blog warning communities not to block data centers",
+  "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+  "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and […]",
+  "date": "2026-10-02T11:52:20+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Industry partners unveil production-grade live sports VR platform - Broadcast",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNUl2dmFBNENfR29MMzl5REpNM1p1ZkM3ZGt1VnotM2otcGItbE85Z3B3QVZ6SkIxYmhyMlFWYTR0R1p4TFh5UFVzcVh3RVo1aVI5OVd6MV91RzI1VUlxeGx5RDd3Y0l2Zkp1WVFSd180Q1E5Yk1wcDh3LV91R2JSWk1zRWIzQWhCVUV3YUNwb3hOWHBqam9KaTFGMUU2cmFqeHFNZWFNVnEtR0tONFpBbFRkN2ZlUHNvd0FTRmtvQnV4M0JoVkxN?oc=5",
+  "summary": "Industry partners unveil production-grade live sports VR platform Broadcast",
+  "date": "2026-10-02T11:43:17+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Captivate Launches a 4K AI Dual-Lens Camera for Conference Rooms and Classrooms - AVNetwork",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcjQzTWotWVhzYTgxSkROdzFHU3ZTTkNfbFJTQ0NnY3V6X09raEV2SThmWkkxS2VUR1RIS1lod2RGUm9LY2hzN0REbC1FMHg3TjE0ZzQ3dDZIWFVGTml0UDZSS2J6SWltN0pwVXk0YVhtTjhMQnBLS2ZPWjFzbERMMkI3aWtXOFZBbUJDejdzZVh0Nkw1VkpDVXBRLTZwdVZvOWRWS0FWejRIRUhhWlNOV1JRd0wxdGNvdDVTTlZ2Zw?oc=5",
+  "summary": "Captivate Launches a 4K AI Dual-Lens Camera for Conference Rooms and Classrooms AVNetwork",
+  "date": "2026-10-02T11:30:00+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "Our Project Suncatcher prototype satellite is in orbit",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+  "summary": "63 points, 64 commentaires HN",
+  "date": "2026-10-02T11:13:02+00:00",
+  "hn": "https://news.ycombinator.com/item?id=49932191"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "llama, server: add /v1/systemone API (models: laya, julia-1, lev, openjev, kev) by ngxson · Pull Request #29818 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvqbrz/llama_server_add_v1systemone_api_models_laya/",
+  "summary": "article: https://huggingface.co/blog/ggml-org/decision-models-in-llamacpp Now you can jev without jev https://huggingface.co/ggml-org/OpenJev-GGUF https://huggingface.co/ggml-org/lev-GGUF https://huggingface.co/ggml-org/Julia-1-GGUF https://huggingface.co/ggml-org/Laya-GGUF https://huggingface.co/ggml-org/Kev-4B-GGUF looks like 5 is not enough: https://huggingface.co/ggml-org/Bespoke-Nimble-9B-v3-",
+  "date": "2026-10-02T10:29:47+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Does anyone know if any new releases from Mistral are planned?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvpxg8/does_anyone_know_if_any_new_releases_from_mistral/",
+  "summary": "It’s been a long time since the last models came out. I notice they are selling GLM on the site, and I wonder if they are developing something, given the long silence. submitted by /u/LegacyRemaster [link] [comments]",
+  "date": "2026-10-02T10:05:59+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Higx Optics ray-traces the glass instead of faking the bokeh - Digital Production",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORHlCSnBWenhyNlJUbGVhY1p4RTV4T1FBVUxlY3owRk9qUnFaLVQ5MmI4aWJwZ2NTejc4V3J6MlNrekpNS0dsLWxQWkd6MHJ0R2thMHhhczB5QXNydTJ3RS1QSWRUTXFVYklCX2xycTBCYkV0Y3locWdIOGoySmRmVklyQ3FZVlpzSllEcjZ3?oc=5",
+  "summary": "Higx Optics ray-traces the glass instead of faking the bokeh Digital Production",
+  "date": "2026-10-02T10:04:41+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "South Sudan joins Kenya in launch of 16-billion-dollar refinery project - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRGlBck5Na1dqcTZSY3RpN1dTMjVVaC1LWGRKTlp5R0JkYkN2MFAwekQ1dEd2QzNuUTZ0djEwTG42QklORUxERF95TFROQnJ2dnJxNmJQSGJhQ2JfM1RwR2FuSm9QZWRFWmVlS2dMbWUzazlybDJVOF9FaTJBWHBYRThCTVA4SndZb1RuQ2cwd0I3VklkMzZjZk1oMlpBUdIBngFBVV95cUxQRGlBck5Na1dqcTZSY3RpN1dTMjVVaC1LWGRKTlp5R0JkYkN2MFAwekQ1dEd2QzNuUTZ0djEwTG42QklORUxERF95TFROQnJ2dnJxNmJQSGJhQ2JfM1RwR2FuSm9QZWRFWmVlS2dMbWUzazlybDJVOF9FaTJBWHBYRThCTVA4SndZb1RuQ2cwd0I3VklkMzZjZk1oMlpBUQ?oc=5",
+  "summary": "South Sudan joins Kenya in launch of 16-billion-dollar refinery project Eye Radio",
+  "date": "2026-10-02T10:01:08+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "AI music maker Suno now generates spoken words",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+  "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music to accompany them. \"Music will always be at […]",
+  "date": "2026-10-02T09:42:19+00:00"
+ },
+ {
+  "source": "Vizrt / TriCaster (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Richmond AFL Adopts Viz Libero Teams - UK Broadcast News | 02/10/2026 - 4RFV",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOclB1SU12cGdSWnl2RjNzbHFLTjl5ZGtUZXhrQ01PNWI2N01BQXZjakNDUENTY0hZV0JTcFhIMlRiMmsyOE1RTUlGbFRLV25KRzRQOTIyWi1Gck84LUVYejFHcXN0TVpiVzNzVGJ0UFBUc04tekJIaXl2WkF5UTdZM3Y2V0xVQQ?oc=5",
+  "summary": "Richmond AFL Adopts Viz Libero Teams - UK Broadcast News | 02/10/2026 4RFV",
+  "date": "2026-10-02T09:35:20+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Economic reform committee in Nimule to boost border revenue collection - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdUtCUE10V095R2xNREtFU2xZLWNBc2NVdjhvOFJ1NFZ2UThNZHVTcHNwMGRGM29YSUJEZHc3WFVvdnJvN1hELUZLSTN5R3NFWExlU2lLNDNaeml2MFg3SHJqQkFfTjluYVMwRENpWW9zR1JGUDVSX2ZKMEUtd1dhb0V1cWxybU5VME1velQzVzhIVUxGZWtN0gGcAUFVX3lxTE1CRElsOFZ1T2RIRVZkeUhJODdNZ1RFNWZPS1lHeHpTT0prbXlKZDIxcF9mLWU5bU9TMWZCNjJPcjRLcWlKUlZXZ0E0dXFmY1BHSDBXZ3B0QmZ6aWhsbDRvWk11c0tpcG5zOXRpVmlydVQ4b21zYUxkVWl6LVRWSU83cmxQX3J6eVYwS0lVMGtTc1JTNWZWTVpkbTVUQQ?oc=5",
+  "summary": "Economic reform committee in Nimule to boost border revenue collection Eye Radio",
+  "date": "2026-10-02T08:56:02+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "South Sudan loses EAC Secretary-General position over failure to meet “obligations” - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQam5WUTY3eTFaazhPRmdoWk5ZX1FpeWNxX1I4VGFQV255WWd5a3E5VXBfQWlONThNa3lsQWpPTnZ6RFdsOV9xTHdpOEVFcUtEY1JSVG9hTXF3Q0pBSkEtMWMzWE9sdGRRTkZkZmJ0aGV3RDN4UHNFeFR2bVlmaW1neGd2QUhoVnFCUmU2TUx4blpBTHhpN1hBNkVpOGNJU1cwLUdOMWF30gGrAUFVX3lxTFBzSkFyVGluOVhvTHRyUXRPWWNGTnlrU0l4N1h6SVVjdEFTblFhb0VPX05aT1BERjZWdVk4NWNHcEdJV3FwSjFLcHVXQXlYVjlvdlp3NzJ5SWdxTDR3Y2xfR3RFS2NxbjFFOTA4OThidlhIb2kwWlBieldfOF9TQW9CWnJyUTV3ZktWYjZBajZZZzhTaHJuVFdZTzRWVEFINzBZRlR4LXdUWmJQdw?oc=5",
+  "summary": "South Sudan loses EAC Secretary-General position over failure to meet “obligations” Eye Radio",
+  "date": "2026-10-02T08:55:14+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "South Sudanese medical student killed in Cairo after evening walk - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRkVOUjVTMFZBVHlFQ1otdDlvcnhXb0R1aWVRcFNWTlNvSDZsYlVWSFVXLXFIY2ZOdWhyZ2VkeWZJZjVobFpmMmNwQkI3V2RlR3NlM3hLTGd2VVlOUGMxUzhJVi1yRGlqYUR4YWZweEpLR3F5UGdCd0I1YlY5ek9nWXpzYmMySmdaVDNfdmxJWEnSAZYBQVVfeXFMUElsTVlUMHVjSlZIQVNhMkg1eGVoSW1aTGhld3ZkRlpuZnRCemJKYVFIXzNZY2hRTG12TFR4b0ZYYmxXaWNnWi1STE5VbW9uZGNZLUhzZVJKZzlMRU44VGFUeEdOcUgyNHp5R3pNcnRvQW5tZ0tRei1DY2hqMzk3Tmp0NEgtZ3VtNk5ueG5qRDFpWjZxWlVR?oc=5",
+  "summary": "South Sudanese medical student killed in Cairo after evening walk Eye Radio",
+  "date": "2026-10-02T08:00:18+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Gov. Agoth launches planting of 15,000 treess in Kuajok - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxNUYtdEdUMDFDR2VjZVk2bklCdERvcktDTjBvOVpEWDF5a2dwNmhpczhEZ19zZ2dBLTV2dktQdnlQbWg0bnB0LS1PTXlQUnF2OEk1eFNyckJ6VFlDM0ppNEJMMjRZaG54TGNQMXhocWZkcU1hSFFvZE9venRrQdIBgwFBVV95cUxQVXpWYlBLREdQQUt4Z2ZycG9Ndy1zdVFvcmp0T2NVWDU2YkNYNHdDUGN1d2FwdHk5MmQxZ2NhRUFaeWtuVm9QeFFwa2NLUF9UMVJWV0FYcUF3WUlSVThuUHZFWHZLWXpZcGhRdmhuZ09GSTBnSU84VDFwdTNjcHNNQVF4dw?oc=5",
+  "summary": "Gov. Agoth launches planting of 15,000 treess in Kuajok Eye Radio",
+  "date": "2026-10-02T05:14:03+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Chatham scales its capital markets expertise with OpenAI",
+  "url": "https://openai.com/index/chatham-financial",
+  "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+  "date": "2026-10-02T00:00:00+00:00"
+ }
+]
