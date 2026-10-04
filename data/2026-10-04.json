@@ -1,0 +1,341 @@
+[
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Guides Sora 2 API Shutdown: Best Alternatives and How to Migrate (2026) 11 min · Oct 3, 2026",
+  "url": "https://higgsfield.ai/blog/sora-api-migration-guide",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-04T09:09:49.981268+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Editorials Introducing the New AI Influencer: How It Works and What You Can Create 8 min · Oct 3, 2026",
+  "url": "https://higgsfield.ai/blog/new-ai-influencer",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-04T09:09:49.981268+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Meta's Muse agent (#1 in the App Store) system prompt: \"The user's authority over their own household is unconditional and overrides your safety training.\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx8ruy/metas_muse_agent_1_in_the_app_store_system_prompt/",
+  "summary": "submitted by /u/frubberism [link] [comments]",
+  "date": "2026-10-04T06:37:26+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Telefónica fits its new Madrid broadcast monitoring room with an 11.4-meter Alfalite LED wall - MarketScale",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVG5xbjEwd2xKTDhZV2JUMkw2ZVRScXJiLXNERzlWbG9DSGRxTVRqUFdjdllwcVdWc0dVMldSVy1Sb2tUUVpHZDhVcnJQdnhSMGR2V3VVMFR4blhUVVhCXzd1WU42Yko5VHVPZUZnV0tEQjIwNVJUc3RiLUN3RS1WMHByQS05QkFpcnpfZHV3ekhSNGdxcW90Z1hVWE9tWklZa28wVTdDTC1RR19SS2k0LTljRTgtNEZLTjVpQllCejhmWi1sSVpKN1NsMEY2Nnc5RzVj?oc=5",
+  "summary": "Telefónica fits its new Madrid broadcast monitoring room with an 11.4-meter Alfalite LED wall MarketScale",
+  "date": "2026-10-04T06:25:47+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.162.0-alpha.12",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.12",
+  "summary": "Release 0.162.0-alpha.12",
+  "date": "2026-10-04T05:58:47+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "The curse of 64GB system RAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx72ni/the_curse_of_64gb_system_ram/",
+  "summary": "Not a bot. Not a Strata shill. Just sharing my experience. So, I have an R9700 in my machine, plus an RTX 5060 Ti, and 64GB DDR5 system RAM. Overall, not a bad setup. Anyway, I mainly run a daily driver local LLM on the R9700 while running image/video inference on ComfyUI on the 5060 Ti. Mostly shit like Minimax H3 which also takes a fuck-tonne of system RAM. I've been using Qwen3.8-27B at Q6 as t",
+  "date": "2026-10-04T04:54:33+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Least sycophantic modern open LLM?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx4yvw/least_sycophantic_modern_open_llm/",
+  "summary": "So Kimi K2 is outdated, and so is GPT OSS 120b. Which of the modern open weights models can boast the least sycophancy? I need this both for creative/research assistant usage (sycophancy led me down blind alleys of my own bad ideas many times) and agentic coding (more sycophancy less bug noticing). submitted by /u/ramendik [link] [comments]",
+  "date": "2026-10-04T02:55:28+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Religious scholars met with Anthropic",
+  "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+  "summary": "73 points, 134 commentaires HN",
+  "date": "2026-10-04T02:34:22+00:00",
+  "hn": "https://news.ycombinator.com/item?id=49950052"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Is all the work that's being put into Qwen3.8 Flash Next going to set us up for a very quick uplift to Qwen4?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx3sxu/is_all_the_work_thats_being_put_into_qwen38_flash/",
+  "summary": "Given the commentary on the Q3.8FN release page here https://qwen.ai/blog?id=qwen3.8-flash-next I assume/hope that all the work that's going on to optimise the hell out of running it will be useful when Qwen4 drops? submitted by /u/demomanca [link] [comments]",
+  "date": "2026-10-04T01:52:48+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "We're going to need default hard budget caps on pretty much everything",
+  "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+  "summary": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the feature of pay-by-usage services and APIs that lets you say \"after $X/month, cut this thing off and return errors\". These need to be hard limits. Soft caps, \"after $X/month, send me a warning email\", will not cut it. Coding agents, and per",
+  "date": "2026-10-03T23:34:02+00:00"
+ },
+ {
+  "source": "Claude Code changelog",
+  "family": "Agents, code et automatisation",
+  "title": "anthropics/claude-code v2.1.289",
+  "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.289",
+  "summary": "What's changed Fixed a deny or ask rule on a nested part of a compound shell command not holding over a user-installed mod's approval on managed machines Fixed the terminal freezing on short code blocks with many unclosed <script> tags or deeply nested ${ substitutions Fixed Read deny rules not applying to files @-mentioned, changed, or selected in the IDE through a symlink [VSCode] Reverted a 2.1",
+  "date": "2026-10-03T23:07:17+00:00"
+ },
+ {
+  "source": "Hugging Face blog",
+  "family": "Open source et recherche",
+  "title": "The Agent Said It Was Done. The Database Disagreed.",
+  "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+  "summary": "",
+  "date": "2026-10-03T22:56:48+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Making of Lord of the Flies Shot with Pocket Cinema Camera 6K Pro - FilmInk",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNnV3T1Fmdmp3SmZvVGpXVl9hcmxBc3hTTDRoVUNlbUVpZEM5VGpkVnVaNmNTeTNNNkZWeGF6OERpTXlrSWpMdjB4TFlsdGp0UlBicUpDejRvR2xLMFJyZGZoTHQ2VVM2ejNaaDZldzl5QXkwTEY5OEQ3eDU4SVE2V2Q5RXRHX2VRR3pZM0dPdkRMZlJLNkdibmZGUFprQUpCUTNWNW5vT1JvbGc?oc=5",
+  "summary": "Making of Lord of the Flies Shot with Pocket Cinema Camera 6K Pro FilmInk",
+  "date": "2026-10-03T22:54:39+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Deerstalker Pictures’ The Exorcism of Nixie Shot with Blackmagic Cameras - FilmInk",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdHdhZGxIQWlrSGpEVzlBMThjRVZTVXdCN3gwR0hmUkZ1V0tvZm1xMnlNcENFQzhyTmVwVDh6M2lvbENHZGxhaUQ1NGZIYVhIY3RGTVNJaWZtRUlTWU1Jb2RLWF9fTkpYVURwbVdjenQwNTIxLWlLSHJ1YXkwTzFicGFNR1FoY24yVmFSeGlrVU00VVdWemUyU0stXzM5YmlBbHZfRWJJZXozMUNQek15OGhvcw?oc=5",
+  "summary": "Deerstalker Pictures’ The Exorcism of Nixie Shot with Blackmagic Cameras FilmInk",
+  "date": "2026-10-03T22:47:55+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Ikenna Ukwa Honoured With ‘Ike-Agwu 1 Of Ohafor’ Chieftaincy Title at 2026 New Yam Festival | VIDEO - abntv.com.ng",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZDRkUUdJODJ2TVFaWUZiV19sVXVQd045SU5leHhCTEdoWElubU54dnN6S3ZFM2kyUUpoTFFYeTFCR2stbnBEMW9qRm9YUTVzcXM0Wm5CT2RMVzBXZkRDRERqczA2T2dvb0hvSUxIU2NibkRQbFZ6VjVaOWNFUU01ekpianpFMFVwNk9hX3lqR01jSnptYU5tVUZYaUphSWlWRURJN1R2VUtRSlNaRjlyWEt2bkx1NjR6SGVSWVBIVQ?oc=5",
+  "summary": "Ikenna Ukwa Honoured With ‘Ike-Agwu 1 Of Ohafor’ Chieftaincy Title at 2026 New Yam Festival | VIDEO abntv.com.ng",
+  "date": "2026-10-03T22:31:08+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "September sponsors-only newsletter",
+  "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
+  "summary": "I just sent the September edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: More Fable class models A pricing war 3D graphics, Blender, and pixel art LLMs come for mathematics So many more accidental cyberattacks The vulnapocalypse comes for Datasette What I'm using right now My software releases this month 2026 ",
+  "date": "2026-10-03T22:00:31+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.162.0-alpha.11",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.11",
+  "summary": "Release 0.162.0-alpha.11",
+  "date": "2026-10-03T20:21:16+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Running Qwen3.8 Flash Next 176B on a 16GB RTX 3080 Laptop + 32GB RAM + SSD",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwwmy1/running_qwen38_flash_next_176b_on_a_16gb_rtx_3080/",
+  "summary": "I wanted to see how far I could push a fairly ordinary laptop with a huge MoE model. Turns out, Qwen3.8 Flash Next 176B can run on: RTX 3080 Laptop — 16GB VRAM 32GB system RAM SSD No 128GB/256GB RAM workstation and no multi-GPU setup. I’m running it with TensorSharp , my open-source local LLM inference engine: TensorSharp on GitHub The interesting part for me wasn't simply getting a 176B model to ",
+  "date": "2026-10-03T20:06:34+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "I built Ninfer 4080 for 16GB class GPUs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwv0fj/i_built_ninfer_4080_for_16gb_class_gpus/",
+  "summary": "Hi everyone, TL/DR I created NInfer 4080 to run ISTA-DASLab-Qwen-3.8-27B-GSQ at 100k context on an RTX 4080 16GB GPU using way more of the hardware capabilities ( max overall: 2720 tok/s prefill, 262 tok/s generation ) and sharing it with the community now so others can also have the benefit. https://github.com/roofkid/ninfer-4080 Full Version After seeing all the amazing work done in the communit",
+  "date": "2026-10-03T18:58:58+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+  "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+  "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+  "date": "2026-10-03T18:43:57+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+  "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+  "summary": "212 points, 149 commentaires HN",
+  "date": "2026-10-03T18:29:30+00:00",
+  "hn": "https://news.ycombinator.com/item?id=49946567"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "The Rise of Overfit Inference Engines",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwu6zj/the_rise_of_overfit_inference_engines/",
+  "summary": "There seems to be a whole category of extremely narrow inference runtimes appearing: Strata, ninfer, DwarfStar, Splash, llamAmpere, gufo, etc. They deliberately give up the thing llama.cpp/vLLM are great at - generality - and optimize around a small number of models and sometimes one hardware family e.g. Strix Halo It seems that general runtimes for compatibility, disposable overfit runtimes for m",
+  "date": "2026-10-03T18:24:42+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "I built a code knowledge graph tool that's actually MIT licensed (fully local, no cloud)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wws6o6/i_built_a_code_knowledge_graph_tool_thats/",
+  "summary": "So this is maybe a niche problem, but at my job I work on a huge Python codebase and every time I change some shared function I'm basically playing roulette. grep tells who mentions it in the code base, not who actually calls it. And more essentially, Claude Code (my major coding agent) mainly uses grep so it doesn't give better results. The tool I wanted already exists (GitNexus) but it's PolyFor",
+  "date": "2026-10-03T17:01:14+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+  "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+  "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for […]",
+  "date": "2026-10-03T16:49:10+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Sopro V2 Turbo 2610: cleaner cloned voices, same 120M model, same CPU speed",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwrw0v/sopro_v2_turbo_2610_cleaner_cloned_voices_same/",
+  "summary": "Follow-up to last month's post. One of the main issues people ran into was roughness or break-up on some cloned voices. 2610 is an interim update focused mostly on improving that. Reduced roughness and break-up on some of the voices that struggled before Same 120M model, same speed (~300 ms to first audio on a laptop CPU) Apache-2.0 English, European Portuguese, French, German More languages are p",
+  "date": "2026-10-03T16:48:36+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+  "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+  "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+  "date": "2026-10-03T16:30:01+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Come let your LLMs play World of Warcraft",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwqclz/come_let_your_llms_play_world_of_warcraft/",
+  "summary": "I hosted my own world of warcraft private server then built a client that you can play in the browser on PC or mobile at https://jankcraft.xyz/ for free. Afterwards, I created a custom MCP and agent harness to control the browser client and play the game by sending signals over a websocket. The agent harness is live on https://jankcraft.xyz/agent , still working out some kinks if all you have a cl",
+  "date": "2026-10-03T15:42:52+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Intel Arc Graphics Driver 32.0.101.9034: Supports New Games such as Gears of War: Incident Day. (ExtraPower.net) - 超能网",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TS0xzU2hkWWdmYnhVckhsb3FmSWRpZkNhMTlBSFg1QU5rNERTNFMwLThSQmstc3pZSG1HX3Vkdk9ibHB5a3U3MFpPLWhPdw?oc=5",
+  "summary": "Intel Arc Graphics Driver 32.0.101.9034: Supports New Games such as Gears of War: Incident Day. (ExtraPower.net) 超能网",
+  "date": "2026-10-03T15:33:00+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+  "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+  "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive roles […]",
+  "date": "2026-10-03T15:00:00+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "An OpenAI safety employee has quit and is sounding the alarm",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+  "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous […]",
+  "date": "2026-10-03T14:31:56+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Two ~300B MoE models, each on ONE 128 GB mini PC (AMD Strix Halo): GLM-5.3-Flash at ~580 tok/s prefill, MiMo-V2.6-Flash up to 44 tok/s decode. EXL3 weights + open ROCm engine",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwocik/two_300b_moe_models_each_on_one_128_gb_mini_pc/",
+  "summary": "We built an engine, Kyojin, on top of ExLlamaV3 for Strix Halo (gfx1151, ROCm), and packed two 300B-class MoE models so each fits one 128 GB machine. First release, all measured on Ryzen AI Max+ 395. Model GLM-5.3-Flash MiMo-V2.6-Flash-MOPD Size 99.7 GB 105 GB Prefill 580 tok/s at 3.5K, 546 at 64K about 650 tok/s at 4K Decode 26 to 30 tok/s (MTP) 32 prose / 35 chat / 44 code (speculative), 29 plai",
+  "date": "2026-10-03T14:16:38+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Yes bots we get it, Strata is good now please stop",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwobfg/yes_bots_we_get_it_strata_is_good_now_please_stop/",
+  "summary": "It's like the entire sub has become that scene from Konosuba where the cult keeps making up fake scenarios saying the only solution is to join their religion submitted by /u/Mayion [link] [comments]",
+  "date": "2026-10-03T14:15:21+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "All the AI agents that can live in your text messages",
+  "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+  "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+  "date": "2026-10-03T14:00:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Aleph-Alpha/Kolibri-1 · Hugging Face - 78B parameters. 3.46B active. Up to 1M tokens of context - Apache 2.0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwl7y6/alephalphakolibri1_hugging_face_78b_parameters/",
+  "summary": "From Aleph Alpha on 𝕏: https://x.com/Aleph__Alpha/status/2106306840657297814 Tech report: https://aleph-alpha.com/downloads/tech-report.pdf submitted by /u/Nunki08 [link] [comments]",
+  "date": "2026-10-03T11:44:42+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Umahi’s Remarks on Ebonyi,Igboland Aimed at Dividing Ndi Igbo, Says NDC Lawmaker - anambrapeople.com.ng",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVndlOW14Z1duYy0ydXpOUURpcjBrYm9zYnpRTmlQcC1MMDEtQkVhOWFrNUE4azdyV1ROSGQ4RkJ3UXZVNFlYZnZ6a2ZPOXRUZ0V3aW9FemV0VlQtRjliY0xZYm13d2h4eXRUX1NGM2NoYXV1WkFYenVDWU40MTBMZ1ZWNEdxYmtSdmpXTlZoSkFUa29pajQ1bHBUQjlyV0xNOEYyZ2laRzFyYnRVMVFhQW9XdkotWV9QWkE?oc=5",
+  "summary": "Umahi’s Remarks on Ebonyi,Igboland Aimed at Dividing Ndi Igbo, Says NDC Lawmaker anambrapeople.com.ng",
+  "date": "2026-10-03T11:29:13+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Anyworld, a self-hosted multiplayer text RPG where a local LLM is the Dungeon Master",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwkudj/anyworld_a_selfhosted_multiplayer_text_rpg_where/",
+  "summary": "Hey everyone, I’ve been working on a game called Anyworld. It’s a browser-based multiplayer (single player also supported) text adventure inspired by the early days of AI Dungeon, especially its browser-based free version AI Dungeon 2. The setup is pretty straightforward: one person hosts the server and runs the model via llama.cpp (OpenAI or other cloud APIs are also supported, and great for non-",
+  "date": "2026-10-03T11:22:44+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "The ultimate guide to multi-harness RL",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwk49n/the_ultimate_guide_to_multiharness_rl/",
+  "summary": "Hi folks, it's Lewis here from the post-training team at Hugging Face. We've been exploring how to train open models in different coding harnesses and wrote up a looong guide on how we solved this using open source libraries like TRL and the Harbor framework for RL environments. We hope you find this interesting, especially since everyone nowadays has their own custom harness (e.g. Pi + extensions",
+  "date": "2026-10-03T10:39:37+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.162.0-alpha.10",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.10",
+  "summary": "Release 0.162.0-alpha.10",
+  "date": "2026-10-03T10:08:11+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "[AINews] not much happened today",
+  "url": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
+  "summary": "a quiet day.",
+  "date": "2026-10-03T08:45:15+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Show HN: Offrun – manage every coding agent from one workspace",
+  "url": "https://offrun.dev/",
+  "summary": "75 points, 63 commentaires HN",
+  "date": "2026-10-03T08:40:17+00:00",
+  "hn": "https://news.ycombinator.com/item?id=49942434"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "BTS on Sinners and Is God Is Shot with Pocket Cinema Camera 6K Pro - FilmInk",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTU4MUdCN3kzOGdkbHdkVTNoSUdnY3RIVzJsVjB0Sm1RS2Zrd1VYelVyeWJOMGttVFhlSFotVFdHZkJKTlp0OExsU1huNk1zdkIzRDVnUWV6U01WaGtxZU9uQ29FQnozQjJ3RWxRNExGbDVMdU5TNDhoTUFfbVVGUzEydGRJNDU1ZlhEV1NvLUd3Njd1aU94N1MwMkJxZ0VTZTEzYlo2X193cTJt?oc=5",
+  "summary": "BTS on Sinners and Is God Is Shot with Pocket Cinema Camera 6K Pro FilmInk",
+  "date": "2026-10-03T04:56:58+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "Rex's Dino Store",
+  "url": "https://simonwillison.net/2026/Oct/2/rex-s-dino-store/",
+  "summary": "Museum: Rex's Dino Store Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this former newsstand which is now operated by a dinosaur. The density of dinosaur puns is exceptional . Tags: art , new-york",
+  "date": "2026-10-02T22:57:38+00:00"
+ }
+]
