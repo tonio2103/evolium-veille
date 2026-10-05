@@ -1,0 +1,299 @@
+[
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "kling-video/lipsync/audio-to-video Kling LipSync is an audio-to-video model that generates realistic lip movements from audio input. audio to video lipsync text",
+  "url": "https://fal.ai/models/fal-ai/kling-video/lipsync/audio-to-video",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-05T09:50:45.211706+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Alfalite LED wall enables broadcast monitoring at new Telefónica TSAmediaHUB - TVBEurope",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdTdTUDduNUptbFpSSFlVNGZWUVU0R05ZNVJ2MkkzNlM4T19KTml1ckQzMlNObG56TXFOYzB4cnZHQThFU3VPZ2hNYWxZVHdzM3lVU0tldldRRUdvNFdBWWFoQVphV0JZNzBmT3E4ei0wRFNLQ3RIZF9aN3ZFd3BxRWV0SVVLTndnSWFFR2hkTnJSVTdWcXBZTG9aSGhDY2Q5Qmo5bGJPQlpSaldiVXdkc21LdUJtbU5nYjRV?oc=5",
+  "summary": "Alfalite LED wall enables broadcast monitoring at new Telefónica TSAmediaHUB TVBEurope",
+  "date": "2026-10-05T08:48:43+00:00"
+ },
+ {
+  "source": "Remotion",
+  "family": "Montage, motion et broadcast",
+  "title": "remotion-dev/remotion v4.0.533",
+  "url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.533",
+  "summary": "What's Changed remotion : Re-enable nested HTML-in-canvas from Chrome 157 and add HtmlInCanvas.isNestingSupported() by @JonnyBurger in #11855 @remotion/studio : Integrate with ChatGPT Codex annotation system by @JonnyBurger in #11944 @remotion/studio : Allow reordering of multiple clips by @JonnyBurger in #11946 @remotion/studio : Infer timeline durations for <Series> and <TransitionSeries> by @Jo",
+  "date": "2026-10-05T07:55:46+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "The Exorcism of Nixie Shot with Blackmagic Cameras and DaVinci Resolve - Digital Studio India",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlNjck1yQy01TlJ6aFhsQlhwNGh5cnZqVUdKUk0yT2ZycVM4RzJFT0FFdWRyem5mX0NJSHVLanJRbEEtRGtSREU2WXlFXzE1SzQyU0tCSjZ2V3RBXzBjbXlfN0NpZF9hLXVNRDJ2Yl9rNlAtaTBOX3dMRFN2VEVJMVc4SXozQmgyTF9kRHhoNmg2OUFXMkJvT19KTXdhT1BjV1hVR2lxZ0c4bnZIdGxfZmVlcw?oc=5",
+  "summary": "The Exorcism of Nixie Shot with Blackmagic Cameras and DaVinci Resolve Digital Studio India",
+  "date": "2026-10-05T07:31:14+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.41.7",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.41.7",
+  "summary": "2.41.7 (2026-10-05) Bug Fixes API: Let global members grant variable scopes to API keys ( #40151 ) ( cc25c71 ) Features editor: Show Gateway credits promotions on community nodes ( #40109 ) ( a509d92 )",
+  "date": "2026-10-05T07:30:08+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.42.3",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.42.3",
+  "summary": "2.42.3 (2026-10-05) Bug Fixes API: Let global members grant variable scopes to API keys ( #40150 ) ( d09b8a1 ) core: Keep the task runner running on an unhandled promise rejection ( #40091 ) ( 50f2e96 ) Features editor: Show Gateway credits promotions on community nodes ( #40108 ) ( 1ea168e )",
+  "date": "2026-10-05T07:26:35+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Anthropic reported diary entry to police, woman faces felony charge",
+  "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+  "summary": "68 points, 60 commentaires HN",
+  "date": "2026-10-05T05:37:40+00:00",
+  "hn": "https://news.ycombinator.com/item?id=49961057"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Reflection AI Is About to Release a US Open-Weight Model to Take On DeepSeek and Qwen",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wy0jrc/reflection_ai_is_about_to_release_a_us_openweight/",
+  "summary": "Looks like new open model coming soon and will be \"strong\" hopefully something under 200b for us memory poor. Also seeing statements about more western open models coming. Hope we get some good competition again on the open front! Here is original artical but its not free to access. Maybe someone has it already here. https://www.axios.com/2026/10/04/reflection-open-weight-ai Oct starting strong! s",
+  "date": "2026-10-05T05:33:32+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Blackmagic Cloud Store 2.1.1 - Newsshooter",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOSXJNdGxIdmhRUTJYTkxpNlE2eDNoTkhOa0YzMHl5dkpvYTBfR2hDekJaUzVMVXVCenJuTldsaUxmMzhUZ01ET1ZLb1pNX25kTlNteU1uZC1sRDVPekpGUEZhdTVLSlRuUWlNdmxmQXlrN1pmUUR3?oc=5",
+  "summary": "Blackmagic Cloud Store 2.1.1 Newsshooter",
+  "date": "2026-10-05T04:33:28+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "strata-swift-iq3_xxs randomly interjecting completely unrelated information in thoughts",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxxqfe/strataswiftiq3_xxs_randomly_interjecting/",
+  "summary": "I have been using Qwen3.8-27b-iq4xs variants for the past few weeks, tweaking parameters and running random tasks, but I dove into using https://github.com/Niko1221/Strata today and it has given me 2~3x performance on a \"smarter\" strata-swift-iq3_xxs model with my 5070ti! However, I saw something in its reasoning thoughts that just plain didn't make any sense to see there; it was on a sub-task to ",
+  "date": "2026-10-05T02:53:22+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.162.0-alpha.14",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.14",
+  "summary": "Release 0.162.0-alpha.14",
+  "date": "2026-10-05T02:17:14+00:00"
+ },
+ {
+  "source": "Gemini CLI",
+  "family": "Agents, code et automatisation",
+  "title": "google-gemini/gemini-cli Release v0.64.0-nightly.20261005.gfb972b2f8",
+  "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.64.0-nightly.20261005.gfb972b2f8",
+  "summary": "Full Changelog : v0.64.0-nightly.20261003.gfb972b2f8...v0.64.0-nightly.20261005.gfb972b2f8",
+  "date": "2026-10-05T01:39:02+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Color Grading LUT Powergrade Showcase Demo Sony a6700 Slog3 Davinci Resolve - YouTube",
+  "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5BWmQ4WWZMdFMxM2NzaTV4Z25jbUlLclFuWGRRSk9OdFR0b1QzQzQydjh0MmJtZ2xkbVppbkNQOUJldw?oc=5",
+  "summary": "Color Grading LUT Powergrade Showcase Demo Sony a6700 Slog3 Davinci Resolve YouTube",
+  "date": "2026-10-05T01:26:52+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "My qwen model hallucinated a signed URL to Alibaba cloud, normal or sketchy?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxvt41/my_qwen_model_hallucinated_a_signed_url_to/",
+  "summary": "I'm using Qwen3.8-Flash-Next running on my Mac Studio as a daily driver for coding + productivity tasks, and yesterday it did something weird: I had it do some product research on amazon, so it was doing a lot of Web tool calls to amazon.com , until it made one request to routify-file-proxy-sg.oss-ap-southeast-1.aliyuncs.com 🤔 As soon as I noticed this in the tool calls I stopped the session becau",
+  "date": "2026-10-05T01:13:22+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "SPOPI: UI and editor around Pi that Pi can change itself",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxsawe/spopi_ui_and_editor_around_pi_that_pi_can_change/",
+  "summary": "Hi all. Happy to share my take on a PI UI that I tried to create in PI's spirit. It's definitely still beta but it works well enough as my daily driver for simple projects and phone chat support. Fully local, fully offline, no telemetry. Why another Pi GUI? I wanted a simple editor around Pi that Pi itself can change and is fully aware of. Ask Pi for a different layout, colour, button, support for",
+  "date": "2026-10-04T22:20:42+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "For dual DGX spark users; GLM 5.3 flash got a 50%+ performance boost",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxrozq/for_dual_dgx_spark_users_glm_53_flash_got_a_50/",
+  "summary": "For the last few months, I ran DeepSeek v4.0 flash (NVFP4). First 0731 , then visionexp because it was a free improvement. I got around 65 tps decode and almost 2k prefill, and ran 4-5 agents in parallel, totalling around 200 tps cumulative decode. Because of this, I did not feel like switching to GLM 5.3 because it would half the decode and prefill, did not scale well with multiple agents, and ha",
+  "date": "2026-10-04T21:53:31+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+  "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+  "summary": "AI slop seems to be overwhelming bug bounty programs.",
+  "date": "2026-10-04T20:31:07+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+  "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+  "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+  "date": "2026-10-04T20:08:34+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Fully local little parkour sim",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxp21n/fully_local_little_parkour_sim/",
+  "summary": "I vibed this up this weekend, fully local, with GLM 5.3 Flash running on 2x DGX Sparks. vllm TP2 recipe: https://github.com/tonyd2wild/GLM-5.3-Flash-NVFP4-DFlash2-2x-DGX-Spark Prefill: ~1500t/s Decode: ~40t/s @ 100k Using Claude Code as the scaffold with 260k context size. I'm really impressed with this model. Feels somewhere between GLM 5.1 and 5.3 in terms of coding depending on the task. Good v",
+  "date": "2026-10-04T20:00:53+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxma3a/micron_ceo_says_memory_supply_will_be_much/",
+  "summary": "submitted by /u/chillinewman [link] [comments]",
+  "date": "2026-10-04T18:08:12+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Update #4: Post training yandex/AliceAI-80B-A3B [instruct!] from scratch",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxlytt/update_4_post_training_yandexaliceai80ba3b/",
+  "summary": "Last update for those following: https://www.reddit.com/r/LocalLLaMA/comments/1wvyc3e/update_3_post_training_yandexaliceai80ba3b/ Project in a sentence: An instruct finetune of ALiceAI-80B-A3B-Base capable of agentic work and conversation. I'm creating a shallow distill of qwen 3.8 27b on medium to teach the model chain of thought reasoning and conversation. All training is done locally on 3, 32gb",
+  "date": "2026-10-04T17:55:37+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Benchmarking decision models is fun - Clef Q8 vs Jev",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxloam/benchmarking_decision_models_is_fun_clef_q8_vs_jev/",
+  "summary": "submitted by /u/3VITAERC [link] [comments]",
+  "date": "2026-10-04T17:43:17+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Qwen3.5 arch implementation in FPGA fabric for 9B/27B INT4 models on relatively cheap eBay mining hardware",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxken1/qwen35_arch_implementation_in_fpga_fabric_for/",
+  "summary": "I've been wanting to test out LLM inference on FPGAs for a while now, but didn't have a big reason too since there were no frontier class models at 9B-27B scale (3.6 27B was great still but it didn't motivate me enough). When 3.8 was released I was pretty impressed by what it could at that size. So I began looking for cheap FPGAs that could hold the model. I found SQRL FK33 (280$) (8GB HBM2 ~400GB",
+  "date": "2026-10-04T16:51:07+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+  "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularly odd tactic during an interview on NJ […]",
+  "date": "2026-10-04T16:16:04+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.162.0-alpha.13",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.13",
+  "summary": "Release 0.162.0-alpha.13",
+  "date": "2026-10-04T15:51:07+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "I trained a 3.87B MoE (1.45B active) from scratch on only 86.5B tokens",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxiy8y/i_trained_a_387b_moe_145b_active_from_scratch_on/",
+  "summary": "First of all, thank you for reading. I trained a small MoE model completely from scratch (no external base weights) and wanted to share the results + a couple of lessons. Apex-2 - Architecture: Decoder-only MoE, every layer is MoE (no dense layers) - Size: 3.87B total parameters, 1.45B active per token - 32 layers, d_model 2048, GQA 16Q/4KV, 16 experts, top-4 - Context: 4096 - Tokenizer: Qwen3 (15",
+  "date": "2026-10-04T15:50:54+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "How long before we have a local model capable of modeling?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxibor/how_long_before_we_have_a_local_model_capable_of/",
+  "summary": "I'm using Qwen 3.8 and qwen flash on a 5090. It's miles behind the latest Opus 5.5. Even if it was remotely capable it would be a huge help to me, but for now, with regards to 3D modeling, local models are not close at all. submitted by /u/Hot_Masterpiece_3668 [link] [comments]",
+  "date": "2026-10-04T15:24:25+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+  "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, […]",
+  "date": "2026-10-04T15:21:59+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Trump unveils his new Super Intelligence Force",
+  "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+  "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+  "date": "2026-10-04T15:15:10+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "24-year-old mother dies after triplets cesarean delivery - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDhJanZtY3Q4cEtEd3gxTkprN1k4eXhPTG9ZejJpMVYyd2VQTTlFQjRucTVCYzZ6am16Z21XM3pCM0cyVUtLbUdheVlrVng0RjRTUnFDVlVMeVhpbGszQ19VN3FhbmxudXFVU3gwclNhMnUtZ3VCTkt3Z3RodFR0QlJiMG7SAYoBQVVfeXFMT2dvTFBZTHVBMmdlUi13Q2taeS1DTE1uTm9fb05TXzlycW9SV01Rb05PSHZ6NVIza04zSW40SlhyMndLRENLQUdqVEU3YzJ6ak5ycEpSMkxhbHpSS0ZMNFdMQ2I3cW5zNkY3eGpXX0Y2OC1aVFAxbVAxakUwSFI5QTFLc05QVE1CNGR3?oc=5",
+  "summary": "24-year-old mother dies after triplets cesarean delivery Eye Radio",
+  "date": "2026-10-04T14:29:59+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "From 1x3090 to 20 DGX Sparks: my house fuses were the first bottleneck",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxgm0h/from_1x3090_to_20_dgx_sparks_my_house_fuses_were/",
+  "summary": "​ From the first LLaMA 33B I knew I wanted that magic-like intelligence locally, mine, so nobody could take it away when I needed it. I bought a 3090 for my home PC. Then LLaMA 65B appeared and I was dazzled, it looked like it had all the knowledge in the world. I made two copies, one local and one on my Synology NAS RAID, so I'd never lose it, and bought a second 3090 to run it. I was happy for a",
+  "date": "2026-10-04T14:09:31+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "South Sudan artists union receives $11,000 studio equipment donation - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTDk5LURXM1FqTnROcGN0TnU5QmtzVXRPM1BDZjdaTmtUdm9vUjFFRGRjZGYzdk9ldDF3LXJjc0laTk10eXJncllqczYyWV9Cb1ltcjNRR1hkY1dOczFJalFBMkExUWxrbzl0U1VfUnpDR1hvdWd5T2Y1N2JBVkpubllUMm44aHAtSkRlbEhDekhSUdIBlwFBVV95cUxNZ1I2Zk1LOC1HNTBKb01xVkVZS2VpN0s5aGo3aWRDMkZOcGlxS3JXdWdWWG9qNm5tU2ZoTG84ejkwR1VvME9pWHJVMFZ4UnRlY21nVTFfOHo3cjI1NldtNXFoaVVTbWpIYm1GU3ZiRklMSWZxZDRXNTBGUXEyMXkzRExTeG9USVMxWDBMSUZoLWlJUW1QZVdZ?oc=5",
+  "summary": "South Sudan artists union receives $11,000 studio equipment donation Eye Radio",
+  "date": "2026-10-04T13:42:29+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Is there any way to improve creative writing for Local Models (Qwen)?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxfgn9/is_there_any_way_to_improve_creative_writing_for/",
+  "summary": "I wanted to know if theres anything that can improve creative writing for our Local Models? I specificly am asking for qwen models as they are way better when it comes to researching and writing html files compared to gemma / muse (which I know are better at creative writing). Im currently using qwen 3.8 flash next at q4 with llama.cpp submitted by /u/No_Algae1753 [link] [comments]",
+  "date": "2026-10-04T13:16:28+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Local text to speech with Breeze is truly incredible",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxd404/local_text_to_speech_with_breeze_is_truly/",
+  "summary": "Been playing around with local TTS with Breeze combined with STT, and the results are amazing. Using Opus 5.5, I can hear the first sound after 500ms if there is no thinking involved, and with thinking on low mode, can be 1-1.5s. I'm using a BLE remote (the kind that are used for taking pics with phones) combined with a wireless microphone. So I can just sit on the couch, and just talk to her. She",
+  "date": "2026-10-04T11:10:03+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Best Laptops for Video Editing in 2026: Top 10 Picks for Video Editors - Memeburn",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yUGFHbkFheExneU40WU5KOEFLdk9iaV9JNVhNQTU1S1lGa2dhcGs4SWdVRVExcTAzQkVmcTJDWWp1S1B4MDJoQ2NYUGQyU1N6MElDc1FvZXozN1pSN0MyVkN3?oc=5",
+  "summary": "Best Laptops for Video Editing in 2026: Top 10 Picks for Video Editors Memeburn",
+  "date": "2026-10-04T01:15:23+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Frankenstein Graded with DaVinci Resolve Studio - FilmInk",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcDE2dlBqMDlwRXdYSnpuMDgwelNkTm5iQTVvM2hDU3pZS210RHFiV3h2RE04MUJmRkpSU3JHV2ZqOW4zNU1Ra2NWWmpwb1BjbTRpYXJmdFIycGdGVGJKTTdvakotZ2tGREt5b3FKMldrT1gzS3pqenZXOWRYTU9MU1o1MkV6WEpKQTFEMWxRd29ldkU?oc=5",
+  "summary": "Frankenstein Graded with DaVinci Resolve Studio FilmInk",
+  "date": "2026-10-04T00:51:13+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Evoto 8.0 Brings New Editing, Culling and Workflow Tools to Photographers, and Opens a Creator Marketplace - The Phoblographer",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc3RtV3YyVkpqQl9QR2VhbzdKOFRTYWVtUmt1MHBrZ2ZiMm1Za09OOWd5R3VBRjNMSzVlTEplSzRySWJHOUJYUXRYUzZuVjlWZlVKTWtOdGZtcmRlRVFyVlRlNElYVjBLYjJYMUZYOEJuNkYtMFR2UElPZGNFMjRsQ21kR2didktoVi11MnJRb1FfR09zeG9vYi1XTU9HTzd5d1lsVGFDdlBKeHQ1dWV6cWd6UHNIREExUGlCLUQ2aGU1cUJjcy1JdXcxWWl1WFJWdzRIRlpXY3l6cXRLZEJKWVBUcw?oc=5",
+  "summary": "Evoto 8.0 Brings New Editing, Culling and Workflow Tools to Photographers, and Opens a Creator Marketplace The Phoblographer",
+  "date": "2026-10-03T23:36:05+00:00"
+ }
+]
