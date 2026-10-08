@@ -1,0 +1,1089 @@
+[
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Editorials Introducing Ad Multiplier: Turn One Video Ad Into Multiple Variations 10 min · Oct 6, 2026",
+  "url": "https://higgsfield.ai/blog/ad-multiplier-ads-studio",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-08T09:45:22.627262+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "new minimax / h3-max/relight Relight any video with H3 Max from a lighting sphere image, while preserving the source subjects, motion, camera and audio. video-e",
+  "url": "https://fal.ai/models/minimax/h3-max/relight",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-08T09:45:22.627262+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "new vidu/q4/image-to-video Vidu Q4 turns a first-frame image into 3 to 16 second videos with native audio at up to 4K. Best for animating stills, product shots",
+  "url": "https://fal.ai/models/fal-ai/vidu/q4/image-to-video",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-08T09:45:22.627262+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "new vidu/q4/reference-to-video Vidu Q4 generates videos from up to 12 reference images and 3 voice clips, keeping characters, objects, and voices consistent acr",
+  "url": "https://fal.ai/models/fal-ai/vidu/q4/reference-to-video",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-08T09:45:22.627262+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "new mureka / api/generate/podcast Generates podcast audio from an ordered sequence of conversation turns, with text and a voice selection for each turn. podcast",
+  "url": "https://fal.ai/models/mureka/api/generate/podcast",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-08T09:45:22.627262+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "new mureka / api/generate/song Generates songs from a text prompt or supplied lyrics, with musical style, vocal, reference-audio, and melody controls, plus supp",
+  "url": "https://fal.ai/models/mureka/api/generate/song",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-08T09:45:22.627262+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "new mureka / api/generate/instrumental Generates instrumental music from a text description or uploaded instrumental reference, with support for multiple variat",
+  "url": "https://fal.ai/models/mureka/api/generate/instrumental",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-08T09:45:22.627262+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "new mureka / api/generate/lyrics Writes song lyrics and a title from a text prompt describing a topic, theme, or song concept. music lyrics text generation text",
+  "url": "https://fal.ai/models/mureka/api/generate/lyrics",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-08T09:45:22.627262+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "new mureka / api/generate/lyrics-video Creates a lyrics video from generated or uploaded audio, with selectable layouts, aspect ratios, backgrounds, and lyric-r",
+  "url": "https://fal.ai/models/mureka/api/generate/lyrics-video",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-08T09:45:22.627262+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "alibaba / wan-3.0/text-to-video Wan 3.0 is the latest generation AI video model, delivering enhanced motion smoothness, superior scene fidelity, and greater vis",
+  "url": "https://fal.ai/models/alibaba/wan-3.0/text-to-video",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-08T09:45:22.627262+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "meshy / v7/text-to-3d Turns text into a fully textured, PBR-ready 3D mesh with complete geometry, in game-ready Smart Topology at a target polygon count stylize",
+  "url": "https://fal.ai/models/meshy/v7/text-to-3d",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-08T09:45:22.627262+00:00"
+ },
+ {
+  "source": "Descript",
+  "family": "Montage, motion et broadcast",
+  "title": "Best video editing software for Windows in 2026 (free and paid)",
+  "url": "https://www.descript.com/blog/article/best-video-editing-software-for-windows",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-08T09:45:22.627262+00:00"
+ },
+ {
+  "source": "Node-RED",
+  "family": "Agents, code et automatisation",
+  "title": "node-red/node-red 5.0.8",
+  "url": "https://github.com/node-red/node-red/releases/tag/5.0.8",
+  "summary": "What's Changed Fix legacy CSV parsing of leading empty columns by @sankalpsthakur in #5961 Docs: document msg.reset behaviour for tcp out/request nodes by @Marc-Berg in #5968 Wait for a library entry to be written before resolving the save by @dlwhdgus0810 in #5975 Fix websocket client leaking a connection on every deploy by @yuanzhiqing in #5971 Update dependencies by @knolleary in #5982 Fix edit",
+  "date": "2026-10-08T09:44:12+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@1.123.84",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.84",
+  "summary": "1.123.84 (2026-10-08)",
+  "date": "2026-10-08T08:00:02+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.162.0-alpha.17.2",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.17.2",
+  "summary": "Release 0.162.0-alpha.17.2",
+  "date": "2026-10-08T07:43:55+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+  "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+  "summary": "yay small models",
+  "date": "2026-10-08T07:27:51+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.43.2",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.43.2",
+  "summary": "2.43.2 (2026-10-08) Bug Fixes core: Fix Kimi K3 and other OpenAI-compatible Assistant model providers on self-hosted Assistant ( #40552 ) ( 509a3f3 ) editor: Show the Agent artifact while the builder creates it ( #40550 ) ( 204e2dd )",
+  "date": "2026-10-08T07:25:19+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.42.5",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.42.5",
+  "summary": "2.42.5 (2026-10-08) Bug Fixes editor: Show the Agent artifact while the builder creates it ( #40551 ) ( e825e75 )",
+  "date": "2026-10-08T07:24:56+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+  "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+  "summary": "36 points, 13 commentaires HN",
+  "date": "2026-10-08T07:07:34+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50002665"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "When Leaders Step Back: What a Naga Moment of Regret Can Teach Us About Reconciliation - Ukhrul Times",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUGRYbHRJcUI1MGFJWnFQYlVhUFN6bVhIdGUwNUpyMDlsLXBBLUhGUFpWQnhVXy05VHh2RHlXWnN6UkdVQ3ZQUFE2RzhBQUtUX1VUS3pCdExvYU12djZDMG42NUZOblJsa2dnOUlITGVGRi1BY1VzTE1lTjd6NzNlQmZYem5xbmhKSXNhNVpqZ0c3RGJleDBvNXZ4OA?oc=5",
+  "summary": "When Leaders Step Back: What a Naga Moment of Regret Can Teach Us About Reconciliation Ukhrul Times",
+  "date": "2026-10-08T05:40:09+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Blackmagic Camera for Android 3.5 - Newsshooter",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pWXplY2Fmck9mZVJ5WUVxMVE0SW9nWTRXZkxCS2w2MXBuTWc0ZUZLandtZEtBYkliMEdqQ0lYc0poaFR0M2FDUzZ3LWVMS1Q4bUQyM19mVU1nYTR4eld1elctT0RzckhpbGFlaHRUSTlWSy1qYnhrVEJ3VzZ4Zw?oc=5",
+  "summary": "Blackmagic Camera for Android 3.5 Newsshooter",
+  "date": "2026-10-08T05:17:05+00:00"
+ },
+ {
+  "source": "Claude Code changelog",
+  "family": "Agents, code et automatisation",
+  "title": "anthropics/claude-code v2.1.294",
+  "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.294",
+  "summary": "What's changed Fixed prompt and agent hooks written as instructions (such as \"Block commands that...\") allowing what they should block Improved how prompt hooks on Stop and SubagentStop written as instructions (such as \"Carry on if the build is broken\") are judged, so Claude is less likely to stop early",
+  "date": "2026-10-08T05:03:54+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "ROCm 10.1: Breaking the Data-Movement Bottleneck",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0ggrk/rocm_101_breaking_the_datamovement_bottleneck/",
+  "summary": "submitted by /u/sn2006gy [link] [comments]",
+  "date": "2026-10-08T03:23:46+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Driftwood Productions ARRI EI Zone v2.0 is now a OFX plugin - Newsshooter",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPODJUNmhhQi1kRWpoTGNMQm02eGlITjFhYTFiSk1EWmZ3TUt2OHRyZE5ELWxGRUUxLVVfRUUwQWlhdlEycEUwOFRsT3R4QmpLMVptSm1UOEhTQlhKZjJGeW94WTRzWExnY1ZGY1BablFXcEcwQkxrTXZNSWprdDR2M0lkVEZiSXF1M2FZcXB0LXBMR3VFOUZjTkVaQVhvc0g0?oc=5",
+  "summary": "Driftwood Productions ARRI EI Zone v2.0 is now a OFX plugin Newsshooter",
+  "date": "2026-10-08T03:19:34+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.162.0-alpha.18.1",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.18.1",
+  "summary": "Release 0.162.0-alpha.18.1",
+  "date": "2026-10-08T02:58:48+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.162.0-alpha.20",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.20",
+  "summary": "Release 0.162.0-alpha.20",
+  "date": "2026-10-08T02:42:40+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Driftwood Productions launches RockDaBoat & Moving Shadows– two new OFX plugins for DaVinci Resolve - Newsshooter",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOODZDbFQ3YlMzTXF5YUpocjFHbXpUUVJsd1Rfd2ktRUxHLXZEU1c2MEYyWVZmanQtX0NFN0FiWVQyOUV2Rzl5akpuWndMMkh1R2FRNzROcU1YWVdJY3RXbHBibFdBVU80UDFaZHdBalA0VmlpUHc0TFB2MDlxNUZqeW5TeHR2dlVCS2NuNE5qTloycnRvcDlJTTI1QjJENHlnbUxnWEtBOVN6T2JJZGh2N1d6SG1JZlJrQkNNNGxHd1dVZ0ZuZktHc0VvcnBKZ0Zrcnc?oc=5",
+  "summary": "Driftwood Productions launches RockDaBoat & Moving Shadows– two new OFX plugins for DaVinci Resolve Newsshooter",
+  "date": "2026-10-08T02:40:22+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "GAM ATEM – Choose Life Above Nature - The Times of Israel",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kLTMzVzNCb3paOE9rbUxpM2ZNUE5pUG9nUmRPZk1IcVd1X0lONjFoUXJMX01hMWhtWXhfQ2pxN1hpYjZ6MndKb1JTNFNZV283cEZoY3hKSDNCVTBIUWN0Q3JqVWJyOXZfVE1kd2JfRWNHVVhp?oc=5",
+  "summary": "GAM ATEM – Choose Life Above Nature The Times of Israel",
+  "date": "2026-10-08T02:35:00+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Cannes Doco The Match Shot with Blackmagic URSA Cine - Content + Technology",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZzZEQU1RdjBkS0NjMUxsalM2bzV4bUFOWVJoUE81Uk11TUI0VkgxT1ZhNXdKcVlTVU1QTGVQcTlueHdsYU44Q1U5WnA0UUpmS3ZPem1hT3lRal96bjB0WHZMRVQyT0NDV1YxejEyV05NT2ZDalgydXVPR09feF9qaGNOZXYzMFpwRnMxOVJmOXp1N3FJUXlGN2RkNFdKX3c?oc=5",
+  "summary": "Cannes Doco The Match Shot with Blackmagic URSA Cine Content + Technology",
+  "date": "2026-10-08T02:03:36+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "2 months (meme-d) research, Do People Notice the Difference Between AI Models?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0etwe/2_months_memed_research_do_people_notice_the/",
+  "summary": "Preamble and disclaimer, Sample size: 8, at any size of form this research is just screwing around being writing it down. This was just a little,(well... big), curiosity test I wanted to run to see whether everyday folks could actually differentiate between high end AI models. In my country, the general reception toward AI is fairly neutral. People are neither strongly anti-AI nor boot licking abo",
+  "date": "2026-10-08T02:00:33+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Same prompts to 371 models since May 2024, all the answers in one place",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0ejor/same_prompts_to_371_models_since_may_2024_all_the/",
+  "summary": "Made this (free, no signup). One shot per model, no system prompt, temp 0.7. Lots of open weights in there, plus 93 models you can't run anymore. museumofmodels.com submitted by /u/sirjoaco [link] [comments]",
+  "date": "2026-10-08T01:46:37+00:00"
+ },
+ {
+  "source": "Gemini CLI",
+  "family": "Agents, code et automatisation",
+  "title": "google-gemini/gemini-cli Release v0.65.0-nightly.20261008.g44d764ee5",
+  "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.65.0-nightly.20261008.g44d764ee5",
+  "summary": "What's Changed fix(ci): add missing loop in unassign-inactive-assignees workflow by @ugorla-dev in #29609 fix(core): enforce terminal user turn invariant and normalize request contents by @luisfelipe-alt in #29612 feat(telemetry): support custom OTLP headers in telemetry configuration by @jesussamuel-byte in #29641 fix(auth): prevent infinite verification and OAuth retry loops by @villahernandez-c",
+  "date": "2026-10-08T01:35:49+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex rust-v0.162.0-alpha.19",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.19",
+  "summary": "Release 0.162.0-alpha.19",
+  "date": "2026-10-08T00:13:21+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.162.0-alpha.17.1",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.162.0-alpha.17.1",
+  "summary": "Release 0.162.0-alpha.17.1",
+  "date": "2026-10-08T00:07:10+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+  "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+  "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
+  "date": "2026-10-08T00:00:24+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "Quoting Ben Affleck",
+  "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+  "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning. So I can write like pretty shitty Python scripts and stuff like that because with convolutional neural networks, which were the sort of precursors to wh",
+  "date": "2026-10-07T23:14:58+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Tested in Coding: Strata",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0b0iq/tested_in_coding_strata/",
+  "summary": "This will be a potentially unpopular post - but it's the truth and grounded - so let's get to it. Hopefully you are familiar with my previous Tested in Coding series: https://www.reddit.com/r/LocalLLaMA/comments/1vvsokm/tested_in_coding_q8_k_xl_qwen38_27b_vs_bf16/ https://www.reddit.com/r/LocalLLaMA/comments/1vldngi/tested_in_coding_bf16_muse_glimmer_vs_bf16_qwen36/ Context For clarity, I am not i",
+  "date": "2026-10-07T22:57:22+00:00"
+ },
+ {
+  "source": "ComfyUI releases",
+  "family": "Open source et recherche",
+  "title": "comfyanonymous/ComfyUI v0.39.2",
+  "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.39.2",
+  "summary": "ComfyUI v0.39.2",
+  "date": "2026-10-07T21:58:07+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+  "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+  "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
+  "date": "2026-10-07T21:56:42+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "Claude Haiku 5.5",
+  "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+  "summary": "As previously promised , here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5 . The previous Haiku, 4.5, was very much showing its age. It came out almost a year ago , and was priced at $1/million input and $5/million output - relatively expensive even back then, and a full 10x the price of OpenAI's GPT-6 Luna , released last month. The new Haiku exactly matches the price of G",
+  "date": "2026-10-07T20:56:21+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+  "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+  "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+  "date": "2026-10-07T20:48:45+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "From YouTube series to a longer film production: shooting The Exorcism of Nixie - PTTL.gr",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTLWgyX2xNd2ltUW9KcnBXRVJHWnpHREJ1bThZSHdla2VpLU1Fd2F5MTNrZWhnVHdyOGVWbThsUWNlVzN5Rk8zWnFCZW9JdFMtLXh6VDEyZ3lQeFhqX1pIa2IwMFJfMUZrQVJ4Uy03VFFFX3RIWFE?oc=5",
+  "summary": "From YouTube series to a longer film production: shooting The Exorcism of Nixie PTTL.gr",
+  "date": "2026-10-07T20:33:08+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "llama.cpp on the stage",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x079wc/llamacpp_on_the_stage/",
+  "summary": "https://x.com/ggerganov/status/2107908265032229261 submitted by /u/jacek2023 [link] [comments]",
+  "date": "2026-10-07T20:25:51+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+  "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+  "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+  "date": "2026-10-07T20:22:37+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Kandinsky 6.0 video gen + video upscaler!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x06h7i/kandinsky_60_video_gen_video_upscaler/",
+  "summary": "Kandinsky 6.0 Pro (29B) and Lite (3B). Already support for ComfyUI and Diffusers. https://github.com/kandinskylab/kandinsky-6 submitted by /u/KokaOP [link] [comments]",
+  "date": "2026-10-07T19:58:11+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+  "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the […]",
+  "date": "2026-10-07T19:10:42+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+  "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+  "summary": "341 points, 339 commentaires HN",
+  "date": "2026-10-07T18:49:40+00:00",
+  "hn": "https://news.ycombinator.com/item?id=49997161"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
+  "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+  "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB […]",
+  "date": "2026-10-07T18:42:22+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+  "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+  "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+  "date": "2026-10-07T18:30:57+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
+  "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
+  "summary": "45 points, 19 commentaires HN",
+  "date": "2026-10-07T18:19:03+00:00",
+  "hn": "https://news.ycombinator.com/item?id=49996713"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+  "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+  "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+  "date": "2026-10-07T18:15:28+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "llama : add a GPU cache for MoE experts kept in host memory by am17an · Pull Request #29887 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x03xkc/llama_add_a_gpu_cache_for_moe_experts_kept_in/",
+  "summary": "Potentially big speedup for MoE models that don’t fully fit in VRAM. Are you GPU Poor? Show your speedups ;) submitted by /u/jacek2023 [link] [comments]",
+  "date": "2026-10-07T18:15:14+00:00"
+ },
+ {
+  "source": "Claude Code changelog",
+  "family": "Agents, code et automatisation",
+  "title": "anthropics/claude-code v2.1.293",
+  "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+  "summary": "What's changed Added Claude Haiku 5.5 ( claude-haiku-5-5 ), now the default Haiku model on the Anthropic API — 1M context, $0.10/$0.50 per Mtok ($0.50/$2.50 for prompts over 100K) Added agentType to the subagentStatusLine payload, so scripts can tell custom subagent types apart Added isDeferred to $.tool.register for mods: false lists the tool's schema in the prompt from the start instead of behin",
+  "date": "2026-10-07T18:10:20+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "omni-d1 600M by Liquid AI running in the browser using WebGPU",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x03mrh/omnid1_600m_by_liquid_ai_running_in_the_browser/",
+  "summary": "Liquid just dropped d1-omni-600M and it's a decision model! I ported it to runntime, the WebGPU inference library I'm currently working on. It's plain TypeScript on top of TypeGPU with no WASM and virtually no export step. The model is written directly from our core ops (matmul, attention, norms, a few elementwise bits), and the weights load straight from the HF safetensors. The demo in the video ",
+  "date": "2026-10-07T18:04:05+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Claude Haiku 5.5",
+  "url": "https://www.anthropic.com/claude-haiku-5-5",
+  "summary": "876 points, 421 commentaires HN",
+  "date": "2026-10-07T18:01:32+00:00",
+  "hn": "https://news.ycombinator.com/item?id=49996437"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Microsoft is giving Copilot more control over Windows and your files",
+  "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+  "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of […]",
+  "date": "2026-10-07T18:01:20+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+  "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+  "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+  "date": "2026-10-07T18:00:19+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Tetris3D: 3D Scene Generation With Objects That Fit Together",
+  "url": "https://arxiv.org/abs/2610.10539v1",
+  "summary": "We propose Tetris3D, a generative framework for single-image 3D scene reconstruction that recovers objects which are physically and geometrically coherent as a scene. Existing methods often generate objects independently or couple them implicitly, providing limited guidance for ensuring fine-grained spatial compatibility between neighboring objects that interact with one another. To address this, ",
+  "date": "2026-10-07T17:59:48+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
+  "url": "https://arxiv.org/abs/2610.10538v1",
+  "summary": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without knowing we would need it later. Here, we study how an embodied assistant can build a similar memory from egocentric videos, by observing a person's day-to-day activities. We present Ledg",
+  "date": "2026-10-07T17:59:41+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Decoupling Exploration from Optimization in RLVR",
+  "url": "https://arxiv.org/abs/2610.10536v1",
+  "summary": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sample novel ideas absent from its prior training data. In practice, however, augmenting RLVR with strong novelty incentives has seen limited success and can degrade model quality. B",
+  "date": "2026-10-07T17:59:26+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+  "url": "https://arxiv.org/abs/2610.10533v1",
+  "summary": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Beyond model scaling, this architecture has demonstrated the potential to decouple factual knowledge storage from general-purpose computation, offering a promising route to updating factual knowledge wh",
+  "date": "2026-10-07T17:58:52+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Long-WAM: Scaling the Context of World-Action Models",
+  "url": "https://arxiv.org/abs/2610.10528v1",
+  "summary": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the context of causal world-action models under real-time control constraints. Our central finding is that access to history is not the same as using it: longer histories pay off far more when the video foun",
+  "date": "2026-10-07T17:58:04+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+  "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
+  "summary": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties.",
+  "date": "2026-10-07T17:57:39+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "GRACE: Generation-aware latent compression for efficient video generation",
+  "url": "https://arxiv.org/abs/2610.10524v1",
+  "summary": "Highly compressed video autoencoders offer an effective way to accelerate video diffusion models, as the Diffusion Transformer (DiT) operates on far fewer tokens. However, such autoencoders are challenging to train, since a higher compression ratio degrades reconstruction quality and recovering it requires more channels, which is known to slow the convergence of the DiT. The compressed latent also",
+  "date": "2026-10-07T17:57:34+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Widespread steep X-ray spectra of luminous $z\\simeq5.85-7.5$ quasars and their implications for future X-ray surveys",
+  "url": "https://arxiv.org/abs/2610.10522v1",
+  "summary": "Luminous quasars (QSOs) at the Epoch of Reionization (EoR, $z\\gtrsim6$) host billion-solar-mass black holes assembled within the first Gyr of cosmic time. Their X-ray emission probes the innermost accreting regions and constrains the physical state of the corona during early supermassive black hole (SMBH) growth. Previous results from the HYPerluminous quasars at the Epoch of ReionizatION (HYPERIO",
+  "date": "2026-10-07T17:56:33+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Why Forget-Only Unlearning Needs Memorization",
+  "url": "https://arxiv.org/abs/2610.10519v1",
+  "summary": "Machine unlearning asks for a deletion algorithm whose output is close to retraining from scratch without the selected forget examples. In this work, we study forget-only unlearning, where the deletion algorithm receives only the trained model and the examples to forget, with no retained data or extra training information. We ask whether forget-only unlearning is always possible. We first show tha",
+  "date": "2026-10-07T17:55:46+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "RoboJEPA: Scaling Robotic Latent World Models",
+  "url": "https://arxiv.org/abs/2610.10515v1",
+  "summary": "Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their capabilities scale with model size, data, and compute, an open problem that slows progress in the field. In this work we present RoboJEPA, a world model based on the Joint Embedding Predictive Architecture (JEPA) and traine",
+  "date": "2026-10-07T17:54:42+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
+  "url": "https://arxiv.org/abs/2610.10513v1",
+  "summary": "Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of which can tell whether a new scientific model is valid. The AI Science Exam for El Nino-Southern Oscillation (SciExam for ENSO) is a benchmark in which agents build low-order stochastic models of ENSO,",
+  "date": "2026-10-07T17:52:52+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Video-Conditioned Generative Joint 2D-3D Hand Motion Recovery",
+  "url": "https://arxiv.org/abs/2610.10512v1",
+  "summary": "Recovering faithful 3D hand motion from video remains challenging due to frequent occlusions and incomplete visual observations, which make frame-wise pose estimates unreliable and temporally inconsistent. To address this problem, we propose JoHan, a unified generative framework that recovers hand motion directly from video sequences without relying on intermediate per-frame pose predictions. Trai",
+  "date": "2026-10-07T17:52:23+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing",
+  "url": "https://arxiv.org/abs/2610.10507v1",
+  "summary": "Large language models are increasingly applied to tasks grounded in long, heterogeneous information sources. Conventional Retrieval-Augmented Generation (RAG) relies on fixed similarity-based retrieval, while agentic variants adapt queries and tool use but remain largely retrieval-centric. However, in many tasks, the evidence required for a solution is not explicitly present in any single source i",
+  "date": "2026-10-07T17:51:08+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models",
+  "url": "https://arxiv.org/abs/2610.10506v1",
+  "summary": "Many of the questions now put to large language models have no correct answer to score against: what a policy is worth, which option a user should choose, how to weigh competing values. Stated-preference economics has faced this problem for decades. It judges survey responses without knowing the true value, through a framework of validity and related concepts: content, construct, and criterion val",
+  "date": "2026-10-07T17:51:07+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Taxonomic Classification with Complete Tag Arrays",
+  "url": "https://arxiv.org/abs/2610.10500v1",
+  "summary": "Taxonomic classifiers such as Kraken assign each $k$-mer of a reference database to the lowest common ancestor (LCA) of the genomes containing it, but this works less well as databases grow, because more and more $k$-mers are shared across species. Cliffy (Ahmed, Boucher and Langmead, 2025) instead uses variable-length exact matches found with an r-index, and can list approximately the genera cont",
+  "date": "2026-10-07T17:49:27+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution",
+  "url": "https://arxiv.org/abs/2610.10498v1",
+  "summary": "Robot foundation models provide strong visuomotor control, yet their performance can degrade when object positions or task instructions change. Further improvements often require post-training on substantial robot data, which can be costly to collect through methods such as teleoperation. Agentic harnesses can adapt around the model, but current self-evolving harnesses use robot trials inefficient",
+  "date": "2026-10-07T17:48:02+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "QuadTok: Quadtree Visual Tokenizer for Autoregressive Image Generation",
+  "url": "https://arxiv.org/abs/2610.10497v1",
+  "summary": "We introduce QuadTok, a novel framework for visual tokenization and autoregressive image generation. Compared to traditional approaches using 2D grids or 1D token sequences, we propose a hierarchical quadtree structure, bridging the gap between 2D spatial binding and 1D sequence-level flexibility. The QuadTok tokenizer dynamically allocates representational capacity to visually intricate areas whi",
+  "date": "2026-10-07T17:47:42+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+  "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+  "summary": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components. The Dev Box's flat, 3D-printed anodized […]",
+  "date": "2026-10-07T17:46:44+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Insights from Autoresearch for Solar Panel Segmentation",
+  "url": "https://arxiv.org/abs/2610.10491v1",
+  "summary": "This paper investigates AutoResearch, a protocol in which a coding language model edits a training program under a one-hour GPU budget and retains a change only if validation IoU improves. The protocol is applied to photovoltaic panel segmentation on a frozen real-image split, with DeepLabV3--ResNet-50 held fixed. Three campaigns of 24 experiments, using Gemma~4 12B, Qwen3-8B all improve their one",
+  "date": "2026-10-07T17:45:31+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Standard estimators cannot represent fault-tolerant workloads at measured error rates: evaluated, evidence-based uncertainty for quantum resource estimation",
+  "url": "https://arxiv.org/abs/2610.10490v1",
+  "summary": "Estimates of the quantum resources needed to run fault-tolerant algorithms are almost always reported as single numbers, even though they rest on uncertain hardware parameters and on cost models that disagree. We present an open, tool-agnostic framework that propagates evidence-based priors over fault-tolerant hardware parameters through five surface-code cost models, adds correlated-input sensiti",
+  "date": "2026-10-07T17:45:18+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "LOCAA: An Agentic System for Automated Lossy Compressor Tuning",
+  "url": "https://arxiv.org/abs/2610.10487v1",
+  "summary": "Large-scale scientific simulations generate substantial data volumes, making lossy compression essential for reducing storage and data movement costs. However, users configure compressors through numerical error bounds (EBs) while often evaluating results using quality metrics and end-to-end performance. Because the relationship between an EB and these outcomes varies across datasets and compresso",
+  "date": "2026-10-07T17:44:31+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Two-Level Softmax Sampling Done Right: Correcting Bias from Size Imbalance and Dispersion",
+  "url": "https://arxiv.org/abs/2610.10483v1",
+  "summary": "Sampling from a softmax distribution is a fundamental operation in machine learning, but its linear complexity in the number of items makes exact sampling impractical at scale. Two-level softmax (2LS) sampling is a popular alternative enabling sublinear-time sampling. Assuming items are partitioned into clusters, 2LS first samples a cluster and then an item within it. In this paper, we show that, ",
+  "date": "2026-10-07T17:38:35+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies",
+  "url": "https://arxiv.org/abs/2610.10479v1",
+  "summary": "A simulation of a real robot workspace must preserve task-relevant interactions, while policies developed in it must operate on observations available to the real robot. Yet scene reconstruction and policy development are often treated separately. We present Agentic Real-to-Sim-to-Real (Agentic RSR), a framework that links scene reconstruction, policy development, and real-robot execution through ",
+  "date": "2026-10-07T17:37:20+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Label-free cell counting and viability prediction with brightfield imaging and deep learning",
+  "url": "https://arxiv.org/abs/2610.10473v1",
+  "summary": "Cell viability assessment is a core requirement in cell culture systems, with critical applications in biopharmaceutical manufacturing and drug development. Conventionally, it is measured by adding membrane-impermeable dyes to a sample (a process called staining), which allows compromised cell membranes to be distinguished from intact ones. However, staining has several limitations: (a) chemical a",
+  "date": "2026-10-07T17:34:54+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "MORCA: Offline-to-Online Reinforcement Learning for Adaptive Cache Reuse in Video Diffusion Acceleration",
+  "url": "https://arxiv.org/abs/2610.10457v1",
+  "summary": "Diffusion Transformers (DiTs) achieve remarkable performance in video synthesis, but their iterative denoising process suffers from high inference latency. To address this, caching has emerged as an effective acceleration strategy by capitalizing on inter-step redundancy during denoising. Existing dynamic caching methods typically estimate the error that cache reuse would introduce at each denoisi",
+  "date": "2026-10-07T17:25:35+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Ao Senden accepts retraction of NSCN-IM leaders' remarks against SC Jamir over Naga issue - The New Indian Express",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ1VObmo3MWFoaUNKbGhSVGFqdEEzY21ac0ZNbzFRUWRBaU1yd0xvYkFTUFV6a1lwZzVxaWhKWUFjZUh4THBjbnhqSEpySUR4TDBSSXJkUnZrR3pJMjMzMEVsbHVpaW1STzBRVnl3UHhkSjNVMkZCazhKeGlQckdkWjdQVGdLSHhOOTZLbkY5N3BldFZqRmhEYVd1ZEVnaEV6TWZuU2JoM0E0bHo2c0RCdEdBQ3FIQkIxQ05tVHNoWHRqWmxrdDBDM3J5QjFRSE1XSmFrckd30gHjAUFVX3lxTE5ERHQ0ZUp5VlNEMm1SLTMwOHlXR0FPQ2F2YldtU0txYndCcGdhR09ERjNpM3ZEZ2Z5Y1c3MjJuUmlzT3p4TFBHUkV6Skh5LVBRZHkyZG9uMkpPTEl0ajFwaVdFWWZwRWk2S19NRW8wZi1WWmlnV1JzWmF0ZGdPV1FzMEdQQnVkZDlvNEs0ZkZJQmtndHBGeFhrYnUwUGxQM1luTmJxajFITjF1N1hwOVZIWFB1dHh5cHh2WlhEMV9lV0pjdDQzV3RfenlNdFZCZ3p3QWd4UUpaY3F0S21CV2ZSVUpn?oc=5",
+  "summary": "Ao Senden accepts retraction of NSCN-IM leaders' remarks against SC Jamir over Naga issue The New Indian Express",
+  "date": "2026-10-07T17:20:08+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "ECHO: Embodied Camera Observations of Human Object Carrying",
+  "url": "https://arxiv.org/abs/2610.10438v1",
+  "summary": "Embodied and assistive agents must do more than recognize objects: they must reason about where an object belongs given the layout of an environment and the habits of the people who live in it. Progress on this problem has been limited, in part because no dedicated benchmark or dataset exists to define and evaluate it. Existing RGB-D scan datasets reconstruct static rooms without human activity, w",
+  "date": "2026-10-07T17:15:27+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Detecting Adversarial Images through Response Profiles of Vision-Language Models",
+  "url": "https://arxiv.org/abs/2610.10436v1",
+  "summary": "Adversarial perturbations can alter the predictions of frozen vision-language models (VLMs) while leaving their confidence and image--text similarity patterns seemingly plausible. We investigate whether we can identify adversarial inputs based on the broader way an image interacts with a collection of general semantic prompts. Our detector summarizes these responses using category-level statistics",
+  "date": "2026-10-07T17:13:12+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "SGF+: Decoupling Gradient Flows for Autoregressive Video Generation",
+  "url": "https://arxiv.org/abs/2610.10429v1",
+  "summary": "Autoregressive video generation requires denoising the current frames while writing their key-value representations as context for future predictions. However, these two roles typically share parameters, and we find that their gradients exhibit distinct patterns and systematic negative alignment, hindering the joint optimization of visual quality and temporal consistency. We introduce Self Gradien",
+  "date": "2026-10-07T17:09:04+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "GraphRectify: Graph-Based Transfer of Adversarial Example Detectors Across Neural Networks",
+  "url": "https://arxiv.org/abs/2610.10423v1",
+  "summary": "Adversarial example detectors are often tied to the classifier backbone they were trained on, limiting reuse when the protected model is replaced or upgraded. Directly transferring such detectors across backbones is challenging because different networks generally produce incompatible internal representations. We propose GraphRectify, a graph-based framework for transferring adversarial image dete",
+  "date": "2026-10-07T17:03:55+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "d1-3B and d1-omni from LiquidAI",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x01zg6/d13b_and_d1omni_from_liquidai/",
+  "summary": "https://preview.redd.it/owhrvbbiu2uh1.png?width=4096&format=png&auto=webp&s=55d816753e7adee0e1391c9f581052b4bde44da7 d1-omni-600M d1-omni-600M is a 600M parameter decision model built on LFM2.5-Encoder-350M . You give it a state (text or JSON, with images or a voice clip) and a set of named questions. It returns typed answers with zero output tokens : every answer is read directly from the model's",
+  "date": "2026-10-07T17:02:15+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "LiquidAI/d1-3B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x01xg3/liquidaid13b_hugging_face/",
+  "summary": "submitted by /u/iamn0 [link] [comments]",
+  "date": "2026-10-07T17:00:23+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+  "url": "https://agent.reviews/",
+  "summary": "57 points, 45 commentaires HN",
+  "date": "2026-10-07T16:59:11+00:00",
+  "hn": "https://news.ycombinator.com/item?id=49995539"
+ },
+ {
+  "source": "Hugging Face blog",
+  "family": "Open source et recherche",
+  "title": "Multimodal open d1 decision models for the edge",
+  "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+  "summary": "",
+  "date": "2026-10-07T16:54:33+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+  "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+  "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+  "date": "2026-10-07T16:53:46+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Self-correction Optimization for Interleaved Multimodal Generation",
+  "url": "https://arxiv.org/abs/2610.10400v1",
+  "summary": "Multimodal large language models (MLLMs) have made significant progress in visual understanding and generation. However, generating interleaved image--text content remains challenging, as it requires tightly integrated multimodal understanding and generation capabilities. Although existing MLLMs provide promising solutions, most rely on additional training with augmented data, which is computation",
+  "date": "2026-10-07T16:51:02+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
+  "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+  "summary": "96 points, 35 commentaires HN",
+  "date": "2026-10-07T16:07:08+00:00",
+  "hn": "https://news.ycombinator.com/item?id=49994746"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "ChatGPT is getting college planning tools",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+  "summary": "OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \"College Planner brings together application requirements, deadlines, tasks, and financial-aid steps for schools on a student's list in one plan,\" OpenAI says. \"Students applying to several […]",
+  "date": "2026-10-07T16:00:00+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Muse launches on the iPad",
+  "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+  "summary": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to compete with OpenClaw, ChatGPT's Dots, and Grok Bot) was released about a […]",
+  "date": "2026-10-07T15:37:23+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Ao Senden accepts retraction by NSCN (IM) leaders over Jamir remarks - Eastern Mirror (Nagaland)",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZXlWNWtTOXlYMi1uaVdDTEZQZzBpRnVYR1RfWWxiUjVaZTNOUFZ5eEpqay14ZWozak5NTG50TG9TX1FMcEtnNGYzZWx0SUxqSVZ0c1llQXA4a2NwTktCeHBWOUpyVDVEZll5MExpQlU1czlaQUt5Y1pBYlJ1SkhsZWJPSWVtVzFnTmt5VVp5SlBLd1E0SWpzSlU0VUNtdFd4OWctTUJUbw?oc=5",
+  "summary": "Ao Senden accepts retraction by NSCN (IM) leaders over Jamir remarks Eastern Mirror (Nagaland)",
+  "date": "2026-10-07T15:27:47+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+  "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+  "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+  "date": "2026-10-07T15:07:08+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "Anti-Patterns in Software Blogging",
+  "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
+  "summary": "Anti-Patterns in Software Blogging Some excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existing knowledge, assuming they'll read your previous posts, and excessive formality. He also warns against overreliance on links as an excuse not to explain terminology. This one hurt! I do this all the time, but I have a nagging suspicion that",
+  "date": "2026-10-07T14:53:51+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+  "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+  "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+  "date": "2026-10-07T14:41:38+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+  "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+  "summary": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as reported earlier by Reuters. The project is led by Biohub, a nonprofit biomedical research organization founded by Mark Zuckerberg and his wife, Priscilla Chan. […]",
+  "date": "2026-10-07T14:40:52+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "1,000 police officers to undergo capacity building course in Lakes - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX09iUklBZzgyMHVtRXo5S3VXQkpqZWVSb0tjQ2htRXhlWmtQQmV0WEgteXVnM2RqTmpRVzU1R1lsaVdWQm95dGZtVXI5TkZYRk0yQm5BTDR6TnZoTXRJVGptcU1EdjQzbWo0QXl1a1BUWS01TW5OazJ0THZnSngxc3NGd3BRY1dBQ0p3UlpfWm3SAZYBQVVfeXFMTXRSbHFjbVBqUVR5NzJoYXhBT3NfS0F2VHhJVmlnUmI4UGVxZ1NMZ0ZVR2FnLWlkLVJER0tadm5ZQjR3YVkxeEU3TVFJUjhuN3VhVlZwdFNZaDNLczVzdEQwYzhsdDV2a1BEZE1WUVJOQ0VmdjBmZkd0YmxmODB4UHJiNDg2Y2V6Y01EbkR3NlJCQmxRcFJ3?oc=5",
+  "summary": "1,000 police officers to undergo capacity building course in Lakes Eye Radio",
+  "date": "2026-10-07T14:36:27+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Google experiments with an AI-powered gaming platform",
+  "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+  "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+  "date": "2026-10-07T14:36:23+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "NSCN-IM leaders retract remarks questioning S C Jamir’s right to speak on Naga issue - India Today NE",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZnYtSFE2aDFray1ra1dNQ1UwZC16aEJ0dzM4dTZNQkN2TjBzSVhFWGZlQ2NLR0E0Vjk0Uk9QS3BWRzNac19TMVZDMkUxeXVxQU1ib3dVa0tEMTRpclYwa3VuZzFjOS0xb0ZCWWUtekhZbnpzY0VpVEFFWlFLMUM5TlJiTkpxanI0Y0Z2Q1BXLWZVLXRoOFhWeG1qTlVyVktBRVJSNnVSUzRZVFl4RzdjeVB3LXRCYXhvLXBXT05HYlV6RWtYOHUzaEZaSF9rTmxmaTJNZmg2b2NTM0Frb2JaRGkwZ9IB4wFBVV95cUxOZnYtSFE2aDFray1ra1dNQ1UwZC16aEJ0dzM4dTZNQkN2TjBzSVhFWGZlQ2NLR0E0Vjk0Uk9QS3BWRzNac19TMVZDMkUxeXVxQU1ib3dVa0tEMTRpclYwa3VuZzFjOS0xb0ZCWWUtekhZbnpzY0VpVEFFWlFLMUM5TlJiTkpxanI0Y0Z2Q1BXLWZVLXRoOFhWeG1qTlVyVktBRVJSNnVSUzRZVFl4RzdjeVB3LXRCYXhvLXBXT05HYlV6RWtYOHUzaEZaSF9rTmxmaTJNZmg2b2NTM0Frb2JaRGkwZw?oc=5",
+  "summary": "NSCN-IM leaders retract remarks questioning S C Jamir’s right to speak on Naga issue India Today NE",
+  "date": "2026-10-07T14:30:33+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+  "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+  "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+  "date": "2026-10-07T14:30:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "A week in Beijing and Shanghai with the people building AI in China",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzxttk/a_week_in_beijing_and_shanghai_with_the_people/",
+  "summary": "I thought this was a very interesting article, of relevance to the readers here. submitted by /u/uutnt [link] [comments]",
+  "date": "2026-10-07T14:22:00+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "SynthID Detector",
+  "url": "https://synthid.com/",
+  "summary": "115 points, 94 commentaires HN",
+  "date": "2026-10-07T14:16:44+00:00",
+  "hn": "https://news.ycombinator.com/item?id=49993188"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+  "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+  "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
+  "date": "2026-10-07T14:15:00+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+  "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+  "summary": "Mistral says Le Chonk can rival top closed models while remaining open-weight.",
+  "date": "2026-10-07T14:12:37+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
+  "url": "https://www.latent.space/p/stacklok",
+  "summary": "Kubernetes co-creators Craig McLuckie and Joe Beda aim to bring agent harnesses fully into the cloud.",
+  "date": "2026-10-07T14:10:45+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Google rolls out improved SynthID AI content detector, now available globally",
+  "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+  "summary": "The new SynthID website can now identify AI content from Google, OpenAI, and more.",
+  "date": "2026-10-07T14:00:08+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Google’s new SynthID website can identify AI-generated media",
+  "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+  "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+  "date": "2026-10-07T14:00:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+  "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+  "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.",
+  "date": "2026-10-07T14:00:00+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "The Secret to Cloning Yourself in DaVinci Resolve - YouTube",
+  "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5yVkFoOHVxQWpoVlFaMTAwazA4WEpRQjc2M2l2aFdzeU80OVQwZ2FrU3NuSXEwMDhYNTZzcTdKRm5ZZw?oc=5",
+  "summary": "The Secret to Cloning Yourself in DaVinci Resolve YouTube",
+  "date": "2026-10-07T12:59:20+00:00"
+ },
+ {
+  "source": "Hugging Face blog",
+  "family": "Open source et recherche",
+  "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+  "summary": "",
+  "date": "2026-10-07T12:45:31+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "feat: add GLM5Next MTP, optimize by pwilkin · Pull Request #29928 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzvdqe/feat_add_glm5next_mtp_optimize_by_pwilkin_pull/",
+  "summary": "now you can use GLM 5 Flash MTP locally submitted by /u/jacek2023 [link] [comments]",
+  "date": "2026-10-07T12:36:13+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "QATAR GREEN LEADERS - IQAir",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLVdPVlBRZGt2YlhkcnJaRWRzOHBXeHBvVkJQZ3lyT1F1T2I0TURLc1lQR0ZucjNveHBkUFVYU3dkRXluakZyeTJzaHhEUXdzQ2x1SkRMMHgtTjRvOHlObzZWZEVDUUQ0LXozdjBXbF8wOWlrUWx4eUNWbFV1TkVpNFdvcmZ0UlgzSktTWGktR00?oc=5",
+  "summary": "QATAR GREEN LEADERS IQAir",
+  "date": "2026-10-07T12:14:40+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "New LFM to be released today",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzuto0/new_lfm_to_be_released_today/",
+  "summary": "https://x.com/ramin_m_h/status/2107780594264600801 What size do you want? https://huggingface.co/LiquidAI submitted by /u/jacek2023 [link] [comments]",
+  "date": "2026-10-07T12:08:41+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Helping teens learn, plan, and shape the future of AI",
+  "url": "https://openai.com/index/teens-learn-and-plan",
+  "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+  "date": "2026-10-07T12:00:00+00:00"
+ },
+ {
+  "source": "Google AI blog",
+  "family": "Modèles et labos",
+  "title": "Introducing Playground: Create and play custom games",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+  "summary": "Overview of Playground",
+  "date": "2026-10-07T12:00:00+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "AI could upend food delivery",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+  "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed startup. But this summer, Bites […]",
+  "date": "2026-10-07T12:00:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Micron Says NVHBM to Improve Profitability Even With Outsourced Base Die",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzudla/micron_says_nvhbm_to_improve_profitability_even/",
+  "summary": "\"NVHBM moves the memory controller, which was previously located on the main compute die, into the base die. This reduces power consumption by 15% and increases memory bandwidth by as much as 30%. It also integrates a customized physical layer (PHY) for input/output (I/O), reducing the package area required for the I/O PHY by as much as 67%. NVIDIA says NVHBM provides up to 30% greater memory band",
+  "date": "2026-10-07T11:46:13+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Meet the new caretaker cabinet of Unity State - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PT015dGVaMnNBekV2SVZsd19LQjZpdGdqbmxMZjdPSG5WczZ0WUUtNHlxcXhkSC1hMHBqMDczM2JGTVdhTkl5amVtRWZTUGEtTVlfcWJWR1ZLLV83aFA1MFRPME9BQWFBaG9UMHlVT19XTWlHR3fSAXtBVV95cUxNNWhQS1MwLXo2TkgxVU1hS2h4V2l0SGZGc3ZKZzdOZHBxZlhvMDRhZVh4LWY4eGFrakZIQUZaRzlqMmtPa3dYVzYzUXh0aTJkTi1yNnNadmVhVDJ0aUdyQkcwVWdpQ2lxWGE1WDEtYXIyZ0t0TWhSbGdnWHc?oc=5",
+  "summary": "Meet the new caretaker cabinet of Unity State Eye Radio",
+  "date": "2026-10-07T11:43:59+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "NSCN leaders retract RSS-related statement on former Nagaland CM - The Hindu",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMHRFdkFNak0tbU1MVEJjZlMxRzZfR3dhc2ZsWHpJc2wyc0JrMzdrcHhobU9JVkxfekQ1eEdmdndxZ0pNc1ZfdjFZSVFLQVZ2NllobkJKS1pIbnQwbG1KaWRXWlFRWFVud2lfQzg1Z3NhcGUxMFJwRWV2XzZSczZVdUd3TUxsd0xiaFdNTy1MbzhDalFVXzVvMFZRbGZncXlSdVdmZHhUTEFHYXZLR3hHTS1QbS1HcEN5dVlOZlU5VkVSYVBPSFNqc3VXSDdObEJxTjFN0gHTAUFVX3lxTE0wdEV2QU1qTS1tTUxUQmNmUzFHNl9Hd2FzZmxYeklzbDJzQmszN2tweGhtT0lWTF96RDV4R2Z2d3FnSk1zVl92MVlJUUtBVnY2WWhuQkpLWkhudDBsbUppZFdaUVFYVW53aV9DODVnc2FwZTEwUnBFZXZfNlJzNlV1R3dNTGx3TGJoV01PLUxvOENqUVVfNW8wVlFsZmdxeVJ1V2ZkeFRMQUdhdktHeEdNLVBtLUdwQ3l1WU5mVTlWRVJhUE9IU2pzdVdIN05sQnFOMU0?oc=5",
+  "summary": "NSCN leaders retract RSS-related statement on former Nagaland CM The Hindu",
+  "date": "2026-10-07T11:04:42+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "cmpunlocker v0.5 just dropped, ECC support along with 4 extra SM unlocked for FREE, who needs a 64GB DGX Spark when you've got a CMP170hx right? 1.5TB/s memory BW vs 273 GB/s, all for less than 1/2 th",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzth65/cmpunlocker_v05_just_dropped_ecc_support_along/",
+  "summary": "If you're like me and saw the price increase for the 128gb DGX Spark go from 4.7k -> 7k while a new version with 64GB launch for 5k, you'll have been very disappointed and every right to be so, it's just plain sad for localAI. Well, here's some good news, cmpunlocker v0.5 just dropped with ecc support and +4 SM for free. I hear gen3 unlock is also on the way so fingers crossed. https://github.com/",
+  "date": "2026-10-07T10:55:42+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Ao Senden accepts NSCN-IM leaders’ retraction over remarks on SC Jamir - MokokchungTimes.com",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOXZYYWRwUEVzUmRndnB5RDBDM3Ewb1lZQmhlTlFHUm9tS3RmMmtGVVhvWkhBU0taaG9hM0Nib25XaklUWnk4STlwaE5DTnVIT2Nvd2NPc1dKd3pKRnZDMTFjN3RlWkdVYjh6Q0l3dGpDYkplYmtJUkd6LVBwaVdyeS1iUlNiZWl6V3dSbWxVakpleFNMTDBaY2ZJXzUzNkXSAacBQVVfeXFMTktDOWxJREswNWJCdHd1RlVzZFd3clVSQU9ZU1ZUb05rNkozMEZkZjZEdVhhalNycTN2U1lDdUFVYXNCamRVUFZDQUY2aG1oUkQ3TjNSb0NXTFpNbjIyM2xPMGh5eDBHQy10c0N3eHJ6dDZpaGJOQ1RSamIwVWhNZGNBcVZYNEc3d2hmaUo2OFJoMUdqYzhuMUt4YWl4OWhVVnpQMVpmLTQ?oc=5",
+  "summary": "Ao Senden accepts NSCN-IM leaders’ retraction over remarks on SC Jamir MokokchungTimes.com",
+  "date": "2026-10-07T10:54:42+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "RØDE turns RØDECaster Video into 4K capture hub - Worship AVL",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUGxTZEdELXdQZnVVVG0wa21UTk5VQU5obDhRX1FCUkIyLW9PZWtXcGN6cWUtaHJjUU92TEVUaGF0YmJhOVJyYU11VXdVaGZrcjVtaDNTWVBGY254RW5XU0FkaW9xTWZQdUNVdDJhZldfWXhpM3pJRGNWMnd0NVNTQ211Y0dId2tueTZjWVJQRkh0dw?oc=5",
+  "summary": "RØDE turns RØDECaster Video into 4K capture hub Worship AVL",
+  "date": "2026-10-07T10:24:55+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Bakayimbira Dramactors be banzigulirawo olugi oluntuusizza wano we ndi mu kuzannya Film l G256 - YouTube",
+  "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBmSER3MmpBMDViWV9FYjNSMC1zeXcySng4NkNmdDR5MkpPUXRXaEZPOVR5Q1dvUUNMWDVzY2Y4c0VzZw?oc=5",
+  "summary": "Bakayimbira Dramactors be banzigulirawo olugi oluntuusizza wano we ndi mu kuzannya Film l G256 YouTube",
+  "date": "2026-10-07T10:21:59+00:00"
+ },
+ {
+  "source": "Remotion",
+  "family": "Montage, motion et broadcast",
+  "title": "remotion-dev/remotion v4.0.534",
+  "url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.534",
+  "summary": "What's Changed Upgrade to Chromium 157.0.8080.0 by @JonnyBurger in #11460 @remotion/renderer : Share memory between Chrome and FFmpeg @remotion/renderer : Enable parallel encoding more often remotion : Nested HTML-in-canvas works during server-side rendering remotion : Skip unchanged timeline sequence updates by @JonnyBurger in #12030 remotion : Fix unnecessary context updates in <Freeze> by @Jonn",
+  "date": "2026-10-07T09:40:59+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Hampshire Cricket Brings Live Production And Analysis In-House With Bolin PTZ Cameras - 4RFV",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRTBoRkcwZ1FoOHVvUDZ4V1RzaVd0ZjFNbTNYcElCQjBVYUhMcTdoNDU3V2V5dkVMVkdSSDk5QnlweUFrTGpsTzR6cGdyY2txel9Db1BLckxHckdjS0lMYVF2clhEZGFYcUpBdFlROVhYYlVHTjNPQXZ2RGNmNFVmUGlTX3ZxaEU1bkh2SzdwZ0lvM2RIeV8zUFo0amtuQTJiVmo4bEwxcFYxWXNudVhHWWVwSGtlNDFkZDhzNzFQLUs?oc=5",
+  "summary": "Hampshire Cricket Brings Live Production And Analysis In-House With Bolin PTZ Cameras 4RFV",
+  "date": "2026-10-07T09:00:45+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Waithaka Wa Jane - JONASI (NDI SINGLE) Mp3 DOWNLOAD - CitiMuzik",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWV5bDNqY1lyRmFydHFQc0hDcnpUNmN2VGdMMmNyUm8tV1QwSVJDdG9pbV9sSmdsLW5XMG5FZ0FSYVdPbmVIdUdiTVgwM3U3UEJOQk9JNjFnNHJibXhNN0hHNWhZMXRhVXdyTHVxMGZRU1lhZzRMV1JNeVNGdy1xc1JEbzhjM2NmTU5tcVhBdw?oc=5",
+  "summary": "Waithaka Wa Jane - JONASI (NDI SINGLE) Mp3 DOWNLOAD CitiMuzik",
+  "date": "2026-10-07T09:00:39+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "SC Jamir remarks row: What happened and why it matters - EastMojo",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUy1PVVN2NGpPX09QbkRScUlWNnJCeWQ3bTJwcXFUOWYyWkdLRldHWFlHRXIxM0ZVQzZWQi0yNUgzRFE0SldXeGZkYXVUbE5XR0haMlg2V0ZjNWk2bi1LNU9BVVRKSml4Um1xaW5QRW8wN2tqSUZHajNJSmVlYlI2cEdXY09xSFJKWFIwdC00Q1cxdUxZdDFyWUlKQQ?oc=5",
+  "summary": "SC Jamir remarks row: What happened and why it matters EastMojo",
+  "date": "2026-10-07T08:58:43+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+  "url": "https://openai.com/index/radisson",
+  "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+  "date": "2026-10-07T07:00:00+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "NSCN-IM Leaders Retract Remarks On Former Nagaland CM S C Jamir’s Right To Speak On Naga Political Issue - Northeast Today",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTnQyQm0xc2FKeEI4Y1ZDanVqaDdJdEJlSm1Hc1NnMERDZGxlaURtSkFZb1oyS1BneDB6cFgzMFQyQUJudzZQNDBydFkzaTNWbGxlTmF0ZEkxdERicjRESlVIbm5OakFveGhCN0kwR18xdWRLdDRnbnJXX0FIaDBfLXJ0Y0pZYWVJdUtjdkJRNC1vZ3NkM2pNTXp4Y3BKbnI0RTlVWTlUX0IxbDJCN2RFRlhxM1NSeF9TcVJBTnB0dklLY0JoYzNVWFdtZ182d25xRmRNd25Ubw?oc=5",
+  "summary": "NSCN-IM Leaders Retract Remarks On Former Nagaland CM S C Jamir’s Right To Speak On Naga Political Issue Northeast Today",
+  "date": "2026-10-07T06:18:51+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "GPT-6 and Intelligent UI for everyone",
+  "url": "https://openai.com/index/gpt-6-for-everyone",
+  "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+  "date": "2026-10-07T00:00:00+00:00"
+ }
+]
