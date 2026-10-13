@@ -1,0 +1,440 @@
+[
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Guides How to Put Two Consistent Characters in One AI Video Scene 13 min · Oct 13, 2026",
+  "url": "https://higgsfield.ai/blog/two-characters-one-scene-ai-video",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-13T09:54:33.998813+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Guides How to Automate AI Video Creation Without Coding 9 min · Oct 12, 2026",
+  "url": "https://higgsfield.ai/blog/automate-ai-video-no-code",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-13T09:54:33.998813+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Editorials Higgsfield Meets Katana: What It Is and How it Works 8 min · Oct 12, 2026",
+  "url": "https://higgsfield.ai/blog/higgsfield-katana",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-13T09:54:33.998813+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "new bria / guided-remove-background Background removal you steer with a prompt. Starts from the same clean cut as Bria RMBG, then adds, drops or isolates object",
+  "url": "https://fal.ai/models/bria/guided-remove-background",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-13T09:54:33.998813+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
+  "url": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
+  "summary": "MSL’s emergence as a frontier lab is finally complete.",
+  "date": "2026-10-13T09:37:04+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
+  "url": "https://github.com/composo-ai/DishwasherBench",
+  "summary": "41 points, 14 commentaires HN",
+  "date": "2026-10-13T08:24:06+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50068437"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Sipeed announces MaixStation, comparable to Strix Halo and DGX Spark",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4r1o5/sipeed_announces_maixstation_comparable_to_strix/",
+  "summary": "submitted by /u/Marcuss2 [link] [comments]",
+  "date": "2026-10-13T08:21:05+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.44.0",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.44.0",
+  "summary": "2.44.0 (2026-10-13) Bug Fixes Align execution retry menu and clarify actions ( #40710 ) ( 84d2fd6 ) Allow per-process crash journal paths ( #37670 ) ( 447e939 ) core: Allow reverting a workflow version that uses credentials the user cannot use ( #40701 ) ( 033a9b5 ) core: Apply node type policies to agent node tools ( #39711 ) ( e7d8533 ) core: Apply the credential type policy to credential tests ",
+  "date": "2026-10-13T07:47:26+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "NVIDIA RTX Spark Combines Local AI, Gaming, and Content Creation - NoobFeed",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HY1huc3R5aXlyT1c0RHZSODFKcEZWYmd2SjZkc09iVnQxclhZbzR0ZkRpZ01JSjBxcENWaDQ2U21WUkRoZk0zd2xiT29XS3FRczVySUh2akJrN28wNWFqTUdDYzNfV2xfdF9peDBWUXlZc0ZtR1E?oc=5",
+  "summary": "NVIDIA RTX Spark Combines Local AI, Gaming, and Content Creation NoobFeed",
+  "date": "2026-10-13T05:14:53+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Save $250 USD on the Blackmagic Design HyperDeck Shuttle HD - Newsshooter",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZDItV2g4ZlpkZ3ctdmxXMnRoNDE4TUNuV25DQm5TX1pKemo1V0w4ZzVGY0RNUUdHSDZvUlpld2d3QV8wNXB3VFdRcEdYNkl4eG1NdDFZWlAtUE96ZnBPWXBsaG5uLWFfaVNqV2FDOGdPSXoxS0t2a05RS0FqdEdCVjhBVWcwQi1ac0dNVjlvWjEtdE5JZmVvcUwwMVpYX0E?oc=5",
+  "summary": "Save $250 USD on the Blackmagic Design HyperDeck Shuttle HD Newsshooter",
+  "date": "2026-10-13T04:27:28+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Anyone feel like reverse-engineering CUDA?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4n6sg/anyone_feel_like_reverseengineering_cuda/",
+  "summary": "I've been reading about all these modders using AI to reverse-engineer games and software. I've been trying out photocraft and gridcraft and have just watched a GTA5 mod featuring Sonic. It's pretty damn impressive. As a struggling AMD Radeon owner I'd love to see AI generated open source CUDA implementation. Not only do I dislike NVIDIA, but there's delicious irony in using CUDA cores to do it. A",
+  "date": "2026-10-13T04:23:26+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "NVIDIA’s 9-Year-Old Tesla V100 Still Packs Some Inference Muscle; 4 GPUs On An NVLink Board Can Outperform M5 Ultra, DGX Spark In Various AI Benchmarks By Up To 230%",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4mtzx/nvidias_9yearold_tesla_v100_still_packs_some/",
+  "summary": "Didn't realize the V100 were still so fast, anyone have first hand experience on these? submitted by /u/chemist_slime [link] [comments]",
+  "date": "2026-10-13T04:03:55+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "AI models can provably hide arbitrary capabilities",
+  "url": "https://arxiv.org/abs/2610.13928",
+  "summary": "210 points, 106 commentaires HN",
+  "date": "2026-10-13T02:07:08+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50065692"
+ },
+ {
+  "source": "Gemini CLI",
+  "family": "Agents, code et automatisation",
+  "title": "google-gemini/gemini-cli Release v0.65.0-nightly.20261013.g51617c1bc",
+  "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.65.0-nightly.20261013.g51617c1bc",
+  "summary": "What's Changed fix(cli): keep loading other extensions when one fails the allowlist check by @jesussamuel-byte in #29720 Full Changelog : v0.65.0-nightly.20261012.g9b6e0265d...v0.65.0-nightly.20261013.g51617c1bc",
+  "date": "2026-10-13T01:36:45+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Anthropic is doing free publicity for GLM again",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4ii8e/anthropic_is_doing_free_publicity_for_glm_again/",
+  "summary": "https://www.anthropic.com/research/distillation-defenses submitted by /u/No-Point1424 [link] [comments]",
+  "date": "2026-10-13T00:27:09+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Intel \"Crescent Island\" GPU Gets D-Series Name, Supports Up to 480 GB of LPDDR5X",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4g90u/intel_crescent_island_gpu_gets_dseries_name/",
+  "summary": "The newly named D-Series GPU has up to 480GB of LPDDR5X memory, 1.5TB/s of memory bandwidth Intel rates it for up to 1.3 PetaFLOPS of FP8 performance, with support for formats ranging from FP4 to FP64. It features a total of 32 Xe3P cores, 256 XMX engines, 32 MB of unified L2 cache. No cost estimates currently, I hope they launch a generic blower style variant at a later date for prosumer workstat",
+  "date": "2026-10-12T22:42:31+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+  "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+  "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+  "date": "2026-10-12T20:59:50+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Once again anthropic doing free marketing for open weight models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4cm73/once_again_anthropic_doing_free_marketing_for/",
+  "summary": "submitted by /u/kubblegum [link] [comments]",
+  "date": "2026-10-12T20:13:48+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Media - Blackmagic Design",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yUzFnMHloOEV1ZXhCMnJWOUcxbmUxdnA1Wlhtc05ZOUhsTVBucTVKV09xNFZVaDE2N0pfS3Itb1EzR25vQnVVVElHbFdXcDE1SUwxVGRFRC1BTk9WZmNCZndMeG42WUUyMWc?oc=5",
+  "summary": "Media Blackmagic Design",
+  "date": "2026-10-12T19:55:51+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "AI models may be capable of self-replicating without access to a datacenter",
+  "url": "https://www.anthropic.com/research/self-replicating-ai",
+  "summary": "87 points, 99 commentaires HN",
+  "date": "2026-10-12T19:25:29+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50061603"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "It's been 2 months",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4akj7/its_been_2_months/",
+  "summary": "submitted by /u/Comfortable-Rock-498 [link] [comments]",
+  "date": "2026-10-12T18:57:47+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+  "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+  "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
+  "date": "2026-10-12T18:21:36+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+  "url": "https://www.latent.space/p/claude-dynamic-workflows",
+  "summary": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.",
+  "date": "2026-10-12T18:18:17+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+  "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+  "summary": "Python 3.15 is here ! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported Python version, I get to say goodbye to Python 3.10 and start embracing features from Python 3.11. First, some highlights from Python 3.15. Explicit lazy imports I'm most excited ab",
+  "date": "2026-10-12T18:15:38+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "openbmb/MiniCPM-V-4.7-1B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x492f9/openbmbminicpmv471b/",
+  "summary": "Gguf's: https://huggingface.co/openbmb/MiniCPM-V-4.7-1B-gguf \" MiniCPM-V 4.7 is the latest model in the MiniCPM-V series, available in a 1B variant. It builds on the family's single-image, multi-image, and video understanding capabilities, combining stronger foundation capabilities with efficient visual encoding and on-device inference. Notable features of MiniCPM-V 4.7 include: 🔥 A New Pareto Fro",
+  "date": "2026-10-12T18:03:02+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Meta releases its first frontier model, Muse Wonder",
+  "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+  "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+  "date": "2026-10-12T17:56:56+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Russia was not ready for the data center war it started with Ukraine",
+  "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+  "summary": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
+  "date": "2026-10-12T17:52:36+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Elections Commission says only 4% of funds released for December elections - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONnYtQlFxZW9PdTZNMGhiTkVZT1JpbmFna0dIcXNJWXVVakk1R19oRmJsa0pGRHVPTXZ3UnduUmN3Q2NUNXQxaEhLUTBRdm5id3R2WWV4VWFMZmd4NWliQTdOdkZIa0pIdFdOcXl6bkJjV2hqYl92bzZQYWo0MW80RFNpT2kzNUY1STRESVZ3dE9NRHRKMHVxZXNqb9IBoAFBVV95cUxNV2lTX1UxOFNtdTBUeHRieURyTDFMWW53ZTZFZzRKQ3JKc3c1R2hpc3lEVEhXRVROUXo0LWhKWXl5SUlFd242VXFONjVvNnRpRHZPaDRqMkZGQ1M4NW5yeHA3dGpwYnB0TzlkdXZZNjZTNVVFX252dnlnRGtwOWFTOTBSb1FKcVRmU3RVTDNkaS15TFFxZVVRNFluazZITGpm?oc=5",
+  "summary": "Elections Commission says only 4% of funds released for December elections Eye Radio",
+  "date": "2026-10-12T17:47:18+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+  "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+  "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+  "date": "2026-10-12T17:19:14+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x47taj/openbmbminicpmv4735ba3b/",
+  "summary": "gguf's: https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B-gguf \" MiniCPM-V 4.7 is the latest model in the MiniCPM-V series, available in a 35B-A3B variant, with 35B-A3B being the first MoE model in the MiniCPM-V series . It builds on the family's single-image, multi-image, and video understanding capabilities, combining stronger foundation capabilities with efficient visual encoding and on-devi",
+  "date": "2026-10-12T17:16:21+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "In 2030 owning a gpu cluster will be seen the same as owning a gun for home defense",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x47d7k/in_2030_owning_a_gpu_cluster_will_be_seen_the/",
+  "summary": "My window will have a sign that says \"we don't call tech support\" with a simplified pic of a v100 on it I know this reads like a shitpost and I'm half joking and half serious Edit: I'd sell these on Etsy if Jensen wouldn't hit me with a C&D Edit2: if you're from Europe pretend I said knife or blackjack or something submitted by /u/Particular-Award118 [link] [comments]",
+  "date": "2026-10-12T17:00:22+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Meta has some Wonder Full new AI models",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+  "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available […]",
+  "date": "2026-10-12T17:00:00+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "South Sudan U-17 beat Sudan 3–2 in CECAFA tournament - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORHZPM09UejJYOFdOaWZERGVuZEJJZmp2OE5fckdUc1V6c3VDd2xYY2oySFd6bVBCQXRGY0dSbGEwWmJpSWpNQTIzQndKY3p3VUthSENpUFk5N0RIWjlfU0NySkhqOWtlcVJ5ckFwczc1Wi1rOTQxTFYwQmhxVVNNWnloZlbSAYQBQVVfeXFMTkR2TzNPVHoyWDhXTmlmRERlbmRCSWZqdjhOX3JHVHNVenN1Q3dsWGNqMkhXem1QQkF0RmNHUmxhMFpiaUlqTUEyM0J3SmN6d1VLYUhDaVBZOTdESFo5X1NDckpIajlrZXFSeXJBcHM3NVotazk0MUxWMEJocVVTTVp5aGZW?oc=5",
+  "summary": "South Sudan U-17 beat Sudan 3–2 in CECAFA tournament Eye Radio",
+  "date": "2026-10-12T16:35:58+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "web-edit 0.1a0",
+  "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
+  "summary": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. So... I had Codex and GPT-6 Astra Extra High build this Python web app which provides a web UI for viewing and editing files in a folder. It's intended to be run over Tailscale, so I can have an a",
+  "date": "2026-10-12T15:54:36+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+  "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+  "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+  "date": "2026-10-12T15:45:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Boole-1.7B: A 1-bit Qwen3-1.7B model that outperforms Bonsai-1.7B",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x452zj/boole17b_a_1bit_qwen317b_model_that_outperforms/",
+  "summary": "We're launching Precision Numerics by releasing Boole-1.7B, a 1-bit version of Qwen3-1.7B. 247 MB packed weights: 13.9× smaller than BF16. 85.9% of the BF16 model’s average score across our 10-task evaluation - outperforms 1-bit Bonsai-1.7B and nearly matches 1.58-bit Bonsai-1.7B. Try it locally in your browser (it's for low-latency tasks using English and non-thinking mode), or use it with vLLM o",
+  "date": "2026-10-12T15:35:58+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Microsoft president says UK is best placed to drive AI regulation",
+  "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+  "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+  "date": "2026-10-12T15:31:19+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+  "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+  "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+  "date": "2026-10-12T15:27:59+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+  "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+  "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
+  "date": "2026-10-12T14:00:00+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "\"Just Ask Claude\" Is a Rare and Valuable Skill",
+  "url": "https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable",
+  "summary": "53 points, 66 commentaires HN",
+  "date": "2026-10-12T13:20:04+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50056063"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "NVIDIA RTX 5080 24GB reportedly launching in Q1 2027, board partners still waiting for details",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x41n6l/nvidia_rtx_5080_24gb_reportedly_launching_in_q1/",
+  "summary": "submitted by /u/chemist_slime [link] [comments]",
+  "date": "2026-10-12T13:18:23+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Qwen released QwenGyre - RL framework for training AI agents on extremely long complex tasks",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x41myz/qwen_released_qwengyre_rl_framework_for_training/",
+  "summary": "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. It launches with two core designs: - Elastic Scheduler: reallocates GPUs between rollout & training as demand shifts—live executions never interrupted. Up to 1.85× speedup over Colocate, 1.78× over Async. - Trajectory Processor: turns branching executions (compaction, sub-agents, retries) into prefix-shared t",
+  "date": "2026-10-12T13:18:10+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+  "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+  "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will […]",
+  "date": "2026-10-12T13:00:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+  "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+  "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context.",
+  "date": "2026-10-12T12:47:59+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+  "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+  "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
+  "date": "2026-10-12T12:43:10+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "How Is Microsoft's Magnetic Connect Different From Apple's MagSafe For MacBooks? - Engadget",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONFo4V3otNnBwVHEyd0Y2ZDJtVjd1dGNOZ3BRUWZfbzZ6U0hwbVFGZ1laSmpyRXkwMXY1b0d4Y2hQMWxjdG1ab09lWVg3bHdZcEI3Y3hIWV9mTl9HYllHQVJFcmJfOEdqWFJDUGpnT3Mzc2h1LVJMV2xPUVdZMWVoMkptemY5dWtaUXFPejFXQXJ6eXR2Y20ySDE2WlBONkdJUlpN?oc=5",
+  "summary": "How Is Microsoft's Magnetic Connect Different From Apple's MagSafe For MacBooks? Engadget",
+  "date": "2026-10-12T12:15:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "LSearch - Spotlight for windows with embedding",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3zut6/lsearch_spotlight_for_windows_with_embedding/",
+  "summary": "I built a spotlight search for windows. It has an embedding model and a MoE models to go with it. The MoE It's 2 Qwen 3.5 4B models, I fine tuned one for coding work and another for agentic work, and then I combined them both into an MoE. I didn't want to shove it into everything so you can use it to fix code and that's about it Embedding Model it uses embeddinggemma 2 (270M) It currently doesn't ",
+  "date": "2026-10-12T11:54:55+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Governor Rimbasa pledges to prepare state for December elections - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZXpZc1pnS0N1aWhWZEtlV0tpcTZ4RG1mS2dYNDk0V196ZmVBWXJwMnhFX25fYVdvbG1YY0VTMWRUeEdraXMxcFVCeXRWR1ViR0J4WkNnM1E1WkRXeVJrRW5jdEIyaGt5Zlg3Y1dpZjEwVkg2REhXQ3RkR1pHbzIwcjgwOTN5bEx6X2M1RXRVWdIBlAFBVV95cUxQeE9ZaXFkcFJURW9pNmxjLWMxQVlGSDRrZjBRYmVJRkg2NUp1UlFBOGNsWXhncExkVXk0MHlYOG5sMW1WUGdVdi13a0VNRHNYcWRJWE5Va0ZiYmhQcXdYVUVOQnVJakxobnltWTVBWjRVQXFZWU5ybUFPcVF3c0dGN0FSLWFWVGFvT0lkZU1Td2FJMzB4?oc=5",
+  "summary": "Governor Rimbasa pledges to prepare state for December elections Eye Radio",
+  "date": "2026-10-12T11:47:58+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Athian leads delegation to IMF-World Bank meetings in Thailand - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWR5WXQtVHhUUzFCb2lrLUZFZTVfRWp1MXdTaVdCTmxpNDBlZ19VTkpmZTNIREt4Q1pNYVBDYmtsQjd5bmQ1bE9JRC1YenZzUVJuVWxFbFpTMWZBeWk0Qmg4SG5KNkJwcG1hS09mOWdDd0RuN2pKUmNJZUVfNE1GZWV1QncxMl9JWjJjVW10cXgxZ9IBkgFBVV95cUxOcWR5WXQtVHhUUzFCb2lrLUZFZTVfRWp1MXdTaVdCTmxpNDBlZ19VTkpmZTNIREt4Q1pNYVBDYmtsQjd5bmQ1bE9JRC1YenZzUVJuVWxFbFpTMWZBeWk0Qmg4SG5KNkJwcG1hS09mOWdDd0RuN2pKUmNJZUVfNE1GZWV1QncxMl9JWjJjVW10cXgxZw?oc=5",
+  "summary": "Athian leads delegation to IMF-World Bank meetings in Thailand Eye Radio",
+  "date": "2026-10-12T11:06:07+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Any takers for local llm? NVIDIA’s CUDA Moat Is Accelerating RTX Spark Laptop Sales, Higher 128GB Unified Memory Options Belonging To Surface Laptop Ultra Already Out Of Stock",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ykyb/any_takers_for_local_llm_nvidias_cuda_moat_is/",
+  "summary": "Cheapest one I see at MC is the asus pro-art version for 6499. https://www.microcenter.com/product/715662/asus-proart-p14-14-wqxga-120hz-oled-laptop submitted by /u/chemist_slime [link] [comments]",
+  "date": "2026-10-12T10:44:19+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Local Microdrama Creators Take Aim at Premium Scripted Content for Global Reach - FilmInk",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTkJkQ3hnblhjRnFKeVBjOEFWN3czdFEtWVd0U3J1LVkyQ19rM3gwY3piOUlKYVVNQWJtRlNDM1B1anNYVngwVzBCNmEyUWFtbVZMQUM4Nko3NzlGMDlDMGx4dWZfVW5ra09MNkdkV0V0LXVyMWxoendaYUU0MmstWk5FZ2cxVTNHTUxMSmhZZV9hbDNuRFNlRDJYb2x1TXpRR2FVWFcwekJJNVE?oc=5",
+  "summary": "Local Microdrama Creators Take Aim at Premium Scripted Content for Global Reach FilmInk",
+  "date": "2026-10-12T05:48:58+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "datasette-ports 0.4",
+  "url": "https://simonwillison.net/2026/Oct/12/datasette-ports/",
+  "summary": "Release: datasette-ports 0.4 My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays the detected PID as well. Knowing the PID makes it easier to attach the new Python 3.15 profiler . Tags: datasette",
+  "date": "2026-10-12T04:57:07+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Linus Torvalds Working on a Hefty Linux Kernel Improvement with Claude Code",
+  "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+  "summary": "31 points, 2 commentaires HN",
+  "date": "2026-10-12T01:57:00+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50050367"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+  "url": "https://github.com/SaarthurR/atticus-mac",
+  "summary": "105 points, 19 commentaires HN",
+  "date": "2026-10-12T00:15:12+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50049588"
+ }
+]
