@@ -1,33 +1,33 @@
 {
  "Anthropic news": {
   "ok": true,
-  "items": 2,
-  "s": 0.2
+  "items": 1,
+  "s": 0.5
  },
  "Anthropic engineering": {
   "ok": true,
   "items": 0,
-  "s": 0.1
+  "s": 0.2
  },
  "Claude API changelog": {
   "ok": true,
   "items": 0,
-  "s": 0.5
+  "s": 0.7
  },
  "Claude Code changelog": {
   "ok": true,
   "items": 1,
-  "s": 0.3
+  "s": 0.5
  },
  "OpenAI news": {
   "ok": true,
-  "items": 5,
+  "items": 3,
   "s": 0.5
  },
  "Google DeepMind blog": {
   "ok": true,
-  "items": 0,
-  "s": 0.2
+  "items": 1,
+  "s": 0.1
  },
  "Google AI blog": {
   "ok": true,
@@ -37,62 +37,62 @@
  "Meta AI blog": {
   "ok": true,
   "items": 0,
-  "s": 6.1
+  "s": 1.5
  },
  "Mistral news": {
   "ok": true,
-  "items": 0,
+  "items": 1,
   "s": 0.3
  },
  "Hugging Face blog": {
   "ok": true,
-  "items": 1,
+  "items": 4,
   "s": 0.3
  },
  "Hugging Face papers du jour": {
   "ok": true,
-  "items": 7,
+  "items": 11,
   "s": 0.1
  },
  "Black Forest Labs": {
   "ok": true,
-  "items": 0,
-  "s": 0.2
+  "items": 1,
+  "s": 0.4
  },
  "Higgsfield blog": {
   "ok": true,
   "items": 1,
-  "s": 1.5
+  "s": 0.6
  },
  "Runway research": {
   "ok": true,
   "items": 0,
-  "s": 0.4
+  "s": 0.2
  },
  "Luma AI": {
   "ok": true,
   "items": 0,
-  "s": 0.9
+  "s": 0.5
  },
  "Kling AI": {
   "ok": true,
   "items": 0,
-  "s": 1.2
+  "s": 0.9
  },
  "fal.ai nouveaux modèles": {
   "ok": true,
   "items": 8,
-  "s": 0.9
+  "s": 1.9
  },
  "Replicate blog": {
   "ok": true,
   "items": 0,
-  "s": 0.2
+  "s": 0.6
  },
  "ElevenLabs blog": {
   "ok": true,
   "items": 0,
-  "s": 0.1
+  "s": 0.2
  },
  "Topaz Labs": {
   "ok": true,
@@ -101,33 +101,33 @@
  },
  "ComfyUI releases": {
   "ok": true,
-  "items": 0,
-  "s": 0.8
+  "items": 3,
+  "s": 0.7
  },
  "Descript": {
   "ok": true,
   "items": 0,
-  "s": 0.3
+  "s": 0.4
  },
  "Adobe blog vidéo": {
   "ok": true,
   "items": 0,
-  "s": 0.2
+  "s": 0.4
  },
  "Blackmagic (Google News)": {
   "ok": true,
-  "items": 3,
+  "items": 18,
   "s": 0.4
  },
  "DaVinci Resolve (support)": {
   "ok": true,
   "items": 0,
-  "s": 0.2
+  "s": 0.1
  },
  "NDI (Google News)": {
   "ok": true,
-  "items": 0,
-  "s": 0.3
+  "items": 4,
+  "s": 0.2
  },
  "Vizrt / TriCaster (Google News)": {
   "ok": false,
@@ -136,22 +136,22 @@
  "Bitfocus Companion": {
   "ok": true,
   "items": 0,
-  "s": 0.6
+  "s": 1.0
  },
  "Node-RED": {
   "ok": true,
   "items": 0,
-  "s": 0.5
+  "s": 0.6
  },
  "FFmpeg": {
   "ok": true,
   "items": 0,
-  "s": 0.3
+  "s": 0.4
  },
  "OBS Studio": {
   "ok": true,
   "items": 0,
-  "s": 0.8
+  "s": 1.0
  },
  "Remotion": {
   "ok": true,
@@ -161,17 +161,17 @@
  "faster-whisper": {
   "ok": true,
   "items": 0,
-  "s": 0.4
+  "s": 0.6
  },
  "whisper.cpp": {
   "ok": true,
   "items": 0,
-  "s": 0.7
+  "s": 0.8
  },
  "auto-editor (montage auto)": {
   "ok": true,
   "items": 0,
-  "s": 0.3
+  "s": 0.4
  },
  "Frame.io": {
   "ok": true,
@@ -181,22 +181,22 @@
  "MCP servers (repo)": {
   "ok": true,
   "items": 0,
-  "s": 0.4
+  "s": 0.7
  },
  "n8n": {
   "ok": true,
-  "items": 4,
-  "s": 0.7
+  "items": 2,
+  "s": 0.5
  },
  "OpenAI Codex": {
   "ok": true,
-  "items": 3,
-  "s": 0.3
+  "items": 2,
+  "s": 0.9
  },
  "Gemini CLI": {
   "ok": true,
-  "items": 0,
-  "s": 0.5
+  "items": 1,
+  "s": 0.7
  },
  "Simon Willison": {
   "ok": true,
@@ -210,33 +210,33 @@
  },
  "TechCrunch IA": {
   "ok": true,
-  "items": 12,
+  "items": 10,
   "s": 0.1
  },
  "Ars Technica IA": {
   "ok": true,
-  "items": 5,
-  "s": 0.2
+  "items": 2,
+  "s": 0.5
  },
  "Latent Space": {
   "ok": true,
   "items": 2,
-  "s": 0.5
+  "s": 0.4
  },
  "r/LocalLLaMA": {
   "ok": true,
   "items": 15,
-  "s": 0.3
+  "s": 0.5
  },
  "Hacker News IA": {
   "ok": true,
-  "items": 0,
-  "s": 0.2
+  "items": 3,
+  "s": 0.3
  },
  "Hacker News vidéo IA": {
   "ok": true,
   "items": 0,
-  "s": 0.2
+  "s": 0.3
  },
  "Hacker News ffmpeg/whisper": {
   "ok": true,
@@ -246,16 +246,16 @@
  "Hacker News Claude": {
   "ok": true,
   "items": 0,
-  "s": 0.2
+  "s": 0.4
  },
  "arXiv vidéo": {
   "ok": true,
   "items": 15,
-  "s": 0.7
+  "s": 0.6
  },
  "arXiv agents": {
   "ok": true,
   "items": 15,
-  "s": 5.3
+  "s": 0.5
  }
 }
