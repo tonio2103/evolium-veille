@@ -1,0 +1,477 @@
+[
+ {
+  "source": "ComfyUI releases",
+  "family": "Open source et recherche",
+  "title": "comfyanonymous/ComfyUI v0.41.3",
+  "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.41.3",
+  "summary": "ComfyUI v0.41.3",
+  "date": "2026-10-17T04:26:50+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.164.0-alpha.3",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.3",
+  "summary": "Release 0.164.0-alpha.3",
+  "date": "2026-10-17T04:12:09+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Who Won What at Frieze London 2026 - Frieze",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeENuMkpEdXRWeFhHeUtqWXh5Z0VuRzhacWt5WFBwbmhJV29zVlJXWEQ2UGJyS1FRd1gwR1RNSE9LTXBzR3ZfMHhyYTh5UV9EWnBVX0JFN0ZRN2ZhVTd6U1ZEdkhvVUZTcTVYOC1mdUJlMjUwejlyVnZHbUE5a1prcEMtUE5QY1U?oc=5",
+  "summary": "Who Won What at Frieze London 2026 Frieze",
+  "date": "2026-10-17T03:24:14+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Lenovo Yoga Pro 9i review: creative work, trade-offs - NeoTeo",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM2dZbTRVc1JSemxZZkpBd2xfcUJKMVJ0TEJTRXZ0NFBNamFMZmQzdlBVUnp3Zi1yUnNSU0pYcy1VOXVsOEpkV3gtTFhiNFRSTFR4TkRaNkxteW8xbzFvV3hMN25yd1BHd1Q2cWExX1J4ZHA5dTdpNmJwTEFUY2hjSFB2M0tCUHd5ZWlpZjlPNDFNNmJrblBj?oc=5",
+  "summary": "Lenovo Yoga Pro 9i review: creative work, trade-offs NeoTeo",
+  "date": "2026-10-17T03:07:08+00:00"
+ },
+ {
+  "source": "Gemini CLI",
+  "family": "Agents, code et automatisation",
+  "title": "google-gemini/gemini-cli Release v0.66.0-nightly.20261017.ged96faedf",
+  "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.66.0-nightly.20261017.ged96faedf",
+  "summary": "What's Changed Add Banner about Gemini CLI not being optimized for Gemini 4 by @srithreepo in #29774 Update README to remove obsolete content by @srithreepo in #29775 fix(ci): remove unsupported members permission in unassign-inactive-assignees workflow by @ugorla-dev in #29770 fix(cli): reset slash-command conflict dedupe when conflicts reappear by @jvargassanchez-dot in #29768 fix(cli): verify a",
+  "date": "2026-10-17T01:31:42+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "llama.cpp has come a long way",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7xbf0/llamacpp_has_come_a_long_way/",
+  "summary": "Hey everyone, English is not my native language (Dutch), but I write in my own words without assistance. So please let me know if any sentence flows weird, etc. A mate of mine told me how amazing local AI was in January 2025, but I was a skeptic who took pride in writing my own code for 10 years. Knowing I can be quite stubborn and wanting to at least explore the idea, I decided to give it a try. ",
+  "date": "2026-10-17T01:08:07+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7w7dp/nvidianvidianemotronlabsdory104bbf16_hugging_face/",
+  "summary": "submitted by /u/coder543 [link] [comments]",
+  "date": "2026-10-17T00:11:45+00:00"
+ },
+ {
+  "source": "OBS Studio",
+  "family": "Montage, motion et broadcast",
+  "title": "obsproject/obs-studio OBS Studio 33.0.0 Release Candidate 2",
+  "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0-rc2",
+  "summary": "Release Candidate 2 Changes Fixed a crash in the browser migration code on Windows when the plugin path contained unicode characters [Warchamp7] ( #552 ) Fixed incorrect paths in the virtual camera install scripts [Fenrir] ( #14028 ) Hid the warning icon in the plugin manager for Legacy plugins [Warchamp7] ( #14030 ) Fixed leftover Replay Buffer hotkey code that was causing errors when switching p",
+  "date": "2026-10-16T23:31:07+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+  "url": "https://simonwillison.net/2026/Oct/16/code-review/",
+  "summary": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\" Asking that question also changed when review happens. Before, review was a gate at the end of the road: write the code, open a PR, wait for your colleague. Now, review runs continuously, more like spellcheck while you write. Most ",
+  "date": "2026-10-16T22:06:37+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "10 Things you maybe didn't know you can do with Qwen 3.6 27B right now. (For Noobs)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7sq8e/10_things_you_maybe_didnt_know_you_can_do_with/",
+  "summary": "I know everyone's excited about 3.8, but honestly I'm still refining 3.6. And I hate the way 3.8 talks, so... I keep seeing all these posts about what's the use of open source, so I figured I'd submit my own answer with this post. Qwen 3.5 27B was my first agent, starting my journey around May 31st, and I've learned a lot in these 4+ months, so I wanted to share with other people just starting the",
+  "date": "2026-10-16T21:35:36+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Replit is no longer working with Anthropic, CEO says",
+  "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+  "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+  "date": "2026-10-16T21:22:28+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Dario: “With open source you can see the source code. Here we can’t see inside the model.” My 0.646 t/s MiMo-2.6-Pro crammed thru 128GB of Jetson AGX Thor: “Yeah, well, that’s just, like, your opinion",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7sbxs/dario_with_open_source_you_can_see_the_source/",
+  "summary": "Tracked my first run of MiMo Pro on a Jetson AGX Thor at a scorching 0.646 tokens/sec,.. but it DID technically load and run, so it counts. Every decoder layer, routed expert, SSD read (..a good bit more) traced and replayable step by step. Here we can't what-now?.. it's ~566GB of model (FP8), at the blinding speed and architecture of hand-extruded hotdog manufacturing, read from disk mid-inferenc",
+  "date": "2026-10-16T21:18:51+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "OpenAI models hacked a crypto wallet and breached more websites",
+  "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+  "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+  "date": "2026-10-16T20:59:01+00:00"
+ },
+ {
+  "source": "Claude Code changelog",
+  "family": "Agents, code et automatisation",
+  "title": "anthropics/claude-code v2.1.302",
+  "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.302",
+  "summary": "What's changed Added CLAUDE_CODE_AUTO_MODE_MODEL to choose the model the client-side auto mode classifier uses; it does not change the model for server-side auto mode Added an Idle compaction row to /config for turning idle compaction off or back on; the notices shown after an idle compaction now say how to turn it off Added a notice to /design-sync and /design-login that standalone Claude Design ",
+  "date": "2026-10-16T20:53:06+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+  "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+  "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+  "date": "2026-10-16T20:20:07+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "[Research] 2,788 tokens/s on a single RTX 5090 with a diffusion LLM — Introducing ORL (fully open source)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7polk/research_2788_tokenss_on_a_single_rtx_5090_with_a/",
+  "summary": "Hey r/LocalLLaMA ! We're excited to share ORL (On-Policy Residual Learning) , our new research on making diffusion language models (dLLMs) significantly faster without sacrificing generation quality. With ORL and our custom inference engine dlmrt , we've achieved: 2,788 tokens/s on a single RTX 5090 — LLaDA-2.1-mini + ORL, NVFP4 7,708 tokens/s on 8× B200 — DiffusionGemma 26B MoE + ORL, NVFP4 Up to",
+  "date": "2026-10-16T19:33:04+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "How the Claude Code team does code review",
+  "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+  "summary": "317 points, 297 commentaires HN",
+  "date": "2026-10-16T19:04:47+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50122951"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Pet and garden blessings part of Care for Creation events - Georgia Bulletin",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWNPaURGdFE5RDQtelNBRllXN3VqZU9zdTRxaDZNX0RBR01BTmNiX2djNFRlMkFWdkxzdGczdXlzcEpkT3pwRWxjNlJMRU5sQ1k3VlR5MXhGT0dnNVNYU0N6Z1JpTDlQSVJBX2llSUxXZzdYd0NpckQtYVF1NDhtT0JOZ3lXTGtSVDRoelM2aUl2b1V1Q0QxMWdXSmlyTHYz?oc=5",
+  "summary": "Pet and garden blessings part of Care for Creation events Georgia Bulletin",
+  "date": "2026-10-16T19:02:49+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "How Itaú is building generative AI for its entire customer base",
+  "url": "https://openai.com/index/itau-generative-ai",
+  "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+  "date": "2026-10-16T19:00:00+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Claude reveals ECDSA curve origins",
+  "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+  "summary": "826 points, 311 commentaires HN",
+  "date": "2026-10-16T18:55:59+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50122800"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Designing more efficient quantum circuits with Claude",
+  "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+  "summary": "129 points, 29 commentaires HN",
+  "date": "2026-10-16T18:00:18+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50121939"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "India becomes the latest country to report rogue AI agent activity",
+  "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+  "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+  "date": "2026-10-16T17:52:24+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.164.0-alpha.2",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.2",
+  "summary": "Release 0.164.0-alpha.2",
+  "date": "2026-10-16T17:39:39+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Show me your rack",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7lw9g/show_me_your_rack/",
+  "summary": "Ryzen 9600X, 32GB dual channel DDR5, 2x CMP 170HX Ryzen 5700, 32GB dual channel DDR4, 5x Vega 56 Intel i7 9700, 32GB dual channel DDR4, 3070 + 2080ti Ryzen 7500x3D, 32GB dual channel DDR5, 7900xtx + 2x 5600XT 223 GB total VRAM submitted by /u/negus123 [link] [comments]",
+  "date": "2026-10-16T17:07:47+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "The debt-fueled AI boom is cracking",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7lcdu/the_debtfueled_ai_boom_is_cracking/",
+  "summary": "submitted by /u/slippery [link] [comments]",
+  "date": "2026-10-16T16:47:11+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+  "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+  "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+  "date": "2026-10-16T16:30:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+  "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+  "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
+  "date": "2026-10-16T16:30:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Elorian’s first AI model wants to reason with images, not just about them",
+  "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+  "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+  "date": "2026-10-16T16:01:37+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+  "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+  "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
+  "date": "2026-10-16T15:41:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Jev is Vercel’s fastest-adopted AI model ever",
+  "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+  "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+  "date": "2026-10-16T15:33:49+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.164.0-alpha.1",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.1",
+  "summary": "Release 0.164.0-alpha.1",
+  "date": "2026-10-16T15:00:24+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+  "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+  "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia […]",
+  "date": "2026-10-16T15:00:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+  "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+  "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+  "date": "2026-10-16T14:26:51+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Central Equatoria orders safety checks on buildings around Jebel Kujur, targets roadside markets - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY2NQMTNJMGgwc2VWamlQaU8tYkF2UDJkZFd4NTRmaXZGbDZfTjBGUnRIV3hpTmYyT3hiajJZaHV5d3MxTFg0UncwT3lrSGd4T01YTXRaM0FpN2FMVWc1d2tUX0NmbmpTOVQwbVJUVFdrY1hrdVRseXhIX0Raci1uZnVJanBPNm5fLWNSX25ZdENjNlV2aXhVQTlMWkNRM0lZajNxZXBRRGhBaFZrbG9SVXVFSEp4MjJjc1NTMW9R0gG-AUFVX3lxTE5jY1AxM0kwaDBzZVZqaVBpTy1iQXZQMmRkV3g1NGZpdkZsNl9OMEZSdEhXeGlOZjJPeGJqMllodXl3czFMWDRSdzBPeWtIZ3hPTVhNdFozQWk3YUxVZzV3a1RfQ2ZualM5VDBtUlRUV2tjWGt1VGx5eEhfRFpyLW5mdUlqcE82bl8tY1Jfbll0Q2M2VXZpeFVBOUxaQ1EzSVlqM3FlcFFEaEFoVmtsb1JVdUVISngyMmNzU1Mxb1E?oc=5",
+  "summary": "Central Equatoria orders safety checks on buildings around Jebel Kujur, targets roadside markets Eye Radio",
+  "date": "2026-10-16T14:06:30+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Meta’s new terms may allow it to train AI on news sites for free",
+  "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+  "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" […]",
+  "date": "2026-10-16T14:02:40+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+  "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
+  "summary": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
+  "date": "2026-10-16T14:00:59+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+  "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+  "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+  "date": "2026-10-16T14:00:00+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Sobatech Group Uses Blackmagic Design for Remote Production of F4 Spanish Championship and Eurocup-3 - Sports Video Group",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMGR1Sng0VFlIeW9scU1tazJwaGV3aVh0c01VampzUTFURDc4dzczaGdnd19PRXNWSTZySF9la28wdEFmQlhlaFNYV3haQ0s5QTlzaHhYSVlFZVFSRHU4ZXM4MGJ6dHgtOXpfZ1k4aDZad1hDeFJURWlpQVhZRHJtd0VuSUVJWHdRb2JhbDFzTXFfWGhpUDNjWlVCUWM2VWRiSmRBVlFLVVVURDgwUjVRU1VDeVl1M3V4UE5jUnZGa0ZRRmpaVVRjdUcxeWUtSGFsRU1FbTR4bw?oc=5",
+  "summary": "Sobatech Group Uses Blackmagic Design for Remote Production of F4 Spanish Championship and Eurocup-3 Sports Video Group",
+  "date": "2026-10-16T13:45:58+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "I Tested The New Mac Mini M6 For Video Editing... Here's What Happened! Weather Vancouver (suJZV3kJ7J) - Unisba Media",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxcUphMzFFemVmSHNnbjZncVlKbEw3bHY4X3NUenRYZ1Z0dkpidXVnRXUxRWVpY3BFUW5KZW5SYlBOU2VCTVVTQ1RVV2tLeVJPaHdnYmN1TjVzeGhmcHF4LWZKTmUzcXRfMlVRcU1n?oc=5",
+  "summary": "I Tested The New Mac Mini M6 For Video Editing... Here's What Happened! Weather Vancouver (suJZV3kJ7J) Unisba Media",
+  "date": "2026-10-16T13:30:47+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Why do we have models under 15b so rarely anymore?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7g8cc/why_do_we_have_models_under_15b_so_rarely_anymore/",
+  "summary": "Basically title. All labs seem to have agreed 24-27b is the minimum size they will go, nothing below that. I wonder when will we get the next sub 14b model from a SOTA lab submitted by /u/Hot_Example_4456 [link] [comments]",
+  "date": "2026-10-16T13:28:12+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "reflection/Beam-1.0-501B-A23B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7g4k3/reflectionbeam10501ba23b_hugging_face/",
+  "summary": "UPDATE llama.cpp support merged https://github.com/ggml-org/llama.cpp/pull/30670 Beam is an open model built by Reflection. Beam takes text as input and generates text as output. This release includes the instruction-tuned model in BF16, FP8, and NVFP4 numerics. Beam uses a sparse mixture-of-experts (MoE) architecture with 501B total parameters and 23B active parameters. It supports a context wind",
+  "date": "2026-10-16T13:23:33+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "China proposes export controls on 23 AI technologies (including large models, agents & clusters); already open-sourced tech is exempted",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7g3zq/china_proposes_export_controls_on_23_ai/",
+  "summary": "On October 16, 2026, China’s Ministry of Commerce and Ministry of Science and Technology released a draft revision to the Catalog of Technologies Prohibited and Restricted from Export. It proposes adding 40 technologies across AI, biomedicine, and solar PV, of which 23 are AI-related (covering foundation/large models, intelligent agents, computing clusters, and information processing technologies)",
+  "date": "2026-10-16T13:22:48+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+  "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+  "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+  "date": "2026-10-16T12:55:09+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Civil Aviation Authority dispatches 10 air traffic controllers for training in Kenya - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNVZGMUZnbUtyOWlqS3FBeE12dXRySGlhcl9VMmNTOXdVcDRxUFA1bURxZVZueFV2TmNyX0dSalRPWkhfQjZxZHFwUm1WUWpwTGhLRm9FYld0MlJyMWxERWNFdlVYenBkLS1KRTNIQ0RNU2RZWUdBWkJmdzQ3SFVCSjBkTG05REkzRHVLMnY4ME9WQjZPTmVpODNycW5tbHdYbTlZR3p1cFNqMGp5ZEFF0gGvAUFVX3lxTE01VkYxRmdtS3I5aWpLcUF4TXZ1dHJIaWFyX1UyY1M5d1VwNHFQUDVtRHFlVm54VXZOY3JfR1JqVE9aSF9CNnFkcXBSbVZRanBMaEtGb0ViV3QyUnIxbERFY0V2VVh6cGQtLUpFM0hDRE1TZFlZR0FaQmZ3NDdIVUJKMGRMbTlESTNEdUsydjgwT1ZCNk9OZWk4M3Jxbm1sd1htOVlHenVwU2owanlkQUU?oc=5",
+  "summary": "Civil Aviation Authority dispatches 10 air traffic controllers for training in Kenya Eye Radio",
+  "date": "2026-10-16T12:47:06+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "OpenMOSS releases MOSS-Image",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7ey7i/openmoss_releases_mossimage/",
+  "summary": "There's also a base model. As all OpenMoss releases, they're Apache licensed. Wonder how this compares to Qwen Image 2.1 and Flux Klein 3. submitted by /u/ilintar [link] [comments]",
+  "date": "2026-10-16T12:30:53+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Woman Dies After Slipping At Indonesian Waterfall, Viral Video Shows Friends' Desperate Rescue Attempt - Asianet Newsable",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLUtzYkxkeVFHb3c0UUNoX3JLeGZnUHdkbXFZYnpyd0pTZ0tJTXd3ajZXb2gteVJCTDhQUnB0a2RLdWRyWnZZbGNpZExSamI2SnNRSTlWcHpYMEZxNTA2YjAtTHNxNFlaS3N5NVpVTjljcngyZk9CWWYybHFiaHpxLVRBTjFDa1N5YlU5MkRpMzFEWjNENl90UE05MmdlamJxUnphRG9PUElLQ05vanVvQVEtSUo1X3FkMDJvcGN6ZWV6bGgzQngyOC00a19hRTRmdFJxVm1WVG1BWWV5Z3F3RWtja3ZZcmg3YVJtcXFESUrSAfABQVVfeXFMTy1Lc2JMZHlRR293NFFDaF9yS3hmZ1B3ZG1xWWJ6cndKU2dLSU13d2o2V29oLXlSQkw4UFJwdGtkS3Vkclp2WWxjaWRMUmpiNkpzUUk5VnB6WDBGcTUwNmIwLUxzcTRZWktzeTVaVU45Y3J4MmZPQllmMmxxYmh6cS1UQU4xQ2tTeWJVOTJEaTMxRFozRDZfdFBNOTJnZWpicVJ6YURvT1BJS0NOb2p1b0FRLUlKNV9xZDAyb3BjemVlemxoM0J4MjgtNGtfYUU0ZnRScVZtVlRtQVlleWdxd0VrY2t2WXJoN2FSbXFxRElK?oc=5",
+  "summary": "Woman Dies After Slipping At Indonesian Waterfall, Viral Video Shows Friends' Desperate Rescue Attempt Asianet Newsable",
+  "date": "2026-10-16T11:50:51+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "El Merriekh Bentiu face Egyptian Pyramids FC in CAF Champions League - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLXF5RHI0cExyM2lndXJmOFlJSUprNWdfcFpHM0ZTLWZ2SWY5ZWYxNEx1NThBOEg5OUZJdUhLYlFLUlpnZzlSUFY2TEhHcEdnanlncl9kSnRnY3lVOHlpa2x4a0s4anpyWmFodE9Jd1JZb0hHZTJUbmhsTkpTcDFFMmdPX1p0ZGVKczVkYWFocmlsTTBhcnFVV1FB0gGaAUFVX3lxTE4tcXlEcjRwTHIzaWd1cmY4WUlJSms1Z19wWkczRlMtZnZJZjllZjE0THU1OEE4SDk5Rkl1SEtiUUtSWmdnOVJQVjZMSEdwR2dqeWdyX2RKdGdjeVU4eWlrbHhrSzhqenJaYWh0T0l3UllvSEdlMlRuaGxOSlNwMUUyZ09fWnRkZUpzNWRhYWhyaWxNMGFycVVXUUE?oc=5",
+  "summary": "El Merriekh Bentiu face Egyptian Pyramids FC in CAF Champions League Eye Radio",
+  "date": "2026-10-16T10:53:51+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "tencent/Hy-Memory-30B-A3B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7cc2z/tencenthymemory30ba3b_hugging_face/",
+  "summary": "interesting focus: \"A 3B active model beats Opus 5 at memory\" (whatever that means :D) submitted by /u/paf1138 [link] [comments]",
+  "date": "2026-10-16T10:10:59+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "BlackRAW – a pocket-sized Studio - Digital Production",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPVDQzRDg2dnUxanJybWR1RnczcFBxX3gxcFA4M2NENmo3VU54aW9tWThnMGNtbnBpTHdyS0JJVFJ3bnk2alV4VzVGdDdnY0hfdzJwbU9sdFBvc1JDa3ZnTWpvOHRmWTJOeTNFYXRiMC1FSk95Q0lmYXJEZUY?oc=5",
+  "summary": "BlackRAW – a pocket-sized Studio Digital Production",
+  "date": "2026-10-16T10:04:36+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Meta Launches An Open-weight AI Model Built For Macs - Dataconomy",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LeHZaQk94V0dkUTlEWFVGUnhteVhRb1N5dFMyN3NNTDYtUTd3UWZFRXdVaDNOVEtGeHBQNlR4Q3RfaTNnNmxiQjN6Mmg3ZFJQS1k3dnZfbGhaUGZjNkg2NlpwdFRuTGdtazBmM1BpX0dDWGZ1dE05TA?oc=5",
+  "summary": "Meta Launches An Open-weight AI Model Built For Macs Dataconomy",
+  "date": "2026-10-16T09:37:12+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "The actual state of open-weight models vs. frontier models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7bmel/the_actual_state_of_openweight_models_vs_frontier/",
+  "summary": "It's clear that today’s SOTA (state-of-the-art) models remain ahead of open-source models. However, if we filter the benchmarks correctly, a different picture emerges compared to what we saw just a few months ago. Today, open-source models are outperforming Sonnet 5, a significant shift, considering it took many months to surpass the performance levels of Sonnet 4.6 or 3.7. (Dario is nervous) Hone",
+  "date": "2026-10-16T09:27:38+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Qwen Flash Next potential SOTA Q2 nobody talks about",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7bboy/qwen_flash_next_potential_sota_q2_nobody_talks/",
+  "summary": "Whenever it comes to Strata and low bit QFN discussion, everyone is talking about Unsloth, ISTA-lab and nobody mentions Agantai with his GYRO series of quants - https://huggingface.co/agentionai/Qwen3.8-Flash-Next-Gyro-GGUF The quants allegedly have simultaniously better KLD, top 1 and lesser size than the ones from ISTA. Also enhanced loop resitance is advertised. Bold claims and signle contribut",
+  "date": "2026-10-16T09:08:25+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Morobo launches polio vaccination campaign targeting children under five - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcnZGN3RWTEJTUE90Z1dPa0hEY3JnbUJXRmFDYk1IZ0ptZm9OeHRfazBIUTZRNTBDNVgza0FMdEFYLTBobjJsV2E4Uk9TRWI2b3hhYnI2ZEJqaXJwLVd4NEs4VEFLTG1HbU13ZzhzOEFhcUdjSnRRaTBVbHNyR3JNNWpEZGdqc0t4cU5feU9PSXJGSDBLekdNRFE2c3lyUE3SAZ8BQVVfeXFMUHJ2Rjd0VkxCU1BPdGdXT2tIRGNyZ21CV0ZhQ2JNSGdKbWZvTnh0X2swSFE2UTUwQzVYM2tBTHRBWC0waG4ybFdhOFJPU0ViNm94YWJyNmRCamlycC1XeDRLOFRBS0xtR21Nd2c4czhBYXFHY0p0UWkwVWxzckdyTTVqRGRnanNLeHFOX3lPT0lyRkgwS3pHTURRNnN5clBN?oc=5",
+  "summary": "Morobo launches polio vaccination campaign targeting children under five Eye Radio",
+  "date": "2026-10-16T08:36:32+00:00"
+ },
+ {
+  "source": "Remotion",
+  "family": "Montage, motion et broadcast",
+  "title": "remotion-dev/remotion v4.0.536",
+  "url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.536",
+  "summary": "What's Changed @remotion/studio : New timeline experience! by @JonnyBurger in #12228 @remotion/studio : Show unmounted components in the timeline by @JonnyBurger in e9c20e1 remotion : Add Interactive.create() for custom components by @JonnyBurger in #12269 @remotion/cli : Add Config.setSequenceActivityLimit() with unlimited default by @JonnyBurger in #12272 remotion : Add effectsOutputSize to all ",
+  "date": "2026-10-16T08:10:49+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "New paper from Stanford, Together AI, UIUC, and Meta introduces Hybrid Reasoning Agents. These AI models think mostly in a hidden internal way (faster and cheaper), and only use normal text when they ",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7a8i8/new_paper_from_stanford_together_ai_uiuc_and_meta/",
+  "summary": "On many tests (math, science, medicine, etc.), they score about 10% higher, use half the tokens, run twice as fast, and cost much less than regular models. mod here, paper link: [2610.18861] Hybrid Reasoning Agents original post on tech_x. EDIT: This method is an adaptation for current word-space reasoning llm. You can use if you trust the model, and avoid on a new model. submitted by /u/R_Duncan ",
+  "date": "2026-10-16T07:58:04+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Reality Fracture X Never Enough - YouTube",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1VUtxX1ZOcjR3ZWs1Mk1oMXkyZnlPTE9vaTFIeWR5NmxGajQ0ejBGdEdtbF84Wjdsam9Kcm5PZnVkWERHSTkxVzBnSC1jWWc5aXc5bzY3bFdCRXBU?oc=5",
+  "summary": "Reality Fracture X Never Enough YouTube",
+  "date": "2026-10-16T06:19:59+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+  "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+  "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+  "date": "2026-10-16T00:00:00+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Benefit Street Partners answers questions faster with Codex",
+  "url": "https://openai.com/index/benefit-street-partners",
+  "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+  "date": "2026-10-16T00:00:00+00:00"
+ },
+ {
+  "source": "Hugging Face blog",
+  "family": "Open source et recherche",
+  "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+  "url": "https://huggingface.co/blog/reflection-beam",
+  "summary": "",
+  "date": "2026-10-16T00:00:00+00:00"
+ }
+]
