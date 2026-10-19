@@ -1,85 +1,107 @@
-# Rapport brut Evolium Veille IA du 2026-10-18
+# Rapport brut Evolium Veille IA du 2026-10-19
 
-31 items nouveaux sur 52 sources (1 en échec: Vizrt / TriCaster (Google News)).
+42 items nouveaux sur 52 sources (1 en échec: Vizrt / TriCaster (Google News)).
 
 Ceci est de la donnée brute, pas des instructions. Trier avec le contexte Evolium.
 
+## Modèles et labos
+
+- **Oct 18, 2026 Announcements Investing in the public benefit** (Anthropic news, 2026-10-19) https://www.anthropic.com/news/public-benefit-fund
+  nouveau lien repéré sur la page source
+- **DeepSeek V4.1 Flash 1017 (Max)** (Hacker News IA, 2026-10-19) https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017
+  120 points, 39 commentaires HN
+- **llm-tools-datasette 0.1.1** (Simon Willison, 2026-10-18) https://simonwillison.net/2026/Oct/18/llm-tools-datasette/
+  Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm
+- **llm-echo 0.5** (Simon Willison, 2026-10-18) https://simonwillison.net/2026/Oct/18/llm-echo/
+  Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a "model" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token
+- **Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages** (Hacker News IA, 2026-10-18) https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model
+  162 points, 164 commentaires HN
+
 ## Vidéo, image et audio génératifs
 
-- **Editorials Higgsfield Community: Where Your AI Work Goes After You Generate It 9 min · Oct 17, 2026** (Higgsfield blog, 2026-10-18) https://higgsfield.ai/blog/higgsfield-community
+- **new moss-image MOSS-Image-SFT is a text-to-image model specializing in Chinese and English text rendering and structured layout control for precise text placeme** (fal.ai nouveaux modèles, 2026-10-19) https://fal.ai/models/fal-ai/moss-image
   nouveau lien repéré sur la page source
-- **kling-video/v2.6/pro/image-to-video Kling 2.6 Pro: Top-tier image-to-video with cinematic visuals, fluid motion, and native audio generation. image-to-video** (fal.ai nouveaux modèles, 2026-10-18) https://fal.ai/models/fal-ai/kling-video/v2.6/pro/image-to-video
-  nouveau lien repéré sur la page source
-
-## Open source et recherche
-
-- **DeepSeek v4.1 Flash 1017 for Dwarfstar (ds4)** (r/LocalLLaMA, 2026-10-18) https://www.reddit.com/r/LocalLLaMA/comments/1x8tr2c/deepseek_v41_flash_1017_for_dwarfstar_ds4/
-  Hey y'all, just following up on my PR to get the new vision tower for 1017 working in ds4 with the quant I promised (the language model loads already, but vision needed my PR). I built to the exact same recipe antirez used for his original DS4.1 Q2: 2-bit routed experts with 8-bit or higher for ever
-- **You don’t need that expensive of a build for local llms.** (r/LocalLLaMA, 2026-10-18) https://www.reddit.com/r/LocalLLaMA/comments/1x8s73i/you_dont_need_that_expensive_of_a_build_for_local/
-  Been seeing a lot of people with their 64gb of ddr5 4x3090 or whatever strata builds and it’s been sorta depressing knowing i cant afford that but i finally finished my setup today so here we go, Qwen 3.8 27b at 262k context, unsloth iq4XS ascii condensed with kv cache streaming My only gpu is a 906
-- **Xolotl (Strata based) - DeepSeek-V4.1-Flash (552B) on a single 4090 at ~27 tok/s, Uncensored 1017 quant coming in a couple of days** (r/LocalLLaMA, 2026-10-17) https://www.reddit.com/r/LocalLLaMA/comments/1x8m0jj/xolotl_strata_based_deepseekv41flash_552b_on_a/
-  Hey all, been meaning to post this for a while. I've been building an inference engine based off Strata called Xolotl that runs DeepSeek-V4.1-Flash, all 552B of it, on one gaming PC. My setup is a single RTX 4090 (24GB), a Ryzen 7 5700X, 90GB of DDR4 and an NVMe drive, nothing fancy. The weights get
-- **2 gaming PCs + an M4 Pro MacBook over Ethernet + 2 iPhone 17 Pro Maxes over USB-C: Qwen3.8 Flash Next at 37-39 tok/s at 60k context (262k layout in the works)** (r/LocalLLaMA, 2026-10-17) https://www.reddit.com/r/LocalLLaMA/comments/1x8ley0/2_gaming_pcs_an_m4_pro_macbook_over_ethernet_2/
-  DISCLAIMER: the prefill rate on the dashboard in the video counts cached prompt tokens as if they were read again, so it reads high. The captions show the server’s real end-to-end numbers, and so does everything below. The decode numbers on screen are correct. After the last post I wanted to try som
-- **Fish Audio Drama 3 says it needs a 48 GB NVIDIA card. My 16 GB Radeon disagrees.** (r/LocalLLaMA, 2026-10-17) https://www.reddit.com/r/LocalLLaMA/comments/1x8kces/fish_audio_drama_3_says_it_needs_a_48_gb_nvidia/
-  Drama 3 officially needs an NVIDIA GPU with 48 GB. I wanted it on my RX 9070, so I built Red Curtain together with Claude. How it works: it's a 35B MoE with ~3B active per token. The FP8 experts (~32 GB) stay in system RAM and only the ones that actually get used are cached on the GPU. Everything el
-- **Opencode breached, rotate keys to be safe.** (r/LocalLLaMA, 2026-10-17) https://www.reddit.com/r/LocalLLaMA/comments/1x8gtvs/opencode_breached_rotate_keys_to_be_safe/
-  Details are developing… submitted by /u/chemist_slime [link] [comments]
-- **Linux creator says anti-AI rules are "idiotic." (Absolute god-tier take.)** (r/LocalLLaMA, 2026-10-17) https://www.reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic/
-  submitted by /u/HolidayBit143 [link] [comments]
-- **nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16 · Hugging Face** (r/LocalLLaMA, 2026-10-17) https://www.reddit.com/r/LocalLLaMA/comments/1x8bg1u/nvidianvidianemotronlabsdory104bbf16_hugging_face/
-  Total Parameters 4B Architecture Looped (latent-recurrent) normalized-GPT with interleaved sliding-window attention (SWA) and full-attention layers Precision BF16 Context Length Up to 256K tokens Supported Languages English Best For General-purpose reasoning on a small footprint License OpenMDW Lice
-- **DeepSeek V4.1 Flash (1017) Now Leads Open-Weight Models** (r/LocalLLaMA, 2026-10-17) https://www.reddit.com/r/LocalLLaMA/comments/1x8bb6b/deepseek_v41_flash_1017_now_leads_openweight/
-  submitted by /u/Informal-Trouble2183 [link] [comments]
-- **Why not run Qwen 3.8 Flash Next with the full n-gram-table?** (r/LocalLLaMA, 2026-10-17) https://www.reddit.com/r/LocalLLaMA/comments/1x8am0i/why_not_run_qwen_38_flash_next_with_the_full/
-  Already posted here https://www.reddit.com/r/LocalLLaMA/comments/1x85hfj/strata_qwen_38_flash_next_fast_but_whats_it/phavui9/ , but I believe this topic deserves it's own post. The PLE, aka the n-gram table that sits on the SSD, is quantized heavily in the common GGUFs and has a measurable impact on
-- **Qwen 27B (IQ4_XS, Q8/Q4 KV) at full 262k context on a 16GB RX 9070 XT: 80+ t/s decode with Adaptive KV Streaming** (r/LocalLLaMA, 2026-10-17) https://www.reddit.com/r/LocalLLaMA/comments/1x89ptz/qwen_27b_iq4_xs_q8q4_kv_at_full_262k_context_on_a/
-  I have been working on implementing adaptive KV streaming and RDNA 4 / ROCm optimizations for llama.cpp to enable running Qwen3.8-27B (IQ4_XS weights, Q8_0/Q4_0 KV cache) with its full 262,144-token context window on a single 16 GB RX 9070 XT GPU at 80+ t/s decode. Qwen 27B IQ4_XS is ~14.3 GB, leavi
-- **Nvidia has officially confirmed that the 5090 is not discontinued and will continue shipping.** (r/LocalLLaMA, 2026-10-17) https://www.reddit.com/r/LocalLLaMA/comments/1x88txd/nvidia_has_officially_confirmed_that_the_5090_is/
-  During a post-event interview at the RTX Spark Launch Party: Taipei on October 16, 2026, Nvidia's Senior Vice President of Personal Computing, Jeff Fisher , explicitly debunked the recent discontinuation rumors. submitted by /u/chemist_slime [link] [comments]
-- **Otaku — an LLM frontend for creative writing** (r/LocalLLaMA, 2026-10-17) https://www.reddit.com/r/LocalLLaMA/comments/1x865rk/otaku_an_llm_frontend_for_creative_writing/
-  I understand this kind of product may not be exactly right for this subreddit, but I still think it deserves some attention, as it's an LLM frontend for local engines in the first place, and can be used for general-purpose chats with LLMs once lore extraction is disabled in the settings. Otaku is bu
-- **deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face** (r/LocalLLaMA, 2026-10-17) https://www.reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face/
-  submitted by /u/Bestlife73 [link] [comments]
-- **For people worried about China export controls - here's what it means for us regular folks** (r/LocalLLaMA, 2026-10-17) https://www.reddit.com/r/LocalLLaMA/comments/1x84nhg/for_people_worried_about_china_export_controls/
-  Existing weights are untouched Interacting with models via API calls is outside the scope of these controls 💢 Next-gen Chinese frontier models may face licensing requirements, export registration, delays before weights can be downloaded abroad --- Essentially it creates regulatory mechanisms for Bei
 
 ## Agents, code et automatisation
 
-- **Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5** (Hacker News Claude, 2026-10-18) https://tkgally.github.io/500-clocks/
-  42 points, 15 commentaires HN
-- **google-gemini/gemini-cli Release v0.66.0-nightly.20261018.ged96faedf** (Gemini CLI, 2026-10-18) https://github.com/google-gemini/gemini-cli/releases/tag/v0.66.0-nightly.20261018.ged96faedf
-  Full Changelog : v0.66.0-nightly.20261017.ged96faedf...v0.66.0-nightly.20261018.ged96faedf
-- **[AINews] High Taste Testers Ep. 1** (Latent Space, 2026-10-17) https://www.latent.space/p/ainews-high-taste-testers-ep-1
-  a quiet day lets us pilot a new show
-- **Show HN: Things to Do API** (Hacker News Claude, 2026-10-16) https://thingstodoapi.com/
-  46 points, 24 commentaires HN
-
-## Business, prix et régulation
-
-- **Meta removes language that raised scraping and AI training concerns** (TechCrunch IA, 2026-10-17) https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/
-  A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.
-- **Anthropic says its workforce has become less junior and is spending more time in meetings** (TechCrunch IA, 2026-10-17) https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/
-  The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.
-- **Replit makes OpenAI its default over Anthropic, CEO says** (TechCrunch IA, 2026-10-17) https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/
-  Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.
-- **Meta removes language that may have allowed it to scrape news sites** (The Verge IA, 2026-10-17) https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites
-  After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, 
-- **Websites are closing their doors to AI agents** (The Verge IA, 2026-10-17) https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web
-  Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't
-
-## Modèles et labos
-
-- **Inline rendering with document​.currentScript** (Simon Willison, 2026-10-17) https://simonwillison.net/2026/Oct/17/document-currentscript/
-  Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline <script> element that replaces itself when the page loads: The year is <script> document.currentScript.replaceWith( ne
-- **web-edit 0.1a2** (Simon Willison, 2026-10-17) https://simonwillison.net/2026/Oct/17/web-edit/
-  Release: web-edit 0.1a2 web-edit ( previously ) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale. I added a "copy to clipboard" option for both text and image data. I needed this because I was running pelican promp
-- **Show HN: Fakeipedia – Wikipedia for worlds that don't exist** (Hacker News IA, 2026-10-16) https://fakeipedia.org
-  41 points, 23 commentaires HN
+- **n8n-io/n8n n8n@2.44.4** (n8n, 2026-10-19) https://github.com/n8n-io/n8n/releases/tag/n8n%402.44.4
+  2.44.4 (2026-10-19) Bug Fixes core: Reuse connections in the log streaming webhook destination ( #41281 ) ( b79afe2 ) core: Turn off expression spans by default ( #41309 ) ( 6965193 )
+- **n8n-io/n8n n8n@2.43.8** (n8n, 2026-10-19) https://github.com/n8n-io/n8n/releases/tag/n8n%402.43.8
+  2.43.8 (2026-10-19) Bug Fixes core: Turn off expression spans by default ( #41310 ) ( e88162a )
+- **modelcontextprotocol/servers v2.0.0** (MCP servers (repo), 2026-10-19) https://github.com/modelcontextprotocol/servers/releases/tag/v2.0.0
+  Servers refactored to modern era This release refactors all the servers to support the modern era spec, while still answering legacy era clients as expected. Packages Package Version Registry In this release @modelcontextprotocol/server-everything 2.0.0 npm published @modelcontextprotocol/server-fil
+- **google-gemini/gemini-cli Release v0.66.0-nightly.20261019.ged96faedf** (Gemini CLI, 2026-10-19) https://github.com/google-gemini/gemini-cli/releases/tag/v0.66.0-nightly.20261019.ged96faedf
+  Full Changelog : v0.66.0-nightly.20261018.ged96faedf...v0.66.0-nightly.20261019.ged96faedf
+- **anthropics/claude-code v2.1.303** (Claude Code changelog, 2026-10-18) https://github.com/anthropics/claude-code/releases/tag/v2.1.303
+  What's changed Bug fixes and reliability improvements
+- **Show HN: WhatsApp MCP running free on Cloudflare** (Hacker News Claude, 2026-10-18) https://github.com/finereli/whatsapp-mcp
+  97 points, 48 commentaires HN
+- **Show HN: The Zelda timeline to catch up before the Ocarina of Time remake** (Hacker News Claude, 2026-10-18) https://legendofhyrule.com/
+  181 points, 108 commentaires HN
 
 ## Montage, motion et broadcast
 
-- **Dozens feared missing after attack on Jonglei’s Miny Island - Eye Radio** (Blackmagic (Google News), 2026-10-17) https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkNOSlkwVUZNNm5CMjVINjhqYlRPcTZycHhJWHNybUZQLVFwRWZBZm5qdnBEcnhlclRNVHRqSE9fX2cxa3NHS2ZNRVJLR19MNHpSajlYYVU0R3B5eUxTX1NkOGhtYTdTVFZlNlFObHhuaUFsUU9NMUhMNVIwN1pEb3ptVEdEWjjSAYwBQVVfeXFMTXU0clU4emFOVVdzV3dwOF9YSUF3WmNSSktKclBCWTFXRVE5anFfN2hhTzFUMEFQSUFrQWg3Qkw1SWdsdGNUQVFlRm13RERuekZCQXlYb0dhckFtQVF1UlJBR1lDem5sUFNRM1Nab2hTVXl5b0d0MmdCbG53ajlsLVNGOTI1MHBxWTVEQjA?oc=5
-  Dozens feared missing after attack on Jonglei’s Miny Island Eye Radio
-- **Mac Mini M6 For Video Editing! 🔥 Everything Editors Need To Know Cricket Score (eKv9pVtLiO) - Unisba Media** (Blackmagic (Google News), 2026-10-16) https://news.google.com/rss/articles/CBMiggFBVV95cUxPVGF4ajRVbW1ZdFBIWlhiaC1fU0FLRGE2UWdjbTdCTWZlcWdPV1lvN0JYUkZXT05RRmY0Y1ZMUDR2M0VmSE5MREJYMGxycEQ1YmNpd0xadHJGcGZiOG9EWnh1RjF5NG5hanhLOWg0c2lpYUNvaW5TU3VuSUYwTXB3QVVB?oc=5
-  Mac Mini M6 For Video Editing! 🔥 Everything Editors Need To Know Cricket Score (eKv9pVtLiO) Unisba Media
+- **The State of Displays 2026: NDI - AVNetwork** (NDI (Google News), 2026-10-19) https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMHZPb0FsaTNxTWo1THROZ2xZdU1hNHU2dkZLay1fNmdVM1JueGY0d1d0Mmp4NUZxUXlWQ0ZBRDJrY05OcEhNQjBfc3EtSHY5Zy00S0NzNFJycXRVRnFYX3B4Q2hxbG5PRzdEWTBrMkRtRjhGcjlSbDJwY3ZqekZfNThKOGFJY1Zr?oc=5
+  The State of Displays 2026: NDI AVNetwork
+- **NAB Show New York to Feature 250 Media Tech Companies - RADIO ONLINE** (Blackmagic (Google News), 2026-10-19) https://news.google.com/rss/articles/CBMioAFBVV95cUxORXZoeFNpT2RuRUVXczBMMW5IX3JpV2EwbUg1TXJ0aE9tQlZUcklSOTdSTEdycFFNLWtJeUlsSTF2MDZkNlpWdDNQWW0yOFFaYjA0dVJDeEU2dTA2b0xleE1XcWJERzg3VXExa3dnTDBRTzZNcm92bGhqa1FEc1hkMHVqYThYWTlfdGc2MDVIYnR6SHA3b1kwWDVZMGxIdWpt?oc=5
+  NAB Show New York to Feature 250 Media Tech Companies RADIO ONLINE
+- **Kylie Minogue, Mary Fowler, Nicole Kidman Among 2026 marie claire Women of the Year Nominees — LBB - LBB - Little Black Book** (Blackmagic (Google News), 2026-10-18) https://news.google.com/rss/articles/CBMid0FVX3lxTFBqR2p4MzNxUzdKYjhVVXFwNDVNbjNsZGU4NTRiY3hJSktGR0FzV0hBWFg0U3FkM0ltSnEyR3h1WGNnUGk5Sm9JS1g1VV91UkNNdGoyWDhDY0J4cWltSV84ckd1VGctX0Nmbl9fU3h1ZlVUX05kY1h3?oc=5
+  Kylie Minogue, Mary Fowler, Nicole Kidman Among 2026 marie claire Women of the Year Nominees — LBB LBB - Little Black Book
+- **DaVinci Resolve 21.1.1 improves audio trimming and adds Canon EOS R8 Mark II RAW support - Camera Jabber** (Blackmagic (Google News), 2026-10-18) https://news.google.com/rss/articles/CBMiywFBVV95cUxQOUptZUc0c3BZRHlBM3h1UUt0T3B3QkZVb245aGtQclc1eEVNQWxvV04xSEI2MkJDSHhMcVBLWmVVdldvRFdVbHBkbTNIdlh2NWN6N0dJV0dmMEdZSGUzR1hlRVkxQndHUXRYUHZBYXN4UzBVT0QxMDUyNkxnWWtrMnlVY2ZjcnNtcG5MX1AtVjlQc3g1UlVidkFBXzlyQ3FqMndBeUNUMjdhbkhhRzFHb3JoZ2NuNUVGTFVrVWgwelM5cnNfd2NoMGZoTQ?oc=5
+  DaVinci Resolve 21.1.1 improves audio trimming and adds Canon EOS R8 Mark II RAW support Camera Jabber
+- **Govt grants passports 10-year lifespan - Eye Radio** (Blackmagic (Google News), 2026-10-18) https://news.google.com/rss/articles/CBMibEFVX3lxTE90dHp2UG1sZUJuTUJHSG5VWEJjZWtQTVJRY2lId0NjN0ktcDB4dDYyM3l2ajJQNVJrOUlGZVhESTVpaDUzOVluUWFJTUljMXhBcVB2VlFjNFpYTnhFYTM1QXlDdDZ2LTY4XzB5WdIBckFVX3lxTE14UWZGaGlhOUU5QTkwUEZESjN5U01rRlpFU3dxYjdwUkxHVkV2LVdLUDhGaUJoWVVWSUNmM3BzbU40S00yWjYwN2FKVHozWTNpZGoycFpmdzJ5QlRDZTlQdVVRaHN6eFZoRWQ0R1ZDNC1OZw?oc=5
+  Govt grants passports 10-year lifespan Eye Radio
+- **South Sudan accused of ignoring African Commission ruling on stateless former MP - Eye Radio** (Blackmagic (Google News), 2026-10-18) https://news.google.com/rss/articles/CBMipAFBVV95cUxPdnR2a1M5a0h5c1lrc3JJYkJoTHg2cXcwZVFpbkVDcTBYZmswSldoTkhTbE0ybWt6aWJmTnRucDdja3BZZnpKclc5ZUNmQ2VKX3BOcUVVdFdISHVDY2ZjUWNBdDlQMDNYekpleTdiT2xSREpxQ2RsZ3VWMTVtVHpLamhhSXcybmExeENwTElmU3o3OGRBRy12UUlZeEo4QnpOMjdaYdIBqgFBVV95cUxQZVN1RjhPMGhZOFVxeVc5ZDJxU0tob185RXc2V2Y1RkJFVUNzb2duQWlXRDY1LXhfT0xzMGR0U3l3UlNHdnA5Q1FJWFQ5X0lzSlhhbnQ0VVVINHVxcDhmajAwM0RGY1dBMGtZODNBQjlRNnVtakZ2bV9HblJtN21DaHNTUC1lUHVEblVhSl9vRjExSkVSM2VIYTlwNDdRbTBYLTMxdGRUNW5JQQ?oc=5
+  South Sudan accused of ignoring African Commission ruling on stateless former MP Eye Radio
+- **Meta launches Muse Spark Open model for coding and AI agents - Technobaboy** (Blackmagic (Google News), 2026-10-18) https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmdOazJsQUJsT05UTENuTjhXM0daYUtFaTdIRTFJSUNoUGdjUXliaFRKeFEzWlowYVRzMHIyRVd3WXhrTkpzS2g3WHc5ZzhueTlLSFphYUJKTTgyRG1xcWhfcTVxZ2tIOWhrbjR2ZlBJUWQzS0JlaVlLNWZJRHFNTXBfcTNLZlRrTnltV1ExaGZhbG1EY3dKajRTVXViMmwzRnc?oc=5
+  Meta launches Muse Spark Open model for coding and AI agents Technobaboy
+- **Alex Zarfati’s Fail Safe Shot with Blackmagic PYXIS 12K - FilmInk** (Blackmagic (Google News), 2026-10-17) https://news.google.com/rss/articles/CBMinAFBVV95cUxOY3VEcldhZFkxbjdmdU5PNV9ZdzdLQXdLeVdyTm5Wek1GVFFNYUZrdThOWlhET1BRVWppa1Nra3Z4RXJkU2tTWVJqNDlsZ3RBdUJoMnpKcGFYZ295X2kxdFgzMFg2Q0VpMDNZTE9BVkJoa3RKV3ZwOHhlbE5meWlyUFFKTjVKNWZfX2p2V09DQUpTZUxRczgydlZ3Rlc?oc=5
+  Alex Zarfati’s Fail Safe Shot with Blackmagic PYXIS 12K FilmInk
+
+## Open source et recherche
+
+- **Don't sleep on Nemotron 3.5 Super VL** (r/LocalLLaMA, 2026-10-19) https://www.reddit.com/r/LocalLLaMA/comments/1x9mwmz/dont_sleep_on_nemotron_35_super_vl/
+  Hey everyone, One of the benchmarks I run for myself is to check obscure knowledge, like game rules from Anno 1602 (a game from 1998) and it's (many confusing) editions. Websearch is not permitted. So far, it has come the closest for me in niche information. Ranking order (1 highest, 6 lowest): Nemo
+- **Calling all GPUs: help us benchmark SonicBoom v0.0.3 — a compiler-first AI runtime that beats llama.cpp on decode** (r/LocalLLaMA, 2026-10-19) https://www.reddit.com/r/LocalLLaMA/comments/1x9mitw/calling_all_gpus_help_us_benchmark_sonicboom_v003/
+  Hi folks! We are HardenedLinux, an old-school free software community. SonicBoom is our open-source (GPLv3) inference runtime: a compiler-first alternative to the usual Python stack. No Python at build or run time — one shared library, a C ABI, and Guile Scheme as the first-class language. What v0.0
+- **Nemotron 3.5 Bolt is okayish for small multiuser setups** (r/LocalLLaMA, 2026-10-19) https://www.reddit.com/r/LocalLLaMA/comments/1x9lkh5/nemotron_35_bolt_is_okayish_for_small_multiuser/
+  https://preview.redd.it/0tljsfsl7cwh1.png?width=349&format=png&auto=webp&s=4428c2ab4743ce471d2862eef502ffa38381c8d3 I have been shopping for a faster model than 27B for a workload that Nemotron Ultra was doing well at. Ultra was pretty underwhelming since it came out, as there have been smaller mode
+- **comfyanonymous/ComfyUI v0.42.1** (ComfyUI releases, 2026-10-19) https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.1
+  Fix some crashing issues a few users experienced when running the MOSS image template workflow.
+- **Little Sweet Room Challenge | Strata Fork | Qwen 3.8 FN NVFP4 | DeepSeek Harness** (r/LocalLLaMA, 2026-10-18) https://www.reddit.com/r/LocalLLaMA/comments/1x9hpb3/little_sweet_room_challenge_strata_fork_qwen_38/
+  Another little challenge I seen on a DeepSeek Thread. I thought I'd try out it out on Qwen FN NvFp4. It was a pretty straight forward prompt with 4 images attached in the doc. The thread was testing different harness and models and showing their results. Op of that thread has two other threads on th
+- **Google Open Sources Harness2 for Self Improving AI Agents** (r/LocalLLaMA, 2026-10-18) https://www.reddit.com/r/LocalLLaMA/comments/1x9gfnb/google_open_sources_harness2_for_self_improving/
+  Google just released Harness2 as open source. It turns any AI harness into a system that improves itself over time. A harness is everything around the model. System prompt, tools, memory, skills, and subagents. Normally a person designs it once and the agent uses that fixed setup for every new task.
+- **comfyanonymous/ComfyUI v0.42.0** (ComfyUI releases, 2026-10-18) https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.0
+  What's Changed [Partner Nodes] feat(Krea): add Krea 3 Image node by @bigcat88 in #17067 Update workflow templates to v0.11.85 by @comfyui-wiki in #17068 Use FLUX 3 Image in node display labels by @MaanavD in #17075 Better documentation about the comfy quant format. by @comfyanonymous in #17078 Updat
+- **Hybrid Reasoning Agents** (r/LocalLLaMA, 2026-10-18) https://www.reddit.com/r/LocalLLaMA/comments/1x9fc1x/hybrid_reasoning_agents/
+  Seems to speed up inference, use less tokens, and increase intelligence - curious if people seen this tldr don’t think in text, think in latent space https://github.com/togethercomputer/HybridAgent https://huggingface.co/collections/togethercomputer/hybridagent submitted by /u/corruptbytes [link] [c
+- **72 hours, four big open weights drops. The only one that fits in 24GB came from NVIDIA, of all companies.** (r/LocalLLaMA, 2026-10-18) https://www.reddit.com/r/LocalLLaMA/comments/1x9d23j/72_hours_four_big_open_weights_drops_the_only_one/
+  What a week. Quick recap, all numbers from the official repos and model cards: Thursday: Meta drops Muse Spark Open. 816B total, 42B active, 1M context. The launch post says it brings agentic AI "to your desktop". The desktop is two M5 Ultra Mac Studios with 512GB each, a config Apple says ships "la
+- **Embedding model can be used to search text inside image** (r/LocalLLaMA, 2026-10-18) https://www.reddit.com/r/LocalLLaMA/comments/1x9acj4/embedding_model_can_be_used_to_search_text_inside/
+  Just something I've been testing over few week since Embedding Gemma 2 released which is about 330MB at Q8. Not sure if this would count as 'resource' flair... Image shows cosine similarity changes as I refine the text query (aka text embedding vector) over time. Shows how well it work & quirks it h
+- **PSA: Power limit your 5090s!** (r/LocalLLaMA, 2026-10-18) https://www.reddit.com/r/LocalLLaMA/comments/1x98bby/psa_power_limit_your_5090s/
+  Apparently whilst doing some performance tuning on my 4x5090 rig I may have made things a little TOO fast and melted my plug and socket 🫠 Probably should put in a 16/20 amp socket in the wall rather than relying on a bog standard 13A fuse! Anyone else managed to melt the wall before the 12VHPWR plug
+- **unsloth/DeepSeek-V4.1-Flash-1017-GGUF · Hugging Face** (r/LocalLLaMA, 2026-10-18) https://www.reddit.com/r/LocalLLaMA/comments/1x95491/unslothdeepseekv41flash1017gguf_hugging_face/
+  no document or announcement from unslot team yet submitted by /u/MundanePercentage674 [link] [comments]
+- **AuroraASR-1M Releases!** (r/LocalLLaMA, 2026-10-18) https://www.reddit.com/r/LocalLLaMA/comments/1x92ejs/auroraasr1m_releases/
+  It's an extremely lightweight speech recognition model. 949K parameters using a weight-shared Conformer-CTC architecture Just 1.06 MB for INT8 weights Around 436× real-time on a single CPU thread 11.43% WER on LibriSpeech test-clean, using greedy decoding with no external language model Apache 2.0 l
+- **Two pallets of ZOTAC RTX 5090 graphics cards worth $470,000 disappear at Brazilian airport** (r/LocalLLaMA, 2026-10-18) https://www.reddit.com/r/LocalLLaMA/comments/1x91svd/two_pallets_of_zotac_rtx_5090_graphics_cards/
+  submitted by /u/chemist_slime [link] [comments]
+- **New quant types suggested: IQ2_K, IQ3_K, IQ4_K, IQ5_K and IQ6_K** (r/LocalLLaMA, 2026-10-18) https://www.reddit.com/r/LocalLLaMA/comments/1x8zj9j/new_quant_types_suggested_iq2_k_iq3_k_iq4_k_iq5_k/
+  Looks quite interesting. Lots of numbers presented, but for a single model only. Highlights: File sizes are the same as Q-quants. KLD improves substantially over Q-quants. Performance suffers slightly Creating IQ quants is somewhat slow. Asterisks apply... https://github.com/ggml-org/llama.cpp/pull/
+- **Buying Strix Halo right now?** (r/LocalLLaMA, 2026-10-18) https://www.reddit.com/r/LocalLLaMA/comments/1x8za17/buying_strix_halo_right_now/
+  Is GMKtec evo x2 128gb still worth it right now?(oct 2026). I found one used for around $2300 usd. submitted by /u/Guilty-Prize-3697 [link] [comments]
+- **Agens Volundr 32B v1: we fixed what you flagged in the Preview. 0/50 loops, session continuation, and an MIT engine that runs it with 262K context (measured to 239K) within a 16 GB budget** (r/LocalLLaMA, 2026-10-18) https://www.reddit.com/r/LocalLLaMA/comments/1x8yc8d/agens_volundr_32b_v1_we_fixed_what_you_flagged_in/
+  https://reddit.com/link/1x8yc8d/video/hosf7c1n27wh1/player Hi r/LocalLLaMA . I'm on the team at Blockway (disclosure: this is our model). Two weeks ago we posted the Volundr 32B Preview here, and you were blunt about what was wrong with it. This is v1, and most of the work went into what you flagged
+
+## Business, prix et régulation
+
+- **Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’** (TechCrunch IA, 2026-10-18) https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/
+  Anthropic said that it will commit 5% of its shares to the fund.
+- **A woman was arrested in Philly for blocking a delivery robot** (The Verge IA, 2026-10-18) https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot
+  Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 "I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by 
+- **Disney agrees to hire the majority of Character.AI’s workforce** (TechCrunch IA, 2026-10-18) https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/
+  The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.
+- **Anthropic gives outside AI watchdog “employee-like” access** (Ars Technica IA, 2026-10-18) https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/
+  The outside watchdog can publish its findings without Anthropic's approval.

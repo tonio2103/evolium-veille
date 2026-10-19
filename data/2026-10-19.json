@@ -1,0 +1,342 @@
+[
+ {
+  "source": "Anthropic news",
+  "family": "Modèles et labos",
+  "title": "Oct 18, 2026 Announcements Investing in the public benefit",
+  "url": "https://www.anthropic.com/news/public-benefit-fund",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-19T08:19:09.477502+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "new moss-image MOSS-Image-SFT is a text-to-image model specializing in Chinese and English text rendering and structured layout control for precise text placeme",
+  "url": "https://fal.ai/models/fal-ai/moss-image",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-19T08:19:09.477502+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.44.4",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.44.4",
+  "summary": "2.44.4 (2026-10-19) Bug Fixes core: Reuse connections in the log streaming webhook destination ( #41281 ) ( b79afe2 ) core: Turn off expression spans by default ( #41309 ) ( 6965193 )",
+  "date": "2026-10-19T07:26:54+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.43.8",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.43.8",
+  "summary": "2.43.8 (2026-10-19) Bug Fixes core: Turn off expression spans by default ( #41310 ) ( e88162a )",
+  "date": "2026-10-19T07:26:41+00:00"
+ },
+ {
+  "source": "MCP servers (repo)",
+  "family": "Agents, code et automatisation",
+  "title": "modelcontextprotocol/servers v2.0.0",
+  "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.0.0",
+  "summary": "Servers refactored to modern era This release refactors all the servers to support the modern era spec, while still answering legacy era clients as expected. Packages Package Version Registry In this release @modelcontextprotocol/server-everything 2.0.0 npm published @modelcontextprotocol/server-filesystem 2.0.0 npm published @modelcontextprotocol/server-memory 2.0.0 npm published @modelcontextpro",
+  "date": "2026-10-19T06:47:49+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "The State of Displays 2026: NDI - AVNetwork",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMHZPb0FsaTNxTWo1THROZ2xZdU1hNHU2dkZLay1fNmdVM1JueGY0d1d0Mmp4NUZxUXlWQ0ZBRDJrY05OcEhNQjBfc3EtSHY5Zy00S0NzNFJycXRVRnFYX3B4Q2hxbG5PRzdEWTBrMkRtRjhGcjlSbDJwY3ZqekZfNThKOGFJY1Zr?oc=5",
+  "summary": "The State of Displays 2026: NDI AVNetwork",
+  "date": "2026-10-19T05:25:17+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "DeepSeek V4.1 Flash 1017 (Max)",
+  "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+  "summary": "120 points, 39 commentaires HN",
+  "date": "2026-10-19T04:41:46+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50148452"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Don't sleep on Nemotron 3.5 Super VL",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9mwmz/dont_sleep_on_nemotron_35_super_vl/",
+  "summary": "Hey everyone, One of the benchmarks I run for myself is to check obscure knowledge, like game rules from Anno 1602 (a game from 1998) and it's (many confusing) editions. Websearch is not permitted. So far, it has come the closest for me in niche information. Ranking order (1 highest, 6 lowest): Nemotron 3.5 Super VL 120B-A12B: Hallucionated salt for citizen to merchant, left out church for settler",
+  "date": "2026-10-19T04:01:26+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Calling all GPUs: help us benchmark SonicBoom v0.0.3 — a compiler-first AI runtime that beats llama.cpp on decode",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9mitw/calling_all_gpus_help_us_benchmark_sonicboom_v003/",
+  "summary": "Hi folks! We are HardenedLinux, an old-school free software community. SonicBoom is our open-source (GPLv3) inference runtime: a compiler-first alternative to the usual Python stack. No Python at build or run time — one shared library, a C ABI, and Guile Scheme as the first-class language. What v0.0.3 does on a desktop RTX 3050 8 GB (same session, same GGUF, vs llama.cpp -ngl 99): model decode (tg",
+  "date": "2026-10-19T03:40:00+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "NAB Show New York to Feature 250 Media Tech Companies - RADIO ONLINE",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORXZoeFNpT2RuRUVXczBMMW5IX3JpV2EwbUg1TXJ0aE9tQlZUcklSOTdSTEdycFFNLWtJeUlsSTF2MDZkNlpWdDNQWW0yOFFaYjA0dVJDeEU2dTA2b0xleE1XcWJERzg3VXExa3dnTDBRTzZNcm92bGhqa1FEc1hkMHVqYThYWTlfdGc2MDVIYnR6SHA3b1kwWDVZMGxIdWpt?oc=5",
+  "summary": "NAB Show New York to Feature 250 Media Tech Companies RADIO ONLINE",
+  "date": "2026-10-19T03:39:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Nemotron 3.5 Bolt is okayish for small multiuser setups",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9lkh5/nemotron_35_bolt_is_okayish_for_small_multiuser/",
+  "summary": "https://preview.redd.it/0tljsfsl7cwh1.png?width=349&format=png&auto=webp&s=4428c2ab4743ce471d2862eef502ffa38381c8d3 I have been shopping for a faster model than 27B for a workload that Nemotron Ultra was doing well at. Ultra was pretty underwhelming since it came out, as there have been smaller models that are better, but its been free on openrouter, so why not use it if it works? Bolt is at first",
+  "date": "2026-10-19T02:48:40+00:00"
+ },
+ {
+  "source": "Gemini CLI",
+  "family": "Agents, code et automatisation",
+  "title": "google-gemini/gemini-cli Release v0.66.0-nightly.20261019.ged96faedf",
+  "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.66.0-nightly.20261019.ged96faedf",
+  "summary": "Full Changelog : v0.66.0-nightly.20261018.ged96faedf...v0.66.0-nightly.20261019.ged96faedf",
+  "date": "2026-10-19T01:34:29+00:00"
+ },
+ {
+  "source": "ComfyUI releases",
+  "family": "Open source et recherche",
+  "title": "comfyanonymous/ComfyUI v0.42.1",
+  "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.1",
+  "summary": "Fix some crashing issues a few users experienced when running the MOSS image template workflow.",
+  "date": "2026-10-19T01:33:54+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Kylie Minogue, Mary Fowler, Nicole Kidman Among 2026 marie claire Women of the Year Nominees — LBB - LBB - Little Black Book",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqR2p4MzNxUzdKYjhVVXFwNDVNbjNsZGU4NTRiY3hJSktGR0FzV0hBWFg0U3FkM0ltSnEyR3h1WGNnUGk5Sm9JS1g1VV91UkNNdGoyWDhDY0J4cWltSV84ckd1VGctX0Nmbl9fU3h1ZlVUX05kY1h3?oc=5",
+  "summary": "Kylie Minogue, Mary Fowler, Nicole Kidman Among 2026 marie claire Women of the Year Nominees — LBB LBB - Little Black Book",
+  "date": "2026-10-18T23:55:48+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "llm-tools-datasette 0.1.1",
+  "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+  "summary": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm",
+  "date": "2026-10-18T23:43:09+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Little Sweet Room Challenge | Strata Fork | Qwen 3.8 FN NVFP4 | DeepSeek Harness",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9hpb3/little_sweet_room_challenge_strata_fork_qwen_38/",
+  "summary": "Another little challenge I seen on a DeepSeek Thread. I thought I'd try out it out on Qwen FN NvFp4. It was a pretty straight forward prompt with 4 images attached in the doc. The thread was testing different harness and models and showing their results. Op of that thread has two other threads on the same Challenge just one with DeepSeek Harness so I used it as well. It took about 27 min(Not bad) ",
+  "date": "2026-10-18T23:34:53+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "llm-echo 0.5",
+  "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+  "summary": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account. Example usage: ",
+  "date": "2026-10-18T23:16:16+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Google Open Sources Harness2 for Self Improving AI Agents",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9gfnb/google_open_sources_harness2_for_self_improving/",
+  "summary": "Google just released Harness2 as open source. It turns any AI harness into a system that improves itself over time. A harness is everything around the model. System prompt, tools, memory, skills, and subagents. Normally a person designs it once and the agent uses that fixed setup for every new task. With Harness2 the agent itself refines the harness for each task. It proposes changes, runs a few c",
+  "date": "2026-10-18T22:33:51+00:00"
+ },
+ {
+  "source": "Claude Code changelog",
+  "family": "Agents, code et automatisation",
+  "title": "anthropics/claude-code v2.1.303",
+  "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.303",
+  "summary": "What's changed Bug fixes and reliability improvements",
+  "date": "2026-10-18T22:26:54+00:00"
+ },
+ {
+  "source": "ComfyUI releases",
+  "family": "Open source et recherche",
+  "title": "comfyanonymous/ComfyUI v0.42.0",
+  "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.0",
+  "summary": "What's Changed [Partner Nodes] feat(Krea): add Krea 3 Image node by @bigcat88 in #17067 Update workflow templates to v0.11.85 by @comfyui-wiki in #17068 Use FLUX 3 Image in node display labels by @MaanavD in #17075 Better documentation about the comfy quant format. by @comfyanonymous in #17078 Update workflow templates to v0.11.86 by @comfyui-wiki in #17083 feat: Add MOSS-image support by @kijai i",
+  "date": "2026-10-18T22:10:38+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Hybrid Reasoning Agents",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9fc1x/hybrid_reasoning_agents/",
+  "summary": "Seems to speed up inference, use less tokens, and increase intelligence - curious if people seen this tldr don’t think in text, think in latent space https://github.com/togethercomputer/HybridAgent https://huggingface.co/collections/togethercomputer/hybridagent submitted by /u/corruptbytes [link] [comments]",
+  "date": "2026-10-18T21:45:31+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+  "url": "https://github.com/finereli/whatsapp-mcp",
+  "summary": "97 points, 48 commentaires HN",
+  "date": "2026-10-18T21:36:10+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50145715"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+  "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+  "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+  "date": "2026-10-18T20:37:40+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "72 hours, four big open weights drops. The only one that fits in 24GB came from NVIDIA, of all companies.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9d23j/72_hours_four_big_open_weights_drops_the_only_one/",
+  "summary": "What a week. Quick recap, all numbers from the official repos and model cards: Thursday: Meta drops Muse Spark Open. 816B total, 42B active, 1M context. The launch post says it brings agentic AI \"to your desktop\". The desktop is two M5 Ultra Mac Studios with 512GB each, a config Apple says ships \"late October\" and still hasn't put a price on. The alternative is four 256GB Studios, roughly $38k. On",
+  "date": "2026-10-18T20:10:16+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "DaVinci Resolve 21.1.1 improves audio trimming and adds Canon EOS R8 Mark II RAW support - Camera Jabber",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOUptZUc0c3BZRHlBM3h1UUt0T3B3QkZVb245aGtQclc1eEVNQWxvV04xSEI2MkJDSHhMcVBLWmVVdldvRFdVbHBkbTNIdlh2NWN6N0dJV0dmMEdZSGUzR1hlRVkxQndHUXRYUHZBYXN4UzBVT0QxMDUyNkxnWWtrMnlVY2ZjcnNtcG5MX1AtVjlQc3g1UlVidkFBXzlyQ3FqMndBeUNUMjdhbkhhRzFHb3JoZ2NuNUVGTFVrVWgwelM5cnNfd2NoMGZoTQ?oc=5",
+  "summary": "DaVinci Resolve 21.1.1 improves audio trimming and adds Canon EOS R8 Mark II RAW support Camera Jabber",
+  "date": "2026-10-18T19:00:00+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "A woman was arrested in Philly for blocking a delivery robot",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+  "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]",
+  "date": "2026-10-18T18:28:10+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Embedding model can be used to search text inside image",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9acj4/embedding_model_can_be_used_to_search_text_inside/",
+  "summary": "Just something I've been testing over few week since Embedding Gemma 2 released which is about 330MB at Q8. Not sure if this would count as 'resource' flair... Image shows cosine similarity changes as I refine the text query (aka text embedding vector) over time. Shows how well it work & quirks it has at same time. I'll leave tl;dr version for now, 3:30 am here. If anyone is interested I'll do few",
+  "date": "2026-10-18T18:22:43+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "PSA: Power limit your 5090s!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x98bby/psa_power_limit_your_5090s/",
+  "summary": "Apparently whilst doing some performance tuning on my 4x5090 rig I may have made things a little TOO fast and melted my plug and socket 🫠 Probably should put in a 16/20 amp socket in the wall rather than relying on a bog standard 13A fuse! Anyone else managed to melt the wall before the 12VHPWR plug? Honestly... I'm surprised they didn't go first 😂 submitted by /u/Zo0x78 [link] [comments]",
+  "date": "2026-10-18T17:02:33+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+  "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+  "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+  "date": "2026-10-18T16:30:00+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Anthropic gives outside AI watchdog “employee-like” access",
+  "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+  "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+  "date": "2026-10-18T16:25:19+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x95491/unslothdeepseekv41flash1017gguf_hugging_face/",
+  "summary": "no document or announcement from unslot team yet submitted by /u/MundanePercentage674 [link] [comments]",
+  "date": "2026-10-18T14:51:58+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+  "summary": "162 points, 164 commentaires HN",
+  "date": "2026-10-18T14:30:27+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50141429"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+  "url": "https://legendofhyrule.com/",
+  "summary": "181 points, 108 commentaires HN",
+  "date": "2026-10-18T13:06:54+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50140769"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Govt grants passports 10-year lifespan - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90dHp2UG1sZUJuTUJHSG5VWEJjZWtQTVJRY2lId0NjN0ktcDB4dDYyM3l2ajJQNVJrOUlGZVhESTVpaDUzOVluUWFJTUljMXhBcVB2VlFjNFpYTnhFYTM1QXlDdDZ2LTY4XzB5WdIBckFVX3lxTE14UWZGaGlhOUU5QTkwUEZESjN5U01rRlpFU3dxYjdwUkxHVkV2LVdLUDhGaUJoWVVWSUNmM3BzbU40S00yWjYwN2FKVHozWTNpZGoycFpmdzJ5QlRDZTlQdVVRaHN6eFZoRWQ0R1ZDNC1OZw?oc=5",
+  "summary": "Govt grants passports 10-year lifespan Eye Radio",
+  "date": "2026-10-18T12:56:35+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "AuroraASR-1M Releases!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x92ejs/auroraasr1m_releases/",
+  "summary": "It's an extremely lightweight speech recognition model. 949K parameters using a weight-shared Conformer-CTC architecture Just 1.06 MB for INT8 weights Around 436× real-time on a single CPU thread 11.43% WER on LibriSpeech test-clean, using greedy decoding with no external language model Apache 2.0 licensed Any feedback, question or criticism is welcome! submitted by /u/Tall_Abrocoma_3533 [link] [c",
+  "date": "2026-10-18T12:48:33+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Two pallets of ZOTAC RTX 5090 graphics cards worth $470,000 disappear at Brazilian airport",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x91svd/two_pallets_of_zotac_rtx_5090_graphics_cards/",
+  "summary": "submitted by /u/chemist_slime [link] [comments]",
+  "date": "2026-10-18T12:16:59+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "New quant types suggested: IQ2_K, IQ3_K, IQ4_K, IQ5_K and IQ6_K",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8zj9j/new_quant_types_suggested_iq2_k_iq3_k_iq4_k_iq5_k/",
+  "summary": "Looks quite interesting. Lots of numbers presented, but for a single model only. Highlights: File sizes are the same as Q-quants. KLD improves substantially over Q-quants. Performance suffers slightly Creating IQ quants is somewhat slow. Asterisks apply... https://github.com/ggml-org/llama.cpp/pull/30715 https://huggingface.co/eaddario/IQ2_K-IQ6_K-Test-Models Appologies to Mr. Addario if I mangled",
+  "date": "2026-10-18T10:06:03+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Buying Strix Halo right now?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8za17/buying_strix_halo_right_now/",
+  "summary": "Is GMKtec evo x2 128gb still worth it right now?(oct 2026). I found one used for around $2300 usd. submitted by /u/Guilty-Prize-3697 [link] [comments]",
+  "date": "2026-10-18T09:49:58+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "South Sudan accused of ignoring African Commission ruling on stateless former MP - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdnR2a1M5a0h5c1lrc3JJYkJoTHg2cXcwZVFpbkVDcTBYZmswSldoTkhTbE0ybWt6aWJmTnRucDdja3BZZnpKclc5ZUNmQ2VKX3BOcUVVdFdISHVDY2ZjUWNBdDlQMDNYekpleTdiT2xSREpxQ2RsZ3VWMTVtVHpLamhhSXcybmExeENwTElmU3o3OGRBRy12UUlZeEo4QnpOMjdaYdIBqgFBVV95cUxQZVN1RjhPMGhZOFVxeVc5ZDJxU0tob185RXc2V2Y1RkJFVUNzb2duQWlXRDY1LXhfT0xzMGR0U3l3UlNHdnA5Q1FJWFQ5X0lzSlhhbnQ0VVVINHVxcDhmajAwM0RGY1dBMGtZODNBQjlRNnVtakZ2bV9HblJtN21DaHNTUC1lUHVEblVhSl9vRjExSkVSM2VIYTlwNDdRbTBYLTMxdGRUNW5JQQ?oc=5",
+  "summary": "South Sudan accused of ignoring African Commission ruling on stateless former MP Eye Radio",
+  "date": "2026-10-18T09:33:35+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Agens Volundr 32B v1: we fixed what you flagged in the Preview. 0/50 loops, session continuation, and an MIT engine that runs it with 262K context (measured to 239K) within a 16 GB budget",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8yc8d/agens_volundr_32b_v1_we_fixed_what_you_flagged_in/",
+  "summary": "https://reddit.com/link/1x8yc8d/video/hosf7c1n27wh1/player Hi r/LocalLLaMA . I'm on the team at Blockway (disclosure: this is our model). Two weeks ago we posted the Volundr 32B Preview here, and you were blunt about what was wrong with it. This is v1, and most of the work went into what you flagged. WHAT v1 FIXES FROM THE PREVIEW \"It loops.\" Repetition loops on SWE-bench tasks: 36/50 → 0/50. \"It ",
+  "date": "2026-10-18T08:49:35+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Meta launches Muse Spark Open model for coding and AI agents - Technobaboy",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmdOazJsQUJsT05UTENuTjhXM0daYUtFaTdIRTFJSUNoUGdjUXliaFRKeFEzWlowYVRzMHIyRVd3WXhrTkpzS2g3WHc5ZzhueTlLSFphYUJKTTgyRG1xcWhfcTVxZ2tIOWhrbjR2ZlBJUWQzS0JlaVlLNWZJRHFNTXBfcTNLZlRrTnltV1ExaGZhbG1EY3dKajRTVXViMmwzRnc?oc=5",
+  "summary": "Meta launches Muse Spark Open model for coding and AI agents Technobaboy",
+  "date": "2026-10-18T02:17:03+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Alex Zarfati’s Fail Safe Shot with Blackmagic PYXIS 12K - FilmInk",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY3VEcldhZFkxbjdmdU5PNV9ZdzdLQXdLeVdyTm5Wek1GVFFNYUZrdThOWlhET1BRVWppa1Nra3Z4RXJkU2tTWVJqNDlsZ3RBdUJoMnpKcGFYZ295X2kxdFgzMFg2Q0VpMDNZTE9BVkJoa3RKV3ZwOHhlbE5meWlyUFFKTjVKNWZfX2p2V09DQUpTZUxRczgydlZ3Rlc?oc=5",
+  "summary": "Alex Zarfati’s Fail Safe Shot with Blackmagic PYXIS 12K FilmInk",
+  "date": "2026-10-17T20:52:53+00:00"
+ }
+]
