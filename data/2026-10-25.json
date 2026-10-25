@@ -1,0 +1,291 @@
+[
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Guides How to Edit Videos with AI (Full Guide) 10 min · Oct 24, 2026",
+  "url": "https://higgsfield.ai/blog/how-to-edit-videos-with-ai",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-25T07:57:21.198712+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Guides How to Make AI Video Look Like It Was Actually Filmed 7 min · Oct 24, 2026",
+  "url": "https://higgsfield.ai/blog/how-to-make-ai-video-look-filmed",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-25T07:57:21.198712+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Guides How to Master AI Filmmaking (Full Guide) 7 min · Oct 23, 2026",
+  "url": "https://higgsfield.ai/blog/how-to-master-ai-filmmaking",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-25T07:57:21.198712+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Listicles Higgsfield Pricing Explained: Plans, Credits, and What’s Included 8 min · Oct 24, 2026",
+  "url": "https://higgsfield.ai/blog/higgsfield-pricing-explained",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-25T07:57:21.198712+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "A 4B coding model that can generate 3D scenes",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeuo7t/a_4b_coding_model_that_can_generate_3d_scenes/",
+  "summary": "I’m sharing an early version of a 4B model I’m training for general coding and 3D scene generation. Small models have been pretty rough at 3D in my tests. I’ve finally made enough progress to get results like the ones in this video, so I wanted to share a preview with the community. It’s an independent fine-tune of Qwen3.5-4B, and both Q4_K_M and Q8_0 GGUFs are available here: Download the model o",
+  "date": "2026-10-25T06:10:59+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Too good to be true? ISTA's GSQ-RCO 2-bit DeepSeek-V4.1-Flash scoring the same as the base model",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xes5x0/too_good_to_be_true_istas_gsqrco_2bit/",
+  "summary": "Has anyone tried ISTA's GSQ-RCO GGUFs for DeepSeek-V4.1-Flash? Does the quality feel as good as their benchmarks show (IQ2_XXS matching the base)? Their benchmarks are saturated (90%+, and AIME25 is 100 for every version), so they probably can't show the degradation, and I couldn't find any KLD for GSQ-RCO models. Has anyone measured KLD or PPL? What KLD would you expect at ~2 bpw? https://hugging",
+  "date": "2026-10-25T03:48:25+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "A Free App Gives Malaysia's RM5,499 iPhone 18 Pro Manual Cinema Controls - ProductNation Malaysia",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM3l3ZVFISVhvN216QThQOGhEekM0aXFnczZ5LUU5bm9BQ3NKT3cyRkVlY3JpWkdxbnpVOHFZLTF0S1NKUWRmNFl2OThDemZteWw5OUNqLWF6ckJxMVpfcFBsLUtoQ0J6bS1JTGhja01mY0VwRnd6bFIxLXlBekswdEtUc2pSNzVDanNTQQ?oc=5",
+  "summary": "A Free App Gives Malaysia's RM5,499 iPhone 18 Pro Manual Cinema Controls ProductNation Malaysia",
+  "date": "2026-10-25T03:23:23+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "10 Best Cartoon Network Anime That Premiered In The 2000s - ScreenRant",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByODF6Zk5paXNfeGdMekoxXzVuTlAzbGZ0eEp6WXplQnNDbHljdEdZcVJiWkh3ZHhibW5WR3NIYVFkelNia1MtYjZZZlZNbjc5ci01eGxiX0NXT1dITm1vM2lMUDlmSGJMRVZIeGdtaGVNSXlm?oc=5",
+  "summary": "10 Best Cartoon Network Anime That Premiered In The 2000s ScreenRant",
+  "date": "2026-10-25T03:00:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "OpenAI and Anthropic blocked the reverse engineering of smart TVs spying on us",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xer30z/openai_and_anthropic_blocked_the_reverse/",
+  "summary": "REA (Reserve Engineer Anything) was blocked by Claude one day later... https://x.com/AbhinavXJ/status/2113590263373508704 Time for the pebbles to own the weights submitted by /u/kroggens [link] [comments]",
+  "date": "2026-10-25T02:51:18+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "Cerebras Deploys Trillion-Parameter AI Models",
+  "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+  "summary": "123 points, 42 commentaires HN",
+  "date": "2026-10-25T01:33:49+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50227356"
+ },
+ {
+  "source": "Gemini CLI",
+  "family": "Agents, code et automatisation",
+  "title": "google-gemini/gemini-cli Release v0.67.0-nightly.20261025.gcd1b45c2d",
+  "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-nightly.20261025.gcd1b45c2d",
+  "summary": "Full Changelog : v0.67.0-nightly.20261024.gcd1b45c2d...v0.67.0-nightly.20261025.gcd1b45c2d",
+  "date": "2026-10-25T01:31:55+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Rubin Observatory Captures a 144-Megapixel Image of the Seagull Nebula - DIY Photography",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWjl5TGdKcjU1eEZvU1pnVnRod2NTMnRWZFBDcVZ4OHZDczE0SF9FcURDaFMzS014ZVl4Z0VkOFhQSkYwS3ZCRU4wNVVEZGFMZzh1UFdUUkdkaEdHY2s2eUpiMEszZUFpMmEzVmV0aF9XOFlGYWlZN3FyWDhKOFFKY2hiRTFySWdBWEM3VVJqYXBsbHdmVmNXS1EtNTlvNlN0UDhkNA?oc=5",
+  "summary": "Rubin Observatory Captures a 144-Megapixel Image of the Seagull Nebula DIY Photography",
+  "date": "2026-10-25T01:15:05+00:00"
+ },
+ {
+  "source": "MCP servers (repo)",
+  "family": "Agents, code et automatisation",
+  "title": "modelcontextprotocol/servers v2.1.0",
+  "url": "https://github.com/modelcontextprotocol/servers/releases/tag/v2.1.0",
+  "summary": "Security fixes v2.1.0 fixes eight vulnerabilities in three servers. Upgrade @modelcontextprotocol/server-filesystem and @modelcontextprotocol/server-everything to 2.0.1, and mcp-server-fetch to 2026.10.24. Package Affected Fixed in @modelcontextprotocol/server-filesystem 1.0.0 through 2.0.0, and date versions through 2026.8.31 2.0.1 @modelcontextprotocol/server-everything 1.0.0 through 2.0.0, and ",
+  "date": "2026-10-25T00:03:20+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Is it just me or Kimi K3.1 Pro don’t look much better than DeepSeek 4.1 Flash?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xemxoq/is_it_just_me_or_kimi_k31_pro_dont_look_much/",
+  "summary": "Personally I am quite fond of the Kimi models, especially them taking a gamble pushing the 2.8b parameter models. But that’s just it, you’d figure that the results would be representative of its size. However, the recent release of DeepSeek 1017 has put things in perspective for me. kimi k3 is a great model but realistically very hard to run locally, even when quantized, and even if managing to ru",
+  "date": "2026-10-24T23:24:59+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "CMP170HX inspiration unlocks 30x/40x also, up to 2X Prefill speedup --> NVIDIA RTX 30 & RTX 40 GPUs Get Impressively Fast In AI LLMs As Compute Doubles With New Unlock Tool But Prices Surge Too",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xelhpj/cmp170hx_inspiration_unlocks_30x40x_also_up_to_2x/",
+  "summary": "Your move everyone, buy, sell, but hurry... submitted by /u/chemist_slime [link] [comments]",
+  "date": "2026-10-24T22:16:55+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Blue Planet III is keeping the rough edges in the age of AI",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+  "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]",
+  "date": "2026-10-24T21:29:12+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "M6 Mac Mini owners (32GB): now you can run Qwen3.8-27B in high quality on the Apple Neural Engine",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xejv61/m6_mac_mini_owners_32gb_now_you_can_run_qwen3827b/",
+  "summary": "ANEMLL Forge 0.2.1: Qwen3.8-27B on the M6 Neural Engine now runs up to 192K context (M6 32GB). New: INT8 K/V cache (half of FP16) and a smaller drafter sharing the target's output head — 0.86 GB less ANE memory, same speed. Decode depends on content: JSON 35–62 tok/s, code 18–32, prose 10–17. Prefill 260 tok/s at short context, 62 at 192K. 128K–192K use a smaller prefill batch (32 vs 64 rows) to s",
+  "date": "2026-10-24T21:05:21+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "KLD is misunderstood",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeim3m/kld_is_misunderstood/",
+  "summary": "I see a lot of people here on Reddit treating the KLD number as some holy metric that can distinguish every quantized model out there and rank them by quality. TL;DR: It can't. So what does KLD actually measure? If you feed the same text to both the base model and the quantized model, you can compare the probability distributions obtained from their logits at each token. KLD basically measures how",
+  "date": "2026-10-24T20:12:28+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Made a rhythm game where 4 small neural nets listen to your song right in the browser tab (open source)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeia9o/made_a_rhythm_game_where_4_small_neural_nets/",
+  "summary": "not an llm post exactly, but it's all local inference so i figured people here might like it i made a browser rhythm runner where the song builds the world you run through. you can throw in your own mp3s and the whole \"listening\" happens on your device, inside the tab. nothing gets uploaded the models, all running locally on onnxruntime-web (wasm, each in its own web worker), and what the game doe",
+  "date": "2026-10-24T19:59:11+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Noi's Bright Stars smash Mali in AfroBasket Qualifier - Sydney Kings",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZzJERG1HQmRGMG91Z2JnT181dkV1UzhVNnlSNHZoTzI4YkJMc05sY00weXhoOFVxcURFRTFrWWU3bEZhQlFZSlRiSnFGTnpDbnB4ZXUtNFBVemlrb0Q2alVWcFBFS0hPQW5aOE1MS3Z0OGN5MnVHdlB0YzZFajhTb09FRFBkUk03SkFaa0pNUUZId0xZTTF1UmcyaVU5MjNXQkRtZg?oc=5",
+  "summary": "Noi's Bright Stars smash Mali in AfroBasket Qualifier Sydney Kings",
+  "date": "2026-10-24T19:05:09+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+  "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+  "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+  "date": "2026-10-24T19:00:00+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Pennsylvania will require labels on AI-generated ads",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+  "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as […]",
+  "date": "2026-10-24T18:32:21+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Kimi K3.1 removes cyberattack training data from open weight release",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xecgrf/kimi_k31_removes_cyberattack_training_data_from/",
+  "summary": "This is due to China's new export restrictions primarily but also the growing caution around cybersecurity exploits popping up. submitted by /u/zxyzyxz [link] [comments]",
+  "date": "2026-10-24T16:05:18+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Block’s new voice model sounds eerily human",
+  "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+  "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+  "date": "2026-10-24T16:00:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "big cloud models like opus 5.5 get all the motion graphics praise, but i made this with local qwen3.8 flash next. it's very possible!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xebkti/big_cloud_models_like_opus_55_get_all_the_motion/",
+  "summary": "i'll admit it took more than one prompt, a bunch of refinement and steering, but local can get close! this is done using remotion, same animation framework as all the viral clips about opus 5.5's motion graphics capabilities the entire conversation history that produced this video: https://rosie254.neocities.org/lumaras_playground/being_an_ai_remotion_chat.txt EDIT: oh, and this is unsloth's Qwen3",
+  "date": "2026-10-24T15:29:30+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "8 GB GPU, 262K context 3.5 BPW Qwen-Flash-Next Coder 70 T/s using llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xebdzl/8_gb_gpu_262k_context_35_bpw_qwenflashnext_coder/",
+  "summary": "The methodology Qwen-Flash-Next has n-gram, MOE packing above its weight but it's still 6B active params. We exploit this by keeping most MOEs in RAM (Smallest MOEs go in VRAM for speedup) and n-gram on disk - ensure you put the model on your fastest SSD. 8 GB VRAM, 24 GB RAM cost. You can run this fine if you've ~32 GB total memory too, but you'd have to turn down context size . Customize the lau",
+  "date": "2026-10-24T15:21:50+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Canon’s Flagship Camera Just Became More Affordable - Y.M.Cinema Magazine",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50S2NYVDd0X1BmN0pwNmZYMllGNWh6SmpucFMxZjhVZEFiZ3Qtd1ZvR3VzYjljWXBTMnVrNFk4Tkl3RzBTWF9jQVFYNXdwbmZFcHdrcjN4akZfYlk3d29NS3FxOUdqNDcya0NyTGNXS3h0VFRC?oc=5",
+  "summary": "Canon’s Flagship Camera Just Became More Affordable Y.M.Cinema Magazine",
+  "date": "2026-10-24T15:21:35+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+  "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+  "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+  "date": "2026-10-24T15:00:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Here are the top AI agents that can live in your text messages",
+  "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+  "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+  "date": "2026-10-24T14:00:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "AbliteratedOutTheBox Strata Announcement",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe8x9c/abliteratedoutthebox_strata_announcement/",
+  "summary": "I’ve been working on an inference-time abliteration engine as a fork of llama.cpp, and I’ve now ported the hook to Strata. It acts as an easy way to use abliterated models without huge amounts of vram or finetuning. For the Strata Branch https://github.com/heterodoxin/AbliteratedOutTheBox/tree/strata For the llama.cpp branch https://github.com/heterodoxin/AbliteratedOutTheBox A star or upvote woul",
+  "date": "2026-10-24T13:38:58+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Meta trained small AI models to read raw bytes instead of tokens. They start out worse, but the paper predicts they end up better",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe88ja/meta_trained_small_ai_models_to_read_raw_bytes/",
+  "summary": "https://arxiv.org/pdf/2609.12303 this paper suggests a model that skips models reading tokens that and has the model read raw bytes, basically one letter at a time. what they did: trained small models (~1B params), some on tokens and some on bytes trained them partly by copying a bigger model (llama 3 8b), aka distillation the tricky part is that the teacher thinks in tokens and the student reads ",
+  "date": "2026-10-24T13:08:49+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "PSA: Davinci Resolve is on sale, letting you unlock the powerful tool for less - Yahoo Tech",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaktQbXFGX05wVFBPZ2s0dHlnYUJSS2xkS3RkYTRRMVFsbDBnWGgyb0VVSVgzcnl2OHEteC15UXJqMmtjV1g3QTJWNkNXMld5ZGJTTUNUbXhsR0c4a0lrbUs2VWNpQ3E2c1dydmUxSGp6R0xnUGM4U0pyM0VCcHZucWhJYlhIOXRLQWlrVHlkN0M0bzUz?oc=5",
+  "summary": "PSA: Davinci Resolve is on sale, letting you unlock the powerful tool for less Yahoo Tech",
+  "date": "2026-10-24T13:00:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Gyro quants looks like EXL3 but kinda closed source. please explain why we need this.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe41qe/gyro_quants_looks_like_exl3_but_kinda_closed/",
+  "summary": "Recently this new quant has popped up called Gyro. It is gaining popularity because it's being inserted into many different engines, especially the recently popular Strata. So i took a dive into the code to see the differences between Gyro and EXL3, to me it looks like simply a different flavor of EXL3 quantization, but it's not interoperable and the recipe to make it is closed source for now. Pro",
+  "date": "2026-10-24T09:17:15+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "[Release] ISTA GSQ-RCO GGUFs for DeepSeek-V4.1-Flash-1017",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe2wg8/release_ista_gsqrco_ggufs_for_deepseekv41flash1017/",
+  "summary": "We have released DeepSeek-V4.1-Flash-1017 quantized with GSQ and RCO, at 1.75 to 2.25 bits per weight. DeepSeek-V4.1-Flash-1017 is a sparse mixture-of-experts model: 384 routed experts per layer, of which 6 are active per token, 763.2B parameters and a 1M-token context window. It is released with FP8 dense weights and FP4 routed experts. What's inside Three quantized GGUFs: IQ1_M (1.75 bpw), IQ2_X",
+  "date": "2026-10-24T08:05:17+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "OYEEE – NDi Sawa MP3 DOWNLOAD - CitiMuzik",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93NjJSOU5sOXk4bVBraWNFSEVtMW02ZjE2bGgzM3hTVFZkOXRTZGVlZjZQbHYzUW10RzRDOF9iVGtTemxZM2dBV0QwYWV0elBqZWFjU0FSSDEtVmN3NlpjajZmRnV6UUJ3M2NtR1JnZ0dVYWQ2?oc=5",
+  "summary": "OYEEE – NDi Sawa MP3 DOWNLOAD CitiMuzik",
+  "date": "2026-10-24T06:01:09+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "battledrones v14: Compass Rose, a four player map",
+  "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+  "summary": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocket non-audio based multiplayer mode so up to four human players can join (any spare slots use AI) Claude O",
+  "date": "2026-10-24T03:59:57+00:00"
+ }
+]
