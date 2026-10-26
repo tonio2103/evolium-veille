@@ -1,0 +1,220 @@
+[
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@1.123.88",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.88",
+  "summary": "1.123.88 (2026-10-26) Bug Fixes core: Release the SQLite write lock when the write connection fails to open ( #41918 ) ( 01b5e80 ) Update certifi to 2026.10.23 in task runner ( #41995 ) ( 3012503 )",
+  "date": "2026-10-26T06:50:47+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.45.4",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.45.4",
+  "summary": "2.45.4 (2026-10-26) Bug Fixes core: Recreate removed n8n-sandbox sandboxes and rerun workspace setup ( #41919 ) ( 11e279a ) core: Start sub-workflow error workflow when a pre-run check fails ( #41977 ) ( 9595142 ) editor: Match navigation plus button hover styling ( #41910 ) ( 471c006 ) editor: Point migration report docs link to the v3 breaking changes page ( #42003 ) ( b617384 ) Email Trigger (I",
+  "date": "2026-10-26T06:29:01+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.44.7",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.44.7",
+  "summary": "2.44.7 (2026-10-26) Bug Fixes core: Start sub-workflow error workflow when a pre-run check fails ( #41978 ) ( 67d0e65 ) Email Trigger (IMAP) Node: Back off reconnects when the server drops each new connection ( #41927 ) ( 10a9518 ) Microsoft SharePoint Node: Fix the column mapper 403 and empty items in Map Automatically ( #41906 ) ( e67d278 ) Update certifi to 2026.10.19 in task runner ( #41967 ) ",
+  "date": "2026-10-26T06:25:04+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfovxr/researchers_from_stanford_and_uc_berkeley/",
+  "summary": "i hope it's real submitted by /u/MundanePercentage674 [link] [comments]",
+  "date": "2026-10-26T06:06:01+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Is the horror story about AI agent mass deleting your entire drive an old story or it still happen nowadays?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xflw1l/is_the_horror_story_about_ai_agent_mass_deleting/",
+  "summary": "not so long ago there was viral tweet about AI agent deleting stuff without permission. well it happen to me as well a vscode copilot agent accidentally wipe my db while doing test (fortunately I got backup) but is it still a common occuring nowadays with how smart agent has become? submitted by /u/fugogugo [link] [comments]",
+  "date": "2026-10-26T03:15:33+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "PSA: llama.cpp CVE-2026-116096",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfizft/psa_llamacpp_cve2026116096/",
+  "summary": "https://nvd.nist.gov/vuln/detail/cve-2026-116096 25-10-2026 Description A weakness has been identified in ggml-org llama.cpp. Affected by this issue is the function list_pockettts_state_slots of the file tools/mtmd/models/pockettts-gen.cpp of the component Pocket-TTS. This manipulation of the argument mmproj causes out-of-bounds write. *The attack requires local access. The exploit has been made a",
+  "date": "2026-10-26T00:53:40+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "SMH, seriously? -->> NVIDIA Eyes Software Revenue With a $2,000 per GPU Yearly Figure From Huang",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfhhm4/smh_seriously_nvidia_eyes_software_revenue_with_a/",
+  "summary": "submitted by /u/chemist_slime [link] [comments]",
+  "date": "2026-10-25T23:46:05+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "CrowdGPT - A collaboratively trained LLM.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xff9e4/crowdgpt_a_collaboratively_trained_llm/",
+  "summary": "Hello, I'm developing CrowdGPT , a project aiming to create an LLM without datacenters and without the usual millions of dollars spent by AI companies. The project aims to train a 1 billion parameter model collaboratively and openly, with a protocol where everyone gets a say in the direction the project takes. Anyone can use their PC to train the AI independently, then add their contributions to t",
+  "date": "2026-10-25T22:07:17+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Nanbeige4.3-33B Quantised GGUF",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfeho8/nanbeige4333b_quantised_gguf/",
+  "summary": "Quant ladder of Nanbeige's new 33B model from 35.2GB down to 13.7GB For 32GB hardware the sweet spot is 20.3GB AD-IQ4_XS with a top-1% of 92.0% compared to BF16 submitted by /u/gladkos [link] [comments]",
+  "date": "2026-10-25T21:33:29+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+  "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+  "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+  "date": "2026-10-25T21:31:16+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Show and tell: PolyStrata on my $20 Xeon server",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfb9oz/show_and_tell_polystrata_on_my_20_xeon_server/",
+  "summary": "submitted by /u/randylush [link] [comments]",
+  "date": "2026-10-25T19:24:15+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "RTX 3080 20GB got reBAR and P2P unlock! +70% prompt processing speed",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf9kmd/rtx_3080_20gb_got_rebar_and_p2p_unlock_70_prompt/",
+  "summary": "P2P is finally unlocked for RTX 3080 20GB - this leads to massive performance improvements in tensor parallel mode prompt processing speed. First, i want to acknowledge that this tremendous achievement belongs to u/nathannguyennng - he can't post to r/locallama due to karma requirements, and gave me permission to post it instead. Please follow his original post for installation instructions, and g",
+  "date": "2026-10-25T18:16:54+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "I made an arena for fighting JEVs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf8iqi/i_made_an_arena_for_fighting_jevs/",
+  "summary": "Each fighter gets the game state and chooses an action: move, block, punch, kick, fireball. You write its strategy and pick the model. OpenJev is one of the available options. There is JAILBREAK part its a mental_attack . Your fighter can spend a move sending a message into the opponent’s next prompt. You write the message, and the model decides when to use it. It can’t change the actual game stat",
+  "date": "2026-10-25T17:35:27+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+  "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+  "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+  "date": "2026-10-25T16:57:32+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "4x v620 in a LLM generated and 3d printed chassis",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf7b46/4x_v620_in_a_llm_generated_and_3d_printed_chassis/",
+  "summary": "submitted by /u/PraxisOG [link] [comments]",
+  "date": "2026-10-25T16:47:52+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "qwen: merge tensors on convert by am17an · Pull Request #31028 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf716t/qwen_merge_tensors_on_convert_by_am17an_pull/",
+  "summary": "...time to reconvert GGUFs? submitted by /u/jacek2023 [link] [comments]",
+  "date": "2026-10-25T16:37:07+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "Seam Cutter",
+  "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+  "summary": "Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image. I wanted this because I often use Tailor on my iPhone to stitch several screenshots together into lot long image, but sometimes I find myself wan",
+  "date": "2026-10-25T15:10:19+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "The hottest AI wearables and gadgets you should know about",
+  "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+  "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+  "date": "2026-10-25T14:10:00+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "r/opensource just banned AI, non-English speakers, and more",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+  "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]",
+  "date": "2026-10-25T13:25:32+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Lure-TTS and Lure-Turbo: 600M voice models to run 4x faster than real time, with inline (tags), direction, and voice cloning. Trained for under $200.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf14j2/luretts_and_lureturbo_600m_voice_models_to_run_4x/",
+  "summary": "I trained Lure TTS by finetuning Qwen3-TTS using some of the latest developments in model training, such as RLVR, OPD, and multi-teacher OPD. My goal was to create a faster, smaller TTS model that I could listen to as a voice assistant and not get angry at it. Mostly, I just wanted a faster model that sounded good so I didn't have to whip out a big gpu when I needed it. The first thing I did was u",
+  "date": "2026-10-25T12:29:32+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Backup your quants!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf11qj/backup_your_quants/",
+  "summary": "source: https://huggingface.co/mradermacher/model_requests I'm sure the situation is the same for other quant producers. If you have anything you want to keep, it's best to make a backup now. If you have the means to, please create torrents of them and share them here: https://llama.garden https://pirateface.co/models https://huggingbay.xyz/browse submitted by /u/Kahvana [link] [comments]",
+  "date": "2026-10-25T12:25:39+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Nanbeige/Nanbeige4.3-33B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf0kz4/nanbeigenanbeige4333b_hugging_face/",
+  "summary": "Stronger than Qwen3.8-27B across a range of benchmarks. but also lays the necessary foundation to power our upcoming small model distillation pipeline (e.g., for Nanbeige4.3-3B). It'll distilled into their 3B small models, maybe other sizes too. submitted by /u/Mysterious_Finish543 [link] [comments]",
+  "date": "2026-10-25T12:01:34+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Google’s AI search changes upended online publishing",
+  "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+  "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]",
+  "date": "2026-10-25T12:00:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "CUDA: fuse FFN gate/up matmuls and GLU in MMQ with interleaved gate/up rows by anujj · Pull Request #29948 · ggml-org/llama.cpp",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xey0uw/cuda_fuse_ffn_gateup_matmuls_and_glu_in_mmq_with/",
+  "summary": "time to download some speedup DGX Spark (GB10), llama-bench -ngl 999 -fa on -p 16384 -n 0 -b 2048 -ub 2048 -ctk f16 -ctv f16 -r 5 , tok/s: model type master PR Qwen3.8-27B Q4_K_M 840.1 899.9 +7.1% Q5_K_M 840.1 880.6 +4.8% Q6_K 751.2 785.8 +4.6% Q8_0 876.2 940.1 +7.3% IQ4_XS 882.4 948.0 +7.4% Qwen3.6-27B Q4_K_M 816.6 865.6 +6.0% Q5_K_M 800.0 851.1 +6.4% Q6_K 720.8 770.4 +6.9% Q8_0 876.9 940.2 +7.2%",
+  "date": "2026-10-25T09:35:12+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Stargate Studios Colombia Uses DaVinci Resolve Studio for Vertical Microdramas - FilmInk",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlVSMnNaeWNwcXlYRUNpd3YtYnY3Q2l5WVVvOVNrVHZSWlE1QmViclh1YTJYTjd2eHJmd0lCRnlPZ3l3Vl9kdk5rcFpLZHhucUY3TENJeDVsX1FCNmFXcjZOVmV2SGpvOHQtR05NSVlrcGptakEzYzFzcHNDYjZOSW85MWhmWnJWN1FJajVobjRKY1dtd1Z4QmRFb2RCdmw0TnhWT0phbVNaS0l5czhjUXF4SnA2LTRrUzFQcQ?oc=5",
+  "summary": "Stargate Studios Colombia Uses DaVinci Resolve Studio for Vertical Microdramas FilmInk",
+  "date": "2026-10-25T06:32:52+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+  "url": "https://huggingface.co/destined/hurston-1",
+  "summary": "58 points, 25 commentaires HN",
+  "date": "2026-10-25T01:30:13+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50227330"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+  "url": "https://adrs.systems",
+  "summary": "39 points, 20 commentaires HN",
+  "date": "2026-10-25T00:43:47+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50227041"
+ }
+]
