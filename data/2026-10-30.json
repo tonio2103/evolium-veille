@@ -1,0 +1,805 @@
+[
+ {
+  "source": "Mistral news",
+  "family": "Modèles et labos",
+  "title": "Research Le Chonk: Built for Coders, Trusted by Defenders. We release the weights of Le Chonk, advancing the frontier of open models in agentic coding and cyber",
+  "url": "https://mistral.ai/news/mistral-large-4-oss",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-30T09:20:30.890026+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Listicles 7 Best AI Video Tools for Beginners in 2026 11 min · Oct 29, 2026",
+  "url": "https://higgsfield.ai/blog/best-ai-video-tools-for-beginners-2026",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-30T09:20:30.890026+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Listicles 7 Best Kling AI Alternatives in 2026 11 min · Oct 28, 2026",
+  "url": "https://higgsfield.ai/blog/kling-ai-alternatives-2026",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-10-30T09:20:30.890026+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+  "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+  "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
+  "date": "2026-10-30T09:00:00+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@1.123.91",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.91",
+  "summary": "1.123.91 (2026-10-30) Bug Fixes core: Fix $('Node') expressions returning null for legacy Code node output ( #42249 ) ( 18c89cd )",
+  "date": "2026-10-30T08:45:52+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Blackmagic Design Announces New UltraStudio Express HD - iTWire",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS0MxRGxReGtSejFJWWVxdVlyVVZHMHA3NjQ0T0YzVWROZFpmaHZCakVHVFNNRnhNZnFUX3JpUGpfU2xvZXcxdktiMUVrckpyTXQ5T2M4NGZ5RzF4Z0hhd1dTNmRTQ3BDZUN3VUxhMXlsdml0RmdqeFBRSjZjdVh3X3BsWHNfUlZHSWVfYnNOcl9vWWxreEJYWTVQZHV5bVFoOGdRblowaXEzeTRDa3pJ?oc=5",
+  "summary": "Blackmagic Design Announces New UltraStudio Express HD iTWire",
+  "date": "2026-10-30T08:34:36+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.46.3",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.46.3",
+  "summary": "2.46.3 (2026-10-30) Bug Fixes core: Add a cooldown before resending migration owner reminders ( #42567 ) ( 724efc3 ) core: Resolve IMAP trigger expressions after activation ( #42612 ) ( 17594a7 ) core: Return user data with an __isError key as data in expressions ( #42490 ) ( 9fe595e ) editor: Show the workflow project under its name in the migration report ( #42619 ) ( b6639bb ) Features editor: ",
+  "date": "2026-10-30T08:29:31+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.45.7",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.45.7",
+  "summary": "2.45.7 (2026-10-30) Bug Fixes core: Require execution:read when workflow-scoped routes read execution data ( #42446 ) ( 93638f4 ) core: Resolve IMAP trigger expressions after activation ( #42611 ) ( 50ef902 ) core: Return user data with an __isError key as data in expressions ( #42491 ) ( c422a6c )",
+  "date": "2026-10-30T08:28:05+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+  "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+  "summary": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps.",
+  "date": "2026-10-30T08:24:29+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Blackmagic UltraStudio Express HD rebuilds the HD Mini around USB4 - Red Shark News",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GVktHSHZndG1MVjBMWm5kbEtTRk16WnB2RHRIWHAyTllmYmRWWU1RVWZRTS1sSi01cmRTVkl4Vmoxc1NFYkN2cnlXQWpyV09mSDl3OHlod0ZWNk5waXA5VWRCa01ERmFKaFRZejVTSdIBf0FVX3lxTE9FRGxZcWZBSmZIY1NxNlFZNFRNZEJDb2MtbVRNc2kybE5kV1RoZ1RNOEZudmxhdWYwSlpDYTViS2YtbjdTNGhvXzlxR1o0ZmllbVlrcTRHZnV6ZnBLd3prZkt6alA5cW9mRzlfTVFqWVBVRGFMMjhXS3k4V0JrcDQ?oc=5",
+  "summary": "Blackmagic UltraStudio Express HD rebuilds the HD Mini around USB4 Red Shark News",
+  "date": "2026-10-30T06:40:51+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Media - Blackmagic Design",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ic096UXJwY1k0WTR0b09OTnQ1QWVjUlY4Snl0OXkyZ3FzYzJPTThTTlNqNm45MGs1OVFrZkFVcm1yNE55Z2paanQ3bllYdGFDdzJTSThfdUhBVlNhNl9PclJmekwwUTI5Q3c?oc=5",
+  "summary": "Media Blackmagic Design",
+  "date": "2026-10-30T05:16:53+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Blackmagic Design UltraStudio Express HD - Newsshooter",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZWRrT0x6TTdVdlExX21rc2NCVUJjd2lEM2xYMHBtWmFxYmozSzBKdlE2czVCMkY5Z2xGem0zSEJnem5hUlQ5R1RkZWlrcFZWYlhZYklVeW1rcHF1UVlaSU9UdVlsZFpUaUlHa2tmN2VtUmhkS1N0enRoWHE3NWVaZ0JlYkpOVjg?oc=5",
+  "summary": "Blackmagic Design UltraStudio Express HD Newsshooter",
+  "date": "2026-10-30T04:20:34+00:00"
+ },
+ {
+  "source": "auto-editor (montage auto)",
+  "family": "Montage, motion et broadcast",
+  "title": "WyattBlue/auto-editor 31.8.0",
+  "url": "https://github.com/WyattBlue/auto-editor/releases/tag/31.8.0",
+  "summary": "Features New burn action/generator: draws a subtitle file (.srt, .ass, or a file's text stream) over a section or on its own layer, e.g. add:burn:talk.srt , with overrides for font, size, colors, and alignment. New text action/generator: writes text over a section or on its own layer, e.g. add:text:Chapter 1 , with the same overrides and an optional vertical layout. burn without a file draws the s",
+  "date": "2026-10-30T02:08:02+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Passage: The Art of Atong Atem - Australian Arts Review",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JcG5FYVdnb3h5V1lyQVNsWUhZeDA2S0N0MWtVT2dDa2dKb0YyX3BBTHZtd0dRMTJkRW11N0tSNW5fU3gyaDl3WC1ILUdmWjhuWmwtdjg0ZjI1Q3BWRWJBdWJ2RkxQcWc?oc=5",
+  "summary": "Passage: The Art of Atong Atem Australian Arts Review",
+  "date": "2026-10-30T01:59:02+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Reddit will force everyone to log in",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xj2pnp/reddit_will_force_everyone_to_log_in/",
+  "summary": "Recently, CEO Steve Huffman disclosed that Reddit will transition to a \"logged-in-only\" experience. This means that Reddit posts will no longer be searchable via internet browsers, significantly impacting local AIs that search the internet via tool calling. submitted by /u/Fcking_Chuck [link] [comments]",
+  "date": "2026-10-30T01:45:51+00:00"
+ },
+ {
+  "source": "ComfyUI releases",
+  "family": "Open source et recherche",
+  "title": "comfyanonymous/ComfyUI v0.43.2",
+  "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.43.2",
+  "summary": "ComfyUI v0.43.2",
+  "date": "2026-10-30T01:24:06+00:00"
+ },
+ {
+  "source": "Gemini CLI",
+  "family": "Agents, code et automatisation",
+  "title": "google-gemini/gemini-cli Release v0.67.0-nightly.20261030.gb633c0703",
+  "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-nightly.20261030.gb633c0703",
+  "summary": "What's Changed docs(readme): clarify Gemini CLI scope, limitations, and tool landscape by @LyalinDotCom in #29995 fix(cli): bound inline history re-render after terminal width changes by @jvargassanchez-dot in #29904 fix(ui): handle surrogate pairs when truncating in sanitizeForDisplay by @diegogodinezr in #29993 fix(core): make isWithinRoot case-insensitive on Windows by @duvanka-prasad in #29999",
+  "date": "2026-10-30T01:22:17+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+  "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+  "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+  "date": "2026-10-30T01:20:48+00:00"
+ },
+ {
+  "source": "Claude Code changelog",
+  "family": "Agents, code et automatisation",
+  "title": "anthropics/claude-code v2.1.314",
+  "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.314",
+  "summary": "What's changed Added permissions.blockWritesOutsideWorkingDirectories : Write, Edit and NotebookEdit refuse paths outside the working directories in every permission mode Added an optional groups list to Claude apps gateway upstreams: only developers in the listed IdP groups are sent to that upstream, on failover too Added guardrail_trace to Claude apps gateway Bedrock upstreams, to log which Amaz",
+  "date": "2026-10-30T01:06:26+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+  "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+  "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+  "date": "2026-10-29T23:42:22+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Sam Altman: “Local inference is a terrible allocation of scarce resources”",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xizbq1/sam_altman_local_inference_is_a_terrible/",
+  "summary": "Sam Altman: “ Local inference is a terrible allocation of scarce resources. A lot of people want local inference, and somehow they assume that the problem is solved now because we have open-source models, we're going to be able to run them on our computers, and so we're not going to need all the stuff in the data centre but from a global allocation perspective, actually it's quite terrible to have",
+  "date": "2026-10-29T23:11:52+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "API credits benefit for eligible ChatGPT subscriptions",
+  "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+  "summary": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now launched pretty much exactly the same deal: if you have a $100, $200, or $500 subscription plan wit",
+  "date": "2026-10-29T22:48:29+00:00"
+ },
+ {
+  "source": "OBS Studio",
+  "family": "Montage, motion et broadcast",
+  "title": "obsproject/obs-studio OBS Studio 33.0.1",
+  "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.1",
+  "summary": "33.0.1 Hotfix Changes Fixed a crash on startup when logged into a service integration [WizardCM] ( #554 ) Fixed a crash when logging into the Twitch integration [WizardCM] ( #14072 ) Fixed a deadlock when logging into the YouTube integration [WizardCM] ( #556 ) Fixed a race condition where browser panels could end up with incorrectly sized content [WizardCM] ( #558 ) Fixed a memory leak when using",
+  "date": "2026-10-29T21:52:01+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Arguably unethical behavior from Cohere",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xix61q/arguably_unethical_behavior_from_cohere/",
+  "summary": "3 days ago, u/Cohere generated a huge amount of media attention and many fear-mongering headlines by publishing a largely unscientific blog post about an \"experiment\" where they used extensive pre-filling and prompt engineering to force Qwen 3.8 Flash Next to complete partial cURL commands. Today, they announced Series E fundraising for several billion dollars, including up to $1.6 billion dollars",
+  "date": "2026-10-29T21:43:11+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Release: Swift 1.5 Flash Next - Heretic v2 - ReverseEngineer",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xix35p/release_swift_15_flash_next_heretic_v2/",
+  "summary": "This model was made in collaboration with u/jeffpeng3 (on huggingface) who developed the v2 heretic weights for this quant. He managed to preserve both reasoning ability and output length. Great work, and a big step up from his v1 weights. I made the quantization recipe and the imatrix recipe, and created the actual quants. Comes pre-packed with strata build artifacts - zip file in repo. GGUF File",
+  "date": "2026-10-29T21:40:04+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+  "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+  "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+  "date": "2026-10-29T20:08:31+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Rivian expands joint venture with VW to include AI assistant",
+  "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+  "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+  "date": "2026-10-29T20:05:47+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "OpenAI-backed Thrive Holdings acquires ADT",
+  "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+  "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+  "date": "2026-10-29T19:56:19+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.166.0",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.166.0",
+  "summary": "New Features Added keyboard-driven transcript selection with word, line, and page motions, integrated search, and configurable shortcuts. ( #57221 , #57222 , #57223 , #57224 ) Rendered Markdown consistently in async questions, choices, answers, and transcript replies. ( #57259 , #57292 ) Added GPT-6.1 Terra to the bundled, Vertex AI, and Amazon Bedrock model catalogs. ( #57293 ) Added codex queue ",
+  "date": "2026-10-29T19:50:20+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+  "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+  "summary": "46 points, 37 commentaires HN",
+  "date": "2026-10-29T19:25:48+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50294486"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Meta quietly launches an AI fashion app called Style Sketch",
+  "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+  "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+  "date": "2026-10-29T19:14:36+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Trump declares robot imports a national security threat",
+  "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+  "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
+  "date": "2026-10-29T19:07:53+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "UkisAI Swift GLM5.3 + GSQ-RCO, Swift Ornith 9B / -57.7% Token Usage with <1% accuracy loss on max reasoning",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xisqge/ukisai_swift_glm53_gsqrco_swift_ornith_9b_577/",
+  "summary": "Hi everyone, Jovan from UkisAI here, Today we are expanding our Swift model series with two models requested by the community. We made Swift GLM-5.3-Flash and Swift Ornith 9B more efficient by figuring out which tokens were linked to pathological overthinking and penalizing them without \"attacking\" the reasoning length directly then regained the accuracy with further post-training, leading to \"com",
+  "date": "2026-10-29T18:54:31+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+  "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in […]",
+  "date": "2026-10-29T18:45:31+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Free web search for my local agent stopped working. What are you paying per 1,000 queries now?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xis2qz/free_web_search_for_my_local_agent_stopped/",
+  "summary": "My research agent ran on a free search API for months until every call started failing last week and the SearXNG box I set up instead keeps getting its Google and Bing engines suspended for captchas, so I'm going to have to pay for one. It's maybe 3,000 to 5,000 searches a month, mostly docs and GitHub issues and I'd like snippets plus the page text when a result looks useful. The search threads I",
+  "date": "2026-10-29T18:29:47+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Elucidating the Design Space of LM Data Attribution",
+  "url": "https://arxiv.org/abs/2610.40655v1",
+  "summary": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly why an attribution algorithm fails. To diagnose these failures, we explore the design space of LLM data attribution, with a primary focus on evaluation. We introd",
+  "date": "2026-10-29T17:59:53+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Micro-Edits: Computational Support for Fine-Scale Edits in Film",
+  "url": "https://arxiv.org/abs/2610.40653v1",
+  "summary": "In film editing, every frame matters. While macro, content-level edits shape the high-level narrative of a film, small local edits often control timing and direct visual attention. For example, editors can adjust the precise timing of clips to control the length of a meaningful silence, or cut to shots that highlight a specific character's reactions to important moments. These small, detailed edit",
+  "date": "2026-10-29T17:59:49+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Rethinking Neural Thickets Without Weight Perturbations",
+  "url": "https://arxiv.org/abs/2610.40649v1",
+  "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a single decoder block already recovers much of the improvement, while keeping the model entirely frozen a",
+  "date": "2026-10-29T17:59:29+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+  "url": "https://arxiv.org/abs/2610.40647v1",
+  "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from global exchange, while high-frequency detail can be modeled locally. Based on this insight, we introdu",
+  "date": "2026-10-29T17:59:21+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Luggage re-identification: A study of strategies towards a real-world application",
+  "url": "https://arxiv.org/abs/2610.40643v1",
+  "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery). It enables the association of observations of the same luggage across disjoint camera views in complex environments such as airports, train stations and border crossing. While exi",
+  "date": "2026-10-29T17:58:59+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "From extreme weather to agricultural consequences with agentic AI",
+  "url": "https://arxiv.org/abs/2610.40641v1",
+  "summary": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that could tell span many sources. We present WxCrop, the first agent that judges agricultural hazards from physically interpretable weather indices examined by causal analysis, and the fi",
+  "date": "2026-10-29T17:58:53+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization",
+  "url": "https://arxiv.org/abs/2610.40640v1",
+  "summary": "Recent progress in visual scene generation has extended beyond static 3D scenes toward the more challenging problem of generating dynamic 4D scenes from minimal input. However, sound, despite being intrinsically coupled with dynamic objects and events, remains largely unmodeled in prior work. We introduce Video-to-4DAVScene, a new task that turns a video into an explorable, time-varying 4D audio-v",
+  "date": "2026-10-29T17:58:45+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Probing Spatial State Representations in Visual Foundation Models",
+  "url": "https://arxiv.org/abs/2610.40636v1",
+  "summary": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent spatial state that is updated under self-motion and used to guide action. Do visual foundation models provide representations that support such a state? We study this question through ",
+  "date": "2026-10-29T17:58:16+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors",
+  "url": "https://arxiv.org/abs/2610.40632v1",
+  "summary": "As robots and intelligent systems increasingly interact with humans, they must anticipate long sequences of future actions from only brief observations. While purely neural models typically require extensive observations to predict future actions and remain difficult to interpret and adjust, symbolic priors offer a structured alternative. To this end, we introduce SymAnt, a novel neuro-symbolic ap",
+  "date": "2026-10-29T17:58:00+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Difficulty Calibration Across Time for Membership Inference in Diffusion Models",
+  "url": "https://arxiv.org/abs/2610.40616v1",
+  "summary": "Modern diffusion models are trained on massive datasets that often include copyrighted or private images. Membership inference attacks (MIAs) address this by testing whether a given image was in a model's training set. The standard approach scores an image by its reconstruction loss and flags low-loss images as members. This often fails because some images are simply easier to reconstruct than oth",
+  "date": "2026-10-29T17:54:54+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
+  "url": "https://arxiv.org/abs/2610.40614v1",
+  "summary": "Interactive world models generate visual content conditioned on user actions, yet maintaining spatial consistency over long-horizon exploration in real time remains challenging. Existing approaches rely on either temporal context or explicit 3D memory, both of which scale poorly because memory grows with the length of the generated stream. Moreover, explicit 3D memories condition latent video gene",
+  "date": "2026-10-29T17:54:42+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Granola crunches up a dictation feature to compete with Wispr",
+  "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+  "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+  "date": "2026-10-29T17:54:38+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
+  "url": "https://arxiv.org/abs/2610.40613v1",
+  "summary": "We present TextSeal2, a distortion-free watermark for large language models that keeps its signal under speculative decoding: tokens that replace rejected drafts remain watermarked with the same keys, and the acceptance rate is unchanged. It also preserves output diversity and adds no measurable inference latency. Its predecessor, TextSeal, restores diversity in the Gumbel-max scheme by routing ea",
+  "date": "2026-10-29T17:54:12+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Fight World Model: Customizable Combat through Visual Interaction Proxies",
+  "url": "https://arxiv.org/abs/2610.40607v1",
+  "summary": "A playable, programmable game world must maintain persistent state, enforce executable rules, and support extensible gameplay mechanics. Existing video world models can generate plausible combat, yet struggle to keep hit reactions and health updates consistent with game rules. We introduce Fight World Model (FWM), which separates rule-governed combat execution from video rendering. An executable e",
+  "date": "2026-10-29T17:53:02+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "The unresolved high-mass frontier of the black hole Fundamental Plane",
+  "url": "https://arxiv.org/abs/2610.40606v1",
+  "summary": "Accreting black holes follow a Fundamental Plane (FP) linking radio and X-ray luminosities to black hole mass, but whether this relation changes in the ultramassive regime, above $\\sim10^{10}\\,\\Msun$, remains unresolved. Brightest cluster galaxies (BCGs) provide the most direct access to this regime, although earlier claims of enhanced radio emission relied largely on heterogeneous nuclear measure",
+  "date": "2026-10-29T17:52:59+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+  "url": "https://arxiv.org/abs/2610.40599v1",
+  "summary": "The hair of stylized characters in games and avatars is built from hair cards: artist-placed ribbons whose geometry is the visible hair, animated by spring bones. Existing image-based methods produce realistic hair or a single fused mesh, while CHARM, the only generator of stylized hair cards, decodes a hairstyle autoregressively as a long sequence of control points. Observing that a card hairstyl",
+  "date": "2026-10-29T17:50:26+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
+  "url": "https://github.com/lonthq/overtone-captions",
+  "summary": "40 points, 3 commentaires HN",
+  "date": "2026-10-29T17:48:17+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50293115"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Collaborative AI agents for autonomous experimental research with solid-state quantum spins",
+  "url": "https://arxiv.org/abs/2610.40589v1",
+  "summary": "An autonomous research laboratory could conduct an entire study, from formulating questions to preparing manuscripts. Artificial intelligence (AI) offers one route towards this goal. Recent AI systems take on several research roles, but may draw conclusions that the evidence does not support. Here, we present an autonomous research laboratory in which agents based on large language models assess o",
+  "date": "2026-10-29T17:47:50+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In",
+  "url": "https://arxiv.org/abs/2610.40588v1",
+  "summary": "When AI agents share channels and credentials, one agent can press another to break its operator's rule, a first step towards collusion. Output filters check only what an agent has already written. Can an overseer tell beforehand that an agent is about to give in? We show that a linear probe on the agent's activations can, in a controlled multi-agent setting. Across six scenarios, a peer presses a",
+  "date": "2026-10-29T17:47:40+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Beyond Ground Truth: A Heuristic Unsupervised Quality Assurance Engine for Diagnosing Calibrational Blindness in Dental Segmentation",
+  "url": "https://arxiv.org/abs/2610.40587v1",
+  "summary": "In real-world clinical settings, dental X-ray segmentation using deep learning methods suffers from reliability issues. Even when the segmentation quality is bad, deep learning models show high confidence in their predictions (calibrational blindness). Moreover, in real use, doctors do not have ground-truth masks to check their accuracy. To address this problem, we introduce a simple quality-check",
+  "date": "2026-10-29T17:47:25+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond",
+  "url": "https://arxiv.org/abs/2610.40586v1",
+  "summary": "Integrated sensing and communications (ISAC) systems using 5G and beyond signals of opportunity enable joint wireless sensing and communication using shared infrastructure and spectrum resources. While multistatic ISAC can increase sensing coverage with spatially distributed receivers, dense and dynamic clutter can significantly degrade bistatic range and Doppler estimation, leading to errors in t",
+  "date": "2026-10-29T17:47:02+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Why you can't trust cloud API endpoints: 40 days of coding-agent telemetry showing the exact day providers silently overwrote deepseek-v4.1-flash with -1017 (\"faster execution, shorter answers\" = 3x m",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xiqw9i/why_you_cant_trust_cloud_api_endpoints_40_days_of/",
+  "summary": "Around mid-October deepseek-v4.1-flash suddenly started feeling much dumber in my coding agent, so I parsed my local session logs to see when it broke. Before the update it had a funny quirk where it would randomly reply in Chinese while being 100% convinced it was speaking English. In the -1017 update (released Oct 17) they fixed the Chinese leak and made it fire tool calls more aggressively - an",
+  "date": "2026-10-29T17:46:05+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "RADIOlogy: A Single-Pass Approach to Training-Free Zero-Shot Anomaly Detection",
+  "url": "https://arxiv.org/abs/2610.40580v1",
+  "summary": "Current zero-shot anomaly detection methods often rely on complex prompt-learning techniques or computationally expensive sliding-window strategies to achieve fine-grained visual alignment to detect small-scale anomalies. This reliance stems from the fundamental limitation of standard CLIP architectures, where [CLS] token attention and spatial patch pooling struggle to capture subtle, localized an",
+  "date": "2026-10-29T17:45:35+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "VeriCUA: Verification as Agentic Exploration for Computer-Using Agents",
+  "url": "https://arxiv.org/abs/2610.40578v1",
+  "summary": "Building and scaling computer-using agents (CUAs) across desktop, mobile, and web environments requires reliable task-completion verification for data curation, evaluation, and reinforcement learning. Typical automated approaches prompt vision-language models (VLMs) to judge trajectories or generate programs to inspect application state. However, both rely on partial views of complex digital envir",
+  "date": "2026-10-29T17:45:26+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Multi-View MoE: Letting Every Router Shape Expert Computation",
+  "url": "https://arxiv.org/abs/2610.40577v1",
+  "summary": "Sparse mixture-of-experts (MoE) models expand parameter capacity by activating a small subset of experts per token. Expert selection directly affects model capabilities under a fixed active-expert budget. Dense evaluation of all experts reveals weak agreement between single-router rankings and expert-utility evaluation rankings, especially in middle and deep layers. Richer signals for selection an",
+  "date": "2026-10-29T17:45:12+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "On the Quantum Chromatic Gap II",
+  "url": "https://arxiv.org/abs/2610.40571v1",
+  "summary": "We confirm a conjecture of the first author [SODA'26] on a strong form of pseudo-telepathy for Khot's $d$-to-$1$ games: for every $d\\geq 4$, every $ε>0$, and every $k\\in\\mathbb N$, there is a $d$-to-$1$ label-cover game of classical value less than $ε$ that admits a perfect quantum strategy using finite-dimensional shared entanglement with measurement contexts of radius at least $k$. As a conseque",
+  "date": "2026-10-29T17:44:20+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Gym-Anything for Robotics: Scaling physical simulations with digital agents",
+  "url": "https://arxiv.org/abs/2610.40565v1",
+  "summary": "Realistic, fast robotics simulations could enable large-scale training of embodied AI models that transfer to the real world. However, despite decades of progress, available simulations cover only a narrow range of real-world tasks and physical phenomena. The core bottleneck is that creating better simulations requires significant expert effort and therefore does not scale. To address this, we int",
+  "date": "2026-10-29T17:42:32+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An Analysis of Counselling Patterns",
+  "url": "https://arxiv.org/abs/2610.40563v1",
+  "summary": "This study investigates the capabilities of Large Language Models to simulate counselling clients in educational role-plays in comparison to human role-players. Initially, we recorded role-playing sessions, where novice counsellors interacted with human peers acting as clients, followed by role-plays between humans and clients simulated by Mistrals Mixtral 8x7b using 4-bit quantization. These inte",
+  "date": "2026-10-29T17:41:59+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
+  "url": "https://fig.blue/posts/duet-is-the-future/",
+  "summary": "117 points, 122 commentaires HN",
+  "date": "2026-10-29T17:24:25+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50292727"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "LucidLyra: Feed-Forward Generative 3D Scene Reconstruction and Joint Understanding via Multi-Task Distillation",
+  "url": "https://arxiv.org/abs/2610.40495v1",
+  "summary": "We present LucidLyra, a framework that makes generatively reconstructed 3D scenes directly queryable for semantics and instances in a feed-forward manner from video latents. While generative 3D reconstruction can synthesize virtual environments from a single image, downstream applications in robotics and physical AI require not only visual realism but also access to scene semantics and object iden",
+  "date": "2026-10-29T17:18:51+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "MetaRefine: Score Refinement with Multi-Level Features for Image Assessment",
+  "url": "https://arxiv.org/abs/2610.40487v1",
+  "summary": "An image's original dimensions, aspect ratio, and composition provide important cues that can affect its technical and aesthetic quality. Image assessment methods use resizing, cropping, padding, or patch sampling to accommodate different input sizes. However, these operations can alter or obscure original geometric and compositional cues. Existing assessment models also encode rich multi-level vi",
+  "date": "2026-10-29T17:15:30+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "Building a multiplayer game world with autonomous Fable-class models",
+  "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+  "summary": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models. Spawn is a massively multiplayer gaming environment where players can use prompts (to the in-game agent, Savi) to mod",
+  "date": "2026-10-29T17:00:26+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "An updated Model Spec for more capable and beneficial AI",
+  "url": "https://openai.com/index/updated-model-spec",
+  "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+  "date": "2026-10-29T17:00:00+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Continuum 2027: Masks That Do More - Digital Production",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbkFENlU2Z1RGS0dKNnZZaEFOazBMYjYyMkttdG1uUjQwNks2ZkNjZkpRZU5qYl9pY1h5X2F5WlphNzg0M2pIdW5PaHdTMjZKcFVVV20zcEZrcTlkLXgtNDlYNDFDM3d1NFJDTkZBQW0xdDVVN2VOcHlFWnVONHlKWVNHOA?oc=5",
+  "summary": "Continuum 2027: Masks That Do More Digital Production",
+  "date": "2026-10-29T17:00:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+  "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+  "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+  "date": "2026-10-29T17:00:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Kokoro can now clone any voice with just ~600 MB of extra VRAM!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xiplj7/kokoro_can_now_clone_any_voice_with_just_600_mb/",
+  "summary": "While looking for audio models, I came across OpenVoice. It's getting pretty old, but surprisingly still ranks high on TTS leaderboards. What caught my attention was its design: essentially TTS + voice conversion . The ToneColorConverter can run independently of the TTS model. That got me thinking: Can we pair it with other TTS models? I tried it with Kokoro, and the results were pretty good! So I",
+  "date": "2026-10-29T16:59:08+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+  "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+  "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+  "date": "2026-10-29T16:42:32+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+  "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+  "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
+  "date": "2026-10-29T16:24:55+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+  "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+  "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+  "date": "2026-10-29T16:21:00+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Microsoft’s AI future has fewer jobs",
+  "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+  "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and […]",
+  "date": "2026-10-29T16:00:00+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+  "url": "https://latent.space/p/elorian/",
+  "summary": "A new decoy counting benchmark exposes a gap between seeing and reasoning. Elorian’s Glimpse tries to bridge it by thinking with images.",
+  "date": "2026-10-29T16:00:00+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Blackmagic Design Announces Special Pricing for DaVinci Resolve Studio - FilmInk",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcE4wQjNscE5pRzdzRHg3VmQ5dUt3TldGSmtfVjBiZC1fNHliRGJ3Rkk3TU5YeGVBTFgwSENaZUIwbndrQ2xmb3VvX3FlcTRLZ0JzdG1WMG1DWWJGYXJuVTdOakFhTFFRMUw3SFhkWFJYZFpnZnpnYUZUUFJoRzRRRTJLckxfc2tPT0k3ZEJkVDZlT0hfVnk5THl4WjdIbFpFRXR5QmJVWUtTa2pjUzVDZE1n?oc=5",
+  "summary": "Blackmagic Design Announces Special Pricing for DaVinci Resolve Studio FilmInk",
+  "date": "2026-10-29T15:19:13+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "The NYT Cooking app is testing AI recipe modifications",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+  "summary": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any […]",
+  "date": "2026-10-29T14:39:37+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "I think local AI cost me a job",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xils4t/i_think_local_ai_cost_me_a_job/",
+  "summary": "Got headhunted by a VC-backed AI-focused company, ended up skipping past two levels of their application/interview process because of that. Got 15 minute call with the co-founder, hit it off well, but it all seemed to go sour when he asked about my AI setup and I told him I run qwen locally on a graphics card, think it's great that we can have all this completely offline, open models doing some im",
+  "date": "2026-10-29T14:38:02+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+  "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+  "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+  "date": "2026-10-29T14:35:26+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "mistralai/Mistral-Large-4-1T-A52B · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil58b/mistralaimistrallarge41ta52b_hugging_face/",
+  "summary": "https://huggingface.co/ggml-org/Mistral-Large-4-1T-A52B-GGUF https://huggingface.co/ggml-org/Mistral-Large-4-1T-A52B-NVFP4-GGUF https://huggingface.co/unsloth/Mistral-Large-4-1T-A52B-GGUF from Mistral: Mistral Large 4 - Le Chonk Mistral Large 4 is our largest and most capable model to date: a 1 trillion-parameter natively multimodal Mixture-of-Experts model with 49 billion active parameters per to",
+  "date": "2026-10-29T14:13:14+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Panasonic offers up to £400 cashback on Lumix cameras and lenses until 13 November - What Digital Camera",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeXZIVVRCUXNjbnk2bDFrR056R3dUZG9OTkpBRUxDZTFCYWdVanV3Qlh0akZ0TXVqVllTZzBZcWNzUkVoSXE5ZVdmemZYWjVhSjc5MTJBalZhenRYUzNwZVQxU29ONWlxUHd2R2VncldSYVBfWndHZE02blNuSTRHVE9iY1A3b2lVQnd5dk9QQWFORXh1dFM1eGRMZDRCVDJENUlSellGSm1yeFFFTjdYX0owMWFFcUJ5alg5c08yVUtWRER5S0JuNw?oc=5",
+  "summary": "Panasonic offers up to £400 cashback on Lumix cameras and lenses until 13 November What Digital Camera",
+  "date": "2026-10-29T14:12:54+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Mistral Large 4 (Le Chonk) is now open weight",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil3qy/mistral_large_4_le_chonk_is_now_open_weight/",
+  "summary": "submitted by /u/Few_Painter_5588 [link] [comments]",
+  "date": "2026-10-29T14:11:42+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "Quoting Ben Hylak",
+  "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+  "summary": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we're special that way. — Ben Hylak Tags: model-context-protocol , ai",
+  "date": "2026-10-29T14:06:27+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Anthropic is asking Wall Street to believe in AGI",
+  "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+  "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start […]",
+  "date": "2026-10-29T14:00:00+00:00"
+ },
+ {
+  "source": "Hugging Face blog",
+  "family": "Open source et recherche",
+  "title": "Granite Switch 4.1.1 — Update models like you update software",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "summary": "",
+  "date": "2026-10-29T13:37:07+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Anthropic’s business plan: Build God or die trying",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+  "summary": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT […]",
+  "date": "2026-10-29T13:30:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+  "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+  "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+  "date": "2026-10-29T13:00:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+  "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+  "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
+  "date": "2026-10-29T13:00:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "SafeAgents: an open-source proxy that checks every tool call your coding agent makes before it runs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xii45s/safeagents_an_opensource_proxy_that_checks_every/",
+  "summary": "SafeAgents is a small local proxy that sits between a coding agent and its model server. It checks each tool call in the model's response before the harness receives it. A call it flags is replaced with a short text notice, so the harness gets a plain text reply and runs nothing. You point the agent's base URL at the proxy instead of the model server. All checks run locally on your machine: the pr",
+  "date": "2026-10-29T12:05:14+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Killer Rental: slasher horror with hidden cameras and Blackmagic workflow - Foro3D",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDB5U1k2SkRibU9hNXYtOGtrUDFXMGxqZHd2aUJRTUlQNE9tZzMxTHhoVmdPU0xKMTdFVmpwZjBlWU03eXZpR1dWSzFsNnAwNmwyMGhSUENYd3A2b3Nvc0pOVElmaWxwQzJOTGRCQkRVclVpVDVmcEZiTm1raUlKcV93a0dBVmFkMWVBTkVVWmhzY2tlaFF5S3ppWXZLQlR4SlNRUlRVZzdBcXpWdW5v?oc=5",
+  "summary": "Killer Rental: slasher horror with hidden cameras and Blackmagic workflow Foro3D",
+  "date": "2026-10-29T11:35:49+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "AI has come for Arizona’s water",
+  "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+  "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one […]",
+  "date": "2026-10-29T10:00:04+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Worried about Qwen 4 License",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xifjn2/worried_about_qwen_4_license/",
+  "summary": "After Alibaba moved from Permissive OSS licenses to its own custom license with IMO ambiguous terms in models like Qwen3.8-Flash-Next, is there any indication this will carry forward into Qwen4? While that license at first reads permissive for local/internal use, fine-tuning and derivatives, it’s definitely not Apache/MIT. The two big catches are: commercial MaaS or a standalone coding/office AI a",
+  "date": "2026-10-29T09:48:21+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "HemmingwayAI/Hemmingway-1.5 (Qwen finetune)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xif7hy/hemmingwayaihemmingway15_qwen_finetune/",
+  "summary": "https://huggingface.co/bartowski/HemmingwayAI_Hemmingway-1.5-GGUF from hemmingwayAI: Hemmingway-1.5 The undetectable AI. Writing indistinguishable from a human's. 27B parameters, open weights, free for non-commercial use. hemmingway.io → · Model card → · Try it → · API → · API docs → · Mac, Windows and Android apps → · Code → · Product Hunt → Our other models: Hemmingway-1 , our first model · Hemm",
+  "date": "2026-10-29T09:27:19+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Apsara conference: Qwen4 next week",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xif6lf/apsara_conference_qwen4_next_week/",
+  "summary": "The Apsara conference is taking place right now in Amsterdam. According to a participant, the CTO of Alibaba Cloud said Qwen4 would be launching next week. submitted by /u/rerri [link] [comments]",
+  "date": "2026-10-29T09:25:47+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "How we detect frontier model misalignment",
+  "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+  "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+  "date": "2026-10-29T09:00:00+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "How Ropes & Gray is developing AI for transactional diligence",
+  "url": "https://openai.com/index/ropes-gray-ai-diligence",
+  "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+  "date": "2026-10-29T07:00:00+00:00"
+ },
+ {
+  "source": "Hugging Face blog",
+  "family": "Open source et recherche",
+  "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+  "url": "https://huggingface.co/blog/announcing-project-protostar",
+  "summary": "",
+  "date": "2026-10-29T00:00:00+00:00"
+ },
+ {
+  "source": "Hugging Face blog",
+  "family": "Open source et recherche",
+  "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+  "url": "https://huggingface.co/blog/mistral-large4",
+  "summary": "",
+  "date": "2026-10-29T00:00:00+00:00"
+ },
+ {
+  "source": "Hugging Face blog",
+  "family": "Open source et recherche",
+  "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+  "url": "https://huggingface.co/blog/anydecisionmodel",
+  "summary": "",
+  "date": "2026-10-29T00:00:00+00:00"
+ }
+]
