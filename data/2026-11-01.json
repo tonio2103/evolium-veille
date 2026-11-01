@@ -1,0 +1,295 @@
+[
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Guides How to Make an Anime Series with AI on Higgsfield 10 min · Oct 31, 2026",
+  "url": "https://higgsfield.ai/blog/how-to-make-anime-series-with-ai",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-01T09:55:27.341151+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Listicles 8 Best AI Image Upscalers in 2026 (Free and Paid) 13 min · Oct 31, 2026",
+  "url": "https://higgsfield.ai/blog/best-ai-image-upscalers-2026",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-01T09:55:27.341151+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Listicles 7 Best AI UGC Video Tools for Marketing Agencies in 2026 11 min · Oct 30, 2026",
+  "url": "https://higgsfield.ai/blog/best-ai-ugc-video-tools-agencies-2026",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-01T09:55:27.341151+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "tripo3d/tripo/v2.5/image-to-3d State of the art Image to 3D Object generation. Generate 3D model from a single image! stylized",
+  "url": "https://fal.ai/models/tripo3d/tripo/v2.5/image-to-3d",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-01T09:55:27.341151+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkxt7a/memdoor_a_team_of_5_qwen3827b_models_beats_fable/",
+  "summary": "submitted by /u/PferdOne [link] [comments]",
+  "date": "2026-11-01T08:24:18+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "64GB isn't the dead zone anymore if you run agents",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xksj75/64gb_isnt_the_dead_zone_anymore_if_you_run_agents/",
+  "summary": "https://preview.redd.it/hboxdgjh2xyh1.png?width=1230&format=png&auto=webp&s=cca6b2b7b08807a334ff5280e19d96133667fbb0 The usual advice was that 64GB is a dead zone for local LLMs: too small for a 70B with real context, and more than a 30B needs. After running a 27B for agentic coding on a 64GB M4 Max for the last ten days, I think that has flipped. My memory usage is in the 50 GB as the context sta",
+  "date": "2026-11-01T03:02:34+00:00"
+ },
+ {
+  "source": "Gemini CLI",
+  "family": "Agents, code et automatisation",
+  "title": "google-gemini/gemini-cli Release v0.67.0-nightly.20261101.g6814e00d6",
+  "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-nightly.20261101.g6814e00d6",
+  "summary": "Full Changelog : v0.67.0-nightly.20261031.g6814e00d6...v0.67.0-nightly.20261101.g6814e00d6",
+  "date": "2026-11-01T01:14:56+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "How We Took Over ChatGPT Accounts",
+  "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+  "summary": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interact",
+  "date": "2026-10-31T23:15:22+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "datasette-llm 0.1a9",
+  "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+  "summary": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly configure a default model: uvx --with datasette-agent datasette content.db --inter",
+  "date": "2026-10-31T22:10:01+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+  "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+  "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+  "date": "2026-10-31T21:41:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "How do I make search with local models feel like ChatGPT / Codex?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkm2yb/how_do_i_make_search_with_local_models_feel_like/",
+  "summary": "I’m using Crawl4AI + SearXNG but it just feels so lackluster I don’t know why. Feels like the results the local model gets back for research are missing a lot and / or are older less relevant results. I’ll usually instruct saying something like “using the most up-to-date and relevant information across related websites, subreddits, forums, and etc find me the best way to _______” or something simi",
+  "date": "2026-10-31T21:37:26+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+  "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+  "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+  "date": "2026-10-31T21:36:07+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Well, my local AI addiction officially got out of hand tonight.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xklq96/well_my_local_ai_addiction_officially_got_out_of/",
+  "summary": "Met a guy off Facebook Marketplace and scored 2x RTX 3090 Founders Editions for €1,700. The problem? I already had one 3090 FE. I am now sitting in my room looking at three 3090 FEs (72 GB GDDR6X VRAM) , and my current case barely fits one card, and that was only after I literally took pliers and bent the inner metal bracket to shove it in. My motherboard is just a standard B760. I clearly can't p",
+  "date": "2026-10-31T21:21:02+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+  "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+  "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+  "date": "2026-10-31T21:17:03+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+  "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+  "summary": "146 points, 89 commentaires HN",
+  "date": "2026-10-31T21:07:58+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50320255"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Please tell me Qwen3.8-Flash-Next can be made to be better than this",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkjrdl/please_tell_me_qwen38flashnext_can_be_made_to_be/",
+  "summary": "I was quite excited with how well QFN did with some coding and adjacent tasks (like evaluating OSS repos, downloading and running models etc.). Using it for more general research is starting to show that it isnt actually very intelligent and gets lost in its own maze seemingly. Here's a recent example to a simple question: \"Have humans always slept for a huge amount of time at once, like eight hou",
+  "date": "2026-10-31T19:56:22+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "An LLM inside an LLM - Same guy who put a RISK-V CPU inside Qwen has now made Karpathy's stories260k run on an NPU compiled inside Qwen 3.5-4B's weights",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkiuut/an_llm_inside_an_llm_same_guy_who_put_a_riskv_cpu/",
+  "summary": "Code: https://github.com/divagr18/QwenPU Weights: https://huggingface.co/divagr1925/QwenPU From the original tweet : 1/3 A CPU inside an LLM is one thing, but running another LLM inside an LLM would be taking things a bit too far, wouldn't it? Anyways, here's an LLM running inside an LLM : QwenPU, an LLM (@karpathy's stories260k) running on an NPU compiled inside Qwen 3.5-4B's weights. 2/3 stories",
+  "date": "2026-10-31T19:18:53+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "CrowdGPT v2.6 - The collaborative LLM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkibxw/crowdgpt_v26_the_collaborative_llm/",
+  "summary": "For those who saw the original post , a week ago, I'm glad to announce CrowdGPT v2 (more precisely v2.6), a massive update to the original CrowdGPT project :D (scroll down to see what's new) For the newcomers: CrowdGPT is a project aiming to create a LLM without datacenters and without the usual millions of dollars spent by AI companies. The project aims to train a 1 billion parameter model collab",
+  "date": "2026-10-31T18:57:36+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Betelgeuse running Qwen 3.8 Flash Next IQ4_XS at 24 tok/s on 2x8GB DDR4 (14 tok/s on a single 16GB stick) + RTX 3060 12GB — 0 dropped experts, 100% byte-exact",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkh2ns/betelgeuse_running_qwen_38_flash_next_iq4_xs_at/",
+  "summary": "In my last thread on Betelgeuse ( bel-cli / bel-server ), the main pushback in the comments was: \"Okay cool, 22 tok/s on IQ2_XS , but 2-bit is too low—what happens on an actual 4-bit quant like IQ4_XS where the experts are almost 2x larger?\" \"Why were you testing on a single 16GB stick of DDR4 instead of normal dual-channel 2x 8GB ?\" Fair questions. So I upgraded the oracle + victim-cache DMA path",
+  "date": "2026-10-31T18:06:52+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "I'm Groot?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkge1s/im_groot/",
+  "summary": "https://huggingface.co/GrootTeam/Groot-280B-A16B-261023 Best model under 500b params? Also have the smaller versions https://huggingface.co/GrootTeam/Groot-19B-A3B-261023 \"scores higher than the larger Qwen3.6-35B-A3B and Gemma-4-26B-A4B, and it gives shorter answers than both.\" https://huggingface.co/GrootTeam/Groot-65B-A6B-261023 https://huggingface.co/GrootTeam/Groot-238B-A18B-261023 Edit: appa",
+  "date": "2026-10-31T17:39:55+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Apple Boosts Final Cut Pro, but Is It Enough to Compete With DaVinci Resolve? - Y.M.Cinema",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNURVTF9pTjI3cTNKdWdONVpEaXlZTDdVN3dLaGJPd3d5OW4ycWdOZDRhaE9oM3dRRkljeE5aNEhneTUyYzJYTVdmc0FHVTJJZTBoVno5RXFOOHdYYVNJRzVKRUtoWHNLQThGaWI3MmUzY3RqSk5CX2V6blJZV0M2ZWl3?oc=5",
+  "summary": "Apple Boosts Final Cut Pro, but Is It Enough to Compete With DaVinci Resolve? Y.M.Cinema",
+  "date": "2026-10-31T16:40:32+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "OpenAI reportedly lowers funding target for new round",
+  "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+  "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+  "date": "2026-10-31T16:12:55+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "I built an AI Tamagotchi before Meta could",
+  "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+  "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It […]",
+  "date": "2026-10-31T16:05:00+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+  "url": "https://latent.space/p/arca/",
+  "summary": "Arca's head of AI discusses persistent memory, the benefits of a custom harness, and agentic workflows that span days.",
+  "date": "2026-10-31T16:05:00+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "Show HN: A USB-C LTE modem that gives my computer a phone line",
+  "url": "https://github.com/Koppar-AI/koppar-lte-modem",
+  "summary": "56 points, 37 commentaires HN",
+  "date": "2026-10-31T15:56:41+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50317331"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "\"Spent a lot on my rig but I can only run Gemma 4\"",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcyn6/spent_a_lot_on_my_rig_but_i_can_only_run_gemma_4/",
+  "summary": "\"The satellite, which carries four Google Tensor Processing Units (TPUs) and generates up to 1 kW of electricity, is intended to pave the way for future networks of close-flying satellites performing large inference workloads in orbit. However, the power demands of the TPU mean it can only turn one on for about 20 minutes at a time, complicating the already tricky business of space-to-ground commu",
+  "date": "2026-10-31T15:22:08+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "NVIDIA Nemotron 3.5 Bolt E4B 4GB (post-trained Gemma 4 E4B)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkcdlz/nvidia_nemotron_35_bolt_e4b_4gb_posttrained_gemma/",
+  "summary": "Bolt E4B builds on Gemma 4 E4B with Nemotron post-training. It combines natural conversation with multi-turn agentic capabilities to power voice/device assistants, interactive characters and robotic/IoT interfaces running on NVIDIA GeForce RTX, Jetson, RTX Spark and DGX Spark. Bolt E4B offers ~40% higher average quality against our prior model on key conversational agent benchmarks and outputs up ",
+  "date": "2026-10-31T14:58:49+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "Malware uses LLMs to rank victims by how much they're worth",
+  "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+  "summary": "248 points, 131 commentaires HN",
+  "date": "2026-10-31T14:29:03+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50316531"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Is your engine lobotomizing your model? Kinda, and I measured it",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkbbqi/is_your_engine_lobotomizing_your_model_kinda_and/",
+  "summary": "I've been reading a lot about \"engines lobotomizing the models they run\", either because they quantize already quantized weights, or because they automatically turn on \"hacky\" flags to gain decode/prefill performance by default. I wanted to test this out by myself, not only with KLD but with real tasks, so I set up an experiment using Qwen 3.8 Flash Next with Basalt (disclaimer: I'm the developer)",
+  "date": "2026-10-31T14:14:51+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Just finished my humble MoE-Centric Workstation",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkau4g/just_finished_my_humble_moecentric_workstation/",
+  "summary": "CPU: AMD EPYC 7452 (8 memory channels) Motherboard: Gigabyte MZ32 GPU: Radeon AI PRO R9700 (32GB) RAM: 256GB DDR4 (16×16GB). Not exactly a “budget” build, but it came in at roughly half the price of a DGX Spark. Got it up and running just in time for Qwen4, can’t wait to start experimenting with it! submitted by /u/Numerous-Ad6217 [link] [comments]",
+  "date": "2026-10-31T13:54:27+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Chifukwa Chiani aMutharika Ayenera Kuyankhapo pa Kuphwanya Malamulo a Dziko - Malawi24",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa3VUaW9QdHlWX2dVVkZUa1A1dG9OdFZuZnBkYy1oc2kxVXh0aTVncFpNWEYzd0pYSkhJZ09vcXVqYlIxUVdoVjBEVVJMLWl6M0RYWHVlS0tYaG9GR3pkYUo0WmpmclZDR0ItTmhRQVNtRHlEOU9yenQyWDg4UVlLZHQ4OThHV0JVS3lhaDZTSnFxakY2SHVzSEV5bzNobFlleEg0WnQ2bXhsX09y?oc=5",
+  "summary": "Chifukwa Chiani aMutharika Ayenera Kuyankhapo pa Kuphwanya Malamulo a Dziko Malawi24",
+  "date": "2026-10-31T13:43:12+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+  "summary": "71 points, 42 commentaires HN",
+  "date": "2026-10-31T13:25:00+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50315987"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Betelgeuse: Running Qwen 3.8 Flash Next at 22 tok/s sustained (spiking to 48 tok/s) on an RTX 3060 12GB + 16GB DDR4 RAM 100% bit-exact!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk8s6z/betelgeuse_running_qwen_38_flash_next_at_22_toks/",
+  "summary": "About two months ago I posted here about trying to predict which MoE experts get used on the next token to speed up CPU/GPU offload on Qwen 3.6 35B. Quick confession on that older post before anything else: I ended up throwing that prototype away. To get the big numbers I was seeing back then, I was basically cheating with gate pruning (dropping cold experts when their router weights were low). It",
+  "date": "2026-10-31T12:20:02+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "microsoft/Mage-VL-Cowork · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk6blw/microsoftmagevlcowork_hugging_face/",
+  "summary": "Mage-VL-Cowork demonstrates that an efficient 4B small vision-language model can master hybrid computer use when paired with upstream teacher-harness evolution , workflow-first environment synthesis ( Mage-CUA-Forge ) , and a five-stage specialize-then-unify curriculum . Achieving the best performance at the 4B scale (66.0% on OSWorld-Verified) while using 13.0% fewer model calls and 25.4% fewer o",
+  "date": "2026-10-31T10:02:47+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "First response from the Project Suncatcher prototype satellite",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+  "summary": "42 points, 45 commentaires HN",
+  "date": "2026-10-31T03:54:00+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50313051"
+ },
+ {
+  "source": "Vizrt / TriCaster (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "281 arrested in Florida child predator, human trafficking sting; 17 worked at theme parks - KOKI FOX 23",
+  "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOZF9abVNrYlA1U0Fqc3FTUzJfamNZa2tKXzdSeDRvcnU3TnVpR0x4WG9IVHRwQmlQMjJpT1ZjbWxCbDh6ZjZLaGFOZmdqTWNhdk4tcy1RWVY5R1dkbm1FNFpTNFJKWnFLdmh3b1ZDd2U5MFQ3YzhVYnZYaU0tVlFEMG9uSXh4X3BGbDVsU0ozUkpBUGNCWHBqQmRpV0x5T1JtU2FBN3MteFlYaGhyQThiWUl2bHZGSW9yeFNRWFVSenBpWXVPRjlJbkN2Nzd4SFJqSm5Ja0FGS195dGFld01UTEIyUkNKbkhTbTJGejd6RUU1eXB6S1BNdDdfSEV0MEdLU0tRdm5YSHFzZ0paUkhFSU56S3pBbUJwZEJ3SnRSaWh5enE4N1hVV1QySUlvSWxfTWMxMmVScGotWGRVRWtnaDhEQ212dl9YNEVhdjF0cUttS1FfYy1sTVY5R2xUNW9GSE1SRUc1cEJYMVFsVTF1ZnhvbzdBNFk?oc=5",
+  "summary": "281 arrested in Florida child predator, human trafficking sting; 17 worked at theme parks KOKI FOX 23",
+  "date": "2026-10-30T21:59:34+00:00"
+ }
+]
