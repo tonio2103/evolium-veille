@@ -7,7 +7,7 @@
  "Anthropic engineering": {
   "ok": true,
   "items": 0,
-  "s": 0.2
+  "s": 0.1
  },
  "Claude API changelog": {
   "ok": true,
@@ -37,17 +37,17 @@
  "Meta AI blog": {
   "ok": true,
   "items": 0,
-  "s": 1.5
+  "s": 1.9
  },
  "Mistral news": {
   "ok": true,
   "items": 0,
-  "s": 0.3
+  "s": 0.4
  },
  "Hugging Face blog": {
   "ok": true,
   "items": 0,
-  "s": 0.2
+  "s": 0.3
  },
  "Hugging Face papers du jour": {
   "ok": true,
@@ -57,32 +57,32 @@
  "Black Forest Labs": {
   "ok": true,
   "items": 0,
-  "s": 0.5
+  "s": 0.2
  },
  "Higgsfield blog": {
   "ok": true,
-  "items": 3,
-  "s": 0.7
+  "items": 0,
+  "s": 1.1
  },
  "Runway research": {
   "ok": true,
   "items": 0,
-  "s": 0.3
+  "s": 0.4
  },
  "Luma AI": {
   "ok": true,
   "items": 0,
-  "s": 0.7
+  "s": 0.8
  },
  "Kling AI": {
   "ok": true,
   "items": 0,
-  "s": 1.4
+  "s": 1.2
  },
  "fal.ai nouveaux modèles": {
   "ok": true,
-  "items": 1,
-  "s": 0.6
+  "items": 0,
+  "s": 0.7
  },
  "Replicate blog": {
   "ok": true,
@@ -102,7 +102,7 @@
  "ComfyUI releases": {
   "ok": true,
   "items": 0,
-  "s": 0.8
+  "s": 0.9
  },
  "Descript": {
   "ok": true,
@@ -112,17 +112,17 @@
  "Adobe blog vidéo": {
   "ok": true,
   "items": 0,
-  "s": 0.5
+  "s": 0.1
  },
  "Blackmagic (Google News)": {
   "ok": true,
-  "items": 1,
-  "s": 0.3
+  "items": 3,
+  "s": 0.4
  },
  "DaVinci Resolve (support)": {
   "ok": true,
   "items": 0,
-  "s": 0.2
+  "s": 0.3
  },
  "NDI (Google News)": {
   "ok": true,
@@ -131,38 +131,38 @@
  },
  "Vizrt / TriCaster (Google News)": {
   "ok": true,
-  "items": 1,
+  "items": 0,
   "s": 0.2
  },
  "Bitfocus Companion": {
   "ok": true,
   "items": 0,
-  "s": 0.6
+  "s": 0.7
  },
  "Node-RED": {
   "ok": true,
   "items": 0,
-  "s": 0.7
+  "s": 0.5
  },
  "FFmpeg": {
   "ok": true,
   "items": 0,
-  "s": 0.5
+  "s": 0.4
  },
  "OBS Studio": {
   "ok": true,
   "items": 0,
-  "s": 1.2
+  "s": 0.9
  },
  "Remotion": {
   "ok": true,
-  "items": 0,
-  "s": 1.4
+  "items": 1,
+  "s": 1.1
  },
  "faster-whisper": {
   "ok": true,
   "items": 0,
-  "s": 0.7
+  "s": 0.5
  },
  "whisper.cpp": {
   "ok": true,
@@ -177,27 +177,27 @@
  "Frame.io": {
   "ok": true,
   "items": 0,
-  "s": 0.3
+  "s": 0.2
  },
  "MCP servers (repo)": {
   "ok": true,
   "items": 0,
-  "s": 0.9
+  "s": 0.8
  },
  "n8n": {
   "ok": true,
-  "items": 0,
-  "s": 0.3
+  "items": 2,
+  "s": 0.8
  },
  "OpenAI Codex": {
   "ok": true,
-  "items": 0,
-  "s": 0.4
+  "items": 2,
+  "s": 0.8
  },
  "Gemini CLI": {
   "ok": true,
   "items": 1,
-  "s": 0.3
+  "s": 0.6
  },
  "Simon Willison": {
   "ok": true,
@@ -206,57 +206,57 @@
  },
  "The Verge IA": {
   "ok": true,
-  "items": 1,
+  "items": 0,
   "s": 0.1
  },
  "TechCrunch IA": {
   "ok": true,
-  "items": 4,
+  "items": 2,
   "s": 0.1
  },
  "Ars Technica IA": {
   "ok": true,
   "items": 0,
-  "s": 0.4
+  "s": 0.2
  },
  "Latent Space": {
-  "ok": true,
-  "items": 1,
-  "s": 0.6
- },
- "r/LocalLLaMA": {
-  "ok": true,
-  "items": 15,
-  "s": 0.5
- },
- "Hacker News IA": {
-  "ok": true,
-  "items": 4,
-  "s": 0.2
- },
- "Hacker News vidéo IA": {
-  "ok": true,
-  "items": 0,
-  "s": 0.2
- },
- "Hacker News ffmpeg/whisper": {
-  "ok": true,
-  "items": 0,
-  "s": 0.2
- },
- "Hacker News Claude": {
-  "ok": true,
-  "items": 2,
-  "s": 0.2
- },
- "arXiv vidéo": {
   "ok": true,
   "items": 0,
   "s": 0.8
  },
+ "r/LocalLLaMA": {
+  "ok": true,
+  "items": 15,
+  "s": 0.4
+ },
+ "Hacker News IA": {
+  "ok": true,
+  "items": 0,
+  "s": 0.3
+ },
+ "Hacker News vidéo IA": {
+  "ok": true,
+  "items": 0,
+  "s": 0.3
+ },
+ "Hacker News ffmpeg/whisper": {
+  "ok": true,
+  "items": 0,
+  "s": 0.3
+ },
+ "Hacker News Claude": {
+  "ok": true,
+  "items": 2,
+  "s": 0.3
+ },
+ "arXiv vidéo": {
+  "ok": true,
+  "items": 0,
+  "s": 0.9
+ },
  "arXiv agents": {
   "ok": true,
   "items": 0,
-  "s": 0.7
+  "s": 0.6
  }
 }
