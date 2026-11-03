@@ -1,0 +1,853 @@
+[
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Show all",
+  "url": "https://higgsfield.ai/blog/Comparisons",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-03T10:19:43.358119+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Creator Stories Eric Hsiao: How a Film Editor Directed a Six-Minute AI Drama on Higgsfield 10 min · Nov 1, 2026",
+  "url": "https://higgsfield.ai/blog/eric-hsiao-the-thaw-ai-drama",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-03T10:19:43.358119+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "elevenlabs/sound-effects/v3 Generate sound effects up to 30 seconds from a text prompt with ElevenLabs SFX v3, with optional seamless looping. sound sfx audio",
+  "url": "https://fal.ai/models/elevenlabs/sound-effects/v3",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-03T10:19:43.358119+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.47.0",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.47.0",
+  "summary": "2.47.0 (2026-11-03) Bug Fixes Add missing period to data table storage limit banner copy ( #37943 ) ( d1dc4d6 ) AI Agent Node: Point the deprecated agent type callout to an action that works ( #42898 ) ( 7a44fcb ) ai-builder: Include instance admins in team self-healing reviews ( #42325 ) ( 58f160d ) ai-builder: Open self-healing chat in the result project ( #42399 ) ( 0b1849a ) ai-builder: Update",
+  "date": "2026-11-03T08:39:29+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@3.1.0",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%403.1.0",
+  "summary": "3.1.0 (2026-11-03) Bug Fixes Add missing period to data table storage limit banner copy ( #37943 ) ( d1dc4d6 ) AI Agent Node: Point the deprecated agent type callout to an action that works ( #42898 ) ( 7a44fcb ) ai-builder: Include instance admins in team self-healing reviews ( #42325 ) ( 58f160d ) ai-builder: Open self-healing chat in the result project ( #42399 ) ( 0b1849a ) ai-builder: Update ",
+  "date": "2026-11-03T08:36:13+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Heimstaden is changing residential real estate management with AI",
+  "url": "https://openai.com/index/heimstaden",
+  "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+  "date": "2026-11-03T08:00:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+  "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+  "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+  "date": "2026-11-03T07:20:00+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Towson University Builds Media Program Around DaVinci Resolve Studio - Digital Studio India",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeGx6b1BMaDctZ0xOZ19WU2ZQSnJQNHZ2YUVzREx1OWlhS19sbTVmN3BGOGFfaHFzNHhtQm9mVDdHWkYwZXhacHgtQjFjeG0yal92cUJxMTI0TFBJMnpxS0gydHlMc09uRDZrcDY3WE1tbGhaMm9RZDVxeGxNUHdSX1M2X3otUm9GWmNIYWVXTE8xZjY1RWJzRzR0SDhFY0JrVFJiYkRJMVV0a3hfNWI2dHNDWEV3dlBzak5LTVR5T3RVZDR2d3hCNGZ3RlY4dw?oc=5",
+  "summary": "Towson University Builds Media Program Around DaVinci Resolve Studio Digital Studio India",
+  "date": "2026-11-03T05:56:31+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+  "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+  "summary": "Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark.",
+  "date": "2026-11-03T05:35:00+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+  "url": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+  "summary": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the exact location of the video based on their speed, distance, and gaps between different",
+  "date": "2026-11-03T05:32:25+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "October sponsors-only newsletter",
+  "url": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+  "summary": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflection point for vibe game development The vulnerability apocalypse gets hot LLM releases API credits for $100+/month subscriptions What I'm using right now My software releases My September newsletter can now be seen here , ",
+  "date": "2026-11-03T05:28:59+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Alibaba's Qwen Code repo just leaked qwen4-max, qwen4-coder-plus, and qwen4-omni-120b",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmitzx/alibabas_qwen_code_repo_just_leaked_qwen4max/",
+  "summary": "PRs: https://github.com/QwenLM/qwen-code/pull/15762: \"Measured on main at 79a9b753c60 , before this change: qwen4 , qwen4-max , qwen4-plus , qwen4.5-max , qwen4-coder-plus , qwen4-max-2026-10-01 , openai/qwen4-max and qwen4-omni-120b-think all resolved to 262,144. The last of those is already in use as the session model in the omni fixtures, so these ids are not hypothetical.\" https://github.com/Q",
+  "date": "2026-11-03T03:55:43+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+  "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+  "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+  "date": "2026-11-03T03:30:00+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.167.0-alpha.4",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.4",
+  "summary": "Release 0.167.0-alpha.4",
+  "date": "2026-11-03T02:29:10+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+  "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+  "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+  "date": "2026-11-03T01:49:52+00:00"
+ },
+ {
+  "source": "Claude Code changelog",
+  "family": "Agents, code et automatisation",
+  "title": "anthropics/claude-code v2.1.317",
+  "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.317",
+  "summary": "What's changed Added a warning to /schedule when a new cloud scheduled task gets connectors you did not ask for, with how to remove them Added a check that asks before a web or shell tool call sends your account email address to the network Added onFailure: \"block\" for Agent SDK hook callbacks, so a callback that fails blocks the action instead of letting it run Added a notice in Claude Desktop's ",
+  "date": "2026-11-03T01:25:46+00:00"
+ },
+ {
+  "source": "Gemini CLI",
+  "family": "Agents, code et automatisation",
+  "title": "google-gemini/gemini-cli Release v0.67.0-nightly.20261103.g0ac57c029",
+  "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-nightly.20261103.g0ac57c029",
+  "summary": "What's Changed fix(core): prevent interrupted Whisper model downloads from being treated as installed by @tadipavan in #30058 Full Changelog : v0.67.0-nightly.20261102.g6814e00d6...v0.67.0-nightly.20261103.g0ac57c029",
+  "date": "2026-11-03T01:18:35+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "I found another niche use case for local LLMs, but need some advice",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmfbam/i_found_another_niche_use_case_for_local_llms_but/",
+  "summary": "Kind of a random thing, but I've gotten to the age where I'm starting to care about what the city council is doing. So I downloaded all the available council meeting notes from the last 16 years and pointed Qwen 3.8 27B Q6 at them and started having it dig through notes. Namely I wanted to see who approved the purchase of Flock cameras for our town. Turns out the police chief got a $9,000 grant fo",
+  "date": "2026-11-03T01:08:11+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+  "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+  "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+  "date": "2026-11-03T00:35:52+00:00"
+ },
+ {
+  "source": "Hugging Face blog",
+  "family": "Open source et recherche",
+  "title": "Transformers Model Integration Contracts",
+  "url": "https://huggingface.co/blog/transformers-mic",
+  "summary": "",
+  "date": "2026-11-03T00:00:00+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "llm 0.37",
+  "url": "https://simonwillison.net/2026/Nov/2/llm/",
+  "summary": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra , plus a new llm openai endpoint add command to make it easier to configure additional models that use OpenAI-compatible endpoints. I switched the default model (if you have not set your own defau",
+  "date": "2026-11-02T23:49:30+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+  "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+  "summary": "The one-year-old startup is now valued at $300 million.",
+  "date": "2026-11-02T23:13:53+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+  "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+  "summary": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model",
+  "date": "2026-11-02T23:01:02+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Atong Atem’s Passage is a powerful act of cultural reclamation - ArtsHub",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSERXSEI5MVhyMkpQSFlpUDd4SjFyMjl2QTZ1Tm9WQUtEODlPWGVhb20ydlhTU1lwdU5EVDY4UG42aXlHV1FFZ1RGQzFOUkFyLUlqQWRhM3dYWXMzT2poY2c0Z0tMaC1QdTVzNkt6Vnl4c0I0bXJvSGZxcjFNczRZN0ZYaGxOZ2FaMHFHdGl4UmRMYmhqZXVRekNBN0xvZDBnNlQycG5Fc1NWa3ZxQWh3?oc=5",
+  "summary": "Atong Atem’s Passage is a powerful act of cultural reclamation ArtsHub",
+  "date": "2026-11-02T23:00:45+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+  "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
+  "summary": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies...",
+  "date": "2026-11-02T22:54:03+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Qwen 3.8 27b is sometimes so smart it scares me...",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmbym0/qwen_38_27b_is_sometimes_so_smart_it_scares_me/",
+  "summary": "For fun, I gave Qwen 3.8 27b a physics problem involving some heavy math. A little bit into its reasoning, Qwen took a look at its tools, found that it had access to Blender via blender mcp - and that it could write and execute arbitrary python code through that. So it engaged Blender's python support to write itself bits of python code to do its math faster. You really have to tell this model wha",
+  "date": "2026-11-02T22:42:11+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "New sparse attention method for ultra-long context",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmbj0v/new_sparse_attention_method_for_ultralong_context/",
+  "summary": "I am on the team behind the attached open-source research on novel approaches to attention - specifically we show: • You can sparsify the attention of Qwen 3.8 27B without observed loss on accuracy • Extending context up to 10M tokens loses accuracy on some specific tasks - but most, like NIAH is still fine (interesting insights) • You can natively train sparse attention on next-token prediction l",
+  "date": "2026-11-02T22:24:18+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+  "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+  "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+  "date": "2026-11-02T22:14:50+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "GPT-6 Astra Edits Qwen Weights: MATH-500 7.9% to 48.1%",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xma0tw/gpt6_astra_edits_qwen_weights_math500_79_to_481/",
+  "summary": "submitted by /u/1-800-methdyke [link] [comments]",
+  "date": "2026-11-02T21:25:39+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Amazon Is Allegedly Canceling GPU Orders And, In Rare Cases, Closing Accounts For Purchasing Compute Hardware; Tim Sweeney Also A Victim Of This Practice",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm8o8g/amazon_is_allegedly_canceling_gpu_orders_and_in/",
+  "summary": "submitted by /u/chemist_slime [link] [comments]",
+  "date": "2026-11-02T20:33:48+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Web host Squarespace lays off 19% of its employees",
+  "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+  "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+  "date": "2026-11-02T19:25:59+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+  "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+  "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+  "date": "2026-11-02T19:19:17+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Desert Palms Captured with Blackmagic URSA Cine Immersive - Blackmagic Design",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YZjRod2plLXNvcUZmeVdKanJkY1daQmluU25LOGRyMGtULW5XX2d0WlpacXRDQi1LNmZpNWdHLTRxVnJybVhzSlI0bjNfLUFqak83UGNGVjA4YjdWQVlRQXlfUXYxWVlFc2c?oc=5",
+  "summary": "Desert Palms Captured with Blackmagic URSA Cine Immersive Blackmagic Design",
+  "date": "2026-11-02T19:16:37+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm6jow/sparks_of_weightspace_programming_llms_can/",
+  "summary": "submitted by /u/teakhop [link] [comments]",
+  "date": "2026-11-02T19:15:33+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
+  "url": "https://arxiv.org/abs/2611.03647v1",
+  "summary": "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whole-body policies from human data. We first introduce Environment-Aware Retargeting (EAR), which combines reconstructed scene geometry with demonstrated head and gripper trajectories to determine robot ",
+  "date": "2026-11-02T18:59:32+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
+  "url": "https://arxiv.org/abs/2611.03648v1",
+  "summary": "General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these components are often developed independently, creating mismatches that limit the capabilities of the complete system. We present Pixel, a co-designed full-stack system for learning general-purpose mobile man",
+  "date": "2026-11-02T18:59:32+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos",
+  "url": "https://arxiv.org/abs/2611.03646v1",
+  "summary": "Learning from human data offers a scalable path toward embodied intelligence, yet it requires models to accurately understand fine-grained human actions from egocentric observations. However, existing benchmarks remain limited in action atomicity, temporal precision, and hand-action association. We introduce EgoActionBench, a benchmark that represents continuous human manipulation as temporally lo",
+  "date": "2026-11-02T18:59:29+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles",
+  "url": "https://arxiv.org/abs/2611.03641v1",
+  "summary": "Chain-of-Thought (CoT) generation has substantially improved the performance of Large Language Models (LLMs) on complex reasoning tasks, including code generation, data analysis, and exam-style question answering. Despite these advances, purely neural LLMs continue to struggle with elementary logical reasoning problems and lack the determinism, soundness, and reliability characteristic of symbolic",
+  "date": "2026-11-02T18:58:21+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+  "url": "https://arxiv.org/abs/2611.03634v1",
+  "summary": "GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and limited coverage of authenticated workflows, while existing synthetic environments for training often lack functional depth and visual fidelity. We propose WebHarbor, a suite of 153 executable and docke",
+  "date": "2026-11-02T18:57:36+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Anthropic clamps down on Claude’s AI video game clones",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+  "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to […]",
+  "date": "2026-11-02T18:56:02+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "PDFP: GPU-Accelerated Feasibility Pump via PDHG",
+  "url": "https://arxiv.org/abs/2611.03629v1",
+  "summary": "The feasibility pump (FP) is among the most widely used primal heuristics for mixed-integer linear programming. It alternates between rounding an LP-feasible point and projecting the rounded point back onto the feasible region of the LP relaxation. Recent pump-based heuristics compute the projection with the primal--dual hybrid gradient method (PDHG), which is scalable on modern GPUs. They pose it",
+  "date": "2026-11-02T18:54:16+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Isekai3D SDG: A Platform for Diverse Synthetic Gameplay Visual Data",
+  "url": "https://arxiv.org/abs/2611.03626v1",
+  "summary": "We present Isekai3D Synthetic Data Generation (SDG), a platform for simulating and capturing synthetic 3D gameplay for research in vision and world models, neural graphics, gameplay agents, and other applications. The platform combines reusable environment and character assets with Unreal Engine plugins in a two-stage workflow. First, world simulation generates gameplay while recording the world s",
+  "date": "2026-11-02T18:53:46+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Lee-Yang theorems for $q$-deformed oscillators and doubly-scaled SYK",
+  "url": "https://arxiv.org/abs/2611.03624v1",
+  "summary": "We show that the vacuum partition function of the $q$-deformed oscillator \\[ L_q(z):= \\langle0|e^{zT_q}|0\\rangle, \\qquad T_q := \\mathsf{a}_q + \\mathsf{a}_q^* \\] satisfies the Lee-Yang property, i.e., all zeros of $L_q$ lie on the imaginary line for all $q\\in[-1, 1)$, proving the conjectures of Okuyama'23. Using the connection between $q$-deformed oscillators and the Sachdev-Ye-Kitaev (SYK) Hamilto",
+  "date": "2026-11-02T18:52:39+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Thought-deciphering via hierarchical EEG-to-text alignment",
+  "url": "https://arxiv.org/abs/2611.03623v1",
+  "summary": "Communication is important for our well-being, but it can be impaired by disabilities, such as locked-in syndrome (LIS), cerebral palsy (CP), and dysarthria. Non-invasive brain-to-text brain-computer interfaces (BCIs) offer a promising solution by providing an alternative communication pathway for people with communication disabilities. However, most recent breakthroughs have relied on large, cumb",
+  "date": "2026-11-02T18:52:26+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models",
+  "url": "https://arxiv.org/abs/2611.03622v1",
+  "summary": "Vision-Language Models (VLMs) hold promise for zero-shot video task-progress estimation in robot learning, yet existing frameworks frequently suffer from confirmation bias, hallucinating progress in failed executions due to implicit success assumptions or relative temporal ranking designs. Naive prompting of frontier models collapses into a binary success detector that fails to capture nuanced, no",
+  "date": "2026-11-02T18:52:11+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Strategist: Evolving Reasoning with Agents",
+  "url": "https://arxiv.org/abs/2611.03618v1",
+  "summary": "A model is only half of an AI agent system. The other half is the inference strategy: the reasoning procedure that turns model calls into a response. Today that second half is written by hand, and the experience of building one strategy never carries to the next. We introduce Strategist, a meta-agent that evolves inference strategies across tasks. Each strategy is written as a blueprint,executable",
+  "date": "2026-11-02T18:51:04+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Benchmark Prediction with Sparse and Unpaired Cached Responses",
+  "url": "https://arxiv.org/abs/2611.03614v1",
+  "summary": "Evaluating a generative model on all queries from all available benchmark tasks is prohibitively expensive. As such, models are often evaluated on different subsets of tasks and/or different subsets of queries from a given task. The resulting collection of responses and the corresponding (model, task) score matrix are sparse and unpaired. In this paper, we introduce the Product Kernel Perspective ",
+  "date": "2026-11-02T18:49:33+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "ufakzeka-kulak: Building and Evaluating a 31.6M-Parameter Turkish Speech Recognizer from Scratch",
+  "url": "https://arxiv.org/abs/2611.03605v1",
+  "summary": "ufakzeka-kulak is an open Turkish speech-to-text model of 31.6M parameters, a FastConformer encoder with a token-and-duration transducer (TDT) and a CTC head, trained from scratch and released under Apache-2.0. It writes cased, punctuated Turkish with numbers as words. Its 4,977 training hours come from sources whose licences allow commercial use; 281 hours are human-transcribed, and for the other",
+  "date": "2026-11-02T18:42:32+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning",
+  "url": "https://arxiv.org/abs/2611.03602v1",
+  "summary": "Multimodal large language models (MLLMs) can generate detailed video captions, yet they may overemphasize minor details while overlooking essential context and key events. We argue that not all visual evidence deserves equal attention, as the importance of visual information depends on the content of each video. Motivated by this observation, we propose Reviso, an agentic video captioning framewor",
+  "date": "2026-11-02T18:41:14+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "DiabAgent: Toward Agentic Physiological Control",
+  "url": "https://arxiv.org/abs/2611.03601v1",
+  "summary": "As pretraining scales, medical language models have advanced rapidly in clinical question answering. Their ability to achieve effective physiological control through sustained intervention still lacks systematic quantitative evaluation. Type 1 diabetes provides a concrete setting: impaired insulin secretion creates dependence on exogenous insulin, with dosing continually adjusted using information",
+  "date": "2026-11-02T18:41:02+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Four Bridges: Measuring Deception Propensity in a Multi-Agent Game",
+  "url": "https://arxiv.org/abs/2611.03600v1",
+  "summary": "AI agents are increasingly deployed in settings where they interact and coordinate with other agents, yet honesty is mostly measured in single-turn, single-agent benchmarks that pressure the model to deceive. We study deception that emerges in multi-agent interaction without any instruction to deceive. We introduce Kradle, a platform for evaluating AI models, and Four Bridges, an information asymm",
+  "date": "2026-11-02T18:40:47+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Structured Visual Landscape: Generating Preferred Representations in Biological and Artificial Neural Networks",
+  "url": "https://arxiv.org/abs/2611.03597v1",
+  "summary": "Understanding how neurons respond to visual stimulus is an important question in both deep learning and neuroscience. It has significant implications for enhancing the interpretability of black-box artificial neural networks and for understanding the visual representation in the human brain. We propose a structured visual representations landscape and design an activation-based prior that allows u",
+  "date": "2026-11-02T18:39:55+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Spacetime Emergence in the Memory of a Learning Agent",
+  "url": "https://arxiv.org/abs/2611.03596v1",
+  "summary": "We show that the causal structure of spacetime can emerge within the memory of a learning agent performing a quantum information task. We train a model-based reinforcement-learning agent to maximize the quantum mutual information between localized quantum probes interacting with a quantum field in Minkowski spacetime, without directly providing it with information regarding the spacetime metric or",
+  "date": "2026-11-02T18:39:52+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Evaluating Uncertainty Calibration in Probabilistic Time Series Foundation Models",
+  "url": "https://arxiv.org/abs/2611.03592v1",
+  "summary": "Time series foundation models (TSFMs) are increasingly used for probabilistic forecasting across diverse domains, yet the reliability of their uncertainty estimates remains poorly understood. In this work, we study uncertainty calibration in probabilistic TSFMs from a broader methodological and empirical perspective. We introduce a taxonomy of how TSFMs represent predictive uncertainty and develop",
+  "date": "2026-11-02T18:34:50+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "A Scaling Theory of Multi-Epoch Pretraining: Late-Time Overfitting and Ensembling",
+  "url": "https://arxiv.org/abs/2611.03590v1",
+  "summary": "In the near future language model pretraining will become bound by total data rather than total compute. Such a regime requires revisiting scaling laws and scaling law theory. Motivated by prior works that have found utility in ensembling, we study how the number of training epochs and ensemble size jointly shape generalization when training data are fixed. In language-model experiments on FineWeb",
+  "date": "2026-11-02T18:34:09+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+  "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+  "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+  "date": "2026-11-02T18:32:21+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Am I the only one who frequently opens this subreddit and stumbles upon announcements about Qwen4?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm506n/am_i_the_only_one_who_frequently_opens_this/",
+  "summary": "I swear it feels like an addiction... I keep refreshing the page repeatedly, waiting to see the fateful launch announcement or at least a countdown. I hope I’m not the only one cooked with this stuff 😭😭😭 submitted by /u/DanielusGamer26 [link] [comments]",
+  "date": "2026-11-02T18:21:04+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "PlantVLM-Edge: Quantized Vision-Language Models for On-Device Crop Health Diagnosis",
+  "url": "https://arxiv.org/abs/2611.03557v1",
+  "summary": "Timely and accurate crop health diagnosis is essential for sustainable agricultural production, yet accurate diagnosis often requires expert knowledge that is not readily available. Recent vision-language models (VLMs) have demonstrated remarkable capabilities in visual understanding, reasoning, and natural-language interaction, creating new opportunities for intelligent crop health assessment. Ho",
+  "date": "2026-11-02T18:19:19+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+  "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+  "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
+  "date": "2026-11-02T18:05:31+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+  "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to […]",
+  "date": "2026-11-02T18:01:30+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "CoLa3D: Composable Latent 3D Decomposition",
+  "url": "https://arxiv.org/abs/2611.03533v1",
+  "summary": "We introduce CoLa3D, a simple and effective model for composable 3D scene decomposition that, given a single whole-scene latent from either a single image or an existing scene mesh as input, directly outputs a set of object meshes with consistent spatial layout that can be assembled back into a coherent scene. CoLa3D introduces a novel paradigm for 3D scene decomposition within a shared whole-scen",
+  "date": "2026-11-02T18:00:50+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Rewarding defenders with bigger bug bounties",
+  "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+  "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+  "date": "2026-11-02T18:00:00+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Preparing our next security sprint to harden OpenAI",
+  "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+  "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+  "date": "2026-11-02T18:00:00+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Contrastive Adapter Training and Consensus Knowledge Distillation for Multi-Source-Free Domain Adaptation in Skin Cancer Diagnosis",
+  "url": "https://arxiv.org/abs/2611.03528v1",
+  "summary": "Skin cancer diagnosis, particularly differentiating melanoma from benign nevi, is challenging due to the visual similarity between lesions. Although convolutional neural networks (CNNs) and vision transformers (ViTs) have shown promising performance, their effectiveness often deteriorates on data from heterogeneous clinical sources. Conventional domain adaptation methods address domain shift but r",
+  "date": "2026-11-02T17:58:16+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Blackmagic Design Rolls Out a Powerful New Capture and Playback Solution With Expanded Connectivity - No Film School",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FWmpUcTRmTjAySDc4U0pHODJNaUFtQTdSWVlwek85WDNnTjRpd3Z1ekUwUXZaNXFMT0lTSW1SSlJlclgxc1h2X3RtbmtmQ2VQVC03QktnR2hQRjMxTlh0Q0xqYWU0ajZVSGc?oc=5",
+  "summary": "Blackmagic Design Rolls Out a Powerful New Capture and Playback Solution With Expanded Connectivity No Film School",
+  "date": "2026-11-02T17:57:52+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+  "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+  "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, the Chicago Tribune, and […]",
+  "date": "2026-11-02T17:51:19+00:00"
+ },
+ {
+  "source": "Google AI blog",
+  "family": "Modèles et labos",
+  "title": "The latest AI news we announced in October 2026",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+  "summary": "Animated carousel of images from AI posts in October",
+  "date": "2026-11-02T17:45:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Yet another reason to self host: Anthropic has (again) cut back on reverse engineering tools",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm33gr/yet_another_reason_to_self_host_anthropic_has/",
+  "summary": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks Besides privacy and being in control of your data. Besides being able to control the quality of the inference compute. Besides being able to discuss things with the model and not have the cops ",
+  "date": "2026-11-02T17:13:47+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "HIVE-Diff: High Frame Rate HDR Video Reconstruction from a Single LDR Frame and Events",
+  "url": "https://arxiv.org/abs/2611.03465v1",
+  "summary": "High frame rate HDR video is important in applications such as autonomous driving and scientific imaging, where rapid motion and extreme illumination often occur simultaneously. Conventional frame cameras face a trade-off between temporal resolution and dynamic range, while event cameras provide complementary high-speed brightness-change measurements over a wide illumination range. These propertie",
+  "date": "2026-11-02T17:08:05+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+  "url": "https://momentic.ai/",
+  "summary": "144 points, 96 commentaires HN",
+  "date": "2026-11-02T17:05:25+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50339913"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Intent2CAD: How Semantic-Parametric Supervision Shapes Text-to-CAD Generation",
+  "url": "https://arxiv.org/abs/2611.03449v1",
+  "summary": "Text-to-CAD generation aims to make CAD modeling more accessible by generating executable CAD programs from natural-language descriptions. However, practical CAD workflows require more than executable geometry: generated programs should also expose reusable structure that supports later modification. We introduce intent-oriented text-to-CAD generation, where design intent is expressed as recoverab",
+  "date": "2026-11-02T16:58:42+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Align Once to Explain: Feature Alignment for Scalable B-cosification of Foundational Vision Transformers",
+  "url": "https://arxiv.org/abs/2611.03438v1",
+  "summary": "Foundational vision models have become the de facto standard for many vision tasks due to their strong performance. However, they are notoriously opaque and remain hard to interpret. We present ALOE (ALign Once to Explain), a one-time, label-free feature alignment approach that efficiently converts foundational vision models into inherently interpretable B-cos variants. Once aligned, the B-cos bac",
+  "date": "2026-11-02T16:53:52+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
+  "summary": "There were some rumours the last few days that Qwen4 will be the last open-weight series of Qwen, and future ones would be API only. The following statement contradicts the rumours and clearly states the stance that Qwen is taking regarding their future releases. Qwen Head Liu Dayi Heng Clearly States : Future Qwen 4.0 and Qwen 5.0 Will Continue to Be Open Source! He believes that the value of AI ",
+  "date": "2026-11-02T16:42:32+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+  "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+  "summary": "327 points, 249 commentaires HN",
+  "date": "2026-11-02T16:40:29+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50339494"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "VidDub: Replacement-Aware Distillation for Two-Step Video Dubbing",
+  "url": "https://arxiv.org/abs/2611.03404v1",
+  "summary": "Video dubbing aims to synthesize lip movements that match target speech while preserving the speaker identity, head pose, and background of a source video. Existing editors are predominantly trained via self-reconstruction under original paired audio, even though the source mouth becomes a conflicting target when driving speech is replaced. We introduce replacement-aware cross-audio supervision: p",
+  "date": "2026-11-02T16:33:09+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Image Guided Depth Upsampling using Anisotropic Total Generalized Variation",
+  "url": "https://arxiv.org/abs/2611.03399v1",
+  "summary": "In this work we present a novel method for the challenging problem of depth image upsampling. Modern depth cameras such as Kinect or Time of Flight cameras deliver dense, high quality depth measurements but are limited in their lateral resolution. To overcome this limitation we formulate a convex optimization problem using higher order regularization for depth image upsampling. In this optimizatio",
+  "date": "2026-11-02T16:31:24+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+  "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+  "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+  "date": "2026-11-02T16:30:00+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "TaoMate-HD: Progressive-Resolution Autoregressive Audio-Video Generation",
+  "url": "https://arxiv.org/abs/2611.03394v1",
+  "summary": "Streaming digital humans produce detailed video while continuing speech as new text arrives. High-resolution denoising is costly, and text updates can cause repeated or interrupted speech. We present TaoMate-HD, an autoregressive model for high-resolution audio-video streaming. For each short segment, or chunk, two denoising steps establish coarse video structure at low resolution. A final step re",
+  "date": "2026-11-02T16:29:27+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
+  "url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
+  "summary": "98 points, 32 commentaires HN",
+  "date": "2026-11-02T16:25:33+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50339224"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+  "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+  "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+  "date": "2026-11-02T16:23:21+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Unsloth vs GSQ-RCO - 512K context DeepSeek-V4.1 GGUF benchmarks Terminal Bench",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm102d/unsloth_vs_gsqrco_512k_context_deepseekv41_gguf/",
+  "summary": "We ran DeepSWE, Terminal Bench, Automation Bench, HLE, SciCode at 512K context on our DeepSeek UD version 3.1 GGUFs and show we're >10-20% better than GSQ-RCO We ran all other benchmarks (14 in total) to 128K. AIME2025 64x, DeepSWE/TB 3x. We addressed some issues people mentioned with these new benchmarks: 32K context was too short - we did 512K context for agentic + 128K for general tasks Saturat",
+  "date": "2026-11-02T15:57:37+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Running UNCENSORED DeepSeek-V4.1-Flash-1017 on a 12 Gb VRAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm0uy0/running_uncensored_deepseekv41flash1017_on_a_12/",
+  "summary": "Measured, refusals 85%→0% even in thinking, 3 sizes 12 GB GPU VRAM, 64GB RAM + SSD via Strata Engine We took ISTA-DASLab's GSQ-RCO quants of DeepSeek-V4.1-Flash-1017 (the ones people run in Strata with a 12 GB GPU and the Engram table on SSD) and removed the refusals. We only touched 82 dense tensors per file: attention output, shared expert down proj and the Engram value proj. The 384 routed expe",
+  "date": "2026-11-02T15:52:25+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Scaling Git at OpenAI",
+  "url": "https://openai.com/index/scaling-git-at-openai",
+  "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+  "date": "2026-11-02T15:30:00+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Introducing the Grid Protectors Program",
+  "url": "https://openai.com/index/grid-protectors-program",
+  "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+  "date": "2026-11-02T15:00:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+  "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+  "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+  "date": "2026-11-02T15:00:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "[Release] ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO Coder: a 763B model at 1 bit per parameter",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlys6k/release_ista_deepseekv41flash1017_gsqrco_coder_a/",
+  "summary": "We have released a Coder build of DeepSeek-V4.1-Flash-1017, compressed with GSQ and RCO, in which half of the model's routed experts have been removed. DeepSeek-V4.1-Flash-1017 is a sparse mixture-of-experts model: 384 routed experts per layer, of which 6 are active per token, 763.2B parameters, 551.9B of them in the transformer. What's inside One expert-pruned GGUF: 192 of 384 experts kept in eve",
+  "date": "2026-11-02T14:33:20+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+  "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+  "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+  "date": "2026-11-02T14:00:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+  "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+  "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+  "date": "2026-11-02T13:57:53+00:00"
+ },
+ {
+  "source": "Hugging Face papers du jour",
+  "family": "Open source et recherche",
+  "title": "Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning",
+  "url": "https://huggingface.co/papers/2611.03602",
+  "summary": "23 votes. Multimodal large language models (MLLMs) can generate detailed video captions, yet they may overemphasize minor details while overlooking essential context and key events. We argue that not all visual evidence deserves equal attention, as the importance of visual information depends on the content of each video. Motivated by this observation, we propose Reviso, an agentic video captionin",
+  "date": "2026-11-02T13:41:14+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Italgas to invest €80m over 12 years in Sondrio's ATEM - marketscreener.com",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN3JxaTU4SEgxQUh2VG5yVW5tQ0FrVTNvZzU2X3NyYS1ielk0NzhJZzF0eHZ3cmhTOWpKMDlYVFpjUG4zSk1MeGNKZTNuWWUtQnRXRUhLeWN0aVFKT3dDcUoyMGU5NzBvcUp4Z0QzTEY3Z1pEZTJRVnljbm5OOFVhVDdSenJ2OThuY2NXYXVuSlZVVU5BR18xZEkwNzBpQVViUUlBSUE3a1YwclNWWEtZ?oc=5",
+  "summary": "Italgas to invest €80m over 12 years in Sondrio's ATEM marketscreener.com",
+  "date": "2026-11-02T13:31:30+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "The U.S. Census Bureau and “Super Intelligence”",
+  "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+  "summary": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data analysis , and then to experiment with Claude's new Code Interpreter . I decided to t",
+  "date": "2026-11-02T13:31:26+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.45.7-exp.g86c6a0b7",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.45.7-exp.g86c6a0b7",
+  "summary": "2.45.7-exp.g86c6a0b7 (2026-11-02)",
+  "date": "2026-11-02T13:21:04+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Not another tok/s post: local quants vs Claude on 9 real bugs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlwpqv/not_another_toks_post_local_quants_vs_claude_on_9/",
+  "summary": "There's a lot of talk here about not chasing tok/s by lobotomizing the model, and most of what I post is still speed numbers. So this is the other half: what the models I run at home actually get done on my own work, with Claude models added as fixed reference points. Everything local runs on my own engine (capy-flash) on 2x RTX 5070 Ti 16 GB, Ryzen 9900X, 96 GB DDR5. No expert skipping for flash ",
+  "date": "2026-11-02T13:08:34+00:00"
+ },
+ {
+  "source": "Hugging Face papers du jour",
+  "family": "Open source et recherche",
+  "title": "Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime",
+  "url": "https://huggingface.co/papers/2611.03526",
+  "summary": "2 votes. Computer programmers chain together the same reusable computational primitives, for example, conditional statements or loops, but in different orders to implement different algorithms. In contrast, existing language model architectures always execute their layers in the same order. We introduce Library of Layers (LoL), an architecture that dynamically orders its layers during inference to",
+  "date": "2026-11-02T12:57:53+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Blackmagic Design launches UltraStudio Express HD - TVBEurope",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQekZDTVpUWV9yTVhaeUlRMDZVT0Y3OVVVMXM2YnVCX0dGXzdxWnMxVHJSLTJ1elpTcEhUVTUzNnAwaXdtbWRCdDAxaVVoUlNBbzZncnZ5LTgtc2ltZDcyaXlEQ0Zwa1Y2WTJ4bE93UVFJVm1MZjRFVlUtNFk1S09JaFpfV3ViaWloNUxjNmEwZWhyb1hEeDlr?oc=5",
+  "summary": "Blackmagic Design launches UltraStudio Express HD TVBEurope",
+  "date": "2026-11-02T11:49:07+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Proposal: A community revolution for private quality benchmarks (and why endless chasing tok/s is rotting our brains",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlusil/proposal_a_community_revolution_for_private/",
+  "summary": "Proposal: A community revolution for private quality benchmarks (and why endless chasing tok/s is rotting our brains honestly we in r/LocalLLaMA need a revolution of people making their own private benchmarks(not tok/s) i mean benchmarking the quality(especially across quantisation). keep yours private and share the chart results to each other. i feel this is what this sub was made for it seems no",
+  "date": "2026-11-02T11:33:00+00:00"
+ },
+ {
+  "source": "Hugging Face papers du jour",
+  "family": "Open source et recherche",
+  "title": "FLAMIA: FLAsh MIcroscaling Attention for Fast and Causally Safe Training on Blackwell",
+  "url": "https://huggingface.co/papers/2611.03344",
+  "summary": "6 votes. Attention remains a substantial computational cost in Transformer training, particularly at long context lengths. NVIDIA Blackwell GPUs provide high-throughput low-precision matrix multiplication, but exploiting it in attention requires addressing quantization overhead, causal information leakage through shared scales, and numerical inconsistencies between the forward and backward passes.",
+  "date": "2026-11-02T11:00:12+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Blackmagic Design launches the new UltraStudio Express HD - SVG Europe",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVp2MzdMSU94UW5RRU4teVJzU0xOYkcwT3d3YXRQc3ZUOHdOWC1mY3BOenlWMXRETm9wTjJlSDJqbnZMTHlUeE9BLU41VDRPUzFJOGFtamRXcDBubW9heXozRG5odDhsd3hSUUowZGJOcGEwMGtOOFJ4WVk5VGgtVVVkZ29VdnZteHdIVlVTakYxRWVTaEl4ekpUZjVOeU53bUhBWQ?oc=5",
+  "summary": "Blackmagic Design launches the new UltraStudio Express HD SVG Europe",
+  "date": "2026-11-02T10:33:43+00:00"
+ },
+ {
+  "source": "Hugging Face papers du jour",
+  "family": "Open source et recherche",
+  "title": "CoworkOS:Scaling Agent Coworkers for Real-world Automation",
+  "url": "https://huggingface.co/papers/2611.03178",
+  "summary": "56 votes. Rapid advances in cowork agents are shifting human-AI collaboration toward real-world automation, delivering software, designs, and other artifacts. However, such productivity work demands both high-quality delivery on complex productivity tasks and continued monitoring and decision-making over long horizons, a combination that remains an open challenge. We introduce CoworkOS, a general-",
+  "date": "2026-11-02T09:15:11+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Panasonic puts remote production in the frame with AI cameras and Kairos - Animation Xpress",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM1BHZzY5SUx5Z2dyTEU0R0FBcWdmVUZjY082aXVGUlJYNnlxWFRibnYtckNRVUZFaWY2UGNOU0dZTlFUbVVKeW0wWk1Ybk5JdnlOTDRTNDhGVHJzT1J2Vkt1ZjdkLU0weWUyNDhxeXprUkhuUklqczQtWUNLelc4X0dzVGdrRWV5ZHBESmRLUU9jazBSZlNvRHV0RTFsMmRxQktSREQtd05MM0l1QmEwTkRaNG9fakl1Tmlqd2hqODDSAcABQVVfeXFMTTNQR2c2OUlMeWdnckxFNEdBQXFnZlVGY2NPNml1RlJSWDZ5cVhUYm52LXJDUVVGRWlmNlBjTlNHWU5RVG1VSnltMFpNWG5OSXZ5Tkw0UzQ4RlRyc09SdlZLdWY3ZC1NMHllMjQ4cXl6a1JIblJJanM0LVlDS3pXOF9Hc1Rna0VleWRwREpkS1FPY2swUmZTb0R1dEUxbDJkcUJLUkRELXdOTDNJdUJhME5EWjRvX2pJdU5pandoajgw?oc=5",
+  "summary": "Panasonic puts remote production in the frame with AI cameras and Kairos Animation Xpress",
+  "date": "2026-11-02T09:09:00+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "LifeVal",
+  "url": "https://openai.com/index/lifeval",
+  "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+  "date": "2026-11-02T09:00:00+00:00"
+ },
+ {
+  "source": "Hugging Face papers du jour",
+  "family": "Open source et recherche",
+  "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
+  "url": "https://huggingface.co/papers/2611.03126",
+  "summary": "37 votes. Despite recent advances in CUAs, their development remains constrained by the limited diversity, controllability, and reliability of interaction data. Moreover, conventional optimization pipelines lack iterative feedback, while existing recursive improvement approaches often rely on self-generated experiences, limiting ability expansion and yielding diminishing returns. To address these ",
+  "date": "2026-11-02T08:41:14+00:00"
+ },
+ {
+  "source": "Hugging Face papers du jour",
+  "family": "Open source et recherche",
+  "title": "Lab2Sim: Turning Real-World Experiment Videos into Interactive Virtual Experiments",
+  "url": "https://huggingface.co/papers/2611.02928",
+  "summary": "1 votes. Science experiment videos demonstrate how experiments are performed, but offer no direct interaction for learners. Turning them into virtual experiments requires not only reproducing the observed apparatus and state changes, but also enforcing the preconditions governing each operation. We introduce Lab2Sim, a benchmark of 218 science experiment videos with evidence-grounded specification",
+  "date": "2026-11-02T05:56:06+00:00"
+ },
+ {
+  "source": "Hugging Face papers du jour",
+  "family": "Open source et recherche",
+  "title": "Measuring AI Agents as Teammates with Collaborative Intelligence",
+  "url": "https://huggingface.co/papers/2611.02633",
+  "summary": "3 votes. Progress in AI is often measured by what a single model can do on its own. Yet teams of AI agents are starting to make breakthroughs and discoveries in science, medicine, mathematics and software engineering. As AI begins to work in teams of agents and people, the ability to collaborate becomes a core part of their intelligence. Research on human teams has measured this ability for decade",
+  "date": "2026-11-02T01:59:08+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Qodo builds context into AI code review with Codex",
+  "url": "https://openai.com/index/qodo-codex-plugin",
+  "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+  "date": "2026-11-02T00:00:00+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+  "url": "https://openai.com/index/dan-driscoll-joins-openai",
+  "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+  "date": "2026-11-02T00:00:00+00:00"
+ }
+]
