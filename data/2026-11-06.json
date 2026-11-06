@@ -1,0 +1,991 @@
+[
+ {
+  "source": "Mistral news",
+  "family": "Modèles et labos",
+  "title": "Product Le Chonk brings the brains. Studio puts it to work. Build and deploy enterprise agents, workflows and apps faster, with control over your models, data a",
+  "url": "https://mistral.ai/news/build-with-studio",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-06T10:10:54.394210+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Editorials GPT Image 2.6 on Higgsfield: Animated GIFs, SVG Vectors, and Transparent Images 10 min · Nov 4, 2026",
+  "url": "https://higgsfield.ai/blog/gpt-image-2-6-higgsfield",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-06T10:10:54.394210+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Comparisons Best AI Image Models for Fashion and Brand Content in 2026 12 min · Nov 5, 2026",
+  "url": "https://higgsfield.ai/blog/best-ai-image-models-fashion-brand-content-2026",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-06T10:10:54.394210+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Comparisons Best Cinematic AI Video Generators in 2026 10 min · Nov 4, 2026",
+  "url": "https://higgsfield.ai/blog/best-cinematic-ai-video-generators",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-06T10:10:54.394210+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "meshy/relief Meshy Relief converts an image into a 3D relief model with a raised surface and a flat back. 3d relief",
+  "url": "https://fal.ai/models/meshy/relief",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-06T10:10:54.394210+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "meshy/n1/retexture Meshy N1 retexture applies new textures to an existing 3D model using native 3D texturing, producing 2K base color textures from reference im",
+  "url": "https://fal.ai/models/meshy/n1/retexture",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-06T10:10:54.394210+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "decart/lucy-2-6/realtime Real-time, prompt-driven video editing over WebRTC. Restyle, swap backgrounds, and add or replace objects live on a webcam or streamed",
+  "url": "https://fal.ai/models/decart/lucy-2-6/realtime",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-06T10:10:54.394210+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "google/gemini-omni-flash/v1.2/upscale Gemini Omni Flash 1.2 is Google's multimodal video model. This endpoint upscales a video of up to 15 seconds to a selected",
+  "url": "https://fal.ai/models/google/gemini-omni-flash/v1.2/upscale",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-06T10:10:54.394210+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "google/gemini-omni-flash/v1.2/extend Gemini Omni Flash 1.2 is Google's multimodal video model. This endpoint continues an existing video from a text prompt, con",
+  "url": "https://fal.ai/models/google/gemini-omni-flash/v1.2/extend",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-06T10:10:54.394210+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "google/gemini-omni-flash/v1.2/edit Gemini Omni Flash 1.2 is Google's multimodal video model. This endpoint edits an existing video of up to 15 seconds from a na",
+  "url": "https://fal.ai/models/google/gemini-omni-flash/v1.2/edit",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-06T10:10:54.394210+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "google/gemini-omni-flash/v1.2/reference-to-video Gemini Omni Flash 1.2 is Google's multimodal video model. This endpoint generates video from a text prompt comb",
+  "url": "https://fal.ai/models/google/gemini-omni-flash/v1.2/reference-to-video",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-06T10:10:54.394210+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "google/gemini-omni-flash/v1.2/image-to-video Gemini Omni Flash 1.2 is Google's multimodal video model. This endpoint animates a start image into video with sync",
+  "url": "https://fal.ai/models/google/gemini-omni-flash/v1.2/image-to-video",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-06T10:10:54.394210+00:00"
+ },
+ {
+  "source": "Descript",
+  "family": "Montage, motion et broadcast",
+  "title": "Best Transcription Software: Top AI Audio-to-Text Tools for 2026",
+  "url": "https://www.descript.com/blog/article/best-transcription-software",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-06T10:10:54.394210+00:00"
+ },
+ {
+  "source": "Descript",
+  "family": "Montage, motion et broadcast",
+  "title": "9 best AI video editors in 2026 (by use case)",
+  "url": "https://www.descript.com/blog/article/best-ai-video-editor",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-06T10:10:54.394210+00:00"
+ },
+ {
+  "source": "Descript",
+  "family": "Montage, motion et broadcast",
+  "title": "Best AI voice generator: Top text-to-speech tools for 2026",
+  "url": "https://www.descript.com/blog/article/best-ai-voice-generator",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-06T10:10:54.394210+00:00"
+ },
+ {
+  "source": "Descript",
+  "family": "Montage, motion et broadcast",
+  "title": "See all →",
+  "url": "https://www.descript.com/blog/articles",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-06T10:10:54.394210+00:00"
+ },
+ {
+  "source": "Descript",
+  "family": "Montage, motion et broadcast",
+  "title": "How to make a slideshow on TikTok",
+  "url": "https://www.descript.com/blog/article/how-to-make-slideshow-on-tiktok",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-06T10:10:54.394210+00:00"
+ },
+ {
+  "source": "Descript",
+  "family": "Montage, motion et broadcast",
+  "title": "YouTube video size guide",
+  "url": "https://www.descript.com/blog/article/the-ultimate-guide-to-youtube-video-sizes",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-06T10:10:54.394210+00:00"
+ },
+ {
+  "source": "Descript",
+  "family": "Montage, motion et broadcast",
+  "title": "How to create a YouTube video",
+  "url": "https://www.descript.com/blog/article/how-to-make-youtube-video",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-06T10:10:54.394210+00:00"
+ },
+ {
+  "source": "Descript",
+  "family": "Montage, motion et broadcast",
+  "title": "How to clip and trim YouTube Videos",
+  "url": "https://www.descript.com/blog/article/how-to-clip-youtube-video",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-06T10:10:54.394210+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+  "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+  "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+  "date": "2026-11-06T06:28:32+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Blackmagic UltraStudio Express HD: USB4 capture and playback, but no HDMI input - PTTL.gr",
+  "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQVC16OVp3ZWpSTWFOMTlTejdudllMYlN6eG1aSXJsNDlCSFd6cDJfR2RjM2luVnFVazU2UEg0WEV6Ym1xY0Itd3ZRNnBIUi1rbHVXYmE1M2xvOUFTNU82Yk1OWWJKT0JvNDhRTEVBTGg3SWQ3MTlVWURJdnhZRUVFTWlDcGxfWm82SzJjNFV6VVZXaV9QU2hiTDg3UW9Yd2I0UDB1RV9XNERRNjdRazVyVXFUOTE2RVRldHNDdTRIWEhIc2VSbTktR3YwUzNIV014NERBbVE2bVNuQ1BPczJTaWhPX09FN3NEWmRfa3Rqd3IyLXhEeTFPbE1OeE5seG5FdDNCMTdiZF8yLVdtZ2hLei04UFptbzJSYkdGSVdIeUxNS3FyVWtualVBb3dqUDlucjVGZ1ZMeEZLOXVCQ0VNZXJkdHVnbWhpSmxDMjV5alF5b3BZ?oc=5",
+  "summary": "Blackmagic UltraStudio Express HD: USB4 capture and playback, but no HDMI input PTTL.gr",
+  "date": "2026-11-06T06:01:50+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Introducing Inkling 2 Small",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp32od/introducing_inkling_2_small/",
+  "summary": "Today we are introducing our second model generation with Inkling 2 Small. It is a Mixture-of-Experts model with 594B total parameters, 17B active , and supports image inputs and variable effort. Inkling 2 Small far surpasses our previous models’ scores on the Artificial Analysis Intelligence Index with a score of 31, reflecting gains in performance on agentic coding, vision, knowledge work, and r",
+  "date": "2026-11-06T03:50:26+00:00"
+ },
+ {
+  "source": "ComfyUI releases",
+  "family": "Open source et recherche",
+  "title": "comfyanonymous/ComfyUI v0.44.1",
+  "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.44.1",
+  "summary": "ComfyUI v0.44.1",
+  "date": "2026-11-06T03:26:00+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex rust-v0.169.0-alpha.1",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.1",
+  "summary": "Release 0.169.0-alpha.1",
+  "date": "2026-11-06T03:02:33+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "Closed AI models dominate the price-performance frontier",
+  "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+  "summary": "73 points, 60 commentaires HN",
+  "date": "2026-11-06T02:49:56+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50387546"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Blackmagic Design Announces New UltraStudio Express HD - Content + Technology",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmZxdlBZb0tHT0EwZ2NNb0pWNUpnRmRYYjNyWkpNS3U0LXd0NmhXV2hFTDloOS1PeUc1bnUtQmplVHZhSGtydE1LV0tLWWJuY0FoOHZHV3hNS2FtZHRPNDF4cU5taFFQUVpzMGxaM1Q4NGdNeGd6RVVVU2J3UU5fSGN5c0JVV3pfQmc3OTBoSTY5SEo0elhsaXZDTmJDUmNWS0lV?oc=5",
+  "summary": "Blackmagic Design Announces New UltraStudio Express HD Content + Technology",
+  "date": "2026-11-06T01:53:14+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.167.0",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.167.0",
+  "summary": "New Features Open the agent command center with codex agents --no-daemon . The command center and session picker now mark unread results ( #58238 , #58239 , #58263 , #58264 ). Switch between connected backends from the terminal session picker and keep your drafts when switching ( #58280 , #58457 ). Preview local image attachments while composing on supported terminals, and open viewed local images",
+  "date": "2026-11-06T01:42:19+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "CCORE GLB-3D-Coder dataset is here: 3,918 rendered and tested examples across 40 domains",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xozbe6/ccore_glb3dcoder_dataset_is_here_3918_rendered/",
+  "summary": "CCORE GLB-3D-Coder dataset is here: 3,918 rendered and tested examples across 40 domains As promised in my previous posts, I’m releasing the dataset used to train CCORE GLB-3D-Coder , my small 4B model for creating 3D assets with Three.js and GLB export. The dataset contains 3,918 examples across 40 domains , including characters, creatures, vehicles, laboratory equipment, musical instruments, arc",
+  "date": "2026-11-06T00:43:25+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "OpenAI is stepping back from NDAs for data center projects",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+  "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions […]",
+  "date": "2026-11-06T00:37:56+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Airbnb is working on an AI travel agent",
+  "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+  "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But […]",
+  "date": "2026-11-06T00:06:12+00:00"
+ },
+ {
+  "source": "Hugging Face blog",
+  "family": "Open source et recherche",
+  "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+  "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+  "summary": "",
+  "date": "2026-11-06T00:00:00+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.168.0-alpha.7",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.168.0-alpha.7",
+  "summary": "Release 0.168.0-alpha.7",
+  "date": "2026-11-05T23:00:15+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Touchscreen Editing Support Comes to DaVinci Resolve Along With Other Updates - No Film School",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWUC0tZXZ0NDdndFpUV2hMNUdMcFloeDdCWlRCcXhncEdlR0xKd0phMnQzV3d3NUZrcEk0QUdad3Jjb2t3RXhabXl0RVVlUlZLZHFkbXRGZW9uejI0RTFCeGxR?oc=5",
+  "summary": "Touchscreen Editing Support Comes to DaVinci Resolve Along With Other Updates No Film School",
+  "date": "2026-11-05T22:56:33+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+  "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+  "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+  "date": "2026-11-05T22:40:55+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Perplexity launches its own take on AI agents for work",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+  "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device […]",
+  "date": "2026-11-05T22:26:50+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Claude Code sends your email address to websites",
+  "url": "https://github.com/anthropics/claude-code/issues/107757",
+  "summary": "1147 points, 349 commentaires HN",
+  "date": "2026-11-05T22:17:15+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50385272"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Maybe we'll get cheap RAM for Christmas after all!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xovnaa/maybe_well_get_cheap_ram_for_christmas_after_all/",
+  "summary": "submitted by /u/keepthepace [link] [comments]",
+  "date": "2026-11-05T22:00:25+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+  "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+  "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
+  "date": "2026-11-05T21:40:36+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+  "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+  "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+  "date": "2026-11-05T21:39:40+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Lawyer with too many GPUs, part 4: DeepSeek-V4.1-Flash on eight V100s from 2018. 200+ tok/s on code, ~110 on legal writing, 2,200 tok/s prefill at 128K, 524K context, every weight in VRAM",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoubyo/lawyer_with_too_many_gpus_part_4_deepseekv41flash/",
+  "summary": "fuck you sam altman. i am keeping my spare capacity. Update from the lawyer with the V100 server. Three days ago I got excited and posted DeepSeek-V4.1-Flash on four V100s at 36-38 tok/s, before I had done my custom kernel work and prefill optimizations. I also said I'd try it across eight. I did. Results have been, to be honest, actually genuinely good and useful to me for real. I did not use the",
+  "date": "2026-11-05T21:07:54+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Strata for all Qwen models from little to big",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xottw2/strata_for_all_qwen_models_from_little_to_big/",
+  "summary": "Ran every Qwen GGUF on my disk through RustingStrata and llama.cpp, same PC, same file, back to back. PC: RTX 3060 12 GB, Ryzen 5 7600X, 32 GB RAM. CUDA. Normal desktop open (browser, Discord), no tuning, so numbers are lower than in the README. Model Quant Size Prefill 4K, RustingStrata Prefill 4K, llama.cpp Decode after 4K, RustingStrata Decode after 4K, llama.cpp Qwen3.5-2B Q8_0 1.9 GB 3859 608",
+  "date": "2026-11-05T20:47:30+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "Tencent launches Hy4",
+  "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+  "summary": "95 points, 4 commentaires HN",
+  "date": "2026-11-05T20:21:43+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50383963"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Appreciation post for OrcaCyber-Nano-1.0",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xosw1w/appreciation_post_for_orcacybernano10/",
+  "summary": "I haven't see anyone post about this gem of a finetune. So I wanted to appreciate the team and bring some attention to it. OrcaCyber-Nano-1.0 for me is the best finetune I have used so far. I have tried quite a few like AREX or Swift or Peculiar Ragdoll's Spark chat template etc. But this model is on par with my experience with frontiers. (I may not be doing complicated stuff). Here are my experie",
+  "date": "2026-11-05T20:09:52+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Z.ai chief scientist Jie Tang just revealed the training pipeline behind the upcoming GLM-5.5 (32B, 122B, and 256B)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xossr5/zai_chief_scientist_jie_tang_just_revealed_the/",
+  "summary": "Smaller GLM models are coming! GLM 5.5 will have a 32B model! submitted by /u/wapswaps [link] [comments]",
+  "date": "2026-11-05T20:06:15+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Cult.fit builds operational muscle with Codex",
+  "url": "https://openai.com/index/cultfit-builds-with-codex",
+  "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+  "date": "2026-11-05T20:00:00+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.168.0-alpha.6",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.168.0-alpha.6",
+  "summary": "Release 0.168.0-alpha.6",
+  "date": "2026-11-05T19:57:50+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Meta says US users can now video chat with their Muse AI avatar",
+  "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+  "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+  "date": "2026-11-05T19:48:28+00:00"
+ },
+ {
+  "source": "Hugging Face blog",
+  "family": "Open source et recherche",
+  "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+  "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+  "summary": "",
+  "date": "2026-11-05T19:35:16+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+  "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+  "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+  "date": "2026-11-05T19:12:39+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "OpenAI released a new cybersecurity model. Is that enough?",
+  "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+  "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+  "date": "2026-11-05T19:06:12+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Muse has a voice mode now",
+  "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+  "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of […]",
+  "date": "2026-11-05T19:03:04+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xor5nr/the_ultimate_moe_training_handbook_training/",
+  "summary": "This handbook is for people who have trained a dense model and want to train an MoE next, or who are curious how MoE training works. Chapter 2 is a Megatron-LM runbook: test the hardware, build the image, train a dense baseline, then a first MoE on one node, compared against that baseline. Chapter 3 takes the MoE layer apart (router, routing, load balancing, experts, block layout, training, system",
+  "date": "2026-11-05T19:01:53+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI",
+  "url": "https://arxiv.org/abs/2611.08486v1",
+  "summary": "Scientific figures give research ideas a visual form through choices of abstraction, composition, and emphasis. Generative AI offers new ways to realize these choices, raising questions about explanatory clarity and purposeful visual expression. We examine these questions through a visual retrospective of 371 motivation and framework figures from 200 papers. The corpus comprises a quota-based main",
+  "date": "2026-11-05T18:59:33+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Where and Why is Grounded Reasoning Useful?",
+  "url": "https://arxiv.org/abs/2611.08485v1",
+  "summary": "Grounded reasoning, where a model outputs text coordinates of relevant locations in chain-of-thought reasoning, is a common strategy for solving complex visual reasoning problems. However, the benefits and limitations of grounded reasoning are understudied. We study where and why grounded reasoning is most useful. To do so, we introduce a chain-of-thought analysis method to measure how much a mode",
+  "date": "2026-11-05T18:59:32+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling",
+  "url": "https://arxiv.org/abs/2611.08477v1",
+  "summary": "Modern video models possess strong visual priors, yet do not natively represent human action in metric 3D space. We present EgoGeneralist, which adapts pretrained video generators to unify action-conditioned egocentric video generation, pose estimation, and joint action-video generation. Our role-adaptive action renderer provides video-native representations for multidirectional action-video learn",
+  "date": "2026-11-05T18:58:13+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Monus vs. Interpretations in Semiring Semantics",
+  "url": "https://arxiv.org/abs/2611.08474v1",
+  "summary": "Interpretations have been widely used in the study of provenance of queries on semiring-annotated databases. Here, we consider two different interpretation-based semantics for first-order formulas in negation normal form, namely, the canonical-interpretation semantics and the compatible-interpretation semantics. We show that the resulting query languages cannot express the monus operation on semir",
+  "date": "2026-11-05T18:56:32+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Joint Electricity Price and Load Forecasting for Data Center Battery Dispatch Using Polynomial Diffusion Models",
+  "url": "https://arxiv.org/abs/2611.08470v1",
+  "summary": "The rapid growth of large-scale data centers (DCs) is increasing electricity demand, market volatility, and operating costs. Battery energy storage systems (BESSs) can mitigate these challenges by shifting electricity purchases from high-price to low-price periods. This paper proposes a real-time BESS dispatch framework using polynomial diffusion models (PDMs) to forecast both electricity prices a",
+  "date": "2026-11-05T18:55:37+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions",
+  "url": "https://arxiv.org/abs/2611.08462v1",
+  "summary": "Vision-Language-Action (VLA) models can perform a wide range of robotic manipulation tasks, but often fail during deployment. Teaching them to recover from these failures requires substantial corrective data: existing approaches learn to recover from failures by directly associating corrective actions with the observations in which they were demonstrated. For instance, DAgger-like fine-tuning can ",
+  "date": "2026-11-05T18:53:16+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Latent RL Priors for Data-Efficient Dexterous Manipulation",
+  "url": "https://arxiv.org/abs/2611.08458v1",
+  "summary": "Learning dexterous manipulation from limited visual demonstrations is challenging because policies must acquire both perceptual grounding and precise control, while reinforcement learning (RL) in simulation can acquire rich control behaviors from large-scale interaction with privileged information. We introduce \\textbf{Latent RL Prior}, a two-stage framework that reuses this control knowledge for ",
+  "date": "2026-11-05T18:50:06+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness",
+  "url": "https://arxiv.org/abs/2611.08457v1",
+  "summary": "Adversarial Training (AT) is an important method for improving model robustness. We study the dynamics of deterministic Gradient Descent (GD) in AT. Most existing works in this direction focus on the small or vanishing step sizes regime, where GD resembles a continuous-time flow. However, such step sizes can make training inefficient and are rarely used in practice. In this paper, we study the AT ",
+  "date": "2026-11-05T18:48:50+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+  "url": "https://arxiv.org/abs/2611.08452v1",
+  "summary": "Reproducing machine learning experiments requires reconstructing procedures from information scattered across papers, released code, and supporting artifacts. For coding agents, reproduction success can therefore depend on their ability to fill in missing details, rather than on the released artifacts alone. We ask whether preserving recovered procedures and decisions improves subsequent independe",
+  "date": "2026-11-05T18:45:36+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+  "url": "https://arxiv.org/abs/2611.08449v1",
+  "summary": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goals and anticipate motion. However, autoregressive vision-language models generate these plans one coordinate token at a time, making richer predictions increasingly costly. We introduce VFlash, a meth",
+  "date": "2026-11-05T18:44:43+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Edge-Assisted Crowdsensing for Explainable Cyclist Safety Perception",
+  "url": "https://arxiv.org/abs/2611.08441v1",
+  "summary": "Cyclist fatality rates remain high despite policy support for active travel, and autonomous vehicles add complexity to mixed traffic. Neither crash statistics nor multi-model detection pipelines scale to continuous monitoring of perceived safety along a route. We present an edge-assisted crowdsensing system: handlebar cameras supply street-level frames, a vision-language model (VLM) turns each fra",
+  "date": "2026-11-05T18:33:58+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Deep-learning surrogate model for rapid quantum-noise computation in dual-pump fiber-optic phase-sensitive amplifiers",
+  "url": "https://arxiv.org/abs/2611.08437v1",
+  "summary": "Fiber-optic parametric amplifiers in a phase-sensitive amplifier (PSA) configuration are well known for their low noise properties. Quantum mechanics dictates that these amplifiers can have a 0 dB noise figure (NF) (ratio of signal-to-noise ratio at the input and output of the amplifier) under certain conditions. However, for a dual-pump configuration, when the system is highly nonlinear, fully qu",
+  "date": "2026-11-05T18:30:14+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "SM4RT: Cascaded Feed-forward Model for 4D Reconstruction",
+  "url": "https://arxiv.org/abs/2611.08436v1",
+  "summary": "We introduce SM4RT, a multi-task cascade feed-forward model for dynamic scene reconstruction from RGB videos. While existing feed-forward approaches typically address geometry reconstruction and motion estimation separately--and often predict motions in a single coordinate frame that must account for camera movement--SM4RT solves these tasks sequentially by first reconstructing 3D geometry and the",
+  "date": "2026-11-05T18:28:38+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "An improved minimum degree threshold for fractional clique decompositions in partite graphs",
+  "url": "https://arxiv.org/abs/2611.08432v1",
+  "summary": "We prove a Dirac-type condition for an $r$-partite graph to admit a fractional clique decomposition: every sufficiently large $r$-partite graph with $n$ vertices in each part and partite minimum degree at least $(1 - \\frac{1}{30r^2}) n$ admits a fractional $K_r$-decomposition, subject to necessary divisibility conditions. This implies the same upper bound on the asymptotic minimum degree threshold",
+  "date": "2026-11-05T18:25:20+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Scaffolding GenAI Use in Ethical Essay Writing: A Three-Year Experience Report in Introductory Computing",
+  "url": "https://arxiv.org/abs/2611.08431v1",
+  "summary": "As society, ethics, and professional practice become increasingly integrated across the computer science curriculum, technical courses need practical ways to support ethical reasoning. Ethical essay assignments offer one approach, but little is known about how students use GenAI when writing such essays. This experience report examines GenAI use across three years of ethical essay assignments in a",
+  "date": "2026-11-05T18:24:31+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "DeepSeek-V4.1-Flash-1017 on one RTX 3090: Big updates to the Delta Inference Engine v0.93. Same 41 tok/s at 192GB/IQ2 at better quality, usable from 64 GB RAM, first token ~40% sooner, new Unsloth qua",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates/",
+  "summary": "Big update to the Delta Inference Engine, you guys asked for more features, more benchmarks and less clickbait. I'm here to deliver The short version: I've added almost everything requested and more. Delta Inference Engine now supports 64/96/128 GB of RAM and fully supports the new Unsloth quants. Unsloth IQ2 runs at the same 41 tok/s (192 GB RAM) using a new native reader for the Engram tables an",
+  "date": "2026-11-05T18:23:22+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
+  "url": "https://arxiv.org/abs/2611.08428v1",
+  "summary": "Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not the workspace around it. We explore meta access---giving the assistant a structured, permissioned view of the interface itself and propose a ladder of levels: feature tutoring; metadata, settings, and pref",
+  "date": "2026-11-05T18:22:24+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "A half-line of Schur idempotent norms",
+  "url": "https://arxiv.org/abs/2611.08419v1",
+  "summary": "Using a family of bipartite graphs constructed by hanging identical rooted trees at every vertex of a highly symmetric graph, we show that every sufficiently large real number is the norm of an idempotent Schur multiplier on the bounded operators on $\\ell^2$. This answers a question previously raised by the author.",
+  "date": "2026-11-05T18:19:05+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks",
+  "url": "https://arxiv.org/abs/2611.08417v1",
+  "summary": "Coding agents are among the most economically consequential deployments of LLMs to date, making reliable evaluation increasingly important. Yet even benchmarks that are carefully validated at release can become stale. As models improve, they can discover valid solutions that existing verifiers reject, while changes to evaluation infrastructure can invalidate assumptions embedded in tasks and tests",
+  "date": "2026-11-05T18:18:39+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Social Humanoid: Socially Responsive Human-Humanoid Interaction",
+  "url": "https://arxiv.org/abs/2611.08407v1",
+  "summary": "Humanoid robots are typically trained as solitary agents, leaving them unable to coordinate physically with human partners who naturally anticipate and adjust to one another. To bridge this gap, we present Social Humanoid, a hierarchical system that generates and executes socially responsive whole-body motion on a 29-DoF Unitree G1 conditioned on a human partner's motion. Its high-level policy per",
+  "date": "2026-11-05T18:14:06+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "StepBack: Step-Level Error-Localized Resampling for Efficient Test-Time Reasoning",
+  "url": "https://arxiv.org/abs/2611.08403v1",
+  "summary": "Self-consistency (SC) is a widely used decoding strategy for improving chain-of-thought reasoning, but it requires sampling many complete reasoning trajectories with a preset budget. Its efficient variants reduce the cost mainly by stopping full-trajectory sampling early or distributing the number of samples across questions. In this paper, we propose StepBack, a step-level error-localized resampl",
+  "date": "2026-11-05T18:12:49+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+  "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+  "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+  "date": "2026-11-05T18:02:27+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Claude AI can plug directly into your bank account",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+  "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview […]",
+  "date": "2026-11-05T18:00:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Claude can now analyze your spending with its new Personal Finance tool",
+  "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+  "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+  "date": "2026-11-05T18:00:00+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "‘Total repudiation’: The blue wave is about to hit AI",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+  "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and a Maine Senator ceding to […]",
+  "date": "2026-11-05T17:51:52+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation",
+  "url": "https://arxiv.org/abs/2611.08372v1",
+  "summary": "Visuomotor policies trained through imitation learning are highly sensitive to changes in camera viewpoint. This is particularly problematic for mobile manipulation (MoMa), where robots rarely execute manipulation from the exact same base pose used during demonstration collection due to navigation uncertainty, localization drift, and environmental constraints. Recent approaches use novel-view synt",
+  "date": "2026-11-05T17:50:35+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception",
+  "url": "https://arxiv.org/abs/2611.08368v1",
+  "summary": "Robotic perception increasingly relies on heterogeneous sensor suites combining cameras with emerging modalities (event, SPAD, iToF/dToF, and thermal). Yet existing simulators idealize these sensors, hiding critical modality-specific failure modes that limit real-world deployment. We present VisionSIM, a unified, physically grounded simulation platform that elevates sensor realism to a first-class",
+  "date": "2026-11-05T17:48:00+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "OraRefer: Segmentation-Guided Multi-Photograph Fusion for Oral Cancer Screening with Guaranteed Patient-Level Sensitivity",
+  "url": "https://arxiv.org/abs/2611.08360v1",
+  "summary": "Oral cancer and the oral potentially malignant disorders (OPMD) that can precede it are visible on the oral mucosa, which makes smartphone photographs a promising tool for screening. Deep learning models for this task classify individual photographs. However, screening refers patients, not photographs: a patient is usually photographed several times, and the referral decision must miss no more tha",
+  "date": "2026-11-05T17:39:50+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "Quoting Paul Ford",
+  "url": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+  "summary": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . — Paul Ford , The Web Is More Than Enough Tags: browsers , paul-ford , web-development",
+  "date": "2026-11-05T17:34:03+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "4D Point Splatting for mmWave Radar Micro-Doppler Differentiable Rendering",
+  "url": "https://arxiv.org/abs/2611.08342v1",
+  "summary": "Millimeter-wave radar resolves the micrometer displacements of a moving body as micro-Doppler, enabling gait, gesture, activity, pose and vital-sign sensing. Each task relies on a downstream model trained on real data, yet radar datasets lag orders of magnitude behind vision and language. Brute-force collection will not close that gap, and existing synthesis methods (forward-only simulators, learn",
+  "date": "2026-11-05T17:27:29+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+  "url": "https://github.com/rivet-dev/rivet",
+  "summary": "96 points, 51 commentaires HN",
+  "date": "2026-11-05T17:17:42+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50381687"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex rust-v0.168.0-alpha.5",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.168.0-alpha.5",
+  "summary": "Release 0.168.0-alpha.5",
+  "date": "2026-11-05T17:06:54+00:00"
+ },
+ {
+  "source": "Google DeepMind blog",
+  "family": "Modèles et labos",
+  "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+  "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+  "summary": "",
+  "date": "2026-11-05T17:05:16+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "[Paper] SpecOPD: Branch-Parallel On-Policy Distillation for Speculative Decoding - By Qwen",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoo0pp/paper_specopd_branchparallel_onpolicy/",
+  "summary": "Speculative decoding (SD) accelerates large language model inference by reducing the sequential cost of token-by-token generation. Advanced SD methods reduce proposal cost with parallel drafters that predict entire blocks in one forward pass, but overall speedup still depends on acceptance length. On-policy distillation (OPD) can push well-trained drafters beyond acceptance-length plateaus, yet co",
+  "date": "2026-11-05T17:03:58+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Australian universities are creating AI-native graduates",
+  "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+  "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+  "date": "2026-11-05T17:00:00+00:00"
+ },
+ {
+  "source": "Google AI blog",
+  "family": "Modèles et labos",
+  "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+  "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
+  "date": "2026-11-05T17:00:00+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Grimes is going to star in an AI movie that’s coming to theaters",
+  "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+  "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gifts is a notable test case for the commercial potential of AI films, and it releases on […]",
+  "date": "2026-11-05T17:00:00+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+  "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, down from around […]",
+  "date": "2026-11-05T17:00:00+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "ManimCode: Learning Visual Self-Correction for Educational Animation",
+  "url": "https://arxiv.org/abs/2611.08294v1",
+  "summary": "Manim supports precise, programmatic video generation, but a successfully rendered educational animation can still have visual defects, missing explanations, or incorrect content. Rendering does not directly identify the code changes needed to correct these visual failures, so feedback-driven revision is needed. Existing agentic frameworks use iterative rendering and revision but typically rely on",
+  "date": "2026-11-05T16:55:44+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "DART: Domain-Agnostic Residual Transfer for Generalist Anomaly Detection",
+  "url": "https://arxiv.org/abs/2611.08271v1",
+  "summary": "Generalist Anomaly Detection (GAD) aims to detect anomalies in unseen domains using only a few reference samples. Recent normal-abnormal guided methods improve this setting by exploiting abnormal references, but their residuals often mix transferable anomaly cues with domain-specific appearance factors such as texture, geometry, and acquisition conditions. This residual domain entanglement limits ",
+  "date": "2026-11-05T16:43:20+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "[GUIDE] Qwen3.8 Flash-Next on a single RTX 5080 + 64GB RAM: >250 tok/s tg and 5700 tok/s prefill in real agent coding sessions (Basalt + new Unsloth UD-IQ3_XXS + Lamina drafter),+ how it compares to l",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xomy0i/guide_qwen38_flashnext_on_a_single_rtx_5080_64gb/",
+  "summary": "TL;DR Basalt is the engine and it's doing the heavy lifting. Same model file, same box: about 3.5x llama.cpp's decode without drafting and ~5x with it, and ~7x faster prompt reads . Unsloth's new UD-IQ3_XXS (Dynamic v3.1, uploaded Nov 4) is the same size as the GSQ-RCO IQ3_S everyone uses on 16GB cards, but measurably more accurate : wikitext perplexity 3.382 -> 3.247, which basically closes the g",
+  "date": "2026-11-05T16:23:15+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "My psychophysics as a bilateral cochlear implant user",
+  "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+  "summary": "178 points, 83 commentaires HN",
+  "date": "2026-11-05T16:21:12+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50381033"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "FewStepRL: Fine-tuning Few-step Diffusion Models with Reinforcement Learning",
+  "url": "https://arxiv.org/abs/2611.08240v1",
+  "summary": "Reinforcement learning (RL) has become a standard post-training method for diffusion models, but most RL objectives roll out the current policy at every iteration, and with a many-step sampler these rollouts typically dominate the cost of training. Few-step models cut this cost, yet they model an average velocity over an interval, whereas existing RL objectives are built for an instantaneous veloc",
+  "date": "2026-11-05T16:19:52+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Beyond Quadratic Attention: Separable Gaussian Operators for ODE Vision Transformers",
+  "url": "https://arxiv.org/abs/2611.08236v1",
+  "summary": "Self-attention carries a quadratic cost in token count, which limits how far Vision Transformers can scale with input resolution. We introduce SSoG, a separable sum-of-Gaussians spatial operator that replaces dense self-attention with a learned mixture of axis-factorized Gaussian kernels, reducing the per-layer cost from $\\mathcal{O}(N^2)$ to subquadratic in $N$. Unlike dot-product self-attention,",
+  "date": "2026-11-05T16:17:48+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "[Paper] FireFlash : An Open Recipe for Long-Horizon Agentic RL Achieving the Performance-Cost Pareto Frontier",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon/",
+  "summary": "We introduce FireFlash , a 300B-scale model tailored for long-horizon agentic tasks. FireFlash excels as a terminal and coding agent, achieving 46.2% on Terminal-Bench 4.0 1 , putting it on par with Fable 5 and GPT-6 Sol, while costing over 30× less per task than Fable 5 at maximum effort (Figure 1). These gains also transfer to software engineering benchmarks, including DeepSWE v1.1 2 and SWE-Ben",
+  "date": "2026-11-05T16:17:42+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Axiom Math wants to keep AI slop out of mathematics",
+  "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+  "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+  "date": "2026-11-05T16:16:45+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+  "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+  "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+  "date": "2026-11-05T15:19:05+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "La-JEPA: Compact Robot Policies with Latent World Modeling",
+  "url": "https://arxiv.org/abs/2611.08156v1",
+  "summary": "World-action models adapt pretrained video generators, and vision-language-action models build on pretrained vision-language backbones; both tie policy architecture and inference cost to large transformers designed for generation rather than control. It remains unclear how much these generation-oriented choices affect control. In this work, we introduce Latent Action JEPA (La-JEPA), a compact worl",
+  "date": "2026-11-05T15:16:38+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "The hidden supply chain costs of the AI boom",
+  "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+  "summary": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through […]",
+  "date": "2026-11-05T15:00:00+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "You can post AI music straight to SoundCloud from ElevenLabs",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
+  "summary": "After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from ElevenLabs and then upload them to SoundCloud, you can publish them directly. As part of the partnership, SoundCloud Artist Pro subscribers are also getting three months […]",
+  "date": "2026-11-05T15:00:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+  "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+  "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+  "date": "2026-11-05T14:42:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "NVIDIA RTX PRO 5500 Blackwell appears at $17,999 MSRP, higher than RTX PRO 6000 at $16,000 MSRP set some months ago by NVIDIA - VideoCardz",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xojryw/nvidia_rtx_pro_5500_blackwell_appears_at_17999/",
+  "summary": "submitted by /u/panchovix [link] [comments]",
+  "date": "2026-11-05T14:17:46+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Getting editable layers out of Qwen-Image 2.1, a model that only edits: what works, what still fails (local, open source) Kokon",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoji3b/getting_editable_layers_out_of_qwenimage_21_a/",
+  "summary": "I'm the developer of Kokon, a local photo editor around Qwen-Image 2.1 Turbo (on stable-diffusion.cpp, and on its own engine on Macs). I posted it here a few weeks ago. 0.12 adds a Layers lab: click objects in any image, get each one on its own layer with the background behind it repainted, then move them around or export a PSD. Qwen-Image 2.1 has no layer output, so this is a pipeline around an e",
+  "date": "2026-11-05T14:06:27+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+  "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+  "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+  "date": "2026-11-05T14:00:00+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "The Flat Earth Blues - YouTube",
+  "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5yeHhickUtaDBfc0RpakE0N2drTGFYeWhadTFZanN5LVJFOHR5eGhvVzFSOXdRVDlZZHIyeWxyWnpvQQ?oc=5",
+  "summary": "The Flat Earth Blues YouTube",
+  "date": "2026-11-05T13:42:57+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+  "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+  "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
+  "date": "2026-11-05T13:00:00+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+  "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+  "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
+  "date": "2026-11-05T12:00:41+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+  "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+  "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
+  "date": "2026-11-05T12:00:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Quantization livestream with goats of inference",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoglot/quantization_livestream_with_goats_of_inference/",
+  "summary": "Hey folks, it's Merve from Hugging Face. Title of this post is super self explanatory, we are doing a quantization workshop livestream with Michael Goin (lead maintainer of vLLM at RedHat), Colin Kealty (aka bartowski at RedHat), Maxime Labonne and Aditya Tadimeti. I will shortly teach you how quantization works, modern ideas (double quantization, calibration) and llama.cpp quants (k-quants, i-qua",
+  "date": "2026-11-05T11:46:10+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex rust-v0.168.0-alpha.4",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.168.0-alpha.4",
+  "summary": "Release 0.168.0-alpha.4",
+  "date": "2026-11-05T11:20:13+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Volunteer-Friendly AV - AVNetwork",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWVpzd1hmQTdSOEdNeUhybmtXU2RhWjNHMUdrcFNNMXVBODlycV9FYk9BZ3JsWlVrUGw2aTNubkE1MThPSjJ4RHZkN2ptQVpTUWdwU1owSGdWVVVqcUlvaU0yd0RrcmNmenE0T0RTQ3VVU1J5aWtvaGZQMGVnNWJoWUJpMXhzQQ?oc=5",
+  "summary": "Volunteer-Friendly AV AVNetwork",
+  "date": "2026-11-05T10:35:11+00:00"
+ },
+ {
+  "source": "Hugging Face papers du jour",
+  "family": "Open source et recherche",
+  "title": "SAE Interprets MoE: Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization",
+  "url": "https://huggingface.co/papers/2611.08089",
+  "summary": "4 votes. Mixture-of-Experts (MoE) models route each token to a few of many experts, yet what an individual expert is responsible for remains unsettled. Existing analyses count how often an expert is selected on domain-labeled corpora, an instrument that fixes the taxonomy in advance, stays coarse, and records selection rather than contribution. We instead study specialization in feature space by t",
+  "date": "2026-11-05T09:35:08+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+  "url": "https://openai.com/index/introducing-gpt-6-cyber",
+  "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+  "date": "2026-11-05T09:00:00+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Merge builds product and business tools with OpenAI technology",
+  "url": "https://openai.com/index/merge-builds-with-openai",
+  "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+  "date": "2026-11-05T08:00:00+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "DaVinci Resolve 21.2 adds Gen 6 LUTs and Apple touchscreen support - Red Shark News",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4WU9WdG02U3RjMlRlNHQ1MGExUzFSTjhBQl9CeW5VRVZ0clg4VWg3dk8xakJfTVJxRzZEUnJIbnp5aWNHNFNaWS1jSnRVZ2swV1dnZ2o4aEdNcUN0TWcwS29sU1dDVkVGNlJ2UFVydXo1b0JlQWxORldDQdIBe0FVX3lxTFB4WU9WdG02U3RjMlRlNHQ1MGExUzFSTjhBQl9CeW5VRVZ0clg4VWg3dk8xakJfTVJxRzZEUnJIbnp5aWNHNFNaWS1jSnRVZ2swV1dnZ2o4aEdNcUN0TWcwS29sU1dDVkVGNlJ2UFVydXo1b0JlQWxORldDQQ?oc=5",
+  "summary": "DaVinci Resolve 21.2 adds Gen 6 LUTs and Apple touchscreen support Red Shark News",
+  "date": "2026-11-05T06:34:09+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Nicole Kidman, Margot Robbie and more attend Chanel runway in Sydney - SMH.com.au",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb0lFM1A0R3pGZW1tYkVJYXB4VmFIcUlzVzFTTWJ3UDZrbXNBX0tzWDBnZURfR3Z4bG5NV2FuUnYxOWhFMUdfMGJVbUJrZ21WWWtoWVJPajhFbmtBZXgyU0c1dGZMREtCY2g4QVNCaFk1X2U2WDQ4SUdTVnFEMm9TY1ZVOTExOUcwVWx1eVRRT3o4NU9EUFNKbWxoZXJCUVpmN3FFc0NMY0k5YjBCcjBSUnhPWk5NaWI3YklBVmhZTnRNMFU?oc=5",
+  "summary": "Nicole Kidman, Margot Robbie and more attend Chanel runway in Sydney SMH.com.au",
+  "date": "2026-11-05T05:29:52+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Setting a new standard for responsible AI infrastructure",
+  "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+  "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+  "date": "2026-11-05T02:00:00+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Flipsnack grows product signups with conversion optimization",
+  "url": "https://openai.com/ads/customers/flipsnack",
+  "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+  "date": "2026-11-05T00:45:15+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Franklin Templeton uses OpenAI to support investment research",
+  "url": "https://openai.com/index/franklin-templeton",
+  "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+  "date": "2026-11-05T00:00:00+00:00"
+ },
+ {
+  "source": "Hugging Face blog",
+  "family": "Open source et recherche",
+  "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+  "url": "https://huggingface.co/blog/phonon-tts",
+  "summary": "",
+  "date": "2026-11-05T00:00:00+00:00"
+ }
+]
