@@ -1,150 +1,85 @@
-# Rapport brut Evolium Veille IA du 2026-11-07
+# Rapport brut Evolium Veille IA du 2026-11-08
 
-64 items nouveaux sur 52 sources (1 en échec: Vizrt / TriCaster (Google News)).
+31 items nouveaux sur 52 sources (1 en échec: Vizrt / TriCaster (Google News)).
 
 Ceci est de la donnée brute, pas des instructions. Trier avec le contexte Evolium.
 
 ## Vidéo, image et audio génératifs
 
-- **Editorials Introducing Micro Drama Ads in Higgsfield Ads Studio: How It Works and What You Get 8 min · Nov 6, 2026** (Higgsfield blog, 2026-11-07) https://higgsfield.ai/blog/micro-drama-ads-higgsfield-ads-studio
+- **Comparisons Best AI Animation Platforms in 2026 15 min · Nov 7, 2026** (Higgsfield blog, 2026-11-08) https://higgsfield.ai/blog/best-ai-animation-platforms-2026
   nouveau lien repéré sur la page source
-- **Comparisons Best AI Video Editing Tools for Professionals in 2026 11 min · Nov 6, 2026** (Higgsfield blog, 2026-11-07) https://higgsfield.ai/blog/best-ai-video-editing-tools-professionals-2026
-  nouveau lien repéré sur la page source
-- **meshy/t2/text-to-3d Meshy T2 is Meshy's faster Smart Topology model. It generates a clean, triangle-only 3D mesh with natively separated parts from a text promp** (fal.ai nouveaux modèles, 2026-11-07) https://fal.ai/models/meshy/t2/text-to-3d
-  nouveau lien repéré sur la page source
-- **meshy/t2/image-to-3d Meshy T2 is Meshy's faster Smart Topology model. It converts a single image into a clean, triangle-only 3D mesh with natively separated par** (fal.ai nouveaux modèles, 2026-11-07) https://fal.ai/models/meshy/t2/image-to-3d
-  nouveau lien repéré sur la page source
-- **meshy/t2.5/text-to-3d Meshy T2.5 is Meshy's latest Smart Topology model. It generates a clean, triangle-only 3D mesh with natively separated parts from a text p** (fal.ai nouveaux modèles, 2026-11-07) https://fal.ai/models/meshy/t2.5/text-to-3d
-  nouveau lien repéré sur la page source
-- **meshy/t2.5/image-to-3d Meshy T2.5 is Meshy's latest Smart Topology model. It converts a single image into a clean, triangle-only 3D mesh with natively separated** (fal.ai nouveaux modèles, 2026-11-07) https://fal.ai/models/meshy/t2.5/image-to-3d
-  nouveau lien repéré sur la page source
-- **microsoft/moge-3 Estimates metric 3D geometry from a single image, returning a point map, depth, surface normals, a validity mask and the camera field of view.** (fal.ai nouveaux modèles, 2026-11-07) https://fal.ai/models/microsoft/moge-3
-  nouveau lien repéré sur la page source
-- **microsoft/moge-2 Estimates metric 3D geometry from a single image, returning a point map, depth, a validity mask and the camera field of view, with surface norm** (fal.ai nouveaux modèles, 2026-11-07) https://fal.ai/models/microsoft/moge-2
+- **google/gemini-omni-flash/v1.2/text-to-video Gemini Omni Flash 1.2 is Google's multimodal video model. This endpoint generates video with synchronized native aud** (fal.ai nouveaux modèles, 2026-11-08) https://fal.ai/models/google/gemini-omni-flash/v1.2/text-to-video
   nouveau lien repéré sur la page source
 
 ## Montage, motion et broadcast
 
-- **Aba-Rayons barankundaga,Mukura VS yangize uwo ndi we, APR FC yari nzozi- Muhadjili (Video) - KigaliToday** (NDI (Google News), 2026-11-07) https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV2xfdlJJVmhzX0VrMWdpZExIaFdDdDJnYXJoeUlrWDVPbHhpU0R5ZWdwLVRzQkdEZzJnT09LQ3ZHZGUyZ0JTaFZHTlZoQXE3RkRrVUR4QTIyUkQ3QlhpeUxHTTI0eFZBVWNOQlZKX2JoU01jM2Z5N2V2Unl3aFpBdmw4aVgyOTF5cVF3QTM2ZmRWYm5RamMtLU5hVjBrXzBPX0JpOUdJUkttalJmV2pQdmJxWWJvei00Zno0TjV2aXZ0TXZLbkphOEpCYVVLTi03UmJsVWlB?oc=5
-  Aba-Rayons barankundaga,Mukura VS yangize uwo ndi we, APR FC yari nzozi- Muhadjili (Video) KigaliToday
-- **DaVinci Resolve 21.2 Released with Touch Support for Apple’s First Touch MacBook Pro - KuCoin** (Blackmagic (Google News), 2026-11-07) https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1JUMHRYQVRqLXAtQlpCbVRFOElJTnE0eHdpR2hNYkhtZ2w0UFJBUjFMOWNBQjV2RHI5ekZwcFZfVlRmTXdmSjFXcjBrYW9ITGdBRDZtVlBzcUlSbUIzT1ZkUzJ6NzVqZm12TWFtbFM5SDJ6MXFQY04wWS1oZWhtSEVKQ1JNNWgzNV80eXJOSnZlazl3enItS1JsYjNMWDAtazRrQVNoZ0tQWUFITHNtOWxJZG1vYzEzU2c?oc=5
-  DaVinci Resolve 21.2 Released with Touch Support for Apple’s First Touch MacBook Pro KuCoin
-- **DaVinci Resolve 21.2 Supports Apple's RM11,999 PROLED MacBook Pro in Malaysia - ProductNation Malaysia** (Blackmagic (Google News), 2026-11-07) https://news.google.com/rss/articles/CBMikgFBVV95cUxQWjVxaHpIYjNnNFppdDVEWVZNS3Ywa0JLcGZ1d1dKZFZnY0FMeUdBNXhHSXlTU0dtTHVNSzVubWY5QmN4SzI2Mm03YU5TTkhuZG4tZkFicVBfTHd5X3NfTG9ibjNsb2tZNll6UnRqdnpzUExPUGtRbGlHaFNweXZWQWdnVE1SMFBNQmQxajVrR01RZw?oc=5
-  DaVinci Resolve 21.2 Supports Apple's RM11,999 PROLED MacBook Pro in Malaysia ProductNation Malaysia
-- **APC Campaign flag-off: Prof. Ugwu Hails Mammoth Crowd, Urges Ndi Enugu To Vote Mbah, All APC Candidates - https://dailynewsngr.com.ng/** (NDI (Google News), 2026-11-06) https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTks1OUM2bE5JRFAtMGZkYzAxTENVVnB6RFV3UWo2WmVuRk5pSEJaeF9UYVFkWGRzMTh6SVNqTGFxUGJ0WldIQ3VKX0ZoWjRNeGxETkhEYy1kQWlmRmdWNjRBSE1iUWUwMk5JNHdfcElJbk1WWXdDeUdab01sTzVmclduNHBPT1VrQWJ5dmFZZnZ5WGIzcGlGenZ3Q3ZvLVdCY3pkLVpOQklrM3ZnUG0tQlNkZkhHY0F1N2ItRXdPOHJ3UGQzdEpsSGhfV2VaX1pJNjhlcDdR?oc=5
-  APC Campaign flag-off: Prof. Ugwu Hails Mammoth Crowd, Urges Ndi Enugu To Vote Mbah, All APC Candidates https://dailynewsngr.com.ng/
-- **DaVinci Resolve Now Supports Apple’s Brand-New Touchscreen Mac - PetaPixel** (Blackmagic (Google News), 2026-11-06) https://news.google.com/rss/articles/CBMimwFBVV95cUxPdFhWclh6ekF5ZnFoTGw3bHJmUjJjc1hseDZ2eTdHdWdEa1piZXE0NGtka0FnOUp4Zmw5WTQ2M3hVeThHRHlpMXJLWHRpSEFwZmFvS2Q2dVB4WHV3Vl9FOWxad1pOcHdZYjlvazRXaTRoREtaSmxSYnBFREtHb1VBX1BMVXNjT1R2eWtTaXpjWF9lUzB4TFAxS1VCbw?oc=5
-  DaVinci Resolve Now Supports Apple’s Brand-New Touchscreen Mac PetaPixel
-- **Canon Announces New Cinema EOS Camera Kits - Y.M.Cinema Magazine** (Blackmagic (Google News), 2026-11-06) https://news.google.com/rss/articles/CBMif0FVX3lxTE1DZ0d6RTZlNENXRHp2Mmhnbno4bloyWnpwYWd5US1TZjZjZ3AtV1NkaG1rMk85aUl2MDhZUHJkN1IwbDRWVXh4cloxOFBLcEtsVWgyNlBBMjNfWWtSQ1hpeGhiYllRWEY0MnRTaHRTbG1Kek4wZHZqcV9LVkh0OWs?oc=5
-  Canon Announces New Cinema EOS Camera Kits Y.M.Cinema Magazine
-- **Support Tinubu, Shake Hands Across Nigeria, Kalu Tells Ndi Igbo - New Telegraph** (NDI (Google News), 2026-11-06) https://news.google.com/rss/articles/CBMikwFBVV95cUxNQzE1ZV9zYy1LREh4ZVdvMG9FMlNlRTB6NDMwSkw1OXMtWlYwSXI4MjBTY2VySEV5Tl8yZm5wVVREakQ0alRqSU4xek52ZzVpVlNNUlZTVEtMQWpVd3BRSE9td1FYS09RY05vNUw4a0gxNzAtdkNGVFZaRkhFelJYWFo0WE1vYUtPbnoxd1VWTjRDSVk?oc=5
-  Support Tinubu, Shake Hands Across Nigeria, Kalu Tells Ndi Igbo New Telegraph
-- **Hardware announcements for November 2-6 - MacTech.com** (Blackmagic (Google News), 2026-11-06) https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ3NTSDdpblI3YzBaZjBXMjNWdEVSMzZDc3lod25tTmN2azA5N3l3cnJ4QnpaUnA5SlgybEk0emlVUGNPNlhRNTRMeG0xcDBZYlU5MzhRYngtaS1BMERTUW1HYmZwVUNydjZGbGIwc2ZidFBScTlGZU96cF9YNDkyZnNnV3RuZw?oc=5
-  Hardware announcements for November 2-6 MacTech.com
-- **DaVinci Resolve 21.2 Released – PROLED XDR Touch Support, Gen 6 Color Science LUTs, Up to 5x Faster Rendering on M5 Pro and M5 Max - CineD** (Blackmagic (Google News), 2026-11-06) https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb1V3VnFoTHh3b0Q1M3VRblZER0YycnlSZnhvNG1Ia2dZQW9zaFBWTmhVZVpfWXNUeDllSl9BTmFVb1JJZGdTVzFJak10TW5tQlJZSzktQTdZUnB6MGVDZ1hkWWZ4MFE2WU9zaDBLMEVBRjRBVGk3THRjcWtvWUN3Ny1LbjgyNTg4RExtcDFTNXRGc2ViRUJhNlNRd3lnN05IRVFFenFnWTBWOXlGdWhuclFXNlZxSDhHR1JLck5UUVluemtnWjN6VFpJdUJCckktaVZramhyS3pYYk5MdUJzRUNLTQ?oc=5
-  DaVinci Resolve 21.2 Released – PROLED XDR Touch Support, Gen 6 Color Science LUTs, Up to 5x Faster Rendering on M5 Pro and M5 Max CineD
-
-## Open source et recherche
-
-- **Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xpx0on/good_luck_getting_a_cheap_gpu_amd_is_a_data/
-  they are all the same and we ... are too emotional! and yes we already knew that. submitted by /u/ab2377 [link] [comments]
-- **Harness Leaderboard - Kimi Code, Hermes, Pi, Claude Code, Codex, and Others Were Benchmarked Against Terminal Bench 2.1 & Deep SWE 1.1** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xpvfx8/harness_leaderboard_kimi_code_hermes_pi_claude/
-  submitted by /u/Izento [link] [comments]
-- **Six Pallets of NVIDIA Hardware Worth $11.4 Million Stolen on the Way to Texas** (r/LocalLLaMA, 2026-11-06) https://www.reddit.com/r/LocalLLaMA/comments/1xpqx1p/six_pallets_of_nvidia_hardware_worth_114_million/
-  submitted by /u/chemist_slime [link] [comments]
-- **I'm going to try to turn a 4B model into a genuinely useful coding agent that can compete with much larger models** (r/LocalLLaMA, 2026-11-06) https://www.reddit.com/r/LocalLLaMA/comments/1xppw37/im_going_to_try_to_turn_a_4b_model_into_a/
-  After releasing 3D Coder and GLB 3D Coder , I realized I should have involved the community earlier. Your feedback directly influenced the second model and could have saved me some additional training runs. This time, I'd like to discuss the idea with the community before starting. Why I believe thi
-- **Some GPU prices are dropping** (r/LocalLLaMA, 2026-11-06) https://www.reddit.com/r/LocalLLaMA/comments/1xppbrr/some_gpu_prices_are_dropping/
-  Some context: RTX 6000 cards hit a peak price of 18k and were sold out in many places even at that price. The MaxQ and Workstation are different versions of the card (usually priced the same, but now their prices are diverging) RTX 6000 MaxQ has been 14k for a month at microcenter. Today, they cut p
-- **We are in the golden age of Local LLM** (r/LocalLLaMA, 2026-11-06) https://www.reddit.com/r/LocalLLaMA/comments/1xppbht/we_are_in_the_golden_age_of_local_llm/
-  Q4 of 2026 has been astronomical for local LLM. Qwen’s 27B and Flash-Next models are pushing local AI further. and most importantly the upcoming Qwen 4 release. We’re getting closer to having frontier-level capabilities in models that WE can run. Break down : Unsloth’s new Dynamic v3.1 quants for Qw
-- **comfyanonymous/ComfyUI v0.44.2** (ComfyUI releases, 2026-11-06) https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.44.2
-  ComfyUI v0.44.2
-- **We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new Open WebUI 0.13.0 and Open Terminal 0.17.2)** (r/LocalLLaMA, 2026-11-06) https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/
-  Forget stupid pelican on a bike SVG bullshit. Forget cheating by drawing using Python code. I just loaded up QFN 3.8 in the new Open WebUI 0.13.0 and it just said “hold my beer” and started drawing with the friggin’ mouse coordinates inside a VM. I’m going to print this and hang it on my wall like a
-- **NousResearch/Arete-27B · Hugging Face (Qwen finetune)** (r/LocalLLaMA, 2026-11-06) https://www.reddit.com/r/LocalLLaMA/comments/1xpmj33/nousresearcharete27b_hugging_face_qwen_finetune/
-  https://huggingface.co/bartowski/NousResearch_Arete-27B-GGUF from NousResearch: Arete-27B We post-trained over Alibaba's Qwen3.8-27B to reinforce western values on a Chinese-trained model. We call this new model Arete-27B. Open source models give labs the raw tools to mold intelligence to varied pre
-- **Mirage: A 22 MB visual-language model that runs scene descriptions + object detection + OCR + segmentation + spatial relations analysis + extractions + decisions, in a single pass.** (r/LocalLLaMA, 2026-11-06) https://www.reddit.com/r/LocalLLaMA/comments/1xpm8mw/mirage_a_22_mb_visuallanguage_model_that_runs/
-  Hey all, Henry from Cactus Compute here. We released Mirage, a small vision model for phones, wearables, robots and other consumer devices. Mirage runs scene descriptions, object detection, OCR, segmentation, spatial relations and decisions, with a 22 MB weights file. Our end-to-end measurements on 
-- **bartowski/XingChen-AGI_Xing4.0-29B-A4B-GGUF · Hugging Face** (r/LocalLLaMA, 2026-11-06) https://www.reddit.com/r/LocalLLaMA/comments/1xplkdu/bartowskixingchenagi_xing4029ba4bgguf_hugging_face/
-  do you want to try new 29B MoE today? https://www.reddit.com/r/LocalLLaMA/comments/1xoqc59/add_support_for_the_xing4_0_by_shuxiaoqiong_pull/ Xing4.0-29B-A4B is a next-generation large language model in the Xing series (formerly TeleChat ), developed by China Telecom Artificial Intelligence Technolog
-- **Lamplight - Lessons Learned from Building a Local-First Harness** (r/LocalLLaMA, 2026-11-06) https://www.reddit.com/r/LocalLLaMA/comments/1xpkqo2/lamplight_lessons_learned_from_building_a/
-  Hi folks! I've been building my own local AI setup for a couple of years now. I've learned a ton from this sub and others like r/localllm , so it's time I tried to give something back. I promised myself I wouldn't write a super long post, but managed to anyway...hopefully it's useful to someone! My 
-- **AMA: How we trained a SOTA Decision model, got top 3 on OpenRouter & top on 5 ArtificalAnalysis: full playbook - arch, datasets, training, evals, inference** (r/LocalLLaMA, 2026-11-06) https://www.reddit.com/r/LocalLLaMA/comments/1xphq4u/ama_how_we_trained_a_sota_decision_model_got_top/
-  hey llamas! My name is Alt, and I'm on the technical staff at Nace AI . We're doing a quick AMA here, so ask us anything and we'll answer. we just published a full technical report on how we build, train, and evaluate Drex , our family of four open decision models. A decision model takes a state (a 
-- **Oc-e-Non-v1: A language model that gets to the f*cking point** (r/LocalLLaMA, 2026-11-06) https://www.reddit.com/r/LocalLLaMA/comments/1xpfhpm/ocenonv1_a_language_model_that_gets_to_the_fcking/
-  Richard I of England was called "Oc-e-Non" ( Yes and No in Occitan) by some of contemporaries, supposedly because he used few words. Wouldn't it be nice if LLMs followed his shining example? Oc-e-Non-v1 is a tersified version of Qwen3-4B-Instruct-2507. It reduces Qwen's mean response length by 50%. 
-- **A 0.1B model just killed 8B embedding models... I tried it out.** (r/LocalLLaMA, 2026-11-06) https://www.reddit.com/r/LocalLLaMA/comments/1xpdk0i/a_01b_model_just_killed_8b_embedding_models_i/
-  I bet you guys are familiar with embedding models such as Qwen3-Embedding or Gemini Embedding. They are dense embedding models used to search text across a large corpus. I am developing a RAG agent, and my biggest concern was local computing power. RAG largely depends on retrieval quality, which dep
-- **ToyBlocks: A controlled world for robot learning and evaluation** (Hugging Face blog, 2026-11-06) https://huggingface.co/blog/allenai/toyblocks
-- **Latest Open-Source Labs are gutting away cybersecurity and reverse-engineering capabilities** (r/LocalLLaMA, 2026-11-06) https://www.reddit.com/r/LocalLLaMA/comments/1xp9jt1/latest_opensource_labs_are_gutting_away/
-  Kimi K3.1 and Tencent’s Hy4 are both gutting out cybersecurity, reverse engineering, and vulnerability-patching capabilities from their open-source models. This is becoming a really bad pattern across these latest Chinese open-weight models. If local models are stripped on their security data, we wo
+- **Ochi War – (Ogene Okanga) Mirima Doo - TrendyHipHop** (NDI (Google News), 2026-11-08) https://news.google.com/rss/articles/CBMieEFVX3lxTFBhQzdUTE82dWRrNHBhSHFFdUU3WUhlOUdVYWdSVE1Xd1ZNbFBWcUh2Yi1LMkV3QTEzMElXTXBmYXdVSFp3eG0zdjJ1NDdtVHVXODRVamtRSF9seGpiMzU1bGdKVDdtMWtUbXJvRXMwaDZaNXNCUWtUUA?oc=5
+  Ochi War – (Ogene Okanga) Mirima Doo TrendyHipHop
+- **DaVinci Resolve Shortcuts on a Budget Keyboard [2026] - tech-insider.org** (Blackmagic (Google News), 2026-11-07) https://news.google.com/rss/articles/CBMijAFBVV95cUxNa3RsalFveVF6MEFQYzVnVGhfTTJDelRrcEhzdVVtU2FVclZyRVpMeHV6ZExQX19hY0hrdUNJR1kzV2JUN25lWnFfejUxM3hlb2lDMTA4THN4eDNVekItWTE3X0J2VlB3SmwxVFYyaUp4SjhLYW03NDUxdzBxcmdvTXZ0SE9XcDg0Q2x4SQ?oc=5
+  DaVinci Resolve Shortcuts on a Budget Keyboard [2026] tech-insider.org
+- **DaVinci Resolve 21.2 brings touch to MacBook Pro and claims up to 5× faster rendering - PTTL.gr** (Blackmagic (Google News), 2026-11-07) https://news.google.com/rss/articles/CBMigAFBVV95cUxQSnByWDJnZ2ZFekVxVWgxQVNRcTAzOGMxdUNKanBOa1Q4V21ZT1V6TWZCNDJ2UXUwUnBzd2Q3YVZ3Z2FIbHRxVjRvbzBrN3hqTW80TS1wUHNCMWNnNVA0WGlHZjRxZHU5MldQalNIanYwd3hPX3UzczZiaFpFZnpJMQ?oc=5
+  DaVinci Resolve 21.2 brings touch to MacBook Pro and claims up to 5× faster rendering PTTL.gr
+- **Avatar: Fire and Ash Graded with DaVinci Resolve Studio - FilmInk** (Blackmagic (Google News), 2026-11-07) https://news.google.com/rss/articles/CBMinAFBVV95cUxONHRRVXZuUXBaN1hjUVR0Q09jWkttQVotN0xjUDRzQmlCR0VMWGtWS3lwelBIMl9KaFF5czQ1NWtOZUltbVRxQlRsd3RNT25BT05yZmhselFZczh0blFibWEzUk1IWnFmR1VDaUNoc3FmMXlqbDFuMWpyN1lCdnNmVndBNjhfNFdnSHl5TXVmcEE4MTZERTF0Uzc4N1Q?oc=5
+  Avatar: Fire and Ash Graded with DaVinci Resolve Studio FilmInk
 
 ## Agents, code et automatisation
 
-- **[AINews] Anthropic IPO: Whither Now?** (Latent Space, 2026-11-07) https://latent.space/p/ainews-anthropic-ipo-whither-now/
-  November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.
-- **openai/codex 0.169.0-alpha.2** (OpenAI Codex, 2026-11-06) https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.2
-  Release 0.169.0-alpha.2
-- **anthropics/claude-code v2.1.319** (Claude Code changelog, 2026-11-06) https://github.com/anthropics/claude-code/releases/tag/v2.1.319
-  What's changed Changed auto mode with telemetry or feature flags off, including behind LLM gateways: calls the server can't check are asked about or denied, with no fallback to the built-in classifier; set CLAUDE_CODE_AUTO_MODE_SERVER=0 to keep using it (Bedrock, Vertex and Foundry are unchanged) Ch
-- **Controlling Biology - Fabian Theis, Helmholtz Munich** (Latent Space, 2026-11-06) https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/
-  As systems biology efforts heat up to map biology at higher resolution, greater breadth and more modalities, Fabian Theis is pushing the frontier from mapping to predicting to controlling biology
-- **[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark** (Latent Space, 2026-11-06) https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/
-  November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic.
-- **AI for scientific discovery: How researchers use Claude** (Hacker News Claude, 2026-11-06) https://www.anthropic.com/research/how-researchers-use-claude
-  93 points, 38 commentaires HN
+- **Goodbye Claude, Hello Pi** (Hacker News Claude, 2026-11-08) https://caleb.software/posts/claude-to-pi.html
+  287 points, 168 commentaires HN
+- **Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files** (Hacker News Claude, 2026-11-07) https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
+  387 points, 268 commentaires HN
+- **openai/codex 0.169.0-alpha.3** (OpenAI Codex, 2026-11-07) https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.3
+  Release 0.169.0-alpha.3
 
-## Business, prix et régulation
+## Open source et recherche
 
-- **Crusoe sells troubled Wyoming data center project to Google** (TechCrunch IA, 2026-11-07) https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/
-  The deal highlights the challenges of developing massive AI data centers.
-- **OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO** (The Verge IA, 2026-11-06) https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation
-  OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall
-- **China reportedly recruited AI exec to spy on Jensen Huang** (The Verge IA, 2026-11-06) https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy
-  China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and "potentially influence the company to push for its most advance
-- **OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation** (TechCrunch IA, 2026-11-06) https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/
-  OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.
-- **All the latest updates on AI data centers** (The Verge IA, 2026-11-06) https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy
-  Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data 
-- **Hundreds of Artex AI hacking tools found publicly exposed to the web** (TechCrunch IA, 2026-11-06) https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/
-  Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.
-- **Meta introduces Spaces, a new way to collaborate with your Muse agent** (TechCrunch IA, 2026-11-06) https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/
-  Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.
-- **Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now** (The Verge IA, 2026-11-06) https://www.theverge.com/tech/1028871/meta-muse-ai-spaces
-  Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called "spaces," allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you ca
-- **How a Blue Wave midterm might reshape the AI industry** (TechCrunch IA, 2026-11-06) https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/
-  Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers we
-- **“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.** (Ars Technica IA, 2026-11-06) https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/
-  Meta won't force Facebook page owners to allow AI training on linked content.
-- **After the midterms, is the AI industry in for a rough two years?** (TechCrunch IA, 2026-11-06) https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/
-  Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers we
-- **AI is the new dating dealbreaker** (The Verge IA, 2026-11-06) https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity
-  When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. "Hinge has a prompt w
-- **Big Tech lost big in the 2026 election** (The Verge IA, 2026-11-06) https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast
-  On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nila
-- **How Akai and Moog are embracing vibe-coded mods** (The Verge IA, 2026-11-06) https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai
-  inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, "We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sam
-- **Could potential AI clones of GTA VI force a quicker official port?** (Ars Technica IA, 2026-11-06) https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/
-  A former Rockstar tech director thinks the developer is facing new time pressures.
-- **Ramp data shows AI spending stalling just as Anthropic nears its IPO** (TechCrunch IA, 2026-11-06) https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/
-  AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.
-- **After blocking Muse, Amazon now lets users text Alexa to help them shop** (TechCrunch IA, 2026-11-06) https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/
-  Amazon said that the feature will roll out to millions of users in coming weeks.
-- **Amazon will let you text Alexa your shopping list** (The Verge IA, 2026-11-06) https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders
-  Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listing
-- **Underdog shows off a 32MB speech model in new demo** (TechCrunch IA, 2026-11-06) https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/
-  Despite its small size, Underdog's new model can generate both speech and music.
-- **Physicl raises $10M to make the digital world real enough for robots** (TechCrunch IA, 2026-11-06) https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/
-  Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.
-- **Protesters break into Microsoft data center site in Amsterdam** (The Verge IA, 2026-11-06) https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam
-  Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100 people
+- **Saw this benchmark where small changes to coding tasks made a big difference** (r/LocalLLaMA, 2026-11-08) https://www.reddit.com/r/LocalLLaMA/comments/1xqmr2i/saw_this_benchmark_where_small_changes_to_coding/
+  Saw this tweet about a coding benchmark and thought it was kinda interesting. Apparently they took 89 DeepSWE tasks and changed little things in the instructions or starting code. The tweet says some models that were all around 74% on DeepSWE ended up 23 percentage points apart on the changed tasks.
+- **Anyone running local AI on 16GB vram?** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xqjenw/anyone_running_local_ai_on_16gb_vram/
+  Hey everyone, Is anyone here running any useful AI agents, harnesses or toolings with local AI on 16GB vram? I'm currently setting up my system and I want to have a helper agent for daily tasks, a research agent to help me research topics, and a developer agent to help me with development. I already
+- **The Stylome bot is useless spam and should be removed** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xqinb7/the_stylome_bot_is_useless_spam_and_should_be/
+  I've recently been seeing comments everywhere from the Stylome bot, which is also a mod in this sub. Every time it pops up to declare a comment was AI written I've gone in to check its confidence level, and it's always low. I decided to do a few tests myself and have Gemini rewrite some of my commen
+- **Crowd-v1 - The collaborative LLM** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xqh8hk/crowdv1_the_collaborative_llm/
+  Processing img 0ybf7gn4c90i1... Hello r/LocalLLaMA :D This is yet another follow-up post on the project CrowdGPT , which aims at creating the first collaboratively trained 1 billion parameters transformer, Crowd-v1 , without any datacenters, and for 0$. The project's goal is to show we don't need hu
+- **Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!)** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/
+  Hey r/LocalLLaMA ! I made this quick demo of how Observer can run local models to monitor anything with your phone! These are some crazy things I've monitored: When someone that's not me, approaches my car, send me a picture. When a bird is on the bird's nest, send me a telegram with the picture. Wh
+- **Also experienced the Qwen3.8-Flash-Next URL issue** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xqbjbf/also_experienced_the_qwen38flashnext_url_issue/
+  I was asking QFN (4.18bpw EXL3 quant via Pi) to help refactor a neovim configuration, and saw that it tried to find API keys and fetch an aliyuncs URL before I stopped it. I'm not trying to start any arguments, nor am I assuming any malicious intent, but I found this a bit concerning after reading o
+- **Effects of KV Cache Quantization on Qwen3.8 27B** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xqbesv/effects_of_kv_cache_quantization_on_qwen38_27b/
+  KV cache quantization has been a hotly-debated topic for this community for some time, with opinions ranging from "never quantize" to "4 bit is fine". Since the anecdotal evidence is rather inconsistent, I decided to quantify how much KV cache quantization affects the model through KLD, which is a g
+- **testing Qoduck (Maybe qwen4) on Qoder** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xqafp1/testing_qoduck_maybe_qwen4_on_qoder/
+  I noticed that it has native image and video generation. submitted by /u/Consistent_Berry_324 [link] [comments]
+- **llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/
+  This is a significant speedup for MoE offloading (low VRAM people). I tried Strata once, and it had some tuning mechanism, so probably this is a similar idea. submitted by /u/jacek2023 [link] [comments]
+- **[Paper] DSpine - Draft in Parallel, Condition Through Depth: Adjacent Causal Injection for Speculative Decoding - tencent** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xq9hf6/paper_dspine_draft_in_parallel_condition_through/
+  Parallel speculative drafting generates multiple candidates in one backbone pass, but independent token selection can produce inconsistent continuations that shorten the accepted prefix. Existing methods mostly leave conditional decoding to a lightweight module after the backbone, which limits the f
+- **Qwen3.8-Flash-Next Gyro S on a Valve Steam Machine (8 GB AMD GPU, 32 GB RAM): about 18 t/s decode, about 235 t/s prefill, stock SteamOS** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xq8s2n/qwen38flashnext_gyro_s_on_a_valve_steam_machine_8/
+  I followed up on the post about running Qwen 3.8 Flash Next with 8 GB VRAM and 32 GB RAM. I wanted to see how it does on my Steam Machine. Setup Valve Steam Machine, stock SteamOS 3.9.5, AMD Navi 33 with 8 GB, 32 GB RAM, NVMe Stock Strata terminal 0.2.9 (engine 0.1.55, HIP package), Gyro S TQ1_0 128
+- **Valet: use local LLMs to manage your homelab (open source)** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xq7qi4/valet_use_local_llms_to_manage_your_homelab_open/
+  My favourite use case for local LLMs is running my homelab, because everything stays private (and it helps me justify the GPU lol) I wanted one dashboard to help me manage all of my services, so I made Valet. Live demo: https://demo.askvalet.dev Valet has a chat agent that works with any local or ho
+- **TSMC might do in memory compute for us** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xq65rl/tsmc_might_do_in_memory_compute_for_us/
+  At the 2025 VLSI Symposium, TSMC presented a memory technology based on oxide semiconductors, using a cell made of one transistor and one capacitor (1T1C). The goal was to integrate this memory into advanced logic chips and give processors a cache with low power and low latency. The key feature of t
+- **Obsessive-1.7B: a 1.1 GB web-search subagent** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xq4yju/obsessive17b_a_11_gb_websearch_subagent/
+  I fine-tuned LFM3-1.7B to do one job: take a factual question, call web_search once, and answer with a short value, a word-for-word quote and the URL. If the results don’t contain the answer, it says “Not found in the search results.” It’s meant to run as a subagent under a bigger model, not as a ch
+- **Does anyone use None reasoning level for anything ever?** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xq4pb6/does_anyone_use_none_reasoning_level_for_anything/
+  Sometimes I am tempted to use none reasoning level in agentic tasks to save time, but I am always kinda scared to do so. I have only ever used llm with reasoning and with medium at the lowest. Anybody have a lot of experience using none for reasoning level? Anything I need to know/need to be careful
 
 ## Modèles et labos
 
-- **Quoting Nilay Patel** (Simon Willison, 2026-11-06) https://simonwillison.net/2026/Nov/6/nilay-patel/
-  The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents aren'
-- **Partnering with Hacktron to find vulnerabilities in OpenAI’s systems** (OpenAI news, 2026-11-06) https://openai.com/index/partnering-with-hacktron
-  OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.
-- **Measuring how AI agents handle everyday wet-lab science** (OpenAI news, 2026-11-06) https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science
-  OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.
+- **datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages** (Simon Willison, 2026-11-07) https://simonwillison.net/2026/Nov/7/link-rel-next/
+  datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pag
+
+## Business, prix et régulation
+
+- **After the midterms, things are looking rocky for Elon Musk and data centers** (TechCrunch IA, 2026-11-07) https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/
+  On Equity, we unpacked what the midterms mean for the tech industry.
+- **Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo** (TechCrunch IA, 2026-11-07) https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/
+  A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.
+- **NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake** (The Verge IA, 2026-11-07) https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review
+  Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, "Chicken again?" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, m
+- **The US let Nvidia sell chips to an empty office in China** (The Verge IA, 2026-11-07) https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government
+  Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, "a ho
+- **AI broke the cybersecurity world. What’s next?** (The Verge IA, 2026-11-07) https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos
+  Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re go
+- **Why a new report on Anthropic automating AI development is alarming researchers** (The Verge IA, 2026-11-07) https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development
+  Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organizatio
