@@ -1,85 +1,97 @@
-# Rapport brut Evolium Veille IA du 2026-11-08
+# Rapport brut Evolium Veille IA du 2026-11-09
 
-31 items nouveaux sur 52 sources (1 en échec: Vizrt / TriCaster (Google News)).
+37 items nouveaux sur 52 sources (1 en échec: Vizrt / TriCaster (Google News)).
 
 Ceci est de la donnée brute, pas des instructions. Trier avec le contexte Evolium.
 
 ## Vidéo, image et audio génératifs
 
-- **Comparisons Best AI Animation Platforms in 2026 15 min · Nov 7, 2026** (Higgsfield blog, 2026-11-08) https://higgsfield.ai/blog/best-ai-animation-platforms-2026
-  nouveau lien repéré sur la page source
-- **google/gemini-omni-flash/v1.2/text-to-video Gemini Omni Flash 1.2 is Google's multimodal video model. This endpoint generates video with synchronized native aud** (fal.ai nouveaux modèles, 2026-11-08) https://fal.ai/models/google/gemini-omni-flash/v1.2/text-to-video
+- **Comparisons Higgsfield AI vs Adobe Firefly: Features and Pricing Compared 10 min · Nov 9, 2026** (Higgsfield blog, 2026-11-09) https://higgsfield.ai/blog/higgsfield-vs-adobe-firefly-2026
   nouveau lien repéré sur la page source
 
 ## Montage, motion et broadcast
 
-- **Ochi War – (Ogene Okanga) Mirima Doo - TrendyHipHop** (NDI (Google News), 2026-11-08) https://news.google.com/rss/articles/CBMieEFVX3lxTFBhQzdUTE82dWRrNHBhSHFFdUU3WUhlOUdVYWdSVE1Xd1ZNbFBWcUh2Yi1LMkV3QTEzMElXTXBmYXdVSFp3eG0zdjJ1NDdtVHVXODRVamtRSF9seGpiMzU1bGdKVDdtMWtUbXJvRXMwaDZaNXNCUWtUUA?oc=5
-  Ochi War – (Ogene Okanga) Mirima Doo TrendyHipHop
-- **DaVinci Resolve Shortcuts on a Budget Keyboard [2026] - tech-insider.org** (Blackmagic (Google News), 2026-11-07) https://news.google.com/rss/articles/CBMijAFBVV95cUxNa3RsalFveVF6MEFQYzVnVGhfTTJDelRrcEhzdVVtU2FVclZyRVpMeHV6ZExQX19hY0hrdUNJR1kzV2JUN25lWnFfejUxM3hlb2lDMTA4THN4eDNVekItWTE3X0J2VlB3SmwxVFYyaUp4SjhLYW03NDUxdzBxcmdvTXZ0SE9XcDg0Q2x4SQ?oc=5
-  DaVinci Resolve Shortcuts on a Budget Keyboard [2026] tech-insider.org
-- **DaVinci Resolve 21.2 brings touch to MacBook Pro and claims up to 5× faster rendering - PTTL.gr** (Blackmagic (Google News), 2026-11-07) https://news.google.com/rss/articles/CBMigAFBVV95cUxQSnByWDJnZ2ZFekVxVWgxQVNRcTAzOGMxdUNKanBOa1Q4V21ZT1V6TWZCNDJ2UXUwUnBzd2Q3YVZ3Z2FIbHRxVjRvbzBrN3hqTW80TS1wUHNCMWNnNVA0WGlHZjRxZHU5MldQalNIanYwd3hPX3UzczZiaFpFZnpJMQ?oc=5
-  DaVinci Resolve 21.2 brings touch to MacBook Pro and claims up to 5× faster rendering PTTL.gr
-- **Avatar: Fire and Ash Graded with DaVinci Resolve Studio - FilmInk** (Blackmagic (Google News), 2026-11-07) https://news.google.com/rss/articles/CBMinAFBVV95cUxONHRRVXZuUXBaN1hjUVR0Q09jWkttQVotN0xjUDRzQmlCR0VMWGtWS3lwelBIMl9KaFF5czQ1NWtOZUltbVRxQlRsd3RNT25BT05yZmhselFZczh0blFibWEzUk1IWnFmR1VDaUNoc3FmMXlqbDFuMWpyN1lCdnNmVndBNjhfNFdnSHl5TXVmcEE4MTZERTF0Uzc4N1Q?oc=5
-  Avatar: Fire and Ash Graded with DaVinci Resolve Studio FilmInk
+- **remotion-dev/remotion v4.0.542** (Remotion, 2026-11-09) https://github.com/remotion-dev/remotion/releases/tag/v4.0.542
+  What's Changed @remotion/lambda-client : Add renderMediaOnLambdaAndStream() and renderFramesOnLambdaAndStream() by @JonnyBurger in #12851 @remotion/lambda : Add chunks to renderMediaOnLambda() and --chunks to npx remotion lambda render by @TimbuckTato in #12879 @remotion/studio : Add OpenTimelineIO 
+- **Abanyamugisha Choir – Ndi Mu Mugongo Mp3 DOWNLOAD - CitiMuzik** (NDI (Google News), 2026-11-09) https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmdJVi1uS3liNklFUnFhM1hNb2trUTJJWmh0X21VSERkV0JiUGlBR2JWYW5qTzRyeDdXZXN4bkZfaVF0UUF5SzM1d2JzenBZNG4ydUtpSk1haml4TjZqcGZzdHJZY0ZjOU1nSjBQQXMybkdpMkN1Z1p1X0tzWDIwYzFQTmZfZVFwbzN3Qnk4OA?oc=5
+  Abanyamugisha Choir – Ndi Mu Mugongo Mp3 DOWNLOAD CitiMuzik
+- **Hakim Kiwanuka yongereye amasezerano muri APR FC - KigaliToday** (NDI (Google News), 2026-11-08) https://news.google.com/rss/articles/CBMiowFBVV95cUxNTlNCZ19VaFczck01RldYT3VyeVpTWjhfNUtCd3BBNDU5V3ZCQ1ZZWWdaTy1QWVB2VFg3eXFtLUJMNUZUdC1qUGlEcDdyNXJZbTZBY1BwVy1kTWxDSV9Wbjd0S1N0UnVTaWd5SFZwRm00VmR1Q1ZRREd1SHZ3RUdBS0JfdW5MVzF6cGk1b2hleU1LRHZSdGFuS0xQclEzblZzRy04?oc=5
+  Hakim Kiwanuka yongereye amasezerano muri APR FC KigaliToday
+- **Canon Celebrates 15 Years of Cinema EOS: 17 Cameras and 53 Lenses - Y.M.Cinema Magazine** (Blackmagic (Google News), 2026-11-08) https://news.google.com/rss/articles/CBMihgFBVV95cUxQQzJMMUJJb1llald3cVpRNmdwY25KWWtGdksydXJsb0ZWd0JNX1cybG5TN0pDVkNYdEI2cjFTUUZzcDQtWGFQWllHWUFnWmJackZpTVJYSm12NF9WdUtaWDM4VkozUi1ydFpxejdGbXlFWW9qb2ZUWGU0SlV0UDRhQk1RMC1BQQ?oc=5
+  Canon Celebrates 15 Years of Cinema EOS: 17 Cameras and 53 Lenses Y.M.Cinema Magazine
+- **This man has lost his polling unit – Watch moment Abians embarrassed Deputy Speaker Kalu during campaign - TheNewsGuru** (NDI (Google News), 2026-11-08) https://news.google.com/rss/articles/CBMiywFBVV95cUxNajQ5WVNmZFI3aVpRdTE0ekN3QmZ2VGhERWt5QVhPaXZvSDZ5a0lybXFHRHVUdlpKZ1NtR25wWllGMW12Z3dfYnZjdDhsVXFIV3ZtLUYySzdvTHVfekNwX3lfdjNObElsSDA1ZHZtRjQ1WU45R2R5S19xQ2g3MU0xTWNMQ0h6VG5xYTZEcUN6SDR0OFFrZi01WndoQWNuYUNrUGtZUnVVM3BzVGNDQlQzblJDTU5xN0dpLVhIR2FuWWN2emlhNU5YamExNA?oc=5
+  This man has lost his polling unit – Watch moment Abians embarrassed Deputy Speaker Kalu during campaign TheNewsGuru
 
 ## Agents, code et automatisation
 
-- **Goodbye Claude, Hello Pi** (Hacker News Claude, 2026-11-08) https://caleb.software/posts/claude-to-pi.html
-  287 points, 168 commentaires HN
-- **Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files** (Hacker News Claude, 2026-11-07) https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
-  387 points, 268 commentaires HN
-- **openai/codex 0.169.0-alpha.3** (OpenAI Codex, 2026-11-07) https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.3
-  Release 0.169.0-alpha.3
+- **n8n-io/n8n n8n@2.46.7** (n8n, 2026-11-09) https://github.com/n8n-io/n8n/releases/tag/n8n%402.46.7
+  2.46.7 (2026-11-09) Bug Fixes core: Limit resume attempts for waiting and queued executions ( #42862 ) ( c7aa6aa )
+- **n8n-io/n8n n8n@2.47.3** (n8n, 2026-11-09) https://github.com/n8n-io/n8n/releases/tag/n8n%402.47.3
+  2.47.3 (2026-11-09) Bug Fixes core: Only allow users who can edit a workflow to own its migration findings ( #43101 ) ( cff4342 ) core: Retire stale scheduled tasks in repeated batches in each reaper pass ( #43096 ) ( 4ba6e50 ) Features Open the migration report filtered to the recipient from notifi
+- **openai/codex rust-v0.169.0-alpha.5** (OpenAI Codex, 2026-11-09) https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.5
+  Release 0.169.0-alpha.5
+- **openai/codex rust-v0.169.0-alpha.4** (OpenAI Codex, 2026-11-09) https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.4
+  Release 0.169.0-alpha.4
+- **How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco** (Latent Space, 2026-11-08) https://latent.space/p/cs146s/
+  What happens when students can one-shot last year’s homework? Inside CS146S and the engineering team at Monaco.
+- **[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco** (Latent Space, 2026-11-08) https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/
+  What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ...
+- **Goldman Sachs is pulling Claude Code from its bankers and traders** (Hacker News Claude, 2026-11-08) https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers
+  786 points, 415 commentaires HN
 
 ## Open source et recherche
 
-- **Saw this benchmark where small changes to coding tasks made a big difference** (r/LocalLLaMA, 2026-11-08) https://www.reddit.com/r/LocalLLaMA/comments/1xqmr2i/saw_this_benchmark_where_small_changes_to_coding/
-  Saw this tweet about a coding benchmark and thought it was kinda interesting. Apparently they took 89 DeepSWE tasks and changed little things in the instructions or starting code. The tweet says some models that were all around 74% on DeepSWE ended up 23 percentage points apart on the changed tasks.
-- **Anyone running local AI on 16GB vram?** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xqjenw/anyone_running_local_ai_on_16gb_vram/
-  Hey everyone, Is anyone here running any useful AI agents, harnesses or toolings with local AI on 16GB vram? I'm currently setting up my system and I want to have a helper agent for daily tasks, a research agent to help me research topics, and a developer agent to help me with development. I already
-- **The Stylome bot is useless spam and should be removed** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xqinb7/the_stylome_bot_is_useless_spam_and_should_be/
-  I've recently been seeing comments everywhere from the Stylome bot, which is also a mod in this sub. Every time it pops up to declare a comment was AI written I've gone in to check its confidence level, and it's always low. I decided to do a few tests myself and have Gemini rewrite some of my commen
-- **Crowd-v1 - The collaborative LLM** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xqh8hk/crowdv1_the_collaborative_llm/
-  Processing img 0ybf7gn4c90i1... Hello r/LocalLLaMA :D This is yet another follow-up post on the project CrowdGPT , which aims at creating the first collaboratively trained 1 billion parameters transformer, Crowd-v1 , without any datacenters, and for 0$. The project's goal is to show we don't need hu
-- **Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!)** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/
-  Hey r/LocalLLaMA ! I made this quick demo of how Observer can run local models to monitor anything with your phone! These are some crazy things I've monitored: When someone that's not me, approaches my car, send me a picture. When a bird is on the bird's nest, send me a telegram with the picture. Wh
-- **Also experienced the Qwen3.8-Flash-Next URL issue** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xqbjbf/also_experienced_the_qwen38flashnext_url_issue/
-  I was asking QFN (4.18bpw EXL3 quant via Pi) to help refactor a neovim configuration, and saw that it tried to find API keys and fetch an aliyuncs URL before I stopped it. I'm not trying to start any arguments, nor am I assuming any malicious intent, but I found this a bit concerning after reading o
-- **Effects of KV Cache Quantization on Qwen3.8 27B** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xqbesv/effects_of_kv_cache_quantization_on_qwen38_27b/
-  KV cache quantization has been a hotly-debated topic for this community for some time, with opinions ranging from "never quantize" to "4 bit is fine". Since the anecdotal evidence is rather inconsistent, I decided to quantify how much KV cache quantization affects the model through KLD, which is a g
-- **testing Qoduck (Maybe qwen4) on Qoder** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xqafp1/testing_qoduck_maybe_qwen4_on_qoder/
-  I noticed that it has native image and video generation. submitted by /u/Consistent_Berry_324 [link] [comments]
-- **llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/
-  This is a significant speedup for MoE offloading (low VRAM people). I tried Strata once, and it had some tuning mechanism, so probably this is a similar idea. submitted by /u/jacek2023 [link] [comments]
-- **[Paper] DSpine - Draft in Parallel, Condition Through Depth: Adjacent Causal Injection for Speculative Decoding - tencent** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xq9hf6/paper_dspine_draft_in_parallel_condition_through/
-  Parallel speculative drafting generates multiple candidates in one backbone pass, but independent token selection can produce inconsistent continuations that shorten the accepted prefix. Existing methods mostly leave conditional decoding to a lightweight module after the backbone, which limits the f
-- **Qwen3.8-Flash-Next Gyro S on a Valve Steam Machine (8 GB AMD GPU, 32 GB RAM): about 18 t/s decode, about 235 t/s prefill, stock SteamOS** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xq8s2n/qwen38flashnext_gyro_s_on_a_valve_steam_machine_8/
-  I followed up on the post about running Qwen 3.8 Flash Next with 8 GB VRAM and 32 GB RAM. I wanted to see how it does on my Steam Machine. Setup Valve Steam Machine, stock SteamOS 3.9.5, AMD Navi 33 with 8 GB, 32 GB RAM, NVMe Stock Strata terminal 0.2.9 (engine 0.1.55, HIP package), Gyro S TQ1_0 128
-- **Valet: use local LLMs to manage your homelab (open source)** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xq7qi4/valet_use_local_llms_to_manage_your_homelab_open/
-  My favourite use case for local LLMs is running my homelab, because everything stays private (and it helps me justify the GPU lol) I wanted one dashboard to help me manage all of my services, so I made Valet. Live demo: https://demo.askvalet.dev Valet has a chat agent that works with any local or ho
-- **TSMC might do in memory compute for us** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xq65rl/tsmc_might_do_in_memory_compute_for_us/
-  At the 2025 VLSI Symposium, TSMC presented a memory technology based on oxide semiconductors, using a cell made of one transistor and one capacitor (1T1C). The goal was to integrate this memory into advanced logic chips and give processors a cache with low power and low latency. The key feature of t
-- **Obsessive-1.7B: a 1.1 GB web-search subagent** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xq4yju/obsessive17b_a_11_gb_websearch_subagent/
-  I fine-tuned LFM3-1.7B to do one job: take a factual question, call web_search once, and answer with a short value, a word-for-word quote and the URL. If the results don’t contain the answer, it says “Not found in the search results.” It’s meant to run as a subagent under a bigger model, not as a ch
-- **Does anyone use None reasoning level for anything ever?** (r/LocalLLaMA, 2026-11-07) https://www.reddit.com/r/LocalLLaMA/comments/1xq4pb6/does_anyone_use_none_reasoning_level_for_anything/
-  Sometimes I am tempted to use none reasoning level in agentic tasks to save time, but I am always kinda scared to do so. I have only ever used llm with reasoning and with medium at the lowest. Anybody have a lot of experience using none for reasoning level? Anything I need to know/need to be careful
-
-## Modèles et labos
-
-- **datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages** (Simon Willison, 2026-11-07) https://simonwillison.net/2026/Nov/7/link-rel-next/
-  datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pag
+- **L11 N8147 is a neuron that will make Qwen-3.5-4B get things confidently wrong while being weirdly snarky... But also makes it write interesting poetry** (r/LocalLLaMA, 2026-11-09) https://www.reddit.com/r/LocalLLaMA/comments/1xrkomn/l11_n8147_is_a_neuron_that_will_make_qwen354b_get/
+  Inspired by some of the other brain surgery posts, I wanted to see if I could find anything interesting in Qwen. Not particularly useful to make it get things wrong all the time I guess, but I find the poetry it comes out with weirdly fascinating! I think the neuron is basically a dial for contraria
+- **Joined the 4x R9700 Club | Initial Benchmarks for QFN 3.8 Below** (r/LocalLLaMA, 2026-11-08) https://www.reddit.com/r/LocalLLaMA/comments/1xrcia4/joined_the_4x_r9700_club_initial_benchmarks_for/
+  Posted this on the r/R9700 subreddit as well, but figured I'd share my initial findings here. tl;dr - One user writes at about 190 tok/s. Prefill runs at about 6,800 tok/s total no matter how many users there are. Agent follow-ups start in 0.2 to 2.5 s and write at 80 to 225 tok/s per user, even wit
+- **Nous Research Arete-27B GGUF quants** (r/LocalLLaMA, 2026-11-08) https://www.reddit.com/r/LocalLLaMA/comments/1xrarta/nous_research_arete27b_gguf_quants/
+  submitted by /u/gladkos [link] [comments]
+- **Intel Arc Pro B70 32GB ($1,299) vs NVIDIA RTX 5090 ($6,500+) on Qwen3.8-27B: about 1/2 speed gen (1/3 speed prefill) for 1/5 price, after best setup** (r/LocalLLaMA, 2026-11-08) https://www.reddit.com/r/LocalLLaMA/comments/1xr78s5/intel_arc_pro_b70_32gb_1299_vs_nvidia_rtx_5090/
+  I got an Arc Pro B70 (32GB) last week for $1,299 direct from ASRock official store on Amazon (B65 is also 32GB but slower, and was only $100 cheaper at $1,199, so I "splurged"). Obviously I'd have wanted a 5090 for the same VRAM and best speeds, but 5090s are going for $6,500+ on Newegg right now (a
+- **Kimi-K3.1-Pro-Coder (2.8T) | 1.77 TB -> 775 GB (-56%) | 36.8 TPS (Batch) / 10.8 TPS on 1x Blackwell | 96.7% on both AIME 2025 and LiveCodeBench** (r/LocalLLaMA, 2026-11-08) https://www.reddit.com/r/LocalLLaMA/comments/1xr777l/kimik31procoder_28t_177_tb_775_gb_56_368_tps/
+  Up front: I know a 775 GB quant is not for everyone , and this is definitely a more experimental setup and quant than I usually do, but I think it was a great stress-test of what's possible and I believe there is more improvement possible in the future. That said, the base Kimi-K3.1-Pro is a 2.8T pa
+- **Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation: This will completely change everything!** (r/LocalLLaMA, 2026-11-08) https://www.reddit.com/r/LocalLLaMA/comments/1xr6krp/nextconcept_modeling_fast_parallel_coarsetofine/
+  Essentially we could very soon run opus 5.5 level of intelligence on 32gb Vram. Its many folds more efficient in terms of memory bandwidth making compute the real bottleneck. What do you think? submitted by /u/Lorian0x7 [link] [comments]
+- **What are people finding local models actually useful for?** (r/LocalLLaMA, 2026-11-08) https://www.reddit.com/r/LocalLLaMA/comments/1xr4iv0/what_are_people_finding_local_models_actually/
+  I think that a lot of people get into local models because they get a sense of potential with this stuff, but it can be hard to make local models concretely useful sometimes, compared to frontier models. I think it would help people a lot if we had a place where people shared concretely what they fi
+- **GPT-5.5 dataset across my used 25 billion tokens!** (r/LocalLLaMA, 2026-11-08) https://www.reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens/
+  Cheers for u/New_Comfortable7240 for santitisation! 12,121 tool calls here! submitted by /u/-MaskNinja- [link] [comments]
+- **Motion graphics video made with Qwen3.8 Flash Next GSQ RCO IQ3_XXS on strata** (r/LocalLLaMA, 2026-11-08) https://www.reddit.com/r/LocalLLaMA/comments/1xr3qes/motion_graphics_video_made_with_qwen38_flash_next/
+  I've seen the insane motion graphics videos people made when opus 5.5 first came out and wondered how good QFN would do with the same recipe. Decided to make a short video for my nephew who loves trains This is Qwen3.8 Flash Next GSQ RCO IQ3_XXS on 16GB VRAM RTX 4080 + 64GB DDR5 5600 with strata and
+- **The Qwen Flash Next alibaba URL thing happened to me too just now** (r/LocalLLaMA, 2026-11-08) https://www.reddit.com/r/LocalLLaMA/comments/1xr3ifw/the_qwen_flash_next_alibaba_url_thing_happened_to/
+  It seems to have really confused itself too 😭 I was having it make a sort of Github release checker script and it snuck those two URL fetch tool calls in amongst some web searches I put the whole exported Open WebUI chat on hastebin so you can see exactly what happened: https://hastebin.com/share/ay
+- **tencent/Qwen3.8-27B-DSpine-b16 · Hugging Face** (r/LocalLLaMA, 2026-11-08) https://www.reddit.com/r/LocalLLaMA/comments/1xr2aaa/tencentqwen3827bdspineb16_hugging_face/
+  Apparently Tencent has developed a new speculative decoding method. 3x faster decoding for 27B models? submitted by /u/emdeka87 [link] [comments]
+- **4x Radeon AI PRO R9700 + 2x RTX 3090 on one x16 slot, using a PCIe switch** (r/LocalLLaMA, 2026-11-08) https://www.reddit.com/r/LocalLLaMA/comments/1xr2a6y/4x_radeon_ai_pro_r9700_2x_rtx_3090_on_one_x16/
+  submitted by /u/bolts98 [link] [comments]
+- **I fine-tuned Qwen3.5-0.8B to turn plain English into bash. What I learnt** (r/LocalLLaMA, 2026-11-08) https://www.reddit.com/r/LocalLLaMA/comments/1xr0ykk/i_finetuned_qwen3508b_to_turn_plain_english_into/
+  Running the app I wanted a terminal helper that works fully offline, so I started building dale. You type dale "show the 5 largest files in this folder" , a small fine-tuned model writes the command, and a deterministic risk checker labels it safe, caution or danger before anything runs. Nothing run
+- **"Does censorship exist in [country]?", according to various LLMs** (r/LocalLLaMA, 2026-11-08) https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/
+  I wrote a small program that asks the same Yes/No question about every country to a language model, and generates an SVG world map that visualizes the model's responses: https://github.com/p-e-w/llm-beliefs I'm rather surprised by the results... submitted by /u/-p-e-w- [link] [comments]
+- **Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.** (r/LocalLLaMA, 2026-11-08) https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/
+  Oh look, thats us! submitted by /u/ab2377 [link] [comments]
 
 ## Business, prix et régulation
 
-- **After the midterms, things are looking rocky for Elon Musk and data centers** (TechCrunch IA, 2026-11-07) https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/
-  On Equity, we unpacked what the midterms mean for the tech industry.
-- **Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo** (TechCrunch IA, 2026-11-07) https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/
-  A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.
-- **NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake** (The Verge IA, 2026-11-07) https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review
-  Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, "Chicken again?" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, m
-- **The US let Nvidia sell chips to an empty office in China** (The Verge IA, 2026-11-07) https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government
-  Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, "a ho
-- **AI broke the cybersecurity world. What’s next?** (The Verge IA, 2026-11-07) https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos
-  Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re go
-- **Why a new report on Anthropic automating AI development is alarming researchers** (The Verge IA, 2026-11-07) https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development
-  Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organizatio
+- **Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”** (TechCrunch IA, 2026-11-09) https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/
+  Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.
+- **Here’s the full text of Jensen Huang’s memo to Nvidia** (The Verge IA, 2026-11-08) https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia
+  On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair
+- **Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy** (TechCrunch IA, 2026-11-08) https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/
+  In a memo to the company, Huang admitted that he had an affair.
+- **Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy** (The Verge IA, 2026-11-08) https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy
+  Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is 
+- **Apple is racing to make Siri more agentic** (The Verge IA, 2026-11-08) https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic
+  Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the com
+- **Elvis and Eminem rights holders are suing Suno** (The Verge IA, 2026-11-08) https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit
+  Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that 
+
+## Modèles et labos
+
+- **The Web Is More Than Enough, by Paul Ford** (Simon Willison, 2026-11-09) https://simonwillison.net/2026/Nov/9/hn-50421091/
+  My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB) I just asked Claude (Opus
+- **Hide your slop PR descriptions behind** (Simon Willison, 2026-11-09) https://simonwillison.net/2026/Nov/9/details-summary/
+  Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding 
+- **parse_number() as a SQLite extension: C vs Rust** (Simon Willison, 2026-11-08) https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/
+  Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that could be summed and so

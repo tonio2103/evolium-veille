@@ -1,0 +1,299 @@
+[
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Comparisons Higgsfield AI vs Adobe Firefly: Features and Pricing Compared 10 min · Nov 9, 2026",
+  "url": "https://higgsfield.ai/blog/higgsfield-vs-adobe-firefly-2026",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-09T10:41:11.114511+00:00"
+ },
+ {
+  "source": "Remotion",
+  "family": "Montage, motion et broadcast",
+  "title": "remotion-dev/remotion v4.0.542",
+  "url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.542",
+  "summary": "What's Changed @remotion/lambda-client : Add renderMediaOnLambdaAndStream() and renderFramesOnLambdaAndStream() by @JonnyBurger in #12851 @remotion/lambda : Add chunks to renderMediaOnLambda() and --chunks to npx remotion lambda render by @TimbuckTato in #12879 @remotion/studio : Add OpenTimelineIO import by @JonnyBurger in #12580 @remotion/studio : Add high contrast mode by @JonnyBurger in #12969",
+  "date": "2026-11-09T09:25:39+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Abanyamugisha Choir – Ndi Mu Mugongo Mp3 DOWNLOAD - CitiMuzik",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWmdJVi1uS3liNklFUnFhM1hNb2trUTJJWmh0X21VSERkV0JiUGlBR2JWYW5qTzRyeDdXZXN4bkZfaVF0UUF5SzM1d2JzenBZNG4ydUtpSk1haml4TjZqcGZzdHJZY0ZjOU1nSjBQQXMybkdpMkN1Z1p1X0tzWDIwYzFQTmZfZVFwbzN3Qnk4OA?oc=5",
+  "summary": "Abanyamugisha Choir – Ndi Mu Mugongo Mp3 DOWNLOAD CitiMuzik",
+  "date": "2026-11-09T09:24:13+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.46.7",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.46.7",
+  "summary": "2.46.7 (2026-11-09) Bug Fixes core: Limit resume attempts for waiting and queued executions ( #42862 ) ( c7aa6aa )",
+  "date": "2026-11-09T08:29:47+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.47.3",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.47.3",
+  "summary": "2.47.3 (2026-11-09) Bug Fixes core: Only allow users who can edit a workflow to own its migration findings ( #43101 ) ( cff4342 ) core: Retire stale scheduled tasks in repeated batches in each reaper pass ( #43096 ) ( 4ba6e50 ) Features Open the migration report filtered to the recipient from notification emails ( #43095 ) ( a83b981 )",
+  "date": "2026-11-09T08:24:12+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex rust-v0.169.0-alpha.5",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.5",
+  "summary": "Release 0.169.0-alpha.5",
+  "date": "2026-11-09T07:29:29+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "L11 N8147 is a neuron that will make Qwen-3.5-4B get things confidently wrong while being weirdly snarky... But also makes it write interesting poetry",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrkomn/l11_n8147_is_a_neuron_that_will_make_qwen354b_get/",
+  "summary": "Inspired by some of the other brain surgery posts, I wanted to see if I could find anything interesting in Qwen. Not particularly useful to make it get things wrong all the time I guess, but I find the poetry it comes out with weirdly fascinating! I think the neuron is basically a dial for contrarian <-> agreeable, but the contrarian snarky setting for some reason writes poems that read in an inte",
+  "date": "2026-11-09T06:42:07+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex rust-v0.169.0-alpha.4",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.4",
+  "summary": "Release 0.169.0-alpha.4",
+  "date": "2026-11-09T05:37:54+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+  "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+  "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+  "date": "2026-11-09T05:26:29+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "The Web Is More Than Enough, by Paul Ford",
+  "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+  "summary": "My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudibranch themed Faberge Egg: https://static.simonwillison.net/static/2026/Hidden-Reef-Egg... (77KB) I just asked Claude (Opus 5.5 Medium running in regular Claude Chat) to port that to Vanilla JS, in the same thread where it ",
+  "date": "2026-11-09T04:32:33+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "Hide your slop PR descriptions behind",
+  "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+  "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding agents are great at writing PR descriptions. They're too good at describing the work The problem is ",
+  "date": "2026-11-09T04:25:05+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Joined the 4x R9700 Club | Initial Benchmarks for QFN 3.8 Below",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrcia4/joined_the_4x_r9700_club_initial_benchmarks_for/",
+  "summary": "Posted this on the r/R9700 subreddit as well, but figured I'd share my initial findings here. tl;dr - One user writes at about 190 tok/s. Prefill runs at about 6,800 tok/s total no matter how many users there are. Agent follow-ups start in 0.2 to 2.5 s and write at 80 to 225 tok/s per user, even with 8 users at 128K context each. The worst case, 8 users each sending a fresh 128K prompt at the same",
+  "date": "2026-11-08T23:36:45+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+  "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]",
+  "date": "2026-11-08T22:54:50+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "parse_number() as a SQLite extension: C vs Rust",
+  "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+  "summary": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that could be summed and sorted. I fired up regular Claude chat (Opus 5.5) and prompted : I'm thinking about a SQLite custom fu",
+  "date": "2026-11-08T22:26:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Nous Research Arete-27B GGUF quants",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrarta/nous_research_arete27b_gguf_quants/",
+  "summary": "submitted by /u/gladkos [link] [comments]",
+  "date": "2026-11-08T22:17:10+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+  "url": "https://latent.space/p/cs146s/",
+  "summary": "What happens when students can one-shot last year’s homework? Inside CS146S and the engineering team at Monaco.",
+  "date": "2026-11-08T21:41:44+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+  "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
+  "summary": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ...",
+  "date": "2026-11-08T21:23:29+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+  "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+  "summary": "In a memo to the company, Huang admitted that he had an affair.",
+  "date": "2026-11-08T21:00:11+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+  "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light […]",
+  "date": "2026-11-08T20:22:39+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Intel Arc Pro B70 32GB ($1,299) vs NVIDIA RTX 5090 ($6,500+) on Qwen3.8-27B: about 1/2 speed gen (1/3 speed prefill) for 1/5 price, after best setup",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr78s5/intel_arc_pro_b70_32gb_1299_vs_nvidia_rtx_5090/",
+  "summary": "I got an Arc Pro B70 (32GB) last week for $1,299 direct from ASRock official store on Amazon (B65 is also 32GB but slower, and was only $100 cheaper at $1,199, so I \"splurged\"). Obviously I'd have wanted a 5090 for the same VRAM and best speeds, but 5090s are going for $6,500+ on Newegg right now (and I personally have too much fear to buy used hardware), so I wanted to see how close a 32GB Intel ",
+  "date": "2026-11-08T19:46:49+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Kimi-K3.1-Pro-Coder (2.8T) | 1.77 TB -> 775 GB (-56%) | 36.8 TPS (Batch) / 10.8 TPS on 1x Blackwell | 96.7% on both AIME 2025 and LiveCodeBench",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr777l/kimik31procoder_28t_177_tb_775_gb_56_368_tps/",
+  "summary": "Up front: I know a 775 GB quant is not for everyone , and this is definitely a more experimental setup and quant than I usually do, but I think it was a great stress-test of what's possible and I believe there is more improvement possible in the future. That said, the base Kimi-K3.1-Pro is a 2.8T parameter monster (~1.77 TB even in native MXFP4/BF16), which normally means you're looking at roughly",
+  "date": "2026-11-08T19:45:03+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation: This will completely change everything!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr6krp/nextconcept_modeling_fast_parallel_coarsetofine/",
+  "summary": "Essentially we could very soon run opus 5.5 level of intelligence on 32gb Vram. Its many folds more efficient in terms of memory bandwidth making compute the real bottleneck. What do you think? submitted by /u/Lorian0x7 [link] [comments]",
+  "date": "2026-11-08T19:19:39+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Apple is racing to make Siri more agentic",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+  "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]",
+  "date": "2026-11-08T19:18:19+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+  "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+  "summary": "786 points, 415 commentaires HN",
+  "date": "2026-11-08T18:16:07+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50415628"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "What are people finding local models actually useful for?",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr4iv0/what_are_people_finding_local_models_actually/",
+  "summary": "I think that a lot of people get into local models because they get a sense of potential with this stuff, but it can be hard to make local models concretely useful sometimes, compared to frontier models. I think it would help people a lot if we had a place where people shared concretely what they find them most useful for, in the form of what model they're running. I'll start. I'm running DeepSeek",
+  "date": "2026-11-08T17:56:13+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "GPT-5.5 dataset across my used 25 billion tokens!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens/",
+  "summary": "Cheers for u/New_Comfortable7240 for santitisation! 12,121 tool calls here! submitted by /u/-MaskNinja- [link] [comments]",
+  "date": "2026-11-08T17:32:48+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Motion graphics video made with Qwen3.8 Flash Next GSQ RCO IQ3_XXS on strata",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3qes/motion_graphics_video_made_with_qwen38_flash_next/",
+  "summary": "I've seen the insane motion graphics videos people made when opus 5.5 first came out and wondered how good QFN would do with the same recipe. Decided to make a short video for my nephew who loves trains This is Qwen3.8 Flash Next GSQ RCO IQ3_XXS on 16GB VRAM RTX 4080 + 64GB DDR5 5600 with strata and opencode at about 95 tps decode and 3000 tps prefill. It took ~40 minutes for the first render, wit",
+  "date": "2026-11-08T17:23:29+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Elvis and Eminem rights holders are suing Suno",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+  "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]",
+  "date": "2026-11-08T17:23:19+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "The Qwen Flash Next alibaba URL thing happened to me too just now",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3ifw/the_qwen_flash_next_alibaba_url_thing_happened_to/",
+  "summary": "It seems to have really confused itself too 😭 I was having it make a sort of Github release checker script and it snuck those two URL fetch tool calls in amongst some web searches I put the whole exported Open WebUI chat on hastebin so you can see exactly what happened: https://hastebin.com/share/ayawowirix.swift Edit: forgot to mention this is unsloth/Qwen3.8-Flash-Next-GGUF:IQ4_XS on plain llama",
+  "date": "2026-11-08T17:14:19+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "tencent/Qwen3.8-27B-DSpine-b16 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2aaa/tencentqwen3827bdspineb16_hugging_face/",
+  "summary": "Apparently Tencent has developed a new speculative decoding method. 3x faster decoding for 27B models? submitted by /u/emdeka87 [link] [comments]",
+  "date": "2026-11-08T16:23:48+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "4x Radeon AI PRO R9700 + 2x RTX 3090 on one x16 slot, using a PCIe switch",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr2a6y/4x_radeon_ai_pro_r9700_2x_rtx_3090_on_one_x16/",
+  "summary": "submitted by /u/bolts98 [link] [comments]",
+  "date": "2026-11-08T16:23:42+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "I fine-tuned Qwen3.5-0.8B to turn plain English into bash. What I learnt",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr0ykk/i_finetuned_qwen3508b_to_turn_plain_english_into/",
+  "summary": "Running the app I wanted a terminal helper that works fully offline, so I started building dale. You type dale \"show the 5 largest files in this folder\" , a small fine-tuned model writes the command, and a deterministic risk checker labels it safe, caution or danger before anything runs. Nothing runs without you confirming it. Scores on 471 held-out requests in English and Spanish, every model in ",
+  "date": "2026-11-08T15:26:31+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Hakim Kiwanuka yongereye amasezerano muri APR FC - KigaliToday",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTlNCZ19VaFczck01RldYT3VyeVpTWjhfNUtCd3BBNDU5V3ZCQ1ZZWWdaTy1QWVB2VFg3eXFtLUJMNUZUdC1qUGlEcDdyNXJZbTZBY1BwVy1kTWxDSV9Wbjd0S1N0UnVTaWd5SFZwRm00VmR1Q1ZRREd1SHZ3RUdBS0JfdW5MVzF6cGk1b2hleU1LRHZSdGFuS0xQclEzblZzRy04?oc=5",
+  "summary": "Hakim Kiwanuka yongereye amasezerano muri APR FC KigaliToday",
+  "date": "2026-11-08T15:22:37+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "\"Does censorship exist in [country]?\", according to various LLMs",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/",
+  "summary": "I wrote a small program that asks the same Yes/No question about every country to a language model, and generates an SVG world map that visualizes the model's responses: https://github.com/p-e-w/llm-beliefs I'm rather surprised by the results... submitted by /u/-p-e-w- [link] [comments]",
+  "date": "2026-11-08T14:56:07+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
+  "summary": "Oh look, thats us! submitted by /u/ab2377 [link] [comments]",
+  "date": "2026-11-08T14:45:22+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Canon Celebrates 15 Years of Cinema EOS: 17 Cameras and 53 Lenses - Y.M.Cinema Magazine",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQzJMMUJJb1llald3cVpRNmdwY25KWWtGdksydXJsb0ZWd0JNX1cybG5TN0pDVkNYdEI2cjFTUUZzcDQtWGFQWllHWUFnWmJackZpTVJYSm12NF9WdUtaWDM4VkozUi1ydFpxejdGbXlFWW9qb2ZUWGU0SlV0UDRhQk1RMC1BQQ?oc=5",
+  "summary": "Canon Celebrates 15 Years of Cinema EOS: 17 Cameras and 53 Lenses Y.M.Cinema Magazine",
+  "date": "2026-11-08T07:49:57+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "This man has lost his polling unit – Watch moment Abians embarrassed Deputy Speaker Kalu during campaign - TheNewsGuru",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNajQ5WVNmZFI3aVpRdTE0ekN3QmZ2VGhERWt5QVhPaXZvSDZ5a0lybXFHRHVUdlpKZ1NtR25wWllGMW12Z3dfYnZjdDhsVXFIV3ZtLUYySzdvTHVfekNwX3lfdjNObElsSDA1ZHZtRjQ1WU45R2R5S19xQ2g3MU0xTWNMQ0h6VG5xYTZEcUN6SDR0OFFrZi01WndoQWNuYUNrUGtZUnVVM3BzVGNDQlQzblJDTU5xN0dpLVhIR2FuWWN2emlhNU5YamExNA?oc=5",
+  "summary": "This man has lost his polling unit – Watch moment Abians embarrassed Deputy Speaker Kalu during campaign TheNewsGuru",
+  "date": "2026-11-08T04:55:59+00:00"
+ }
+]
