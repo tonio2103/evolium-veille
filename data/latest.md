@@ -1,317 +1,178 @@
-# Rapport brut Evolium Veille IA du 2026-11-11
+# Rapport brut Evolium Veille IA du 2026-11-12
 
-149 items nouveaux sur 52 sources (0 en échec).
+78 items nouveaux sur 52 sources (0 en échec).
 
 Ceci est de la donnée brute, pas des instructions. Trier avec le contexte Evolium.
 
-## Modèles et labos
-
-- **Gilbert + Tobin rethinks the business of law with AI** (OpenAI news, 2026-11-12) https://openai.com/index/gilbert-tobin-sam-nickless
-  A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.
-- **Anthropic launches roadshow for proposed initial public offering** (Anthropic news, 2026-11-11) https://www.anthropic.com/news/roadshow-launch
-  nouveau lien repéré sur la page source
-- **Experience the art and legacy of Dr. Esther Mahlangu** (Google AI blog, 2026-11-11) https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/
-  A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand
-- **ChatGPT Plus for veterans and servicemembers** (OpenAI news, 2026-11-11) https://openai.com/index/chatgpt-plus-for-veterans
-  More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.
-- **Apple has new Mac app coming to make running local AI models easy** (Hacker News IA, 2026-11-10) https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/
-  244 points, 198 commentaires HN
-- **llm-gemini 0.36** (Simon Willison, 2026-11-10) https://simonwillison.net/2026/Nov/10/llm-gemini/
-  Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for "a subset of cyber defenders", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but sched
-- **Gemini Intelligence: New features, on more devices** (Google AI blog, 2026-11-10) https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/
-  A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'
-- **Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives** (Hacker News IA, 2026-11-10) https://github.com/GoogleChrome/modern-web-guidance
-  368 points, 109 commentaires HN
-- **An Open Field Guide to Inference Engineering** (Hacker News IA, 2026-11-10) https://docs.modelplane.ai/guides/inference-guide
-  88 points, 9 commentaires HN
-- **Gemini 4 Carbon is now available** (Hacker News IA, 2026-11-10) https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/
-  285 points, 155 commentaires HN
-- **Gemini 4 Carbon is now available** (Google DeepMind blog, 2026-11-10) https://deepmind.google/blog/gemini-4-carbon-is-now-available/
-- **Show HN: Aircad – Professional drafting and 3D modeling in the browser** (Hacker News IA, 2026-11-10) https://aircad.com
-  37 points, 16 commentaires HN
-- **We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.** (Google AI blog, 2026-11-10) https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/
-  Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.
-- **Google Cloud launches Gemini for healthcare.** (Google AI blog, 2026-11-10) https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/
-  Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.
-- **Introducing AlphaProof Code: a breakthrough in verifying complex software at depth** (Google DeepMind blog, 2026-11-10) https://deepmind.google/blog/introducing-alphaproof-code/
-  AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.
-- **Helping caregivers use AI in everyday life** (OpenAI news, 2026-11-10) https://openai.com/index/helping-caregivers-use-ai-in-everyday-life
-  OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.
-- **Introducing Businesses in ChatGPT** (OpenAI news, 2026-11-10) https://openai.com/index/introducing-businesses-chatgpt
-  Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.
-- **Singapore Airlines elevates travel & work with OpenAI technology** (OpenAI news, 2026-11-10) https://openai.com/index/singapore-airlines-travel-work
-  Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.
-- **Work at the Frontier: AI’s effect on freelance work** (OpenAI news, 2026-11-10) https://openai.com/index/ai-effect-on-freelance-work
-  New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.
-- **Cogent and OpenAI build cyber defense factories for enterprises** (OpenAI news, 2026-11-10) https://openai.com/index/cogent-security
-  Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.
-
 ## Vidéo, image et audio génératifs
 
-- **Editorials Seedream 5.5 on Higgsfield AI: Features, Settings, and Pricing 6 min · Nov 9, 2026** (Higgsfield blog, 2026-11-11) https://higgsfield.ai/blog/seedream-5-5-higgsfield
+- **Editorials Higgsfield 11.11 Deals: Up to 60% Off Annual Plans and 60 Days of Unlimited Generation 8 min · Nov 11, 2026** (Higgsfield blog, 2026-11-12) https://higgsfield.ai/blog/higgsfield-11-11-deals
   nouveau lien repéré sur la page source
-- **Comparisons 8 Best CapCut Alternatives for AI Videos in 2026 13 min · Nov 10, 2026** (Higgsfield blog, 2026-11-11) https://higgsfield.ai/blog/best-capcut-alternatives-ai-videos-2026
+- **Comparisons The 9 Best Image-to-Video AI Generators in 2026 14 min · Nov 11, 2026** (Higgsfield blog, 2026-11-12) https://higgsfield.ai/blog/best-image-to-video-ai-generators-2026
   nouveau lien repéré sur la page source
-- **Creator Stories Inside Munira Alkharraz’s Filmmaking Process With Higgsfield 10 min · Nov 10, 2026** (Higgsfield blog, 2026-11-11) https://higgsfield.ai/blog/munira-alkharraz-higgsfield
+- **Comparisons 7 Best AI Video Upscalers in 2026 14 min · Nov 10, 2026** (Higgsfield blog, 2026-11-12) https://higgsfield.ai/blog/best-ai-video-upscalers-2026
   nouveau lien repéré sur la page source
-- **pixverse/v6/max/text-to-video Generate videos from text with PixVerse V6 Max, with optional audio and multi-clip generation.** (fal.ai nouveaux modèles, 2026-11-11) https://fal.ai/models/pixverse/v6/max/text-to-video
+- **News Higgsfield Completes SOC 2 Type II Audit and Independent GDPR Assessment 8 min · Nov 11, 2026** (Higgsfield blog, 2026-11-12) https://higgsfield.ai/blog/higgsfield-soc-2-type-ii-gdpr-assessment
   nouveau lien repéré sur la page source
-- **pixverse/v6/max/image-to-video Generate videos from images with PixVerse V6 Max, with optional audio and multi-clip generation.** (fal.ai nouveaux modèles, 2026-11-11) https://fal.ai/models/pixverse/v6/max/image-to-video
+- **Read Paper** (Runway research, 2026-11-12) https://runway.com/research/praxis-1-video-pretraining-to-robot-control
   nouveau lien repéré sur la page source
-- **meshy/rigging/multi-animation Meshy auto-rigs a humanoid 3D model fitting a skeleton and binding the mesh, then applies several motion presets from its animatio** (fal.ai nouveaux modèles, 2026-11-11) https://fal.ai/models/meshy/rigging/multi-animation
+- **Praxis-1: From Video Pretraining to Robot Control** (Runway research, 2026-11-12) https://runwayml.com/research/praxis-1-video-pretraining-to-robot-control
   nouveau lien repéré sur la page source
-- **meshy/rigging Rig humanoid 3D models from GLB URLs with Meshy, returning rigged GLB/FBX files plus basic animations. rigging** (fal.ai nouveaux modèles, 2026-11-11) https://fal.ai/models/meshy/rigging
+- **Building the interaction layer for AI: Everything announced at ElevenLabs Summit NYC** (ElevenLabs blog, 2026-11-12) https://elevenlabs.io/blog/nyc-summit
   nouveau lien repéré sur la page source
-- **lightricks/ltx-2.5/upscale LTX 2.5 Upscale increases the resolution of existing H.264 or HEVC video to 1080p, 4K, or 8K. It preserves the source aspect ratio, r** (fal.ai nouveaux modèles, 2026-11-11) https://fal.ai/models/lightricks/ltx-2.5/upscale
-  nouveau lien repéré sur la page source
-- **lightricks/ltx-2.5/hdr LTX 2.5 SDR to HDR converts existing SDR video for HDR finishing workflows. It returns a processed video and a ZIP archive of 16-bit half** (fal.ai nouveaux modèles, 2026-11-11) https://fal.ai/models/lightricks/ltx-2.5/hdr
-  nouveau lien repéré sur la page source
-- **lightricks/ltx-2.5/reframe LTX 2.5 Reframe adapts existing video to a new aspect ratio by generating missing frame content. It supports five aspect ratios, 720p** (fal.ai nouveaux modèles, 2026-11-11) https://fal.ai/models/lightricks/ltx-2.5/reframe
-  nouveau lien repéré sur la page source
-- **lightricks/ltx-2.5/alpha-gen LTX 2.5 Alpha Gen extracts frame-matched foreground mattes from existing video, preserving partial transparency in hair and soft ed** (fal.ai nouveaux modèles, 2026-11-11) https://fal.ai/models/lightricks/ltx-2.5/alpha-gen
-  nouveau lien repéré sur la page source
-
-## Agents, code et automatisation
-
-- **[AINews] Mercor $750m Series D at $20B valuation, $3B run rate** (Latent Space, 2026-11-11) https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/
-  November 10, 2026 — Google GA's Gemini 4 Carbon.
-- **n8n-io/n8n n8n@1.123.94** (n8n, 2026-11-11) https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.94
-  1.123.94 (2026-11-11) Bug Fixes core: Keep retry backoff when a trigger fails right after reactivation ( #43178 ) ( 4be543b )
-- **openai/codex rust-v0.169.0-alpha.11** (OpenAI Codex, 2026-11-11) https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.11
-  Release 0.169.0-alpha.11
-- **n8n-io/n8n n8n@2.47.4** (n8n, 2026-11-11) https://github.com/n8n-io/n8n/releases/tag/n8n%402.47.4
-  2.47.4 (2026-11-11) Bug Fixes core: Keep expression transfers working after built-in replacements ( #43360 ) ( b110abb ) core: Keep observational memory running after a user stops a HITL card ( #43225 ) ( 353a342 ) core: Match bare node references across expression engines ( #43358 ) ( 989975c ) Edi
-- **n8n-io/n8n n8n@2.48.1** (n8n, 2026-11-11) https://github.com/n8n-io/n8n/releases/tag/n8n%402.48.1
-  2.48.1 (2026-11-11) Bug Fixes core: Keep expression transfers working after built-in replacements ( #43359 ) ( 8b3d3db ) core: Match bare node references across expression engines ( #43357 ) ( 7afa69d ) Edit Image Node: Register font once instead of on every text operation ( #43347 ) ( b7d330a ) edi
-- **modelcontextprotocol/servers v2.4.0** (MCP servers (repo), 2026-11-11) https://github.com/modelcontextprotocol/servers/releases/tag/v2.4.0
-  Security fixes v2.4.0 fixes six vulnerabilities in three servers. Upgrade @modelcontextprotocol/server-filesystem to 2.3.0, and mcp-server-git and mcp-server-fetch to 2026.11.11. Package Affected Fixed in @modelcontextprotocol/server-filesystem all versions before 2.3.0, and date versions 2025.1.14 
-- **AI Engineer Code Summit: OpenAI on New Ways of Working With Codex** (Latent Space, 2026-11-11) https://latent.space/p/codex-work/
-  On the first day of AIE Code Summit, OpenAI showed how developers can steer Codex by voice, hand off work to the cloud, and make use of dots.
-- **openai/codex 0.169.0-alpha.10** (OpenAI Codex, 2026-11-11) https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.10
-  Release 0.169.0-alpha.10
-- **openai/codex 0.167.0-alpha.4.2** (OpenAI Codex, 2026-11-11) https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.4.2
-  Release 0.167.0-alpha.4.2
-- **openai/codex 0.169.0-alpha.9** (OpenAI Codex, 2026-11-10) https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.9
-  Release 0.169.0-alpha.9
-- **openai/codex 0.167.1** (OpenAI Codex, 2026-11-10) https://github.com/openai/codex/releases/tag/rust-v0.167.1
-  Changelog Full Changelog: rust-v0.167.0...rust-v0.167.1
-- **google-gemini/gemini-cli Release v0.68.0** (Gemini CLI, 2026-11-10) https://github.com/google-gemini/gemini-cli/releases/tag/v0.68.0
-  What's Changed Changelog for v0.67.0-preview.0 by @gemini-cli-robot in #29990 Changelog for v0.66.0 by @gemini-cli-robot in #29992 docs(readme): clarify Gemini CLI scope, limitations, and tool landscape by @LyalinDotCom in #29995 fix(cli): bound inline history re-render after terminal width changes 
-- **google-gemini/gemini-cli Release v0.69.0-preview.0** (Gemini CLI, 2026-11-10) https://github.com/google-gemini/gemini-cli/releases/tag/v0.69.0-preview.0
-  What's Changed fix(core,cli): preserve literal $ characters during template placeholder replacement by @jesussamuel-byte in #30136 feat(cli): add /stats heatmap subcommand for daily token usage by @jvargassanchez-dot in #30135 fix(core): prevent GCLI_EXPAND_TARGET env collision in expandEnvVars by @
-- **Designing for Agents — Zeno Rocha, Resend** (Latent Space, 2026-11-10) https://latent.space/p/resend/
-  Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send.
-- **Saltline: First-person shooter built by Fable 5.2** (Hacker News Claude, 2026-11-10) https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp
-  64 points, 72 commentaires HN
-- **NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?** (Latent Space, 2026-11-10) https://latent.space/p/naiveai/
-  NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek.
-- **Claude Whiteboards, Claude Sheets, and Claude Data** (Hacker News Claude, 2026-11-10) https://claude.com/resources/articles/sheets-whiteboards-data
-  228 points, 160 commentaires HN
-- **Life on Claude Nine** (Hacker News Claude, 2026-11-10) https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html
-  108 points, 67 commentaires HN
-- **n8n-io/n8n n8n@1.123.93** (n8n, 2026-11-10) https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.93
-  1.123.93 (2026-11-09) Bug Fixes core: Limit resume attempts for waiting and queued executions ( #42864 ) ( 106a957 )
-
-## Open source et recherche
-
-- **Qwen4-Max Preview is out on API access. No word on weights release yet** (r/LocalLLaMA, 2026-11-11) https://www.reddit.com/r/LocalLLaMA/comments/1xtcrgm/qwen4max_preview_is_out_on_api_access_no_word_on/
-  I don't fuckin' know, better than opus 5 and 6.1 terra people say. We'll see submitted by /u/Dany0 [link] [comments]
-- **llama.cpp: Add FP8 KV-cache** (r/LocalLLaMA, 2026-11-11) https://www.reddit.com/r/LocalLLaMA/comments/1xt9o3t/llamacpp_add_fp8_kvcache/
-  submitted by /u/Kahvana [link] [comments]
-- **BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model** (Hugging Face blog, 2026-11-11) https://huggingface.co/blog/qvac/botpsy
-- **Microsoft Research backdoored an AI agent by directly editing fewer than 10 dormant neurons** (r/LocalLLaMA, 2026-11-11) https://www.reddit.com/r/LocalLLaMA/comments/1xt82mz/microsoft_research_backdoored_an_ai_agent_by/
-  Be careful if you are running any sketchy quants/finetunes. If these techniques become more widely repeatable, I do think 'sleeper agents' could genuinely develop into an attack vector. What are your thoughts? submitted by /u/Chemical_Hawk_6307 [link] [comments]
-- **[GLB-3D-Coder] I tried making a 1.7B version for Godot** (r/LocalLLaMA, 2026-11-11) https://www.reddit.com/r/LocalLLaMA/comments/1xt6rc7/glb3dcoder_i_tried_making_a_17b_version_for_godot/
-  After posting the 4B GLB model here, I wanted to see how far I could get with something smaller. I fine-tuned Qwen3-1.7B for the same job. The Q8 GGUF is 1.83 GB, so this one is aimed at people trying it on CPU or with limited VRAM. The workflow is the same as before. Describe an asset, open the Thr
-- **comfyanonymous/ComfyUI v0.45.2** (ComfyUI releases, 2026-11-11) https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.2
-  ComfyUI v0.45.2
-- **comfyanonymous/ComfyUI v0.45.0** (ComfyUI releases, 2026-11-10) https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.0
-  What's Changed Bump comfyui-frontend-package to 1.58.5 by @comfy-pr-bot in #17442 Add better error for when pixel_space VAE wrongly selected. by @comfyanonymous in #17518 Make SeedVR2 VAE slice length adaptive to free memory by @kijai in #17508 [Partner Nodes] feat(Pika): add Pika H3 Flex nodes by @
-- **comfyanonymous/ComfyUI v0.45.1** (ComfyUI releases, 2026-11-10) https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.1
-  ComfyUI v0.45.1
-- **Apple has new Mac app coming to make running local AI models easy** (r/LocalLLaMA, 2026-11-10) https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running/
-  submitted by /u/themixtergames [link] [comments]
-- **My AI is lazier than me** (r/LocalLLaMA, 2026-11-10) https://www.reddit.com/r/LocalLLaMA/comments/1xsytlk/my_ai_is_lazier_than_me/
-  Let's start with my setup: I have 2 Sparks running glm 5.3 flash, and the harness is hermes agent running on a MacBook Air. While trying to justify all the money I spent (around 6500 euro for both machines, a long time ago when prices were just high instead of outrageous), I decided to hop on the de
-- **The Surprising Effectiveness of Deleting Weights in LLM Post-Training** (r/LocalLLaMA, 2026-11-10) https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights/
-  How little of a pretrained large language model (LLM) has to change for it to acquire new capabilities? We find that zeroing fewer than 0.05% of its weights, with no other modification, matches full fine-tuning (FFT) at scale across three LLM post-training regimes: reinforcement learning with verifi
-- **Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training** (arXiv agents, 2026-11-10) https://arxiv.org/abs/2611.14519v1
-  Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whos
-- **AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models** (arXiv agents, 2026-11-10) https://arxiv.org/abs/2611.14515v1
-  Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training, offer a natural way
-- **Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations** (arXiv agents, 2026-11-10) https://arxiv.org/abs/2611.14514v1
-  LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\neg h$. When evidence rejects $h$, the agent learns that one explanation is unlikely but not which alternati
-- **Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model: Linking an Adversarial and a Perceptual Illusion** (arXiv vidéo, 2026-11-10) https://arxiv.org/abs/2611.14498v1
-  Biological visual systems compute reliably under tight metabolic and wiring constraints, whereas artificial vision systems consume far more energy and can be sensitive to adversarial perturbations. Whether networks with brain-like wiring are more robust at lower computational cost is unclear. We add
-- **Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents** (arXiv agents, 2026-11-10) https://arxiv.org/abs/2611.14493v1
-  Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative study of three evaluation frameworks, each representing a distinct evaluation paradigm (trace-based 
-- **ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows** (arXiv agents, 2026-11-10) https://arxiv.org/abs/2611.14492v1
-  Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they call an LLM to choose every step of every run, which adds latency and cost at scale. We present ReTrac
-- **Mechanistic Interpretability Needs a Logic of Inference** (arXiv vidéo, 2026-11-10) https://arxiv.org/abs/2611.14483v1
-  Neural networks are increasingly studied not merely as predictive systems, but as complex systems whose internal computations are themselves objects of scientific inquiry. Recent progress in mechanistic interpretability (MI) has made it possible to identify neurons, features, circuits, population st
-- **FERN: Cross-Benchmark Table Retrieval for Text-to-SQL with Frozen Retrievers and Learned Ranking** (arXiv agents, 2026-11-10) https://arxiv.org/abs/2611.14477v1
-  Text-to-SQL systems over large pooled catalogs must first retrieve the tables a question needs. We compare against the published table recall of RASL, which uses Claude 3.5 models to extract keywords and select tables, on pooled BIRD, Spider, and Fiben catalogs. FERN (Feature-Engineered Ranking with
-- **BoviShift: A Six-Year Multi-Attribute Audit of Visual Cattle Phenotyping Across Animals and Time** (arXiv vidéo, 2026-11-10) https://arxiv.org/abs/2611.14476v1
-  Computer vision offers a scalable, non-contact means of estimating livestock traits, but correlated images and video frames make reliable evaluation difficult. Image-random splitting can place views of the same animal in both training and test sets, while deployment further requires transfer to anim
-- **Explicit restricted isometries with $k=m^{2/3-o(1)}$** (arXiv agents, 2026-11-10) https://arxiv.org/abs/2611.14475v1
-  We construct an explicit family of real $m\times n$ restricted isometries with $m\to\infty$, $m/n\to 0$, $δ_k\to 0$, and $k=m^{2/3-o(1)}$. We combine Gershgorin's circle theorem with a flat RIP estimate to reduce the problem to choosing a large vertex set in a strongly regular graph with the propert
-- **C$^2$-Routing: Complementary Cropping and Compression for Efficient Vision-Language Inference** (arXiv agents, 2026-11-10) https://arxiv.org/abs/2611.14469v1
-  Visual Question Answering (VQA) imposes substantial computational overhead on vision-language models (VLMs), motivating model-agnostic input reduction methods that can be readily applied across diverse VLMs, including in black-box settings. Simply enforcing a visual-token cap reduces computation, bu
-- **A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets** (arXiv agents, 2026-11-10) https://arxiv.org/abs/2611.14467v1
-  Policy optimization is central to language model post-training, yet principled guidance remains limited. We revisit its theoretical foundations to identify algorithms that learn near-optimal policies using total samples and gradient steps governed by the base model's response coverage, a measure of 
-- **Progression-free sets in class $2$ and arbitrary finite groups** (arXiv agents, 2026-11-10) https://arxiv.org/abs/2611.14464v1
-  We study progression-free sets in arbitrary finite groups. We transfer sharp upper bounds from abelian groups to nilpotent groups of class $2$, and from nilpotent groups to arbitrary groups. Combining a recent result of Raghavan with the author's theorem on large subgroups of class $2$ gives \[ r_3(
-- **When does text encoding matter for language modeling?** (arXiv agents, 2026-11-10) https://arxiv.org/abs/2611.14459v1
-  UTF-8's role as the de facto encoding standard in language models introduces cross-lingual inequities due to its variable-length design. However, the effect that this encoding choice has on model performance remains largely unexamined. In this work, we investigate how text encoding impacts the perfo
-- **Quantum Thermal Transistor via Nonlinear Environmental Coupling** (arXiv agents, 2026-11-10) https://arxiv.org/abs/2611.14458v1
-  Thermal amplification enables sensitive control of heat currents, providing a basis for heat management and thermal signal processing in quantum devices. For a harmonic oscillator coupled to emitter, collector, and base thermal reservoirs, we recover the absence of thermal amplification when system-
-- **A Lightweight Differentiable Method for Real-Time Skin Rendering and Digitization** (arXiv vidéo, 2026-11-10) https://arxiv.org/abs/2611.14451v1
-  Inverse rendering for skin typically relies on offline path tracing to estimate physical properties, which fail to map directly to the approximate shaders utilized in interactive applications, such as game engines. We bridge this gap by directly estimating subsurface scattering parameters tailored f
-- **UGG: Unified Generative Geometry Model** (arXiv vidéo, 2026-11-10) https://arxiv.org/abs/2611.14440v1
-  Understanding 4D scenes is a core challenge in visual intelligence, requiring models to jointly capture scene geometry, appearance, and dynamics from partial observations. However, existing approaches are subdivided into feedforward models for direct geometric prediction, and generative models for v
-- **Metric-Aligned Group Relative Policy Optimization for Explainable Deepfake Detection** (arXiv vidéo, 2026-11-10) https://arxiv.org/abs/2611.14436v1
-  Deepfake detectors are commonly evaluated on real/fake classification alone, but real-world applications require explanations of the visual evidence behind each prediction. Joint vision-language models struggle with authenticity assessment, producing "real" narratives for manipulated images. To addr
-- **One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge** (arXiv agents, 2026-11-10) https://arxiv.org/abs/2611.14432v1
-  We describe our solution for the 2026 BEHAVIOR Challenge: 100 long-horizon household tasks in the OmniGibson simulator. We placed 9th on the final leaderboard, the only independent team in the top 10. The core of the solution is a single vision-language-action (VLA) model, one checkpoint for all 100
-- **OnlyAct: Extracting Action Representations from Foundation Models for World Models** (arXiv vidéo, 2026-11-10) https://arxiv.org/abs/2611.14420v1
-  Video world models promise general-purpose interactive simulators, but their training is limited by action supervision: action labels are scarce, fragmented across incompatible specifications, and do not scale with the unlabeled video pretraining corpus. A common workaround jointly trains an action 
-- **From Video Frames to Robot Meta-Frames: A Unified Latent Interface for World Action Models** (arXiv vidéo, 2026-11-10) https://arxiv.org/abs/2611.14365v1
-  Pretrained video diffusion models (VDMs) offer a powerful foundation for World Action Models (WAMs), which jointly predict robot actions and future observations. Building such models requires injecting low-dimensional robot signals (e.g. proprioception, actions, and values) into a latent space shape
-- **TaoMate-R1: Temporal Role Specialization for Streaming Multi-Reference Video Generation** (arXiv vidéo, 2026-11-10) https://arxiv.org/abs/2611.14307v1
-  Streaming multi-reference video generation establishes a scene from specified people and objects, then continues it under changing instructions. We introduce TaoMate-R1, a streaming multi-reference generator that organizes adaptation parameters through temporal role specialization. It assigns separa
-- **ForeseeDrive: Future-Token Conditioning for Anticipatory Generative Driving** (arXiv vidéo, 2026-11-10) https://arxiv.org/abs/2611.14286v1
-  Generative driving planners can represent diverse ego futures, but a downstream scorer can choose only among sampled candidates; it cannot recover an absent maneuver. We present ForeseeDrive, which turns future scene evolution into a deployable interface for shaping candidate generation. Rather than
-- **UniFlow-RS: Unified Generative Prediction for Heterogeneous Remote-Sensing Tasks** (arXiv vidéo, 2026-11-10) https://arxiv.org/abs/2611.14281v1
-  Remote-sensing foundation models increasingly unify representations across sensing modalities and downstream tasks, yet their prediction mechanisms remain largely task-specific. Separate decoders, prediction heads, and objectives leave prediction fragmented across tasks. This naturally raises a ques
-- **AutoThreshold: Joint Confusion-Profile Learning for Adaptive Mask Binarization** (arXiv vidéo, 2026-11-10) https://arxiv.org/abs/2611.14279v1
-  A single validation-tuned threshold can become brittle when dense-score distributions shift. We introduce AutoThreshold, a post-hoc policy that predicts the joint mass of positive and negative pixels over score bins. This target directly parameterizes threshold-indexed confusion counts, avoiding pro
-- **Elastic-WAM: Adaptive Spatiotemporal Imagination for Efficient Robot Control** (arXiv vidéo, 2026-11-10) https://arxiv.org/abs/2611.14257v1
-  World-Action Models improve robot control by predicting future visual dynamics, but iterative video denoising incurs substantial inference overhead. Recent approaches reduce this cost through partial future denoising, yet typically rely on fixed refinement budgets. Our empirical observations reveal 
-- **Location Matters: Sparse Latent-Variance Attacks for Face Privacy against Diffusion Personalization** (arXiv vidéo, 2026-11-10) https://arxiv.org/abs/2611.14254v1
-  Text-to-image diffusion models can learn and reproduce an individual's identity from only a few reference photos, creating risks of unauthorized and misleading content generation. Proactive defenses address this risk by adding adversarial perturbations to facial images before release, thereby disrup
-- **ViGA-FLAME: Aligning Latent Visual and Geometric Representations for Robust 3D Head Expression Estimation** (arXiv vidéo, 2026-11-10) https://arxiv.org/abs/2611.14218v1
-  Estimating 3D head expression from a single image requires mapping visual appearance to underlying facial geometry. We propose ViGA-FLAME, a two-stage framework that aligns semantic visual features with a structured geometric latent space. First, a Parametric-Geometric Variational Autoencoder (PG-VA
-- **MiniMaxAI/MiniMax-H3-Image · Hugging Face** (r/LocalLLaMA, 2026-11-10) https://www.reddit.com/r/LocalLLaMA/comments/1xsp3xt/minimaxaiminimaxh3image_hugging_face/
-  Actual working link this time. submitted by /u/Bestlife73 [link] [comments]
-- **We tested Qwen3.6 27B, Qwen3.8 27B and GLM-5.3 Flash on real tasks in Elixir, OCaml, Haskell and 10 other less common languages** (r/LocalLLaMA, 2026-11-10) https://www.reddit.com/r/LocalLLaMA/comments/1xsorsx/we_tested_qwen36_27b_qwen38_27b_and_glm53_flash/
-  Hi! My team and I built a benchmark of 202 real GitHub tasks in 13 languages that rarely show up in coding benchmarks: Elixir, OCaml, Haskell, Clojure, Kotlin, Swift, Julia, R and others. I think a lot of people do local development in these languages too. We didn’t have a huge compute budget, so I 
-- **MiniMax H3-Image Released, an Open-Weight Image Model built on H3** (r/LocalLLaMA, 2026-11-10) https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image/
-  submitted by /u/MagicZhang [link] [comments]
-- **Nobody wondering why the US takes Nvidia CEO affair public?** (r/LocalLLaMA, 2026-11-10) https://www.reddit.com/r/LocalLLaMA/comments/1xsljn6/nobody_wondering_why_the_us_takes_nvidia_ceo/
-  I understand the topic is prime material for shits and giggles. Chinese model, Nvidia being the centre piece of the AI trade, etc. But why go so public on this? All of this could've been dealt with behind the scenes in secret. Obviously this is a power play to force a hand. Nothing just leaks out of
-- **Strata after heavy optimizations** (r/LocalLLaMA, 2026-11-10) https://www.reddit.com/r/LocalLLaMA/comments/1xsl8w7/strata_after_heavy_optimizations/
-  I can't believe this jump is just left on the table https://github.com/ExTV/strata-5090-4070 The optimizations was done using both Opus 5.5 and Fable 5.2 . Edit : i should have mentioned that my 4070Ti Super is on PCIe 3 x1 Edit2 : the repo is updated with quality benchmarks submitted by /u/Fz1zz [l
-- **xiangjuntang/JoVox-64 · Hugging Face - Image-to-3D** (r/LocalLLaMA, 2026-11-10) https://www.reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d/
-  Image-conditioned 64³ voxel structure generator of JoVox: Joint Hierarchical Flow Matching for Lightweight Voxel Generation . JoVox is a discrete flow matching framework that learns the joint hierarchical distribution of voxels while keeping generation lightweight. One model generates all levels, 4³
-- **Decision model to edit LLM weight directly - No training** (r/LocalLLaMA, 2026-11-10) https://www.reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no/
-  On September 18, I launched Laya at you guys request, the first system 1 open-source decision model in this subreddit, and you guys gave immense support. I saw the MIT post on direct weight edits and thought about doing the same with a decision model. Now, after two months, I just worked on a way to
-- **Fable 5.2 not only has guardrails against AI acceleration, its capabilities were capped in training too** (r/LocalLLaMA, 2026-11-10) https://www.reddit.com/r/LocalLLaMA/comments/1xsjfwo/fable_52_not_only_has_guardrails_against_ai/
-  This seems excessive, especially if they trust their classification models for safeguards, why add both? However I guess it is to be expected from a private company. It's also "yet another reason" for open weight LLMs submitted by /u/EntropyMagnets [link] [comments]
-- **Pay for Hugging Face Hub with your Google Cloud Account** (Hugging Face blog, 2026-11-10) https://huggingface.co/blog/hub-gcp-marketplace
-- **Decision Models in Hugging Face** (Hugging Face blog, 2026-11-10) https://huggingface.co/blog/decision
 
 ## Montage, motion et broadcast
 
-- **Abanyamugisha Choir Ruhuha SDA Church – Ndi Mumugongo Mp3 DOWNLOAD - CitiMuzik** (NDI (Google News), 2026-11-11) https://news.google.com/rss/articles/CBMipgFBVV95cUxQeFZDUGl4bmFFeXBOV0dxMEJtTEZXRkR5SElyZ0wzeTdxUE9NOVZCZjNBbXc0YUVlclY4dnlGMHA5aC1abldNVXBjRmZLaWwzOWFnVzltWTdFLVBKRjJ6R04xVTVZTkxhRWVEM0ZmTUQ4VEp3RlJiaTBDZzhtSXgtczJfa1gtZUw1ZjVPUEJwcTFIUHZRMjNkOThWd3ZqcDJBOVg2YTh3?oc=5
-  Abanyamugisha Choir Ruhuha SDA Church – Ndi Mumugongo Mp3 DOWNLOAD CitiMuzik
-- **Projective NLE Freedom – Strawberry Panel for DaVinci Resolve - Content + Technology** (Blackmagic (Google News), 2026-11-11) https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZm5EUEFwdTlMaGt5djE1WjVvdW1RdnYydEFMOEZ3V2h4aHBjT3JaWlFLaVlNVzVGS093MUFjSzJaWHJEYVFSdVJBUjhUV0JSRFZLMVlKMzZvTmc0czlYQWtZRlVKS3J6TTZkOThad0h3WGlabDE5b0N5X1hKTUxucWxRWEljYzVlZ0UydzFobTRFbGJFbWctSzNDUlRtN0p6SzFQWHRfdWxEdw?oc=5
-  Projective NLE Freedom – Strawberry Panel for DaVinci Resolve Content + Technology
-- **TBS Drama Series Tagusari Brothers Uses DaVinci Resolve Studio - Content + Technology** (Blackmagic (Google News), 2026-11-11) https://news.google.com/rss/articles/CBMisgFBVV95cUxOMmlCb0pNeEozaDdXcXU4SkxNdEZvNVNyay00N1RUR0dfZUl5RG01bDA3N3JaZU02Y0tlQ0NHNUNnN1JBVTFSa2NUdGVwT1AzN0F5ZDdiTnJoZm53bmREYldSUloxWWhSVS1jMjE2SDZvdEVEdGZIdkY3NVQ2UGVDOUFkS01nNFJlR25RYklMclF2NjFiR0ZSQjROdEVwUjZtTG9MRnE2bkNtNlltOWFYNFNn?oc=5
-  TBS Drama Series Tagusari Brothers Uses DaVinci Resolve Studio Content + Technology
-- **RØDE Capture Now Available For Android - Sonicstate** (NDI (Google News), 2026-11-11) https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVpmMlBZLWxtTXAtd1lNUnJJdjA3Y1ZyQ1BSMnByaV94RUNlcW1aVDNUOFRIV01TU1llQXhHQzJQS3RRS2NxQlBsMWNOdzZPWGJqQjF1TzFfUUlLcktZYjRSTjdPY1pjaEFqRVhNbmZTQlQteGQ0am1GUWxVQXd5VnE2Zw?oc=5
-  RØDE Capture Now Available For Android Sonicstate
-- **Matrox Video Launches The Sync - UK Broadcast News | 10/11/2026 - 4RFV** (Vizrt / TriCaster (Google News), 2026-11-10) https://news.google.com/rss/articles/CBMifkFVX3lxTE9UcjRIVHRGSjI1cnZfYmdQM01XX0NyaGp6XzJja2NWeWNxUTRyYU9JTGlGMmE2bDJESk92MmxmZUNNZmF5aVhoYUQtMGI0bGl3Nkl4bTRtaTVtSWM5Z0xJRUdTVktZaXl6eEZmd1BkY3FCZmM5dl9xR1I3WVNidw?oc=5
-  Matrox Video Launches The Sync - UK Broadcast News | 10/11/2026 4RFV
-- **bitfocus/companion Bitfocus Companion v5.0.3** (Bitfocus Companion, 2026-11-10) https://github.com/bitfocus/companion/releases/tag/v5.0.3
-  📦 Downloads available at https://bitfocus.io/account/downloads 💵 Donate to the project at open collective https://opencollective.com/companion Companion v5.0.3 - Release Notes 🐞 BUG FIXES add gauge 'auto' origin to default to grow from minimum on negative ranges form-labels with missing formatting p
-- **bitfocus/companion Bitfocus Companion v5.0.4** (Bitfocus Companion, 2026-11-10) https://github.com/bitfocus/companion/releases/tag/v5.0.4
-  📦 Downloads available at https://bitfocus.io/account/downloads 💵 Donate to the project at open collective https://opencollective.com/companion Companion v5.0.4 - Release Notes 🐞 BUG FIXES load modules through a symlinked config dir #4418 #3971 enforce variable id format parsing some expressions coul
-- **bitfocus/companion Bitfocus Companion v5.0.6** (Bitfocus Companion, 2026-11-10) https://github.com/bitfocus/companion/releases/tag/v5.0.6
-  📦 Downloads available at https://bitfocus.io/account/downloads 💵 Donate to the project at open collective https://opencollective.com/companion Companion v5.0.6 - Release Notes 🐞 BUG FIXES surface module compatibility check using wrong versions #4472 improve UX of internal: Local Variable: Set value 
-- **bitfocus/companion Bitfocus Companion v5.0.5** (Bitfocus Companion, 2026-11-10) https://github.com/bitfocus/companion/releases/tag/v5.0.5
-  📦 Downloads available at https://bitfocus.io/account/downloads 💵 Donate to the project at open collective https://opencollective.com/companion Companion v5.0.5 - Release Notes 🐞 BUG FIXES variables not being updated in feedbacks or localvariables in presets hidden elements not being invalidated when
-- **Vizrt: ‘Story-Aware Graphics’ Arrive Via An Open Standard - Radio & Television Business Report** (Vizrt / TriCaster (Google News), 2026-11-10) https://news.google.com/rss/articles/CBMie0FVX3lxTE9LU0FKeEprNjhwcVdOa3dzSTRjRVpybVoxUkNWcHFXQWFZeG81SGpvRTdHLUUxTENKLUlDUTJWb3BWcUFnR1oxVFBBUm1OaVZfc0dNNzBKU0U1Nkh0NmJoekdsUWJVeDRTbmN5N0d0TGFKZ25kZ0wyYXAwaw?oc=5
-  Vizrt: ‘Story-Aware Graphics’ Arrive Via An Open Standard Radio & Television Business Report
-- **RØDE Capture now available for Android - Newsshooter** (NDI (Google News), 2026-11-10) https://news.google.com/rss/articles/CBMihAFBVV95cUxNdDlicVR6X0VodjFVQTFxdXJZNDBsTXNTamhyQWpIcnNTaUljcjNIS1Q1SVZkU1hvRTRJVnBjRUxKZXpFSGZQYk9TYXY2RjBvUDEyTVpFbHN5bzdmdlJleTFRSk5WM0Zyc01rYnVrQnB1S0lWZjVWN2xzcEZhVnd6bHIzZXM?oc=5
-  RØDE Capture now available for Android Newsshooter
-- **Fox Finalises $22bn Purchase Of Roku - UK Broadcast News | 10/11/2026 - 4RFV** (Vizrt / TriCaster (Google News), 2026-11-10) https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXdXdmRodFR2bkhERGxla3haMzhwN1doNC02R0MxTUZsR1VQenN2cFdjQjV6TUlobmYzRm9BYXR4bG1ZZU1WU1VuLV9nTnNQSGtOWXFRTXRqa3daMDBUVEQ4VUJNS0RadHgwRUZ0eXJ1M3VaR0YwRWxSbUEwWF8xbHM1RjM?oc=5
-  Fox Finalises $22bn Purchase Of Roku - UK Broadcast News | 10/11/2026 4RFV
-- **Blue Stream Fiber Chooses Ateme To Modernise OTT And Enable Targeted Ads - UK Broadcast News | 10/11/2026 - 4RFV** (Vizrt / TriCaster (Google News), 2026-11-10) https://news.google.com/rss/articles/CBMitgFBVV95cUxPYXlTU3V4NU1VUzZkNU5NUW1YWEZuR1BxR29lOFVWeGtfZkRwdUJuaTVESjFoT0lMSXlNRTBXTk12eWNDSHV0Qk9RNkkwTWhCS09WcUIwTGlYb2xCMDhUNTRnR0hHSEVOcWNtVWJlMTlJYzNlOFJ5bGdJdjU4ZHpwakxDdmM1ZkNpSlVnamtiSFB4UmZzNjYwdWp1VHRNdHZjUUQ1bVF3eXNldHJaZ2xmZzYyanRHZw?oc=5
-  Blue Stream Fiber Chooses Ateme To Modernise OTT And Enable Targeted Ads - UK Broadcast News | 10/11/2026 4RFV
-- **Vizrt Demonstrates Story-Aware Graphics With Story Object Model Open Standard - Sports Video Group** (Vizrt / TriCaster (Google News), 2026-11-10) https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc09tUjVpYmhUeTRxNFB0ZGViYXFnZ0t5eDZkbWdSQ3Z2QnpmVVY4VHVpbUZxTWRxenZBNmlfMlN3b3RBeGhMd0MtXzRJY1pacWVST3VUV2dSTTJEaTF0UENUYzdGYVUxbXJZbHhHbEhhbk9WX0g0a3ZOMXowZWhudjYzX2l1Nmt5ampoeC1yQ0JrYVcybXdjRktMbTFhTlZvaFNua3otOUFhOUJHcElIbEJnNnE4cVhW?oc=5
-  Vizrt Demonstrates Story-Aware Graphics With Story Object Model Open Standard Sports Video Group
-- **“You Are Creating Division Among Ndigbo” - Yul Edochie Tackles Senator Victor Umeh Over Peter Obi - Gistlover** (NDI (Google News), 2026-11-10) https://news.google.com/rss/articles/CBMivAFBVV95cUxNcnpnYVpLMTY5NWRydUZlLU41Q1Y1cWdtZWJPSTV6R1praDNqY3k2d3ZKVGh6RmRvVFhRUG5Lb0VVNVNCT0tLWjJpQmZGUHlSdlJmaEZmZmw5SUF6cnpBQXJ0ZlRaUTdkN3BNdFJZMzd0RDVNbHlGQmtZNlhRdFVtQWpYMmhLd3dFalA2WDV6S19qSmxieDdXdmlsdjBnQXhiai1CLXR3S1RUQVpFV0J6MGNHQkRpNGlLLTFDMg?oc=5
-  “You Are Creating Division Among Ndigbo” - Yul Edochie Tackles Senator Victor Umeh Over Peter Obi Gistlover
-- **Yul Edochie speaks out after Victor Umeh's message to Peter Obi's opponents - Legit News** (NDI (Google News), 2026-11-10) https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY240WWFSTktSR0s4SUFyeng4dnk2bVZIMlM5WDJNMmxBMjJ1cnp2N3FCMkU3MTBPekFjblFLdldKOGd4UTM0VW5Cd0dkWURuTDBibFVzNVlHMDNHaTVPcjM2cXFGT1dMOHFxSUVqMEtMSU5UWm1jbFBVM1BuQy1BMXVIeVJDUUs4Q3E5UncxS1lnZTBRY3cwTVNIQl9fYmpqNEY4S1RqMFBwYkwwRzMtVGJxTVNhQkdDWTlISC1ieGw5cHV1M3p5Tks4c0M1RVNN?oc=5
-  Yul Edochie speaks out after Victor Umeh's message to Peter Obi's opponents Legit News
-- **Star Gazing with Atong Atem - Art Guide Australia** (Blackmagic (Google News), 2026-11-10) https://news.google.com/rss/articles/CBMiSEFVX3lxTE10M19ZN3VhQTg1b1BhY0JJWEp5VDFwMENSTHZ6MFBfQUlKUE5vcV8wNVMtV2xKZjRKY1p3QUNDbTlNUEhtdkpYSQ?oc=5
-  Star Gazing with Atong Atem Art Guide Australia
-- **Sounds Of The Secret Place – Ndi Wuwo - TrendyHipHop** (NDI (Google News), 2026-11-10) https://news.google.com/rss/articles/CBMifEFVX3lxTFAtajlFVUZBUTNESEowdWFSQ2lRQ1FsTU5QTWlacmh4V2ZaUC1BRDJTRVQtSTl5Wnl4ZzZPSzMzNGM3WGNiRlNZNlBtc0h0bUtQLVptTjd4dF8wMmJReUxjN0UwTUN0SFZDZndkaGxhS3pCQVh1LUF2QTBMS3k?oc=5
-  Sounds Of The Secret Place – Ndi Wuwo TrendyHipHop
+- **Blackmagic Design Unveils Seventh-Order Ambisonic Microphone with Built-in Spatial Encoder - audioXpress** (Blackmagic (Google News), 2026-11-12) https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMFJISGg3NHlyaHB4N014aTJaWG94UjZxV2ZFdDBFeU1iVXNEYjdnUzdpekRYYnBGNVVOWmRuVmFUa2h0RVJvbWJSM01jcnZFaWRwdUpsVGx4WFYzeDQzNHJXeF9wQ3RZMDlsVlF0MjA2WmdkbVJ1R1VZQ1ItMXY2ZHpqd2JvNzhpZ091dXB0VDhFVWtqYXZkSHBYa1FBamZLUHpfU3NCcG9ORFhsT1VjNnRoZTlfVFlzS1Ew?oc=5
+  Blackmagic Design Unveils Seventh-Order Ambisonic Microphone with Built-in Spatial Encoder audioXpress
+- **4BY4 brings AI video enhancement to Mac, DaVinci Resolve and Nuke - K-EnterTech Hub** (Blackmagic (Google News), 2026-11-12) https://news.google.com/rss/articles/CBMieEFVX3lxTE8zMWRvcDlVQVJES2gta0h4RlplSTJrQ2NKZ1ZzWGRaYlFQa29hYUJxWkNXRVlOWldmdk9xemJ5eUJFc0RzaV9Bc0ZwdnRGSjA2UWpEb1JscXhiN1hONWpKSmZSYlNGdFBVb2JRWXlwNUdLZS1uRGxfcQ?oc=5
+  4BY4 brings AI video enhancement to Mac, DaVinci Resolve and Nuke K-EnterTech Hub
+- **Media - Blackmagic Design** (Blackmagic (Google News), 2026-11-11) https://news.google.com/rss/articles/CBMiakFVX3lxTE5JeWUwSy1hTVFjWDhTSzRDd2dIZDVNUzN4WXhlNnRZRDRYaEpFNE9JTDBGaHVqQXIzUzJFUkRSanNibGdPNE1udHdxWkc2YTdmNGp4MEhZSDh0eGpMOWl5d0ozTVJYOW9UR2c?oc=5
+  Media Blackmagic Design
+- **remotion-dev/remotion v4.0.543** (Remotion, 2026-11-11) https://github.com/remotion-dev/remotion/releases/tag/v4.0.543
+  What's Changed @remotion/studio : Add audio level meters by @JonnyBurger in #13146 remotion.pro is retired, buy a license now at https://www.remotion.dev/pricing instead @remotion/cli : Add open-timeline import and canvas-capture import by @JonnyBurger in #13148 @remotion/renderer : Add chromiumOpti
+- **NDI-ABAT to Cubana Chief Priest: Umahi is the new Zik of Africa - Galaxy Television** (NDI (Google News), 2026-11-11) https://news.google.com/rss/articles/CBMitAFBVV95cUxPaDdNc0JkVlVNaUZSYmh2SXBHQ1ZvM3RGNmlkRFd1OVc3XzN6eGRNQWpEUTJjMFFnSUNBSTBYaWZVYjBMai0weThreHVERzVJTnV0THItU3Foc0k1V05IQmFoNk9aZ2h5bEFUWVVrR05namhkWjdkMFlnbFJUZUJHYWMtdVdRYk95aDRrZTBCRUZjazNnYVFvdnlnaF9BYWk1SWE0WkZtUjFFbnFQa0hSWUZBelA?oc=5
+  NDI-ABAT to Cubana Chief Priest: Umahi is the new Zik of Africa Galaxy Television
+- **The Blackmagic URSA Cine 12K LF Gets Improved Talkback, Tally, and Multicast 2110 IP Support - No Film School** (Blackmagic (Google News), 2026-11-11) https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vMk9Qc0NLYjZvclYySnZBVlQ1dzZOdE5mZDNkd3BqamliSW84cUV4RTA2T1J2T3pyWTAwT3RJcTYtQjNQOHFabUFvczlGM1FiQ1pTenJYSUVnaFNpY2tnWE9LRUFueTQ?oc=5
+  The Blackmagic URSA Cine 12K LF Gets Improved Talkback, Tally, and Multicast 2110 IP Support No Film School
+- **RØDE Capture arrives on Android with wireless microphone control and video recording - What Digital Camera** (NDI (Google News), 2026-11-11) https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaHZsRmJmdEd1UXExV0xIdV9CNFUwbXRteWNXTmpiVTBrTENKblhZcGxEQTVmVnZ6WndISjc1VEgtdF9PcnpjYTc1aDBWcUY3b0IxRHlzUWJaRURVR1hRS2taelFCVkI0aS1ZSXFwdnRLMHc1ajFocVBFVGlqMXY3dTJjcXZHMkhBc2Q0bnd6MzlCMTN2dXpQd3RBWURDWGdIWHd5ZXo5V0I0emI1bjFqUEVsYmJPcXlOcnIyc0lSMTN0UG1pRkFFUHloRHhQQndQ?oc=5
+  RØDE Capture arrives on Android with wireless microphone control and video recording What Digital Camera
+- **Sony Begins Mass Shipping Its Flagship 105MP Global Shutter Sensor: 10K at 100 FPS - Y.M.Cinema Magazine** (Blackmagic (Google News), 2026-11-11) https://news.google.com/rss/articles/CBMigAFBVV95cUxQVGZWUUJqekx0OHhIM0lVR294WjFDZHlWYlBsQktwVGJWdFRtR0c2MVZmVThOakRoNjBuTzZqODdvcjlSYmN5RFBiQlpCOFdvN3p4U1M5T1lRVng4c3B4NHc0RUYtWHU2d0F2SjRPQUFrVmFoMVZFeDhDU2Y5VEhJSw?oc=5
+  Sony Begins Mass Shipping Its Flagship 105MP Global Shutter Sensor: 10K at 100 FPS Y.M.Cinema Magazine
+- **RØDE Capture Now Available for Android – Direct Connect for Wireless Micro, Wireless GO (Gen 3) and Wireless PRO, NDI Output - CineD** (NDI (Google News), 2026-11-11) https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUS02OXR5S3ZTTFZ3UG56WnlkUHdzLVVRMFhuWk0wY25NajQ0bXN2V2xrUzZjaEtoRkhjUnB4bWhfYzdZemZpbjVZa2tYcWlWYVI2OUZLSW5hUU5ONHFtR3BGYUFXTEFsRndjT1drd0w2c2UzeC1nZGUxdVhDWmxkUUxfMHZRMEtaMFFweXRPOE8xa2NCSmtUWGY4X1pCb2JJZnJKLThFZzFvYVhrM0NyaXptZlN0QXB1Y3lBNWxCVDlSbEJyV3hsM0NtWTVmM01fT19hOGplSVg?oc=5
+  RØDE Capture Now Available for Android – Direct Connect for Wireless Micro, Wireless GO (Gen 3) and Wireless PRO, NDI Output CineD
+
+## Modèles et labos
+
+- **Holiday Extras is rethinking what it can build with Codex** (OpenAI news, 2026-11-12) https://openai.com/business/customer-stories/holidays-extras-codex
+  With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.
+- **Supporting research on AI and children’s safety** (OpenAI news, 2026-11-12) https://openai.com/index/children-first-declaration
+  OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.
+- **Gemini Decisions API** (Simon Willison, 2026-11-11) https://simonwillison.net/2026/Nov/11/gemini-decisions-api/
+  Gemini Decisions API Google join Jev and OpenAI in the decision model category with "Gemini Decision 1". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term "Noul" for a yes/no question. It's pri
+- **aws-emulator** (Simon Willison, 2026-11-11) https://simonwillison.net/2026/Nov/11/aws-emulator/
+  aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Si
+- **Browse tools.simonwillison.net by tag** (Simon Willison, 2026-11-11) https://simonwillison.net/2026/Nov/11/tools-tags/
+  Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze the code for JavaScript APIs, libraries, an
+- **Gemini Decisions API: Fast, calibrated multimodal decisions** (Google AI blog, 2026-11-11) https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/
+  Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.
+- **llm 0.37.2** (Simon Willison, 2026-11-11) https://simonwillison.net/2026/Nov/11/llm/
+  Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from othe
+- **Show HN: Klad, a paint app your coding agent can drive (source-available)** (Hacker News IA, 2026-11-11) https://github.com/klad-app/klad
+  79 points, 31 commentaires HN
+- **Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.** (Google AI blog, 2026-11-11) https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/
+  Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.
+- **Show HN: Yogurt – Free, private, open-source alternative to Granola** (Hacker News IA, 2026-11-11) https://github.com/FrigadeHQ/yogurt
+  242 points, 95 commentaires HN
+- **Anthropic's IPO roadshow video** (Simon Willison, 2026-11-11) https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/
+  Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on "Approach to compute" with co-founder Tom Brown is particularly interesting, describing how Anthropic t
+- **AlphaGenome 2: Deciphering how cells read DNA to better understand disease** (Google DeepMind blog, 2026-11-11) https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/
+  Predicting how DNA sequences and their variations impact specific human cell types and disease.
+- **JioStar’s chief architect on AI discovery at 500M-user scale** (OpenAI news, 2026-11-11) https://openai.com/index/jiostar-vijay-seshadri
+  JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.
+
+## Agents, code et automatisation
+
+- **n8n-io/n8n n8n@1.123.95** (n8n, 2026-11-12) https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.95
+  1.123.95 (2026-11-12)
+- **n8n-io/n8n n8n@2.47.5** (n8n, 2026-11-12) https://github.com/n8n-io/n8n/releases/tag/n8n%402.47.5
+  2.47.5 (2026-11-12) Bug Fixes API: Reject edits to read-only credential nodes in the Public API ( #43555 ) ( 404b3df ) editor: Align animated node border corners ( #43549 ) ( 1fd6894 )
+- **n8n-io/n8n n8n@2.48.2** (n8n, 2026-11-12) https://github.com/n8n-io/n8n/releases/tag/n8n%402.48.2
+  2.48.2 (2026-11-12) Bug Fixes API: Reject edits to read-only credential nodes in the Public API ( #43554 ) ( 591ea5d ) editor: Align animated node border corners ( #43547 ) ( bf14906 ) editor: Keep agent tabs available for new drafts ( #43511 ) ( 694bf3a )
+- **[AINews] D-Day (Decision Models Day)** (Latent Space, 2026-11-12) https://latent.space/p/ainews-d-day-decision-models-day/
+  November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.
+- **The Jev Revolution: What Engineers Are Already Building with System One Models** (Latent Space, 2026-11-12) https://latent.space/p/jev-revolution/
+  At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.
+- **openai/codex 0.170.0-alpha.2** (OpenAI Codex, 2026-11-12) https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.2
+  Release 0.170.0-alpha.2
+- **openai/codex 0.167.0-alpha.4.3** (OpenAI Codex, 2026-11-11) https://github.com/openai/codex/releases/tag/rust-v0.167.0-alpha.4.3
+  Release 0.167.0-alpha.4.3
+- **openai/codex 0.167.2** (OpenAI Codex, 2026-11-11) https://github.com/openai/codex/releases/tag/rust-v0.167.2
+  New Features Codex now sends tool updates incrementally by default on Google Cloud Vertex AI. To opt out, set incremental_tools_legacy_gcp = false under [features] in config.toml . ( #60617 , #60848 ) Changelog Full Changelog: rust-v0.167.1...rust-v0.167.2
+- **openai/codex 0.169.0-alpha.11.1** (OpenAI Codex, 2026-11-11) https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.11.1
+  Release 0.169.0-alpha.11.1
+- **openai/codex 0.170.0-alpha.1** (OpenAI Codex, 2026-11-11) https://github.com/openai/codex/releases/tag/rust-v0.170.0-alpha.1
+  Release 0.170.0-alpha.1
+- **Show HN: Black Ops II statically recompiled to native ARM64 macOS** (Hacker News Claude, 2026-11-11) https://github.com/adrbn/bo2-mac
+  146 points, 64 commentaires HN
+
+## Open source et recherche
+
+- **Gemma4-31b latent space discovery: Caring and Contempt for user controlled by the same 3 neurons! Plus, how to find your own steering recipes and export to GGUF steering vector for llama.cpp** (r/LocalLLaMA, 2026-11-12) https://www.reddit.com/r/LocalLLaMA/comments/1xu4n7b/gemma431b_latent_space_discovery_caring_and/
+  submitted by /u/New_Alps_5655 [link] [comments]
+- **The regulation of local AI could/should be viewed as the largest censorship implementation in the history of mankind.** (r/LocalLLaMA, 2026-11-12) https://www.reddit.com/r/LocalLLaMA/comments/1xu2mdo/the_regulation_of_local_ai_couldshould_be_viewed/
+  With all of this fear mongering on the “dangers” of LLM’s, I see how using people’s ignorance and emotions on the subject can be used as a tool to limit and restrict the tool from the average person. My fear is that China and the US https://www.reuters.com/world/china/us-china-should-stay-clear-eyed
+- **Someone voltage-glitched a CMP 170HX mining card into a working A100-80G, and it's ~1.18x faster than retail** (r/LocalLLaMA, 2026-11-12) https://www.reddit.com/r/LocalLLaMA/comments/1xu1dkz/someone_voltageglitched_a_cmp_170hx_mining_card/
+  Kate's writeup is wild. The 8GB CMP 170HX apparently ships with ~80GB of HBM onboard, just fused off. Software unlocks got people to 64GB. She used voltage fault injection to get past the fuse lock, then enabled all the working SMs (120-126 vs the 108 NVIDIA ships on A100). Her numbers: 85.9 TFLOP/s
+- **I released Inflect v3: lightweight local TTS in 34M parameters (Apache 2.0)** (r/LocalLLaMA, 2026-11-12) https://www.reddit.com/r/LocalLLaMA/comments/1xtzwxf/i_released_inflect_v3_lightweight_local_tts_in/
+  Today I’m releasing Inflect v3: a family of local text-to-speech models: Mini, Micro, and Atom. Mini is the main model, with six voices and 34.31M parameters Mini provides vocal-event tags, reference voice-tuning, and 48 kHz enhancement. It runs on both CPU and CUDA. GitHub, installation, and exampl
+- **Architecture trends: From full to local attention** (r/LocalLLaMA, 2026-11-11) https://www.reddit.com/r/LocalLLaMA/comments/1xtvxtp/architecture_trends_from_full_to_local_attention/
+  Currently working towards a bigger open LLM roundup. But in the meantime, just one of the interesting trends that stood out. I.e., looks like the transition from full to hybrid attention continues. In 2025, there were still lots of full attention models, with a shift to "some full attention" hybrids
+- **Nvidia is Preparing to Oust Nvidia CEO Jensen Huang** (r/LocalLLaMA, 2026-11-11) https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen/
+  submitted by /u/fallingdowndizzyvr [link] [comments]
+- **[2610.29162v1] Why is AI-generated language so hard to understand?** (r/LocalLLaMA, 2026-11-11) https://www.reddit.com/r/LocalLLaMA/comments/1xtux72/261029162v1_why_is_aigenerated_language_so_hard/
+  submitted by /u/TheRealMasonMac [link] [comments]
+- **I'm releasing a Local World Model Ive been building that turns images into interactive videos you control in real time. It works on RTX 3060, 4060 and anything above, linking huggingface** (r/LocalLLaMA, 2026-11-11) https://www.reddit.com/r/LocalLLaMA/comments/1xtpc2v/im_releasing_a_local_world_model_ive_been/
+  Hi Everyone, I'm releasing my world model, been on this sub for a few months https://huggingface.co/lucidml/gta I know it says gta but it's more stable than the general model. It can take any image and turn it into an interactive video. If you'd like to test it instantly I am also setting up a simpl
+- **Microsoft files a patent application to train AI models on idle consumer GPUs** (r/LocalLLaMA, 2026-11-11) https://www.reddit.com/r/LocalLLaMA/comments/1xtowe4/microsoft_files_a_patent_application_to_train_ai/
+  According to Microsoft's patent application, it explains breaking down training into small tasks and sending them to devices of owners who opted in. Credits will be the reward. it's just an app and no pay out rate is advertized so I don't even know if the credits would be enough for the electricity.
+- **Open-source method (MACaQ) beats Unsloth GGUFs!** (r/LocalLLaMA, 2026-11-11) https://www.reddit.com/r/LocalLLaMA/comments/1xto0fa/opensource_method_macaq_beats_unsloth_ggufs/
+  Some results for those using GGUFs and llama.cpp: GGUF quality: MACaQ vs. Unsloth and Bartowski Qwen3-4B (IQ4_XS) Quantization GGUF size Mean KL ↓ MACaQ 2.260 GB 0.02804 Bartowski 2.271 GB 0.03443 Unsloth 2.271 GB 0.03663 23.5% lower KL divergence than Unsloth and 18.6% lower than Bartowski , at vir
+- **Open source self driving is here!** (r/LocalLLaMA, 2026-11-11) https://www.reddit.com/r/LocalLLaMA/comments/1xtmeif/open_source_self_driving_is_here/
+  Today NVIDIA releases Alpamayo 2 Edge! I work for Embedl and we have already released an optimized version of the model that is more than 10x faster than pytorch when run on edge hardware like AGX Thor! The model is trained in an RL loop (!) and takes in 6 cameras and the recent motion. Feel free to
+- **KRAFTON/Raon-1-nano · Hugging Face** (r/LocalLLaMA, 2026-11-11) https://www.reddit.com/r/LocalLLaMA/comments/1xtmbkn/kraftonraon1nano_hugging_face/
+  Raon-1 nano is a dense language model with 1.5B effective parameters (3.1B total, including a 1.5B per-layer embedding table), developed by KRAFTON AI . It is designed to follow instructions, maintain conversational context, and call the right tools in both Korean and English . As part of the Raon o
+- **New Qwen3.8-27B Unsloth Dynamic V3.1 GGUFs** (r/LocalLLaMA, 2026-11-11) https://www.reddit.com/r/LocalLLaMA/comments/1xtlyhe/new_qwen3827b_unsloth_dynamic_v31_ggufs/
+  Hey r/LocalLLaMA ! We're releasing new new Unsloth Dynamic v3.1 GGUFs for Qwen3.8-27B! They're better by 5-10% accuracy on DeepSWE, Terminal Bench and more vs UD3, GSQ-RCO and Exllama-3! We're also improving our algorithms further so we can apply them to Qwen4 so folks can have efficient and accurat
+- **Mod ttkciar is harassing this sub** (r/LocalLLaMA, 2026-11-11) https://www.reddit.com/r/LocalLLaMA/comments/1xthew3/mod_ttkciar_is_harassing_this_sub/
+  I will get straight to the point. I believe Moderator ttkciar is abusing his power as moderator in this sub and his decision are worsening the experience of our local AI community. He has removed many of my posts that fellow redditors found very useful and after talking with many people in this sub,
+- **You can now train your own LLMs with less memory, on your gaming GPUs** (r/LocalLLaMA, 2026-11-11) https://www.reddit.com/r/LocalLLaMA/comments/1xtgnh9/you_can_now_train_your_own_llms_with_less_memory/
+  TL;DR: You can train your own 27B model on a 3090 with 24GB VRAM, though you would have to go through hundreds of billions of tokens for it to be good. I am working on conversion of existing models. Check repos for code and the paper if you are interested in more. I have a 40.4GB Qwen Flash Next GGU
+- **Token Pooling-Aware Training for Multi-Vector Embedding Models** (Hugging Face blog, 2026-11-11) https://huggingface.co/blog/token-pooling
 
 ## Business, prix et régulation
 
-- **Nvidia’s crisis has corporate governance experts reaching for the popcorn** (TechCrunch IA, 2026-11-11) https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/
-  The governance experts we talked to say nobody has seen anything like what's unfolding right now.
-- **Ring cameras go mobile as Amazon debuts AI-powered security drone and robot** (Ars Technica IA, 2026-11-10) https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/
-  Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.
-- **Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI** (Ars Technica IA, 2026-11-10) https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/
-  Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.
-- **OpenAI acquires Odessia, travel startup created by Sonder founder** (TechCrunch IA, 2026-11-10) https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/
-  OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.
-- **OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect** (TechCrunch IA, 2026-11-10) https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/
-  New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.
-- **What happens to mathematics when AI becomes an oracle?** (Ars Technica IA, 2026-11-10) https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/
-  Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World .
-- **All 7 Anthropic founders will each cash out about $250M in IPO** (TechCrunch IA, 2026-11-10) https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/
-  Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.
-- **Oura to acquire AI-native primary care startup Counsel Health for $625M** (TechCrunch IA, 2026-11-10) https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/
-  The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”
-- **The US is winning the AI race. Jensen Huang could have blown it** (The Verge IA, 2026-11-10) https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy
-  As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool le
-- **PSI is trying to make a business out of AI-driven scientific discovery** (TechCrunch IA, 2026-11-10) https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/
-  PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.
-- **OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google** (TechCrunch IA, 2026-11-10) https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/
-  OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.
-- **ChatGPT is getting verified AI ‘Business Agents’** (The Verge IA, 2026-11-10) https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub
-  ChatGPT is going to let you chat with verified "Business Agents" that represent a brand to help you with things like comparison shopping. The feature, available first to "eligible" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in Cha
-- **The indie game community is in disarray over AI and Big Walk** (The Verge IA, 2026-11-10) https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai
-  Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in "any capacity." Soon after, the developer of indie hit Big Walk has published a statement saying it "sparingly" used AI in the "final stretch" of the game's dev
-- **Anthropic has its own AI-powered office suite now** (The Verge IA, 2026-11-10) https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now
-  For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And no
-- **Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks** (TechCrunch IA, 2026-11-10) https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/
-  As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.
-- **Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline** (TechCrunch IA, 2026-11-10) https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+- **Who could replace Jensen Huang? A highly unscientific list of possible successors** (TechCrunch IA, 2026-11-12) https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/
+  Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.
+- **The unfolding Jensen Huang scandal: a timeline** (TechCrunch IA, 2026-11-11) https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
   The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
-- **eBay appears to have shut the door on third-party AI agents** (The Verge IA, 2026-11-10) https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping
-  eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a 
-- **Google releases Gemini 4 Carbon with agent ‘swarm’ feature** (The Verge IA, 2026-11-10) https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout
-  Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of "cybersecurity defenders" two weeks ago. Google claims Carbon is its "strongest model" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google 
-- **Google broadens its AI hardware portfolio with two new specialized chips** (TechCrunch IA, 2026-11-10) https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/
-  Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.
-- **Meta’s AI agent Muse lands on Apple Watch and Android Wear OS** (TechCrunch IA, 2026-11-10) https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/
-  Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.
-- **DeepMind reveals Gemini Robotics 2.5 and open safety benchmark "ASIMOV-jailbreak"** (Ars Technica IA, 2026-11-10) https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/
-  The new model is up to twice as successful at some tasks.
-- **Anthropic targets $1.4 trillion IPO** (The Verge IA, 2026-11-10) https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion
-  Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the The New York Times. The Wall 
-- **Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly** (TechCrunch IA, 2026-11-10) https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/
-  Adobe is taking on Figma with a new prototype builder tool in Firefly.
-- **Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion** (TechCrunch IA, 2026-11-10) https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/
-  The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.
-- **Adobe is going all in on agentic AI** (The Verge IA, 2026-11-10) https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates
-  Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your preferr
-- **Photoshop, Lightroom, and Premiere are making it easier to remove things** (The Verge IA, 2026-11-10) https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates
-  Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removing objects, blemishes, and other unwanted
-- **After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era** (TechCrunch IA, 2026-11-10) https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/
-  Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.
-- **Spotify’s AI DJ gets new voices, personalities, and an option for less chatter** (TechCrunch IA, 2026-11-10) https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/
-  Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.
-- **Hands-on with Ring’s new AI drone camera for your home** (The Verge IA, 2026-11-10) https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot
-  Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years after the company ann
-- **Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot** (TechCrunch IA, 2026-11-10) https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/
-  Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.
-- **Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns** (TechCrunch IA, 2026-11-10) https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/
-  Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.
-- **Ukraine’s fiber-optic drones get squeezed by AI data center demand** (Ars Technica IA, 2026-11-10) https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/
-  Ukraine competes with Russia and data centers for China’s optical fiber supply.
+- **Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang** (TechCrunch IA, 2026-11-11) https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/
+  As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.
+- **Jensen Huang accused of having another affair — with an Nvidia exec** (TechCrunch IA, 2026-11-11) https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/
+  Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.
+- **Nvidia is reportedly preparing to fire Jensen Huang** (The Verge IA, 2026-11-11) https://www.theverge.com/tech/1031652/jensen-huang-rumor
+  Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was wit
+- **United won’t let your AI agent book your flight** (The Verge IA, 2026-11-11) https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents
+  United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like 
+- **Why the data center you dread might never even be built** (TechCrunch IA, 2026-11-11) https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/
+  The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the
+- **Meta is losing its longtime head of infrastructure** (TechCrunch IA, 2026-11-11) https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/
+  Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.
+- **How backlash and red tape continue to slow data centers post-Blue Wave** (TechCrunch IA, 2026-11-11) https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/
+  The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the
+- **CoreWeave turns to customer prepayments, shorter contracts to fund AI growth** (TechCrunch IA, 2026-11-11) https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/
+  CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.
+- **With $720M round, Britain’s Fractile gets a leg up in the race for AI chips** (TechCrunch IA, 2026-11-11) https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/
+  Fractile has now become one of the top-funded players in the race for purpose-built AI chips.
+- **Congress to call Jensen Huang in to answer for alleged Chinese spy affair** (TechCrunch IA, 2026-11-11) https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/
+  Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.
+- **Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI** (Ars Technica IA, 2026-11-11) https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/
+  Latest example of the AI boom’s circular financing comes as AI trade wobbles.
+- **Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.** (Ars Technica IA, 2026-11-11) https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/
+  Any amount of AI coding is too much for many Independent Games Festival judges.
+- **Is Jensen Huang’s bad behavior more commonplace than it seems?** (TechCrunch IA, 2026-11-11) https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/
+  “There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.
+- **OpenAI’s quarterly revenue reportedly crosses $10B for the first time** (TechCrunch IA, 2026-11-11) https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/
+  Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.
+- **Google’s Tabletop AI experiment lets you build custom collaboration apps** (The Verge IA, 2026-11-11) https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability
+  Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature tha
+- **Google’s AlphaGenome 2 zooms in on the cellular roots of disease** (The Verge IA, 2026-11-11) https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model
+  Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. Alp
+- **Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth** (TechCrunch IA, 2026-11-11) https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/
+  With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.
+- **Google DeepMind just mathematically verified key parts of Signal** (Ars Technica IA, 2026-11-11) https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/
+  The four-week project hints that AI could make formal verification far more practical.
+- **Adobe’s AI experiments let you walk around in photos and interview your characters** (The Verge IA, 2026-11-11) https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai
+  Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn p
+- **Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads** (TechCrunch IA, 2026-11-11) https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/
+  Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.
