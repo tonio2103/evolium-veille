@@ -1,0 +1,504 @@
+[
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Editorials Higgsfield Talent Contest: $1,000,000 in Cash Prizes for AI Films 10 min · Nov 12, 2026",
+  "url": "https://higgsfield.ai/blog/higgsfield-talent-contest",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-14T09:39:40.672079+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Comparisons 8 Best AI Tools for Creating Micro-Dramas in 2026 15 min · Nov 12, 2026",
+  "url": "https://higgsfield.ai/blog/best-ai-tools-micro-dramas-2026",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-14T09:39:40.672079+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "hyper3d/rigging/animations Lists available animation presets for Hyper3D Rigging, returning animation IDs and metadata for use in rigging requests. 3d rigging a",
+  "url": "https://fal.ai/models/hyper3d/rigging/animations",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-14T09:39:40.672079+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "hyper3d/rigging Hyper3D Rigging automatically rigs existing 3D models with a skeleton for animation. 3d rigging skeleton",
+  "url": "https://fal.ai/models/hyper3d/rigging",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-14T09:39:40.672079+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "[AINews] The No AI Slop Manifesto",
+  "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+  "summary": "November 13, 2026 — AIE speakers unite to lay out how to fight slop.",
+  "date": "2026-11-14T08:31:02+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "[Paper] Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvuit5/paper_read_less_solve_more_tokenefficient_sparse/",
+  "summary": "Web-facing AI agents repeatedly access webpages, documents, repositories, and tool responses, yet reading interfaces often expose entire objects when only sparse evidence is needed. This over-reading increases token and latency costs and can dilute relevant evidence. We present SparseRead, a reusable reading control layer that governs content admission without modifying the agent model. Its Read I",
+  "date": "2026-11-14T05:41:22+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "ERNIE 5.5 Flash Base · ERNIE",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvuclv/ernie_55_flash_base_ernie/",
+  "summary": "I guess some may like to read this. submitted by /u/yahbluez [link] [comments]",
+  "date": "2026-11-14T05:31:24+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "salesforce-sovereign-intelligence/SOV-Transcribe-1 · Hugging Face",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvst4u/salesforcesovereignintelligencesovtranscribe1/",
+  "summary": "SOV-Transcribe-1 SOV-Transcribe-1 is Salesforce's open-weight speech-augmented language model built for non-streaming automatic speech recognition (ASR). It combines leading English transcription accuracy with multilingual support and natural-language control over how speech is transcribed. The model ranks #1 among open-weight models for non-streaming speech-to-text on Artificial Analysis (#7 over",
+  "date": "2026-11-14T04:06:46+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvsb5f/instead_of_lowering_gpu_prices_former_nvidia_ceo/",
+  "summary": "submitted by /u/billy_booboo [link] [comments]",
+  "date": "2026-11-14T03:40:06+00:00"
+ },
+ {
+  "source": "auto-editor (montage auto)",
+  "family": "Montage, motion et broadcast",
+  "title": "WyattBlue/auto-editor 31.9.0",
+  "url": "https://github.com/WyattBlue/auto-editor/releases/tag/31.9.0",
+  "summary": "Features Import Final Cut Pro XML: .fcpxml files and .fcpxmld bundles, with connected clips, transitions, speed, and volume. What a timeline can't hold, such as compound clips, is left out with a warning. Every transition in Premiere Pro, from push and clock-wipe to glitch and page-peel , plus its Legacy folder ( iris-round , barn-doors , push-legacy , …) and the constant-power and exponential-fad",
+  "date": "2026-11-14T03:07:26+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.171.0-alpha.5",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.5",
+  "summary": "Release 0.171.0-alpha.5",
+  "date": "2026-11-14T01:25:03+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+  "url": "https://claude.com/resources/articles/projects-redesigned",
+  "summary": "87 points, 81 commentaires HN",
+  "date": "2026-11-14T00:28:11+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50492141"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+  "url": "https://unsloth.ai/docs/models/qwen3.8",
+  "summary": "140 points, 35 commentaires HN",
+  "date": "2026-11-14T00:06:04+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50491980"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Amazon has a plan to index the world’s online shopping data",
+  "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+  "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]",
+  "date": "2026-11-13T23:49:11+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Altus AFB Airmen bring STEM education to local students - Altus Air Force Base (.mil)",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QYmhSWWVaam9oZkVXaF8xYmtYUlE4cjhmejdvOTFMRHBMUEZIZ3huVXhYdzhXWHB4Ql81VnQwRTFuaVR5TEhvOURmdUhCSDQteU1jcE50T29GenBMVFFSbHJXbGZwTWNYXzBGay1lLU5adw?oc=5",
+  "summary": "Altus AFB Airmen bring STEM education to local students Altus Air Force Base (.mil)",
+  "date": "2026-11-13T23:10:40+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "datasette-cluster-map 0.19",
+  "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+  "summary": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&E , also demonstrating Datasette's recently redesigned facets : Tags: datasette , geospatial , op",
+  "date": "2026-11-13T23:02:45+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+  "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+  "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+  "date": "2026-11-13T22:43:00+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Claude Meetings",
+  "url": "https://claude.com/resources/articles/claude-meetings",
+  "summary": "96 points, 73 commentaires HN",
+  "date": "2026-11-13T22:39:15+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50491097"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "datasette-leaflet 0.3",
+  "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+  "summary": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datasette-leaflet is the plugin that loads a bundled Leaflet so other Datasette plugins can depend on it.",
+  "date": "2026-11-13T22:30:54+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+  "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+  "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+  "date": "2026-11-13T21:20:47+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+  "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
+  "date": "2026-11-13T20:45:10+00:00"
+ },
+ {
+  "source": "Claude Code changelog",
+  "family": "Agents, code et automatisation",
+  "title": "anthropics/claude-code v2.1.325",
+  "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.325",
+  "summary": "What's changed Fixed a security issue in how zstd-compressed responses are decoded Added a spinner tip in VS Code and similar integrated terminals about re-running a notebook cell, shown once Claude has read or edited a Jupyter notebook Added a line under the error shown when your organization's policy blocks a request, saying how to continue: run /rewind and change the message, or run /clear Adde",
+  "date": "2026-11-13T20:40:01+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "AI agent startup LangChain hits $3B valuation",
+  "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+  "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+  "date": "2026-11-13T19:37:57+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Flash Next [GGUF]",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/",
+  "summary": "hey llamas, its Alish from nace.ai (open source ai lab behind #1 decision model on latest Artificial Analysis decision index v2.1) & Kapitsa (optimized inference for apple silicon). As promised in the last post , we are releasing the GGUF weights based on the Nace quantization of Qwen 9B, 27B, 35B and Flash-Next. I will describe our process on how we came up with these quants right below, so skip ",
+  "date": "2026-11-13T19:23:54+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.171.0-alpha.4",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.4",
+  "summary": "Release 0.171.0-alpha.4",
+  "date": "2026-11-13T19:02:32+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+  "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+  "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+  "date": "2026-11-13T18:40:30+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Projective’s Multi-NLE Collaboration and Management Panel Set to Add DaVinci Resolve Integration - No Film School",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13U3JITnB4bXFmbnc4SU9fMklXX3pwVlREQmQzNV80ZEpHcW4zb2RPNVlNOExTSnhvRlQ5dHpSWEl0Mkg2NGpVdTh2YV9XTkZkbTFIWGJSZDluT3JjZko1dmpwZUx0UQ?oc=5",
+  "summary": "Projective’s Multi-NLE Collaboration and Management Panel Set to Add DaVinci Resolve Integration No Film School",
+  "date": "2026-11-13T18:13:20+00:00"
+ },
+ {
+  "source": "Hugging Face blog",
+  "family": "Open source et recherche",
+  "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+  "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+  "summary": "",
+  "date": "2026-11-13T18:00:39+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+  "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+  "summary": "392 points, 97 commentaires HN",
+  "date": "2026-11-13T17:30:10+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50486748"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+  "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+  "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+  "date": "2026-11-13T17:25:45+00:00"
+ },
+ {
+  "source": "Hugging Face blog",
+  "family": "Open source et recherche",
+  "title": "XYBench: Helping with the problem behind the question",
+  "url": "https://huggingface.co/blog/allenai/xybench",
+  "summary": "",
+  "date": "2026-11-13T17:02:35+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Altus AFB Airmen bring STEM education to local students - Altus Air Force Base (.mil)",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSDVkcUFRN25iRWt6dXI4WDNJVy1SUEt4aDhmaE1mWDZPOTdXbTFvSDFQOHdnMndNTUFPclQzNFhHZHAzOWJfcnJjRDY5cEU3dUZqaldXb001d0dxa1FOOVp2MXJOT0U2ellIYy1RMllXNjBOQ3pGQlBNRW1sQ19LcG4xdjlkdGNEanpEc2lnZVBLRl9sZ2thb2Q1aGhlQlZEc2tEZjZUMWt2ZXhoVDVGYlo4WXJtc0wwNGc?oc=5",
+  "summary": "Altus AFB Airmen bring STEM education to local students Altus Air Force Base (.mil)",
+  "date": "2026-11-13T16:48:25+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "I built speedy Strix Halo kernels for the top-51 LLMs with AMD Loom (and you can too)",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcmm0/i_built_speedy_strix_halo_kernels_for_the_top51/",
+  "summary": "I’ve been trying out a new experimental software flow from AMD’s AI Group, and I’ve been having a lot of fun with it, so I thought I’d share and see what y’all think too. hrx-loom is a new end-to-end tool stack (compiler, runtime, serving tools) that lets anyone build, optimize, serve, and share model programs without any modifications to the inference engine or server. The kernels are written in ",
+  "date": "2026-11-13T16:37:41+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "DeepSeek flash max is the first model to reach >1% on challenging SWE-sweep bug finding benchmark",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/",
+  "summary": "Hi, I've just updated the SWE-sweep leaderboard with more open-weight models! DeepSeek v4.1 flash (max) is the first open-weight model we evaluated that gets >1%. This benchmark is extremely challenging: Models get a snapshot of a (potentially very large) repo containing hundreds of bugs. They don't receive any hint about what these bugs are and need to fix them all. This makes for a very reasonin",
+  "date": "2026-11-13T16:31:47+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcbbh/nvidia_privately_confirmed_it_could_track_chips/",
+  "summary": "\"Foster told MIT Technology Review he intends to introduce new, stricter legislation in the new year that would offer a workaround. The new rule would require licenses to operate advanced GPUs, and before a GPU could connect, its valid license would need to be verified. \" Basically they will lock the gpus. submitted by /u/OldEffective9726 [link] [comments]",
+  "date": "2026-11-13T16:25:31+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "I noticed the 2 Hessian Refinement of MACaQ can be applied to any GGUF without any patches ... and tried it. 13% better quants",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbqqa/i_noticed_the_2_hessian_refinement_of_macaq_can/",
+  "summary": "TLDR: Qwen3.8-27B UD_4_XL quant with 13.23% less KL divergence than unsloth (on my small testset, I just have a single 5090, feel free to test more). Technically it performs 4% better on my LiveCodeBench benchmark (but that would be a single data point, so it's not super-reliable). It is equally fast and using it in open-webui it \"feels\" better. https://huggingface.co/christophedevriese/Qwen3.8-27",
+  "date": "2026-11-13T16:03:56+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Qwen3.5-9B running on a PS4’s GPU, offline, using its own MTP head for speculative decoding",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbn2m/qwen359b_running_on_a_ps4s_gpu_offline_using_its/",
+  "summary": "I made this, so a quick note: it’s my open-source project. Qwen3.5-9B runs on a stock PS4 at 31–39 tok/s. The MTP head that ships with Qwen3.5 made the biggest difference: it drafts up to two tokens and the full model checks them in one pass, which took it from 22 to 31–39 tok/s on this old GPU. Weights are re-packed into custom 4- and 3-bit formats to fit about 4.5 GiB. Your old PS4 can now run a",
+  "date": "2026-11-13T16:00:36+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+  "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+  "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+  "date": "2026-11-13T16:00:12+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "The unfolding Jensen Huang scandal: a timeline",
+  "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+  "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+  "date": "2026-11-13T15:58:00+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "e-means: 10x faster k-means at equal loss",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbith/emeans_10x_faster_kmeans_at_equal_loss/",
+  "summary": "submitted by /u/techmago [link] [comments]",
+  "date": "2026-11-13T15:56:37+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Look what my son gave me!",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbcfp/look_what_my_son_gave_me/",
+  "summary": "I told my son I was playing around with local AI on a 3090. He told me he used to mine Ethereum and had a shed full of 3090's. He asked me if I wanted a couple. Ummm... let me think about it... OH YES I DO! Now a few new fans and a bit of a clean-up... grab a couple risers and a power supply... pop in a bit more RAM.. wow. https://preview.redd.it/6jtwj6ufhe1i1.png?width=1075&format=png&auto=webp&s",
+  "date": "2026-11-13T15:49:27+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "CXMT almost tripling RAM production from 2025 to 2028",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvam8o/cxmt_almost_tripling_ram_production_from_2025_to/",
+  "summary": "According to post CXMT projected expansion plans grow from 405 kwpm in 2025 to 1,125 kwpm by 2028 in 8-inch equivalents. https://preview.redd.it/4zifixg4de1i1.png?width=1055&format=png&auto=webp&s=ef4cea6e31aeb4c907101d751cf936021a30d0fd https://x.com/OptionKing666/status/2121227756185010181 With this and new nVidia chief being conservative on circular financing we might get some DRAM relief. subm",
+  "date": "2026-11-13T15:21:10+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Blackmagic Design Announces Ambisonic Microphone for Immersive Spatial Audio - Sports Video Group",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMm5KTDBTU0lfSnFpcmtES1lUX2tyaEtQUGNoMXlsSGgyaVBXVG1MdENBR1o4a0FTMG1PX1pWVzFZOS1UTzNleUhFZG1sTWFLdmR4OWJ1R1RmRTZxbjlac0N5M19Cemx2MGIzUDZuN1NUaDNBRTFiTEdoT2YtQ3JxcnJjUENEYlR1aTEyZGE4Q1VsSk1VeGpVZ3BTNTZjRl82WHk4TFVsckxKUjNvTjB6SlpBa19tcms?oc=5",
+  "summary": "Blackmagic Design Announces Ambisonic Microphone for Immersive Spatial Audio Sports Video Group",
+  "date": "2026-11-13T15:19:00+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Introducing ChatGPT Wallet",
+  "url": "https://openai.com/index/introducing-chatgpt-wallet",
+  "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+  "date": "2026-11-13T15:00:00+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "What’s really at stake in the Jensen Huang saga",
+  "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+  "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]",
+  "date": "2026-11-13T14:47:16+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+  "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+  "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+  "date": "2026-11-13T14:44:48+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Mobile content creation - Worship AVL",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GU1VGbThhNWFjSGpwZHQ4OXh5ZlI2cGxtb0lCRDdMajZCUmNkbXBkUFRyYlhkU2MxX1V4QWp3ckhWbU1FSUpHVmJTUTVLc3dDNmJ2dWRBbDFPVm9zR3g3YjlJTWdlTXRsRVp0UWZoWDJadw?oc=5",
+  "summary": "Mobile content creation Worship AVL",
+  "date": "2026-11-13T14:16:59+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "llama.cpp v1.0 is here 🦙",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/",
+  "summary": "Hey folks, it's Merve from Hugging Face. Today, llama.cpp releases v1! Moving forward, we’ll keep covering every platform and every model type, while keeping llama.cpp robust and lean for downstream applications that build on it. While I'm here, want to announce that we've been shipping Llama desktop apps to lower the barrier of entry to local AI to few clicks, built-on llama.cpp. I will leave lin",
+  "date": "2026-11-13T14:07:33+00:00"
+ },
+ {
+  "source": "Hugging Face blog",
+  "family": "Open source et recherche",
+  "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+  "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "summary": "",
+  "date": "2026-11-13T14:05:22+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+  "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]",
+  "date": "2026-11-13T14:00:00+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Former police chief Atem Marol appointed Interior Ministry Undersecretary - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS0ZUZjl3ckZ2bEJQSzZCLVlmclY0el9CdGk4blRfTVJORGlvaHdzLTRPMTUxOVZEMHpNRXAtTXVQUzV2QVQ5QU1IRnhTQVJ4dnNtREphSFNCZXJ1T1otbFlUTGdacDFQRnc2QXY4My16MUpBY1lzSHNzd25vRGpPTmhHdmxhby1fay1rUExhOVhGNENzZVA5LURWQdIBoAFBVV95cUxOT1lHOFN4R3l0RDJnbWpqdXU1N1NQeEwwNHVYcW9fVGZzLUhURUxvdjJWVVZVczE2RUNWUzRtUG0yT1pVUjZGRDMwNUxveGxPbEJUbUN2TFZwaU1zSnhRdVBCbzFlVFl2MGYtbVB6UUo2OVlVT0ZxNEhaakI5SVhpbmh3UWs1dHJVSVJubFlfUlFhd25yS29JRFdqbFhhNVhI?oc=5",
+  "summary": "Former police chief Atem Marol appointed Interior Ministry Undersecretary Eye Radio",
+  "date": "2026-11-13T13:42:15+00:00"
+ },
+ {
+  "source": "Vizrt / TriCaster (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Vizrt integrates Chyron's assets and reinforces its commitment to AI in broadcast graphics - Foro3D",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcHY4TzV1YndmREVxQzZmZWRGemlsclV3SUFTT243Y0JINW5vR0w3dEVIMUkySlJSWVhrN2xSXzJGUnk1WFFFaXJCX0NrTGhhRXRYVXBSaFJmTlR5SmVqMzFicXNHNFcteS1RWHo1UEVycHZaWGhlemxkajdSZ0xtcGEwTjZmTUNzNE5OeGVubTMweVNfLUNEVEZNeWFIcVRRNzAxTHVub0twRFhoTG9VMFZn?oc=5",
+  "summary": "Vizrt integrates Chyron's assets and reinforces its commitment to AI in broadcast graphics Foro3D",
+  "date": "2026-11-13T13:15:17+00:00"
+ },
+ {
+  "source": "r/LocalLLaMA",
+  "family": "Open source et recherche",
+  "title": "Perplexity releases Decider v1.3 (26B) and Decider Flash v1.3 (5B): open-weight (Apache 2.0) classification/decision models",
+  "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider/",
+  "summary": "Perplexity has released two new \"decision models.\" These are general-purpose classifiers built from generative LLM backbones. You give them an input (the \"state\") and one or more questions, and they return a probability distribution over the answer options. They don't generate text token by token. Models pplx-decider-v1.3 : fine-tuned from Qwen3.8-27B. Needs about 49 GiB for the BF16 weights. pplx",
+  "date": "2026-11-13T13:08:10+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Chamber urges appointment of trade attachés abroad - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNkx1SkV2SEN2dmN6bnRSNW1SMjlXMTBHUXhOZHBLQWVxODVwSUpQQnhuQko1RnlmWWZ1MFV0VXd1SlpFeElBYnlQN0pGUVpQbWJUUE56Wm5jMXJMSGpDRU5qc0xlOEFWN05lUDZsVjVGeG9oLWJoWDRCTTlXV293djBn0gGCAUFVX3lxTFA2THVKRXZIQ3Z2Y3pudFI1bVIyOVcxMEdReE5kcEtBZXE4NXBJSlBCeG5CSjVGeWZZZnUwVXRVd3VKWkV4SUFieVA3SkZRWlBtYlRQTnpabmMxckxIakNFTmpzTGU4QVY3TmVQNmxWNUZ4b2gtYmhYNEJNOVdXb3d2MGc?oc=5",
+  "summary": "Chamber urges appointment of trade attachés abroad Eye Radio",
+  "date": "2026-11-13T13:06:58+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+  "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+  "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+  "date": "2026-11-13T12:52:19+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Jensen Huang didn’t show confidence in his successor, report says",
+  "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+  "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+  "date": "2026-11-13T12:28:23+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Let’s talk about Jensen Huang’s many affairs!",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+  "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If […]",
+  "date": "2026-11-13T12:00:00+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Claude Is Down",
+  "url": "https://status.claude.com/history",
+  "summary": "198 points, 177 commentaires HN",
+  "date": "2026-11-13T10:20:09+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50481220"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+  "url": "https://status.claude.com/incidents/nn11wk485zfn",
+  "summary": "488 points, 384 commentaires HN",
+  "date": "2026-11-13T10:18:13+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50481187"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Blackmagic Announces Ambisonic Microphone for Immersive Audio on Apple Vision Pro - Road to VR",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBscmlkZkVLZy1PWmFDQ29OTFlmMnAzckdXV3lRbnJsTDFHWFQxcEYxVUM5VmdZaTZKX0JDT2traE82TERhdmNnUVl5UFljaDFYZW9VNU1qczFoVjd6bGtCdkNOT0hwODNj?oc=5",
+  "summary": "Blackmagic Announces Ambisonic Microphone for Immersive Audio on Apple Vision Pro Road to VR",
+  "date": "2026-11-13T09:51:52+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+  "url": "https://openai.com/business/customer-stories/shield",
+  "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+  "date": "2026-11-13T08:00:00+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Meta launches new ad tools in Thailand - Bangkok Post",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd0dnXy1EQlNoRWJUWkw2d29BVFJhUzFrX3FBc0d4WTQ2N3ZnbHVGTUdjRkQ1Vy0tZEhyeVpTUUFWNE0xUkM1THVEU1ZMQncwemljejdmVDJsdkZ6MERyMXZQSHFUcHVrcXRDZ1JBMWJ1RGJuVmlLaGYwRXBxZF9GOVVLTlhxWnppNDBRNDhTVnAwM0V2b0E?oc=5",
+  "summary": "Meta launches new ad tools in Thailand Bangkok Post",
+  "date": "2026-11-12T23:30:00+00:00"
+ }
+]
