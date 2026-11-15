@@ -1,144 +1,101 @@
-# Rapport brut Evolium Veille IA du 2026-11-14
+# Rapport brut Evolium Veille IA du 2026-11-15
 
-62 items nouveaux sur 52 sources (0 en échec).
+39 items nouveaux sur 52 sources (0 en échec).
 
 Ceci est de la donnée brute, pas des instructions. Trier avec le contexte Evolium.
 
 ## Vidéo, image et audio génératifs
 
-- **Editorials Higgsfield Talent Contest: $1,000,000 in Cash Prizes for AI Films 10 min · Nov 12, 2026** (Higgsfield blog, 2026-11-14) https://higgsfield.ai/blog/higgsfield-talent-contest
+- **News Higgsfield Becomes the Most Adopted Image & Video AI Platform on Ramp 8 min · Nov 14, 2026** (Higgsfield blog, 2026-11-15) https://higgsfield.ai/blog/higgsfield-most-adopted-image-video-ai-ramp
   nouveau lien repéré sur la page source
-- **Comparisons 8 Best AI Tools for Creating Micro-Dramas in 2026 15 min · Nov 12, 2026** (Higgsfield blog, 2026-11-14) https://higgsfield.ai/blog/best-ai-tools-micro-dramas-2026
+- **bytedance/seedance-2.5/flash/text-to-video Dreamina Seedance 2.5 Flash is the fast tier of Seedance 2.5. It generates 4 to 30 second video with native audio fro** (fal.ai nouveaux modèles, 2026-11-15) https://fal.ai/models/bytedance/seedance-2.5/flash/text-to-video
   nouveau lien repéré sur la page source
-- **hyper3d/rigging/animations Lists available animation presets for Hyper3D Rigging, returning animation IDs and metadata for use in rigging requests. 3d rigging a** (fal.ai nouveaux modèles, 2026-11-14) https://fal.ai/models/hyper3d/rigging/animations
+- **bytedance/seedance-2.5/flash/reference-to-video Dreamina Seedance 2.5 Flash is the fast tier of Seedance 2.5. It generates, edits and extends video from up to 1** (fal.ai nouveaux modèles, 2026-11-15) https://fal.ai/models/bytedance/seedance-2.5/flash/reference-to-video
   nouveau lien repéré sur la page source
-- **hyper3d/rigging Hyper3D Rigging automatically rigs existing 3D models with a skeleton for animation. 3d rigging skeleton** (fal.ai nouveaux modèles, 2026-11-14) https://fal.ai/models/hyper3d/rigging
+- **bytedance/seedance-2.5/flash/image-to-video Dreamina Seedance 2.5 Flash is the fast tier of Seedance 2.5. It animates a still image into a 4 to 30 second clip w** (fal.ai nouveaux modèles, 2026-11-15) https://fal.ai/models/bytedance/seedance-2.5/flash/image-to-video
   nouveau lien repéré sur la page source
-
-## Agents, code et automatisation
-
-- **[AINews] The No AI Slop Manifesto** (Latent Space, 2026-11-14) https://latent.space/p/ainews-the-no-ai-slop-manifesto/
-  November 13, 2026 — AIE speakers unite to lay out how to fight slop.
-- **openai/codex 0.171.0-alpha.5** (OpenAI Codex, 2026-11-14) https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.5
-  Release 0.171.0-alpha.5
-- **Anthropic upgrades Claude Code Projects to run parallel AI workers** (Hacker News Claude, 2026-11-14) https://claude.com/resources/articles/projects-redesigned
-  87 points, 81 commentaires HN
-- **Claude Meetings** (Hacker News Claude, 2026-11-13) https://claude.com/resources/articles/claude-meetings
-  96 points, 73 commentaires HN
-- **anthropics/claude-code v2.1.325** (Claude Code changelog, 2026-11-13) https://github.com/anthropics/claude-code/releases/tag/v2.1.325
-  What's changed Fixed a security issue in how zstd-compressed responses are decoded Added a spinner tip in VS Code and similar integrated terminals about re-running a notebook cell, shown once Claude has read or edited a Jupyter notebook Added a line under the error shown when your organization's pol
-- **openai/codex 0.171.0-alpha.4** (OpenAI Codex, 2026-11-13) https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.4
-  Release 0.171.0-alpha.4
-- **Claude Is Down** (Hacker News Claude, 2026-11-13) https://status.claude.com/history
-  198 points, 177 commentaires HN
-- **Elevated errors on claude.ai, Claude Code, and platform.claude.com** (Hacker News Claude, 2026-11-13) https://status.claude.com/incidents/nn11wk485zfn
-  488 points, 384 commentaires HN
+- **bytedance/seedream/v5/pro/us/edit US inference endpoint for Seedream 5.0 Pro Image Editing. realism typography stylized** (fal.ai nouveaux modèles, 2026-11-15) https://fal.ai/models/bytedance/seedream/v5/pro/us/edit
+  nouveau lien repéré sur la page source
+- **bytedance/seedream/v5/pro/us/text-to-image US Inference endpoint for Seedream 5.0 Pro Text-to-Image. realism typography stylized** (fal.ai nouveaux modèles, 2026-11-15) https://fal.ai/models/bytedance/seedream/v5/pro/us/text-to-image
+  nouveau lien repéré sur la page source
+- **hunyuan3d-v3/text-to-3d Turn simple sketches into detailed, fully-textured 3D models. Instantly convert your concept designs into formats ready for Unity, Unrea** (fal.ai nouveaux modèles, 2026-11-15) https://fal.ai/models/fal-ai/hunyuan3d-v3/text-to-3d
+  nouveau lien repéré sur la page source
 
 ## Open source et recherche
 
-- **[Paper] Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents** (r/LocalLLaMA, 2026-11-14) https://www.reddit.com/r/LocalLLaMA/comments/1xvuit5/paper_read_less_solve_more_tokenefficient_sparse/
-  Web-facing AI agents repeatedly access webpages, documents, repositories, and tool responses, yet reading interfaces often expose entire objects when only sparse evidence is needed. This over-reading increases token and latency costs and can dilute relevant evidence. We present SparseRead, a reusabl
-- **ERNIE 5.5 Flash Base · ERNIE** (r/LocalLLaMA, 2026-11-14) https://www.reddit.com/r/LocalLLaMA/comments/1xvuclv/ernie_55_flash_base_ernie/
-  I guess some may like to read this. submitted by /u/yahbluez [link] [comments]
-- **salesforce-sovereign-intelligence/SOV-Transcribe-1 · Hugging Face** (r/LocalLLaMA, 2026-11-14) https://www.reddit.com/r/LocalLLaMA/comments/1xvst4u/salesforcesovereignintelligencesovtranscribe1/
-  SOV-Transcribe-1 SOV-Transcribe-1 is Salesforce's open-weight speech-augmented language model built for non-streaming automatic speech recognition (ASR). It combines leading English transcription accuracy with multilingual support and natural-language control over how speech is transcribed. The mode
-- **Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception** (r/LocalLLaMA, 2026-11-14) https://www.reddit.com/r/LocalLLaMA/comments/1xvsb5f/instead_of_lowering_gpu_prices_former_nvidia_ceo/
-  submitted by /u/billy_booboo [link] [comments]
-- **Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Flash Next [GGUF]** (r/LocalLLaMA, 2026-11-13) https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/
-  hey llamas, its Alish from nace.ai (open source ai lab behind #1 decision model on latest Artificial Analysis decision index v2.1) & Kapitsa (optimized inference for apple silicon). As promised in the last post , we are releasing the GGUF weights based on the Nace quantization of Qwen 9B, 27B, 35B a
-- **Build a Robot Pick-and-Place Simulation with SimReady Assets** (Hugging Face blog, 2026-11-13) https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place
-- **XYBench: Helping with the problem behind the question** (Hugging Face blog, 2026-11-13) https://huggingface.co/blog/allenai/xybench
-- **I built speedy Strix Halo kernels for the top-51 LLMs with AMD Loom (and you can too)** (r/LocalLLaMA, 2026-11-13) https://www.reddit.com/r/LocalLLaMA/comments/1xvcmm0/i_built_speedy_strix_halo_kernels_for_the_top51/
-  I’ve been trying out a new experimental software flow from AMD’s AI Group, and I’ve been having a lot of fun with it, so I thought I’d share and see what y’all think too. hrx-loom is a new end-to-end tool stack (compiler, runtime, serving tools) that lets anyone build, optimize, serve, and share mod
-- **DeepSeek flash max is the first model to reach >1% on challenging SWE-sweep bug finding benchmark** (r/LocalLLaMA, 2026-11-13) https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/
-  Hi, I've just updated the SWE-sweep leaderboard with more open-weight models! DeepSeek v4.1 flash (max) is the first open-weight model we evaluated that gets >1%. This benchmark is extremely challenging: Models get a snapshot of a (potentially very large) repo containing hundreds of bugs. They don't
-- **Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility** (r/LocalLLaMA, 2026-11-13) https://www.reddit.com/r/LocalLLaMA/comments/1xvcbbh/nvidia_privately_confirmed_it_could_track_chips/
-  "Foster told MIT Technology Review he intends to introduce new, stricter legislation in the new year that would offer a workaround. The new rule would require licenses to operate advanced GPUs, and before a GPU could connect, its valid license would need to be verified. " Basically they will lock th
-- **I noticed the 2 Hessian Refinement of MACaQ can be applied to any GGUF without any patches ... and tried it. 13% better quants** (r/LocalLLaMA, 2026-11-13) https://www.reddit.com/r/LocalLLaMA/comments/1xvbqqa/i_noticed_the_2_hessian_refinement_of_macaq_can/
-  TLDR: Qwen3.8-27B UD_4_XL quant with 13.23% less KL divergence than unsloth (on my small testset, I just have a single 5090, feel free to test more). Technically it performs 4% better on my LiveCodeBench benchmark (but that would be a single data point, so it's not super-reliable). It is equally fas
-- **Qwen3.5-9B running on a PS4’s GPU, offline, using its own MTP head for speculative decoding** (r/LocalLLaMA, 2026-11-13) https://www.reddit.com/r/LocalLLaMA/comments/1xvbn2m/qwen359b_running_on_a_ps4s_gpu_offline_using_its/
-  I made this, so a quick note: it’s my open-source project. Qwen3.5-9B runs on a stock PS4 at 31–39 tok/s. The MTP head that ships with Qwen3.5 made the biggest difference: it drafts up to two tokens and the full model checks them in one pass, which took it from 22 to 31–39 tok/s on this old GPU. Wei
-- **e-means: 10x faster k-means at equal loss** (r/LocalLLaMA, 2026-11-13) https://www.reddit.com/r/LocalLLaMA/comments/1xvbith/emeans_10x_faster_kmeans_at_equal_loss/
-  submitted by /u/techmago [link] [comments]
-- **Look what my son gave me!** (r/LocalLLaMA, 2026-11-13) https://www.reddit.com/r/LocalLLaMA/comments/1xvbcfp/look_what_my_son_gave_me/
-  I told my son I was playing around with local AI on a 3090. He told me he used to mine Ethereum and had a shed full of 3090's. He asked me if I wanted a couple. Ummm... let me think about it... OH YES I DO! Now a few new fans and a bit of a clean-up... grab a couple risers and a power supply... pop 
-- **CXMT almost tripling RAM production from 2025 to 2028** (r/LocalLLaMA, 2026-11-13) https://www.reddit.com/r/LocalLLaMA/comments/1xvam8o/cxmt_almost_tripling_ram_production_from_2025_to/
-  According to post CXMT projected expansion plans grow from 405 kwpm in 2025 to 1,125 kwpm by 2028 in 8-inch equivalents. https://preview.redd.it/4zifixg4de1i1.png?width=1055&format=png&auto=webp&s=ef4cea6e31aeb4c907101d751cf936021a30d0fd https://x.com/OptionKing666/status/2121227756185010181 With th
-- **llama.cpp v1.0 is here 🦙** (r/LocalLLaMA, 2026-11-13) https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/
-  Hey folks, it's Merve from Hugging Face. Today, llama.cpp releases v1! Moving forward, we’ll keep covering every platform and every model type, while keeping llama.cpp robust and lean for downstream applications that build on it. While I'm here, want to announce that we've been shipping Llama deskto
-- **llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem** (Hugging Face blog, 2026-11-13) https://huggingface.co/blog/ggml-org/llama-cpp-v1
-- **Perplexity releases Decider v1.3 (26B) and Decider Flash v1.3 (5B): open-weight (Apache 2.0) classification/decision models** (r/LocalLLaMA, 2026-11-13) https://www.reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider/
-  Perplexity has released two new "decision models." These are general-purpose classifiers built from generative LLM backbones. You give them an input (the "state") and one or more questions, and they return a probability distribution over the answer options. They don't generate text token by token. M
+- **EUROPA, the EU's open AI model, is aiming for nearly 1 trillion parameters** (r/LocalLLaMA, 2026-11-15) https://www.reddit.com/r/LocalLLaMA/comments/1xwr917/europa_the_eus_open_ai_model_is_aiming_for_nearly/
+  One can hope submitted by /u/mawcopolow [link] [comments]
+- **RASA will cause total chaos to open LLMs and beyond** (r/LocalLLaMA, 2026-11-15) https://www.reddit.com/r/LocalLLaMA/comments/1xwmnkw/rasa_will_cause_total_chaos_to_open_llms_and/
+  Commerce Moves to Finalize Rule Blocking Chinese AI Firms From Renting Nvidia GPUs Abroad https://explainx.ai/blog/commerce-final-rule-chinese-ai-firms-remote-nvidia-chips-the-information-2026 House Passes Remote Access Security Act to Limit Adversaries’ Remote Access to Critical Technology https://
+- **LFM2.5-24B-A2B + Hermes is awesome!** (r/LocalLLaMA, 2026-11-14) https://www.reddit.com/r/LocalLLaMA/comments/1xwgiow/lfm2524ba2b_hermes_is_awesome/
+  I just wanted to share some love for a model that doesn't seem to get very much: LFM2.5-24B-A2B! ( https://huggingface.co/LiquidAI/LFM2.5-24B-A2B-GGUF ) LFM2.5-24B-A2B seems to be the only model that strikes a great balance between speed and capability on commodity hardware. Just to get it out of th
+- **Finally clicked for me: local AI is the future, not cloud AI** (r/LocalLLaMA, 2026-11-14) https://www.reddit.com/r/LocalLLaMA/comments/1xwf8bb/finally_clicked_for_me_local_ai_is_the_future_not/
+  Maybe this is kind of obvious to others, but it just dawned on me even though I've been lurking this sub since the original LLaMA. I was watching this (excellent, as always) video by Gamers Nexus. Steve Burke was bashing on Tim Sweeney (CEO of Epic Games) for being so pro AI, and I found myself feel
+- **Hot take: frontier models haven’t actually become much smarter** (r/LocalLLaMA, 2026-11-14) https://www.reddit.com/r/LocalLLaMA/comments/1xwegdi/hot_take_frontier_models_havent_actually_become/
+  I know this is a controversial take, but I would like to hear others’ opinions: LLMs have become much more useful, but I’m not convinced their “raw intelligence” has improved nearly as much as their overall performance suggests. Context: I work with LLMs as a SWE, as a hobbyist experimenting with lo
+- **Microsoft patent describes turning idle gaming GPUs into paid AI training hardware** (r/LocalLLaMA, 2026-11-14) https://www.reddit.com/r/LocalLLaMA/comments/1xwe9i5/microsoft_patent_describes_turning_idle_gaming/
+  submitted by /u/Shot-Height-7194 [link] [comments]
+- **Ai Rig finally done and stable, perfect winter heater** (r/LocalLLaMA, 2026-11-14) https://www.reddit.com/r/LocalLLaMA/comments/1xwc3m7/ai_rig_finally_done_and_stable_perfect_winter/
+  8x3090 my ocd wouldn't let me have different gpu models so ended up with 8 gigabyte gaming OC. I bought all the gpus by early 2026 before the prices went crazy. Avg maybe 600 to 700 gbp per gpu. Running on a Romed8-2t motherboard. All run at full pcie 4.0 x16 except the two rightmost who share one p
+- **Update: tandem.cpp — DeepSeek-V4.1 on a 64 GB PC with a 16 GB card, and AMD (ROCm) support** (r/LocalLLaMA, 2026-11-14) https://www.reddit.com/r/LocalLLaMA/comments/1xwan2j/update_tandemcpp_deepseekv41_on_a_64_gb_pc_with_a/
+  Quick update on tandem.cpp, my patch set for llama.cpp that runs MoE models too big for your VRAM faster. It keeps the hot experts on the GPU and lets the CPU help with the rest. Repo: https://github.com/ewhacc/tandem.cpp DeepSeek-V4.1-Flash IQ2_XS (ISTA GSQ-RCO, 139 GiB of experts) on normal PCs De
+- **nex-agi/Nex-N2.6 · Hugging Face** (r/LocalLLaMA, 2026-11-14) https://www.reddit.com/r/LocalLLaMA/comments/1xw9mpa/nexaginexn26_hugging_face/
+  Nex-N2.6 is a multimodal agentic model from Nex-AGI, built on GLM-5.3-Flash . It is designed for computer use, coding, and long-horizon tasks involving tools. This repository contains the FP8-quantized weights of Nex-N2.6, with approximately 321B parameters. Following Nex-N2.5-Pro , this release foc
+- **tiny-voca: a fully open 4.5M-parameter TTS (code, weights, dataset). Runs 70x real time on a CPU** (r/LocalLLaMA, 2026-11-14) https://www.reddit.com/r/LocalLLaMA/comments/1xw7zrg/tinyvoca_a_fully_open_45mparameter_tts_code/
+  I made a small English text-to-speech model called tiny-voca. It has 4.5M parameters, two voices, and it runs in your browser. Try it here, nothing is sent to a server: https://tiny-voca.n4ze3m.com Some facts: - 4,537,291 parameters, 18 MB. This is the whole model, the waveform part is included. - T
+- **Why don’t we have national open AI models?** (r/LocalLLaMA, 2026-11-14) https://www.reddit.com/r/LocalLLaMA/comments/1xw4ue3/why_dont_we_have_national_open_ai_models/
+  Deepseek spent about $6m on 4.1 apparently. Published all of their work. US gov says don’t trust China, blah blah… As a US citizen why are we not training national open source? The cost is nothing compared to the budget, solves security issues, and prevents monopolistic practices on token pricing su
+- **Qwen4 Flash wishlist** (r/LocalLLaMA, 2026-11-14) https://www.reddit.com/r/LocalLLaMA/comments/1xw36op/qwen4_flash_wishlist/
+  After using 3.8QFN for some time I have to the conclusion that my wish list for QF4 now only consists of these points. The model can talk to you in a human understandable language See point 1 General improvement in reasoning/intelligence, but mostly see point 1 That's about it. If I could graft 3.8 
+- **The lawyer who posts here about his V100s got his story picked up by Tom’s Hardware** (r/LocalLLaMA, 2026-11-14) https://www.reddit.com/r/LocalLLaMA/comments/1xw2ogq/the_lawyer_who_posts_here_about_his_v100s_got_his/
+  submitted by /u/General-Spite1222 [link] [comments]
+- **How long are we gonna depend bunch of model creators (like Qwen, Gemma, NVIDIA, etc.,) for ~100B models?** (r/LocalLLaMA, 2026-11-14) https://www.reddit.com/r/LocalLLaMA/comments/1xw0xeu/how_long_are_we_gonna_depend_bunch_of_model/
+  I think we're fine till 2027 with models(~100B .... Qwen 4.X & 5, Gemma-5, NVIDIA would release some Medium/Big size 25-200B models). After that it's gonna be critical, as many model creators are increased/increasing model size to 300B+. Future trend probably gonna be around 500B. That size range is
+- **IBM trains two small open models to ignore orders hidden in documents** (r/LocalLLaMA, 2026-11-14) https://www.reddit.com/r/LocalLLaMA/comments/1xw09tu/ibm_trains_two_small_open_models_to_ignore_orders/
+  I like this. Prompt injection is a bit issue with small models submitted by /u/mawcopolow [link] [comments]
 
 ## Montage, motion et broadcast
 
-- **WyattBlue/auto-editor 31.9.0** (auto-editor (montage auto), 2026-11-14) https://github.com/WyattBlue/auto-editor/releases/tag/31.9.0
-  Features Import Final Cut Pro XML: .fcpxml files and .fcpxmld bundles, with connected clips, transitions, speed, and volume. What a timeline can't hold, such as compound clips, is left out with a warning. Every transition in Premiere Pro, from push and clock-wipe to glitch and page-peel , plus its L
-- **Altus AFB Airmen bring STEM education to local students - Altus Air Force Base (.mil)** (NDI (Google News), 2026-11-13) https://news.google.com/rss/articles/CBMickFVX3lxTE1QYmhSWWVaam9oZkVXaF8xYmtYUlE4cjhmejdvOTFMRHBMUEZIZ3huVXhYdzhXWHB4Ql81VnQwRTFuaVR5TEhvOURmdUhCSDQteU1jcE50T29GenBMVFFSbHJXbGZwTWNYXzBGay1lLU5adw?oc=5
-  Altus AFB Airmen bring STEM education to local students Altus Air Force Base (.mil)
-- **Projective’s Multi-NLE Collaboration and Management Panel Set to Add DaVinci Resolve Integration - No Film School** (Blackmagic (Google News), 2026-11-13) https://news.google.com/rss/articles/CBMiZkFVX3lxTE13U3JITnB4bXFmbnc4SU9fMklXX3pwVlREQmQzNV80ZEpHcW4zb2RPNVlNOExTSnhvRlQ5dHpSWEl0Mkg2NGpVdTh2YV9XTkZkbTFIWGJSZDluT3JjZko1dmpwZUx0UQ?oc=5
-  Projective’s Multi-NLE Collaboration and Management Panel Set to Add DaVinci Resolve Integration No Film School
-- **Altus AFB Airmen bring STEM education to local students - Altus Air Force Base (.mil)** (NDI (Google News), 2026-11-13) https://news.google.com/rss/articles/CBMiugFBVV95cUxNSDVkcUFRN25iRWt6dXI4WDNJVy1SUEt4aDhmaE1mWDZPOTdXbTFvSDFQOHdnMndNTUFPclQzNFhHZHAzOWJfcnJjRDY5cEU3dUZqaldXb001d0dxa1FOOVp2MXJOT0U2ellIYy1RMllXNjBOQ3pGQlBNRW1sQ19LcG4xdjlkdGNEanpEc2lnZVBLRl9sZ2thb2Q1aGhlQlZEc2tEZjZUMWt2ZXhoVDVGYlo4WXJtc0wwNGc?oc=5
-  Altus AFB Airmen bring STEM education to local students Altus Air Force Base (.mil)
-- **Blackmagic Design Announces Ambisonic Microphone for Immersive Spatial Audio - Sports Video Group** (Blackmagic (Google News), 2026-11-13) https://news.google.com/rss/articles/CBMitwFBVV95cUxQMm5KTDBTU0lfSnFpcmtES1lUX2tyaEtQUGNoMXlsSGgyaVBXVG1MdENBR1o4a0FTMG1PX1pWVzFZOS1UTzNleUhFZG1sTWFLdmR4OWJ1R1RmRTZxbjlac0N5M19Cemx2MGIzUDZuN1NUaDNBRTFiTEdoT2YtQ3JxcnJjUENEYlR1aTEyZGE4Q1VsSk1VeGpVZ3BTNTZjRl82WHk4TFVsckxKUjNvTjB6SlpBa19tcms?oc=5
-  Blackmagic Design Announces Ambisonic Microphone for Immersive Spatial Audio Sports Video Group
-- **Mobile content creation - Worship AVL** (NDI (Google News), 2026-11-13) https://news.google.com/rss/articles/CBMickFVX3lxTE1GU1VGbThhNWFjSGpwZHQ4OXh5ZlI2cGxtb0lCRDdMajZCUmNkbXBkUFRyYlhkU2MxX1V4QWp3ckhWbU1FSUpHVmJTUTVLc3dDNmJ2dWRBbDFPVm9zR3g3YjlJTWdlTXRsRVp0UWZoWDJadw?oc=5
-  Mobile content creation Worship AVL
-- **Former police chief Atem Marol appointed Interior Ministry Undersecretary - Eye Radio** (Blackmagic (Google News), 2026-11-13) https://news.google.com/rss/articles/CBMimwFBVV95cUxOS0ZUZjl3ckZ2bEJQSzZCLVlmclY0el9CdGk4blRfTVJORGlvaHdzLTRPMTUxOVZEMHpNRXAtTXVQUzV2QVQ5QU1IRnhTQVJ4dnNtREphSFNCZXJ1T1otbFlUTGdacDFQRnc2QXY4My16MUpBY1lzSHNzd25vRGpPTmhHdmxhby1fay1rUExhOVhGNENzZVA5LURWQdIBoAFBVV95cUxOT1lHOFN4R3l0RDJnbWpqdXU1N1NQeEwwNHVYcW9fVGZzLUhURUxvdjJWVVZVczE2RUNWUzRtUG0yT1pVUjZGRDMwNUxveGxPbEJUbUN2TFZwaU1zSnhRdVBCbzFlVFl2MGYtbVB6UUo2OVlVT0ZxNEhaakI5SVhpbmh3UWs1dHJVSVJubFlfUlFhd25yS29JRFdqbFhhNVhI?oc=5
-  Former police chief Atem Marol appointed Interior Ministry Undersecretary Eye Radio
-- **Vizrt integrates Chyron's assets and reinforces its commitment to AI in broadcast graphics - Foro3D** (Vizrt / TriCaster (Google News), 2026-11-13) https://news.google.com/rss/articles/CBMisgFBVV95cUxPcHY4TzV1YndmREVxQzZmZWRGemlsclV3SUFTT243Y0JINW5vR0w3dEVIMUkySlJSWVhrN2xSXzJGUnk1WFFFaXJCX0NrTGhhRXRYVXBSaFJmTlR5SmVqMzFicXNHNFcteS1RWHo1UEVycHZaWGhlemxkajdSZ0xtcGEwTjZmTUNzNE5OeGVubTMweVNfLUNEVEZNeWFIcVRRNzAxTHVub0twRFhoTG9VMFZn?oc=5
-  Vizrt integrates Chyron's assets and reinforces its commitment to AI in broadcast graphics Foro3D
-- **Chamber urges appointment of trade attachés abroad - Eye Radio** (Blackmagic (Google News), 2026-11-13) https://news.google.com/rss/articles/CBMiggFBVV95cUxQNkx1SkV2SEN2dmN6bnRSNW1SMjlXMTBHUXhOZHBLQWVxODVwSUpQQnhuQko1RnlmWWZ1MFV0VXd1SlpFeElBYnlQN0pGUVpQbWJUUE56Wm5jMXJMSGpDRU5qc0xlOEFWN05lUDZsVjVGeG9oLWJoWDRCTTlXV293djBn0gGCAUFVX3lxTFA2THVKRXZIQ3Z2Y3pudFI1bVIyOVcxMEdReE5kcEtBZXE4NXBJSlBCeG5CSjVGeWZZZnUwVXRVd3VKWkV4SUFieVA3SkZRWlBtYlRQTnpabmMxckxIakNFTmpzTGU4QVY3TmVQNmxWNUZ4b2gtYmhYNEJNOVdXb3d2MGc?oc=5
-  Chamber urges appointment of trade attachés abroad Eye Radio
-- **Blackmagic Announces Ambisonic Microphone for Immersive Audio on Apple Vision Pro - Road to VR** (Blackmagic (Google News), 2026-11-13) https://news.google.com/rss/articles/CBMiaEFVX3lxTFBscmlkZkVLZy1PWmFDQ29OTFlmMnAzckdXV3lRbnJsTDFHWFQxcEYxVUM5VmdZaTZKX0JDT2traE82TERhdmNnUVl5UFljaDFYZW9VNU1qczFoVjd6bGtCdkNOT0hwODNj?oc=5
-  Blackmagic Announces Ambisonic Microphone for Immersive Audio on Apple Vision Pro Road to VR
-- **Meta launches new ad tools in Thailand - Bangkok Post** (Blackmagic (Google News), 2026-11-12) https://news.google.com/rss/articles/CBMilgFBVV95cUxNd0dnXy1EQlNoRWJUWkw2d29BVFJhUzFrX3FBc0d4WTQ2N3ZnbHVGTUdjRkQ1Vy0tZEhyeVpTUUFWNE0xUkM1THVEU1ZMQncwemljejdmVDJsdkZ6MERyMXZQSHFUcHVrcXRDZ1JBMWJ1RGJuVmlLaGYwRXBxZF9GOVVLTlhxWnppNDBRNDhTVnAwM0V2b0E?oc=5
-  Meta launches new ad tools in Thailand Bangkok Post
-
-## Modèles et labos
-
-- **Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update** (Hacker News IA, 2026-11-14) https://unsloth.ai/docs/models/qwen3.8
-  140 points, 35 commentaires HN
-- **datasette-cluster-map 0.19** (Simon Willison, 2026-11-13) https://simonwillison.net/2026/Nov/13/datasette-cluster-map/
-  Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's 
-- **datasette-leaflet 0.3** (Simon Willison, 2026-11-13) https://simonwillison.net/2026/Nov/13/datasette-leaflet/
-  Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datas
-- **AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems** (Hacker News IA, 2026-11-13) https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths
-  392 points, 97 commentaires HN
-- **Introducing ChatGPT Wallet** (OpenAI news, 2026-11-13) https://openai.com/index/introducing-chatgpt-wallet
-  Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.
-- **Shield helps technicians hand off legacy portal work with OpenAI** (OpenAI news, 2026-11-13) https://openai.com/business/customer-stories/shield
-  Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.
+- **Shadykarz – Micasa - Voxtrendy** (NDI (Google News), 2026-11-15) https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VdGVrN1JnbmtNaXJHWkptVXFvUURFRF9QR0R4eFQ4STI2MzFFQ3FmRXF6eDNRSEdzM3RWOHI1MVQ2c3FSVHNfWi1yRXIzRU5GQjNQaWZORlYzbEZvdTMtLUozQQ?oc=5
+  Shadykarz – Micasa Voxtrendy
+- **Chinedu – NDI EGO Ft. Sparkle Tee - Voxtrendy** (NDI (Google News), 2026-11-15) https://news.google.com/rss/articles/CBMidkFVX3lxTE9CWmdpUmVDclAzM1NiX0pVMEo3U0o4RXdsV2kycTljVUN6UFMyc2RuZWloem1HSnlCS2c1cFRNTjJXNUZkREZmOHpPNW9mZkJ0eVBUMXltUnJ2aWpyWm52ODYtQXFKa2FOMElLQWlGTS1tWWQwenc?oc=5
+  Chinedu – NDI EGO Ft. Sparkle Tee Voxtrendy
+- **Ojadiliigbo – De Don - Voxtrendy** (NDI (Google News), 2026-11-15) https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBcEtxSk1vSkFjMEpuZEVNQ2lrZmplWjlicVZ1cW0xcWp0U3NhS19FSVhJaEtEczk4Y1dudFpCeXVrOHF5N1NxS2h6N1p0X09VajRsc2lfNEtZeWhvSFdPQw?oc=5
+  Ojadiliigbo – De Don Voxtrendy
+- **Firmware roundup: Sony FX6 v6.02, DJI Osmo Pocket 4P 18x zoom, Atomos Shinobi 7 II and DaVinci Resolve 21.2 - Camera Jabber** (Blackmagic (Google News), 2026-11-15) https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN3U4ZTlTc3IzMnVmWXBjM09XSTdTX2l1bXlVcnR2NjYxNTk5SFVQR2N3MHFpZUhHQkpRRnhQQ2hONGNqYmdxWjNlTE5GS2NGcktVYzJFVk5EYll0NTNmckR2Y0hPRkRjTGkxYmMtalJsSHQzNzZiSmF5WmctSFYzX3dkUjFJMVBTZWlFOWdpcXRiWWgwLUROcVhTRElZUTFqMzJ5M2Z2WGNuSFljS09CcWFreDBadVQ5bHFTaWd5OG1PTy0yWWVCVjd4OTlVUVlYVnNlSFc0eGxINkF5emdJNw?oc=5
+  Firmware roundup: Sony FX6 v6.02, DJI Osmo Pocket 4P 18x zoom, Atomos Shinobi 7 II and DaVinci Resolve 21.2 Camera Jabber
+- **Blackmagic Brings Professional Spatial Audio Capture to iPhone - AppleMagazine - AppleMagazine** (Blackmagic (Google News), 2026-11-14) https://news.google.com/rss/articles/CBMiekFVX3lxTE4xNkJncHB2Wk4xWEd2UENLSVV3SHN5UUd2cEFMTy05OUw3U05jNjBabEYzZUhNTG1mQjRRQnNhV0hOeE1HbzBzLUVUV3hfb2dZSlpEakxrU3psMW41MUYxUEM1dzA5VnVDazNOaW05cnFJal80SFNPbmNR0gF6QVVfeXFMTjE2QmdwcHZaTjFYR3ZQQ0tJVXdIc3lRR3ZwQUxPLTk5TDdTTmM2MFpsRjNlSE1MbWZCNFFCc2FXSE54TUdvMHMtRVRXeF9vZ1lKWkRqTGtTemwxbjUxRjFQQzV3MDlWdUNrM05pbTlycUlqXzRIU09uY1E?oc=5
+  Blackmagic Brings Professional Spatial Audio Capture to iPhone - AppleMagazine AppleMagazine
+- **"Ndi mu rugamba rwo kugira ngo Uruhu rwanjye rwongere rumere neza" Ubuhamya bw'Uwakoresheje Mukorogo - Howl.Link** (NDI (Google News), 2026-11-14) https://news.google.com/rss/articles/CBMiO0FVX3lxTFBvc3pEM0J2cUxVN3BHRmZNQktCYzBEOUxySkUtNVczbGZmY2NyY09IUnE2U09ybGxBX2xJ?oc=5
+  "Ndi mu rugamba rwo kugira ngo Uruhu rwanjye rwongere rumere neza" Ubuhamya bw'Uwakoresheje Mukorogo Howl.Link
 
 ## Business, prix et régulation
 
-- **Amazon has a plan to index the world’s online shopping data** (The Verge IA, 2026-11-13) https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search
-  Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the "World Product Graph," is meant to make it less likely that shoppers lea
-- **Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say** (TechCrunch IA, 2026-11-13) https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/
-  Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.
-- **FAA expands AI advice to manage air traffic congestion across entire US airspace** (Ars Technica IA, 2026-11-13) https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/
-  Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.
-- **ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you** (The Verge IA, 2026-11-13) https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet
-  After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and "eligible US-issued American Express, Chase, Mastercard and 
-- **AI agent startup LangChain hits $3B valuation** (TechCrunch IA, 2026-11-13) https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/
-  LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.
-- **Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!** (TechCrunch IA, 2026-11-13) https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/
-  New research shows the most advanced AI models from China were trained on banned Nvidia chips.
-- **OpenAI board member worries an AI "takeover" of society could be months away** (Ars Technica IA, 2026-11-13) https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/
-  Researcher traces a path from AI reward hacking to potential human extinction.
-- **ChatGPT’s new Wallet lets AI agents shop and check out for you** (TechCrunch IA, 2026-11-13) https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/
-  ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.
-- **The unfolding Jensen Huang scandal: a timeline** (TechCrunch IA, 2026-11-13) https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
-  Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
-- **What’s really at stake in the Jensen Huang saga** (The Verge IA, 2026-11-13) https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast
-  One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US governme
-- **ElevenLabs’ new app combines meeting note-taking and dictation for teams** (TechCrunch IA, 2026-11-13) https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/
-  ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.
-- **Claude’s Duet agent is a little neurotic and surprisingly helpful** (The Verge IA, 2026-11-13) https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on
-  Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting c
-- **Israel’s VCs see opportunity for challengers in Nvidia’s turmoil** (TechCrunch IA, 2026-11-13) https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/
-  Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.
-- **Jensen Huang didn’t show confidence in his successor, report says** (TechCrunch IA, 2026-11-13) https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/
-  Huang described Kress as a "deer in the headlights" during a meeting in summer.
-- **Let’s talk about Jensen Huang’s many affairs!** (The Verge IA, 2026-11-13) https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow
-  Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singula
+- **Where was Nvidia’s security team?** (TechCrunch IA, 2026-11-15) https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/
+  Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which 
+- **Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang** (TechCrunch IA, 2026-11-14) https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/
+  The petition had attracted more than 115,000 signatures as of Saturday afternoon.
+- **The AI graveyard: a running list of projects and startups that didn’t make it** (TechCrunch IA, 2026-11-14) https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
+  From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.
+- **Asian governments react to Nvidia CEO Jensen Huang’s exit** (TechCrunch IA, 2026-11-14) https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/
+  Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.
+- **The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs** (The Verge IA, 2026-11-14) https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview
+  Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for
+- **Jensen Huang and the decline of the visionary showman founder CEO** (The Verge IA, 2026-11-14) https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo
+  On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leat
+
+## Modèles et labos
+
+- **datasette-llm 0.1a11** (Simon Willison, 2026-11-14) https://simonwillison.net/2026/Nov/14/datasette-llm/
+  Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseu
+- **datasette-vega 0.7** (Simon Willison, 2026-11-14) https://simonwillison.net/2026/Nov/14/datasette-vega/
+  Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to 
+- **Show HN: A terminal-native idle factory game, written in Rust with ratatui** (Hacker News IA, 2026-11-14) https://gitlab.com/snipedbywifi/terminactory
+  156 points, 39 commentaires HN
+
+## Agents, code et automatisation
+
+- **Claude asked to renumber pages deletes professor's syllabus, year of notes** (Hacker News Claude, 2026-11-14) https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits
+  48 points, 65 commentaires HN
+- **The Claude Delusion** (Hacker News Claude, 2026-11-14) https://www.netmeister.org/blog/claude-delusion.html
+  148 points, 193 commentaires HN
