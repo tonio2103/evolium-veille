@@ -7,7 +7,7 @@
  "Anthropic engineering": {
   "ok": true,
   "items": 0,
-  "s": 0.2
+  "s": 0.1
  },
  "Claude API changelog": {
   "ok": true,
@@ -16,12 +16,12 @@
  },
  "Claude Code changelog": {
   "ok": true,
-  "items": 0,
+  "items": 1,
   "s": 0.4
  },
  "OpenAI news": {
   "ok": true,
-  "items": 3,
+  "items": 10,
   "s": 0.4
  },
  "Google DeepMind blog": {
@@ -31,13 +31,13 @@
  },
  "Google AI blog": {
   "ok": true,
-  "items": 0,
-  "s": 0.2
+  "items": 1,
+  "s": 0.1
  },
  "Meta AI blog": {
   "ok": true,
   "items": 0,
-  "s": 1.4
+  "s": 1.2
  },
  "Mistral news": {
   "ok": true,
@@ -46,23 +46,23 @@
  },
  "Hugging Face blog": {
   "ok": true,
-  "items": 0,
+  "items": 1,
   "s": 0.2
  },
  "Hugging Face papers du jour": {
   "ok": true,
   "items": 0,
-  "s": 0.0
+  "s": 0.1
  },
  "Black Forest Labs": {
   "ok": true,
   "items": 0,
-  "s": 0.3
+  "s": 0.2
  },
  "Higgsfield blog": {
   "ok": true,
-  "items": 1,
-  "s": 0.3
+  "items": 2,
+  "s": 0.5
  },
  "Runway research": {
   "ok": true,
@@ -77,12 +77,12 @@
  "Kling AI": {
   "ok": true,
   "items": 0,
-  "s": 1.3
+  "s": 1.2
  },
  "fal.ai nouveaux modèles": {
   "ok": true,
-  "items": 0,
-  "s": 0.7
+  "items": 10,
+  "s": 0.9
  },
  "Replicate blog": {
   "ok": true,
@@ -92,7 +92,7 @@
  "ElevenLabs blog": {
   "ok": true,
   "items": 0,
-  "s": 0.1
+  "s": 0.2
  },
  "Topaz Labs": {
   "ok": true,
@@ -102,12 +102,12 @@
  "ComfyUI releases": {
   "ok": true,
   "items": 1,
-  "s": 0.3
+  "s": 0.5
  },
  "Descript": {
   "ok": true,
   "items": 0,
-  "s": 0.4
+  "s": 0.5
  },
  "Adobe blog vidéo": {
   "ok": true,
@@ -115,9 +115,8 @@
   "s": 0.1
  },
  "Blackmagic (Google News)": {
-  "ok": true,
-  "items": 6,
-  "s": 0.2
+  "ok": false,
+  "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22Blackmagic+Design%22+OR+%22DaVinci+Resolve%22+OR+ATEM+when:2d&hl=en-US&gl=US&ceid=US:en"
  },
  "DaVinci Resolve (support)": {
   "ok": true,
@@ -125,53 +124,52 @@
   "s": 0.0
  },
  "NDI (Google News)": {
-  "ok": true,
-  "items": 3,
-  "s": 0.3
+  "ok": false,
+  "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22NDI%22+video+OR+%22NDI+6%22+OR+%22NDI+HX%22+when:2d&hl=en-US&gl=US&ceid=US:en"
  },
  "Vizrt / TriCaster (Google News)": {
   "ok": false,
-  "error": "pas de flux trouvé"
+  "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=TriCaster+OR+Vizrt+OR+%22Bitfocus+Companion%22+when:2d&hl=en-US&gl=US&ceid=US:en"
  },
  "Bitfocus Companion": {
   "ok": true,
   "items": 0,
-  "s": 0.4
+  "s": 0.5
  },
  "Node-RED": {
   "ok": true,
-  "items": 0,
+  "items": 1,
   "s": 0.5
  },
  "FFmpeg": {
   "ok": true,
   "items": 0,
-  "s": 0.2
+  "s": 0.3
  },
  "OBS Studio": {
   "ok": true,
   "items": 0,
-  "s": 0.6
+  "s": 0.8
  },
  "Remotion": {
   "ok": true,
-  "items": 1,
-  "s": 1.4
+  "items": 0,
+  "s": 1.6
  },
  "faster-whisper": {
   "ok": true,
   "items": 0,
-  "s": 0.3
+  "s": 0.4
  },
  "whisper.cpp": {
   "ok": true,
   "items": 0,
-  "s": 0.5
+  "s": 0.6
  },
  "auto-editor (montage auto)": {
   "ok": true,
   "items": 0,
-  "s": 0.2
+  "s": 0.3
  },
  "Frame.io": {
   "ok": true,
@@ -181,46 +179,46 @@
  "MCP servers (repo)": {
   "ok": true,
   "items": 0,
-  "s": 0.9
+  "s": 0.2
  },
  "n8n": {
   "ok": true,
-  "items": 1,
-  "s": 0.4
+  "items": 2,
+  "s": 1.1
  },
  "OpenAI Codex": {
   "ok": true,
-  "items": 2,
-  "s": 0.7
+  "items": 5,
+  "s": 0.3
  },
  "Gemini CLI": {
   "ok": true,
   "items": 0,
-  "s": 0.5
+  "s": 0.4
  },
  "Simon Willison": {
   "ok": true,
-  "items": 5,
+  "items": 2,
   "s": 0.1
  },
  "The Verge IA": {
   "ok": true,
-  "items": 4,
-  "s": 0.1
+  "items": 10,
+  "s": 0.0
  },
  "TechCrunch IA": {
   "ok": true,
-  "items": 4,
+  "items": 13,
   "s": 0.0
  },
  "Ars Technica IA": {
   "ok": true,
-  "items": 0,
+  "items": 3,
   "s": 0.1
  },
  "Latent Space": {
   "ok": true,
-  "items": 0,
+  "items": 2,
   "s": 0.7
  },
  "r/LocalLLaMA": {
@@ -230,7 +228,7 @@
  },
  "Hacker News IA": {
   "ok": true,
-  "items": 0,
+  "items": 1,
   "s": 0.2
  },
  "Hacker News vidéo IA": {
@@ -245,17 +243,17 @@
  },
  "Hacker News Claude": {
   "ok": true,
-  "items": 0,
+  "items": 2,
   "s": 0.2
  },
  "arXiv vidéo": {
   "ok": true,
-  "items": 0,
-  "s": 0.8
+  "items": 15,
+  "s": 0.6
  },
  "arXiv agents": {
   "ok": true,
-  "items": 0,
-  "s": 0.5
+  "items": 15,
+  "s": 0.9
  }
 }
