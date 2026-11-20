@@ -1,0 +1,749 @@
+[
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Guides How to Make Restaurant Video Ads with AI (Full Guide) 14 min · Nov 19, 2026",
+  "url": "https://higgsfield.ai/blog/how-to-make-restaurant-video-ads-with-ai",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-20T10:46:16.967073+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Comparisons 12 Best AI Face Swap Tools in 2026 16 min · Nov 19, 2026",
+  "url": "https://higgsfield.ai/blog/best-ai-face-swap-tools-2026",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-20T10:46:16.967073+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Comparisons 10 Best Enterprise AI Video Platforms in 2026 13 min · Nov 19, 2026",
+  "url": "https://higgsfield.ai/blog/Best-Enterprise-AI-Video-Platforms-in-2026",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-20T10:46:16.967073+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "News Higgsfield MCP Moves to CIMD: What Developers Need to Know 4 min · November 20, 2026",
+  "url": "https://higgsfield.ai/blog/higgsfield-mcp-moves-to-cimd",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-20T10:46:16.967073+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "ideogram/v4.6/edit Ideogram 4.6 edits an image from a text instruction, with optional masks, reference images, and precision controls. image editing precise edi",
+  "url": "https://fal.ai/models/ideogram/v4.6/edit",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-20T10:46:16.967073+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "ideogram/v4.6 Ideogram 4.6 generates images from text prompts with configurable quality, image dimensions, and optional transparent backgrounds. text to image t",
+  "url": "https://fal.ai/models/ideogram/v4.6",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-20T10:46:16.967073+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "7 Best Free Video Enhancers to Improve Video Quality - The Assam Tribune",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY3p1WWViR1RqUll6b3BJbEJrMFJqOGRHbkVrbVo3aUJiZXplVjAwcmVxc1hqQTF3TTFmWWJlcVF2cG1SXzdQdlZzNlZFa0RwU0FVVzdtNFJSZ2NmbFNTcEdKYzVzWXRUdUJIakl1RVlJV2pXOERSR1c5UGVEUmdQVDlXOUNHU1RSSEhrTjhhWmstZG5Ia0NSbdIBngFBVV95cUxNdEZWOXpkYTE0V3pJZ3h2dnNmc0NKQkx5UnVsc1p1SWw4RkNWUEtXY0g3ZW1vbTdzQXlDM085emtpSTIzWTA1QXY0cld0MUhiM29BbXZTSmMtZ3RWQmluMzA4dUNZaHZERHJYUTRucFV5ZUhTamRtTEdRVlBiZ3Q5WXdtWHBKZlpXT09WZlR2aDVmdWZydWN2dmY1SzZKUQ?oc=5",
+  "summary": "7 Best Free Video Enhancers to Improve Video Quality The Assam Tribune",
+  "date": "2026-11-20T10:15:10+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@1.123.100",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.100",
+  "summary": "1.123.100 (2026-11-20)",
+  "date": "2026-11-20T08:46:00+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.48.7",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.48.7",
+  "summary": "2.48.7 (2026-11-20) Bug Fixes core: End memory guard hold when hold-limit stop frees no memory ( #44463 ) ( 22643e1 ) core: Store plain input data in the error output of scripting nodes ( #44530 ) ( c26c923 )",
+  "date": "2026-11-20T08:39:19+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.49.3",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.49.3",
+  "summary": "2.49.3 (2026-11-20) Bug Fixes core, HTTP Request Node: Handle empty response bodies in pagination ( #44443 ) ( 3443f12 ) core: End memory guard hold when hold-limit stop frees no memory ( #44462 ) ( 2e2d425 ) core: Store plain input data in the error output of scripting nodes ( #44529 ) ( 102c0a9 ) editor: Keep announcements interactive above the account menu ( #44471 ) ( 583d187 )",
+  "date": "2026-11-20T08:20:37+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
+  "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
+  "summary": "November 19, 2026 — ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers.",
+  "date": "2026-11-20T07:12:24+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "OBSBOT Tail 2 ADV: 21× Optical Zoom and AI Tracking for Live Production - PTTL.gr",
+  "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPMmZJc0VtLUlRNkQzYVp1UEQtWWxoZ2YzTTN4X3BraUtiZHE1M21ndEttWUNTQUY5UnZZSDlvckd0Xy13cmpfenluaTNNZ2JJN1ZSREF3OEV3T1M1SF9SUXpsRVhOdXJWZ0M3dmk1S29aRE5ONzA4anNlVkZqT3lmaks1ZHZ3Q0x0ajNYUUV4eXdlMVEwLVB3dWJIdDdLUFVwXzF6bkpoU1dkcTNnVjRLNkltOFdVcjFQYlhsWV9zWHo1Tm85cUJlWERuTmhLdmxLQnpUMEFGVWYtcE9wZVlWNEd2cnR0ZVQxVVlNb1hvNWh5Ty1Pd282M2hDQVlpbXpLQmdsSEhBYU5GemhQeGhZZHU5QTlsTXNiU2NWdVQyUFNaZTVkTE52MVZUZmR2aW5BWWlEcEtlTGMyX2Z5R0R6aWJmYmNJUFdkemh2Uw?oc=5",
+  "summary": "OBSBOT Tail 2 ADV: 21× Optical Zoom and AI Tracking for Live Production PTTL.gr",
+  "date": "2026-11-20T06:16:28+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Blackmagic Cinema Camera 6K Captured Action Shots for Sketch - FilmInk",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVhKeGVBc1RJbk1VNWJmbjZKV2JsNWNIc0ZDcXotaFp3c0hEZldSSGE5R3BYQkczUldKZ2Y2TTMwWFpvX3BldkhfSDhJTUtnQlp3bUduZHI2MFhIam03YnVwNER6WHNtbHRjSk9RTkxWWGl0UGtyYjlqVFN2OFl3TklMUFNNcTJfMUpHWlVzcnhrV3I0eDNDeGNCRFZMQng4S3JWMQ?oc=5",
+  "summary": "Blackmagic Cinema Camera 6K Captured Action Shots for Sketch FilmInk",
+  "date": "2026-11-20T06:06:13+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.173.0-alpha.1",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.1",
+  "summary": "Release 0.173.0-alpha.1",
+  "date": "2026-11-20T02:54:54+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "Token fraud is here and it’s BAD (YouTube)",
+  "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+  "summary": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying Twitter post ) Claire describes the flood of token fraud she has seen from groups abusing the produc",
+  "date": "2026-11-20T02:49:57+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "A Single Gas Distributor for the Province: The Mega Tender - Il Mattino",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMDNYUEZLSnJSRnV5bG96WkFjbzJramxfWDhxNndLQ2k1REQyRHhaN0RjMGRIMHBVbFJjMzBMam1DVHpaUDljLVMtekFQTm5lT1ZFcmJkbXQ4empjeFNJSGlpQXpzLTEtQld2b2VkaE9NWF84ZkI3aUt2Y3dtcFhNSG5LNHdyTjdOaUYwXzdWeTFhY2huUHo4aEFtTnBFaHfSAaQBQVVfeXFMUHE5TUZqR1RvMktFcy1ka0FPSXZZUVk3ZzRuZTg4TGtxRUdZVU8yRlVVMEJqaTRDRTFLVTA2MEw3UnhNd3huWWI2X0F6ZUVrT09ta3JDc1R5bWNrblpGMVVOTEpBczVSUHpPYko2MEhpeXg1OXF3LWxWalRmU252M1ZWZHNKeVc4WFhKbkFmN01xZjZ5OU80OHVtTzNHdld1cllaRmk?oc=5",
+  "summary": "A Single Gas Distributor for the Province: The Mega Tender Il Mattino",
+  "date": "2026-11-20T02:08:40+00:00"
+ },
+ {
+  "source": "Gemini CLI",
+  "family": "Agents, code et automatisation",
+  "title": "google-gemini/gemini-cli Release v0.71.0-nightly.20261120.gd4cb1713f",
+  "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.0-nightly.20261120.gd4cb1713f",
+  "summary": "What's Changed fix(core,cli): preserve literal $ characters during template placeholder replacement by @jesussamuel-byte in #30136 feat(cli): add /stats heatmap subcommand for daily token usage by @jvargassanchez-dot in #30135 fix(core): prevent GCLI_EXPAND_TARGET env collision in expandEnvVars by @villahernandez-coder in #30138 chore(release): bump version to 0.69.0-nightly.20261104.g89e9d25d6 by",
+  "date": "2026-11-20T01:12:42+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Apple may be developing its own AI agent that runs your Mac",
+  "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+  "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+  "date": "2026-11-20T00:56:01+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.171.0",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0",
+  "summary": "New Features Added GPT-6.2 Sol and Astra to model catalogs, with Sol as the default catalog selection. ( #62106 ) Enabled the TUI workspace by default, with searchable document previews, image previews, and subagent transcripts alongside the main conversation. ( #61352 , #61888 , #61889 , #61919 , #62157 ) Added configurable undo and redo shortcuts to the non-Vim prompt composer, including restora",
+  "date": "2026-11-20T00:47:14+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+  "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+  "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+  "date": "2026-11-20T00:43:50+00:00"
+ },
+ {
+  "source": "FFmpeg",
+  "family": "Montage, motion et broadcast",
+  "title": "FFmpeg/FFmpeg n9.1",
+  "url": "https://github.com/FFmpeg/FFmpeg/releases/tag/n9.1",
+  "summary": "FFmpeg 9.1 release",
+  "date": "2026-11-20T00:03:36+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+  "url": "https://latent.space/p/linear-scaling/",
+  "summary": ">50% of tickets written by agents, the AI budgets behind $100M-in-months ARR, and selling without SDRs or FDEs",
+  "date": "2026-11-19T23:58:21+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Apple is hiring engineers to build its own AI agent",
+  "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+  "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]",
+  "date": "2026-11-19T22:31:41+00:00"
+ },
+ {
+  "source": "Claude Code changelog",
+  "family": "Agents, code et automatisation",
+  "title": "anthropics/claude-code v2.1.329",
+  "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.329",
+  "summary": "What's changed Added a trust dialog warning that says where a folder's hooks are declared Added a warning in the conversation, in Claude Desktop and other non-interactive hosts, when hooks in managed settings fail to load Added this session's scheduled tasks, /loop wakeups, the goal and this conversation's forks to /tasks ; x stops one after asking Added a \"Server message\" row to a server's page i",
+  "date": "2026-11-19T22:14:41+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.171.0-alpha.13.1",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.13.1",
+  "summary": "Release 0.171.0-alpha.13.1",
+  "date": "2026-11-19T22:07:59+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "A brief history of Nvidia’s recent stock fluctuations",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+  "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings […]",
+  "date": "2026-11-19T21:59:35+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Meta’s new Muse Charm device may cost $300",
+  "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+  "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+  "date": "2026-11-19T21:58:06+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "These tech outages are giving Y2K, AI agent style",
+  "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+  "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+  "date": "2026-11-19T21:42:31+00:00"
+ },
+ {
+  "source": "ComfyUI releases",
+  "family": "Open source et recherche",
+  "title": "comfyanonymous/ComfyUI v0.46.1",
+  "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.1",
+  "summary": "ComfyUI v0.46.1",
+  "date": "2026-11-19T21:33:50+00:00"
+ },
+ {
+  "source": "Gemini CLI",
+  "family": "Agents, code et automatisation",
+  "title": "google-gemini/gemini-cli Release v0.70.0",
+  "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.70.0",
+  "summary": "What's Changed Changelog for v0.69.0-preview.0 by @gemini-cli-robot in #30222 Changelog for v0.68.0 by @gemini-cli-robot in #30224 chore(release): bump version to 0.70.0-nightly.20261110.g1603e9bab by @gemini-cli-robot in #30223 test(cli): remove redundant lowercase restart test in AdminSettingsChangedDialog by @luisfelipe-alt in #30221 fix(cli): preserve Unicode prompts and strip ANSI fragments i",
+  "date": "2026-11-19T21:08:05+00:00"
+ },
+ {
+  "source": "Gemini CLI",
+  "family": "Agents, code et automatisation",
+  "title": "google-gemini/gemini-cli Release v0.71.0-preview.0",
+  "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.0-preview.0",
+  "summary": "What's Changed Changelog for v0.70.0-preview.0 by @gemini-cli-robot in #30361 chore(release): bump version to 0.71.0-nightly.20261118.g615d6bc8c by @gemini-cli-robot in #30366 Changelog for v0.69.0 by @gemini-cli-robot in #30365 fix(core,cli): parse PowerShell commands asynchronously to prevent UI spinner freeze by @tadipavan in #30334 chore(gcp): push development worker to private artifact regist",
+  "date": "2026-11-19T20:48:23+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "PostgreSQL 19 Released",
+  "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+  "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth the wait. My favorite new feature is this one: For applications that send reads to standbys, Postgr",
+  "date": "2026-11-19T20:43:57+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Meta’s Muse Charm might cost $300",
+  "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+  "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but […]",
+  "date": "2026-11-19T20:22:17+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+  "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+  "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+  "date": "2026-11-19T20:19:28+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "The unfolding Jensen Huang scandal: a timeline",
+  "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+  "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+  "date": "2026-11-19T20:18:49+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Google is putting AI chats right on the homepage",
+  "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+  "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]",
+  "date": "2026-11-19T20:05:06+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Anthropic’s IPO could deliver $156B to charity",
+  "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+  "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+  "date": "2026-11-19T19:10:45+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Posterior Matching Distillation",
+  "url": "https://arxiv.org/abs/2611.26629v1",
+  "summary": "Diffusion distillation accelerates image and video generation by compressing a pretrained teacher's iterative sampling process into a few network evaluations. Distribution-based methods achieve this by matching the student's output distribution to the teacher's. This matching is often driven by reverse-KL objectives, whose mode-seeking bias favors dominant teacher modes at the expense of diversity",
+  "date": "2026-11-19T18:59:57+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+  "url": "https://arxiv.org/abs/2611.26627v1",
+  "summary": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natural hypothesis is that improving them requires learning complex, input-dependent transformations. To isolate how much of t",
+  "date": "2026-11-19T18:59:53+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+  "url": "https://arxiv.org/abs/2611.26624v1",
+  "summary": "Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We propose PlayCraft, an automated framework that uses a vision-based agent to play games and draws on its detailed play experience to revise them for mastery. Starting from an initial game, PlayCraft alter",
+  "date": "2026-11-19T18:59:34+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
+  "url": "https://arxiv.org/abs/2611.26619v1",
+  "summary": "Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous caches whose demands vary with context length and concurrency. We present TideCache, a serving system on CPU--GPU superchips with three components for allocating GPU memory among caches and managing their residency across GPU and host memory. The Tra",
+  "date": "2026-11-19T18:58:31+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
+  "url": "https://arxiv.org/abs/2611.26617v1",
+  "summary": "Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics largely from scratch. We ask whether a pretrained video generator can instead provide the prior for both inverse and forward dynamics. We introduce O$^{2}$LaF, built on a simple principle: one prior,",
+  "date": "2026-11-19T18:58:14+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement",
+  "url": "https://arxiv.org/abs/2611.26615v1",
+  "summary": "High-resolution generation enables video world models to render fine-grained scene structures and textures, but directly generating high-resolution video incurs substantial computational and memory costs. We present ScaleWorld, a causal video model that unifies low-resolution world prediction and high-resolution refinement within a single shared backbone. By refining its own predictions, ScaleWorl",
+  "date": "2026-11-19T18:58:04+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
+  "url": "https://arxiv.org/abs/2611.26613v1",
+  "summary": "Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, existing benchmarks report only episode-level success rates, which show neither how these agents succeed nor where they fail. In this paper, we present a systematic action-level analysis of frontier agen",
+  "date": "2026-11-19T18:57:25+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Variants of Beam Search for DiskANN",
+  "url": "https://arxiv.org/abs/2611.26609v1",
+  "summary": "Graph-based data structures such as DiskANN, HNSW, and NSG constitute the state of the art for large-scale approximate nearest-neighbor (ANN) search. Indyk and Xu introduced the notion of $α$-reachable graphs, which include graphs built by DiskANN's slow-preprocessing construction, and proved that greedy search achieves an approximation factor of $\\tfrac{α+1}{α-1}$. Independently, Al-Jazzazi et al",
+  "date": "2026-11-19T18:57:05+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+  "url": "https://arxiv.org/abs/2611.26603v1",
+  "summary": "We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trade off temporal consistency and boundary sharpness: multi-frame methods favor consistency, single-frame methods favor sharpness. To overcome this trade-off, we train a single, scalable network that pro",
+  "date": "2026-11-19T18:55:41+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
+  "url": "https://arxiv.org/abs/2611.26601v1",
+  "summary": "LLM-based agents are becoming increasingly capable at discovering, validating and patching vulnerabilities in real software, and vendors and researchers report that this is already changing how vulnerabilities are found and fixed. These claims, however, are scattered across papers, vendor reports and disclosures and are rarely comparable. We introduce a framework that rates these capabilities on a",
+  "date": "2026-11-19T18:54:19+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation",
+  "url": "https://arxiv.org/abs/2611.26596v1",
+  "summary": "Robotic vision-language-action (VLA) models can execute diverse individual manipulation skills, yet they still struggle with long-horizon loco-manipulation tasks, where temporal structure, skills, and precision are tightly coupled within a monolithic model. We propose Physically Grounded Execution (PGX), a framework that offloads temporal and precision control to two classical training-free compon",
+  "date": "2026-11-19T18:52:18+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
+  "url": "https://arxiv.org/abs/2611.26595v1",
+  "summary": "Code2Video uses agent-authored 3D proxies to guide video generation, enabling explicit control over structure and dynamics. However, how to construct proxies and prompts for optimal downstream quality remains underexplored, as do the capabilities and limitations of this paradigm. Through controlled experiments and blinded human evaluation, we study proxy granularity, physics simulation, and prompt",
+  "date": "2026-11-19T18:51:58+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Star-forming disc galaxies align tangentially with the cosmic tidal field",
+  "url": "https://arxiv.org/abs/2611.26593v1",
+  "summary": "The alignments of galaxy shapes, with one another and with the large-scale structure of the Universe, have been a topic of considerable investigation within cosmology and extragalactic astrophysics for the last 60 years. Galaxy alignments are a major systematic for weak gravitational lensing and help us learn about the processes of galaxy formation. Red early-type galaxies are known to show strong",
+  "date": "2026-11-19T18:48:05+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Represented but misread: Post-training changes how language models read out what they represent",
+  "url": "https://arxiv.org/abs/2611.26584v1",
+  "summary": "Does post-training change what a language model represents, or how this representation is read out into an answer? We compared linear probes with the models' own answers, analyzed with signal detection theory, in six open-weight base models and their post-trained versions. For judgments of whether German texts were written by a human or an AI, probes and word n-gram classifiers separated the class",
+  "date": "2026-11-19T18:43:56+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs",
+  "url": "https://arxiv.org/abs/2611.26569v1",
+  "summary": "Multimodal image generation systems have made rapid progress and increasingly emphasize content safety. However, their safety mechanisms tend to rely on a single modality and lack joint consideration of both visual content and text prompts, particularly in instruction-guided image editing, where the uploaded image may itself carry risk. We thus introduce EditSafetyBench, a benchmark that measures ",
+  "date": "2026-11-19T18:36:19+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "You Have Mail: Set-Theoretic Types for Actors",
+  "url": "https://arxiv.org/abs/2611.26563v1",
+  "summary": "We present a type system for the processes of Elixir, a dynamic language based on the actor model whose static type system covers only its functional core. Each process is typed by $\\mathtt{pid}(t)$, where the ``interface'' $t$ is the type of the messages the process expects in its mailbox: sends are checked against the recipient's interface, and receives rely on the interface of the process that ",
+  "date": "2026-11-19T18:30:14+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Multi-institutional grading of Barrett's esophagus dysplasia without stain normalization using a pathology foundation model and multiple instance learning",
+  "url": "https://arxiv.org/abs/2611.26562v1",
+  "summary": "Barrett's esophagus dysplasia grading suffers substantial inter-observer variability, particularly for low-grade dysplasia, complicating clinical decision-making. We conducted a retrospective multi-institutional diagnostic accuracy study of a foundation model-based deep learning system for dysplasia grading, using 969 H\\&E-stained whole slide images from four institutions. Patch-level classifiers ",
+  "date": "2026-11-19T18:27:59+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "u3lib: An AI-Ready Computational Framework for U(3) Symmetry Algebra, Wigner Coupling, and Racah Recoupling Coefficients",
+  "url": "https://arxiv.org/abs/2611.26558v1",
+  "summary": "u3lib is a C++ library for U(3)/SU(3) representation-theory calculations in nuclear structure and related applications. It evaluates Wigner coupling and Racah recoupling coefficients using the procedure proposed in 2024 by Dang et al., which avoids the binomial coefficients and alternating sums used in earlier formulations. The library also provides irreducible representations (irreps), dimensions",
+  "date": "2026-11-19T18:25:49+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "MM-SystemOneBias: Evaluating Bias in Multimodal Jev-Style System One Decision Models",
+  "url": "https://arxiv.org/abs/2611.26557v1",
+  "summary": "When multimodal decision models determine actions, moderation outcomes, or quality judgments, their reliability depends on preserving semantic decisions across presentation changes, ignoring irrelevant additions, and distinguishing information consistent with task evidence from information that conflicts with it. Existing evaluations study decision-interface biases and multimodal model behavior in",
+  "date": "2026-11-19T18:25:41+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Multiplicative Sidon basis",
+  "url": "https://arxiv.org/abs/2611.26555v1",
+  "summary": "For a $h \\ge 2$ integer a sequence of positive integers $A$ is called asymptotic basis of order $h$ if every sufficiently large positive integer $n$ can be written as a sum of $h$ elements of $A$. We say a sequence of positive integers $A$ is a multiplicative Sidon sequence if all the products of two elements of the sequence $A$ are distinct. In this paper we prove the existence of a multiplicativ",
+  "date": "2026-11-19T18:24:14+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)",
+  "url": "https://arxiv.org/abs/2611.26553v1",
+  "summary": "Agents based on large language models (LLMs) can now delete files and send payments on behalf of their users. News media reports routinely describe failures of these agents (e.g., Replit's coding agent deleting a production database), but a report often only says what went wrong and rarely (in)validates the incident or finds its root cause. Incident catalogs collect these reports, and benchmarks r",
+  "date": "2026-11-19T18:23:35+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Chemical Cartography Across Time: The Age-Dependent Chemical Structure of the Milky Way with a Homogeneous Sample of 580,000 Giants from Five Surveys",
+  "url": "https://arxiv.org/abs/2611.26550v1",
+  "summary": "Mapping the distribution of elements in the Milky Way and understanding how that distribution has changed over time can give us insight into the formation and evolution of our Galaxy. Here we use homogeneously estimated atmospheric parameters, elemental abundances, distances, and ages for ~580,000 giants from five major spectroscopic surveys---all simultaneously placed on a single, self-consistent",
+  "date": "2026-11-19T18:22:30+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Gemini on Mac can now use your computer",
+  "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+  "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will […]",
+  "date": "2026-11-19T18:21:13+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "AURA: AUdio-dRiven streaming Avatar",
+  "url": "https://arxiv.org/abs/2611.26540v1",
+  "summary": "Current audio-driven video diffusion models can synthesize realistic talking-head videos but generally require dozens of diffusion denoising steps over multi-second video chunks, making them unsuitable for streaming applications such as voice assistants and virtual avatars, where low-latency and online causal generation are required properties. AURA generates video chunk by chunk with a rolling KV",
+  "date": "2026-11-19T18:17:38+00:00"
+ },
+ {
+  "source": "arXiv agents",
+  "family": "Open source et recherche",
+  "title": "Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models",
+  "url": "https://arxiv.org/abs/2611.26531v1",
+  "summary": "Large Web platforms operate large fleets of ranking models, each selecting features from a shared pool of tens of thousands. We present an end-to-end agentic system that optimizes features across the fleet under resource constraints shared across models and those set per model, such as feature pipeline cost and serving throughput (QPS), respectively. In this system, LLM agents propose hypotheses, ",
+  "date": "2026-11-19T18:12:04+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Google gives Gemini the ability to use your Mac for you",
+  "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+  "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+  "date": "2026-11-19T18:09:11+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Deterministic Temporal Embedding for Calcium Imaging Trace Extraction",
+  "url": "https://arxiv.org/abs/2611.26522v1",
+  "summary": "Reliable extraction of calcium-dependent fluorescence traces in calcium imaging sequences requires identifying pixels whose fluorescence intensity reflects the same underlying cellular activity. We present a deterministic temporal embedding framework that maps pixel-wise fluorescence traces to a low-dimensional representation in which temporally coherent sources form spatially coherent regions. St",
+  "date": "2026-11-19T18:00:35+00:00"
+ },
+ {
+  "source": "Google AI blog",
+  "family": "Modèles et labos",
+  "title": "Introducing Tool Retrieval in the Gemini API",
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+  "summary": "Gemini spark on a space background",
+  "date": "2026-11-19T18:00:00+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Plan4D: Generative Plannable 4D Worlds",
+  "url": "https://arxiv.org/abs/2611.26516v1",
+  "summary": "Most world models for future prediction prioritize aestetic quality of generated videos, but offer only weak physical grounding and limited geometric consistency over time, due to the lack of explicit 4D modeling. In this paper, we introduce plan4d, a possible next milestone towards building a generative plannable 4D world model that predicts future RGB videos together with dense 4D geometry, incl",
+  "date": "2026-11-19T17:59:02+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain",
+  "url": "https://arxiv.org/abs/2611.26511v1",
+  "summary": "Native 3D generation has largely been built around latent diffusion, with recent advances concentrating on stronger variational autoencoders (VAE) and increasingly elaborate latent representations, from vecset and triplanes to structured sparse voxels. Despite their architectural differences, these methods all share the same premise: geometry is first compressed into a latent space and only then m",
+  "date": "2026-11-19T17:58:20+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "Visual Attribution Limits and Graded Provenance Auditing in Commercial Video-Generation APIs",
+  "url": "https://arxiv.org/abs/2611.26508v1",
+  "summary": "Commercial video-generation APIs bill by model and tier, while intermediaries could substitute cheaper models, lower tiers, or cached clips. What can a delivered file establish about its origin? We combine measurements of passive attribution and cryptographic provenance into a graded audit. We test attribution probes and zero-shot detectors under re-encoding, downscaling, and frame-rate changes, a",
+  "date": "2026-11-19T17:56:06+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "SGAR: Feed-Forward 3D Reconstruction via Sparse Geometry-Guided Attention",
+  "url": "https://arxiv.org/abs/2611.26493v1",
+  "summary": "Feed-forward models have been very successful in 3D reconstruction with ad hoc attention designs that relate all view patches densely. However, the cost of this dense global attention grows quadratically with the number of views, preventing the model from applying to larger-scale reconstruction settings. In this paper, we argue that most dense attention computations are unnecessary from a classica",
+  "date": "2026-11-19T17:46:57+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+  "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+  "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+  "date": "2026-11-19T17:38:40+00:00"
+ },
+ {
+  "source": "arXiv vidéo",
+  "family": "Open source et recherche",
+  "title": "SHUSH: Emission-Aware Reward Design for Proactive Video Assistants",
+  "url": "https://arxiv.org/abs/2611.26478v1",
+  "summary": "Proactive video assistants must decide not only what to say, but also when to speak. Existing reinforcement-learning objectives can reward timely, correct responses without accounting for response volume, thereby encouraging unnecessary or repeated emissions. We identify this failure mode in MMDuet2, whose proactive area-under-the-curve (PAUC) reward promotes timely responses but does not price th",
+  "date": "2026-11-19T17:38:18+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Claude solves two open problems in the physics of black holes",
+  "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+  "summary": "505 points, 235 commentaires HN",
+  "date": "2026-11-19T17:30:44+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50563148"
+ },
+ {
+  "source": "Google AI blog",
+  "family": "Modèles et labos",
+  "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+  "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+  "date": "2026-11-19T17:00:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+  "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+  "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+  "date": "2026-11-19T17:00:00+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+  "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+  "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+  "date": "2026-11-19T16:59:23+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Anthropic starts trading on Wall Street",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+  "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, […]",
+  "date": "2026-11-19T16:52:01+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "NDI Releases NDI 6.4 - rAVe [PUBS]",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmOHJCalJic3I4V29FT3JFMkp2bDg0NEN4SkZHQW54eTNENVhZemMweUstOE9EQjJITmFaM2dfZFluSFdvMWhsNVZ5bjFjRUV6Y1kzWTZCMW5hQdIBWkFVX3lxTFBmOHJCalJic3I4V29FT3JFMkp2bDg0NEN4SkZHQW54eTNENVhZemMweUstOE9EQjJITmFaM2dfZFluSFdvMWhsNVZ5bjFjRUV6Y1kzWTZCMW5hQQ?oc=5",
+  "summary": "NDI Releases NDI 6.4 rAVe [PUBS]",
+  "date": "2026-11-19T16:42:07+00:00"
+ },
+ {
+  "source": "Hacker News vidéo IA",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+  "url": "https://github.com/onlook-dev/onlook/",
+  "summary": "119 points, 83 commentaires HN",
+  "date": "2026-11-19T16:34:04+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50562320"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+  "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+  "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+  "date": "2026-11-19T16:19:41+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.172.0-alpha.2",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.172.0-alpha.2",
+  "summary": "Release 0.172.0-alpha.2",
+  "date": "2026-11-19T15:49:51+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+  "url": "https://thedataexchange.media/pete-warden-moonshine/",
+  "summary": "250 points, 221 commentaires HN",
+  "date": "2026-11-19T15:38:12+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50561508"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "NDI 6.4 Adds Recording and Playback APIs, HEVC 4:4:4 and Wi-Fi Receiver Buffer - Sports Video Group",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFFhTFlpQUo2VnJuZmdkZTZTSmVkNFdPS2JLbnJGMUVWeUlBSE9OanpMX1loS3BuWXpQUjVaZDRDYUhmV2oxQll5N1lvR0Y1TEdHcmZ2R29lR3BETVV1a1VpSURKaTZGazJNdTI1R1JlZzQ4TFpMYTg4bDd0NGVfVi1MSHl0UWIzS2NwNTZjX3dkOS0wTU1KV0RpYW1sOG53NWFpZGstX1QwVkVTeTZvZmtqOTJOdw?oc=5",
+  "summary": "NDI 6.4 Adds Recording and Playback APIs, HEVC 4:4:4 and Wi-Fi Receiver Buffer Sports Video Group",
+  "date": "2026-11-19T15:20:46+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+  "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or […]",
+  "date": "2026-11-19T15:16:45+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+  "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+  "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+  "date": "2026-11-19T14:54:39+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+  "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety […]",
+  "date": "2026-11-19T14:25:37+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Superhuman pushes its Go assistant everywhere",
+  "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+  "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
+  "date": "2026-11-19T14:00:00+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+  "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+  "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can […]",
+  "date": "2026-11-19T13:00:00+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Canva adds an AI ‘off’ button",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+  "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This toggle doesn't turn off every AI-powered […]",
+  "date": "2026-11-19T12:30:00+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+  "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+  "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+  "date": "2026-11-19T08:00:00+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Deploying Daybreak Red",
+  "url": "https://openai.com/business/learn/deploying-daybreak-red",
+  "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+  "date": "2026-11-19T00:00:00+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "See PR scans in action",
+  "url": "https://openai.com/business/learn/pr-scans-demo",
+  "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+  "date": "2026-11-19T00:00:00+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Explore the Codex Security Plugin",
+  "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+  "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+  "date": "2026-11-19T00:00:00+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Get started with Daybreak Blue",
+  "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+  "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+  "date": "2026-11-19T00:00:00+00:00"
+ }
+]
