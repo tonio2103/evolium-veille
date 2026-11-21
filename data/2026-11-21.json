@@ -1,0 +1,355 @@
+[
+ {
+  "source": "Anthropic news",
+  "family": "Modèles et labos",
+  "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent",
+  "url": "https://www.anthropic.com/news/ipo-close",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-21T10:29:03.483637+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Editorials Higgsfield Black Friday Market: Bonus Seconds, Credit Packs and Unlimited Images 5 min · Nov 20, 2026",
+  "url": "https://higgsfield.ai/blog/higgsfield-black-friday-market",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-21T10:29:03.483637+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Comparisons 8 Best AI Tools for Game Trailers in 2026 15 min · Nov 20, 2026",
+  "url": "https://higgsfield.ai/blog/best-ai-tools-for-game-trailers",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-21T10:29:03.483637+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Comparisons 8 Best AI Tools for Beauty Ads in 2026 14 min · Nov 19, 2026",
+  "url": "https://higgsfield.ai/blog/best-ai-tools-for-beauty-ads",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-21T10:29:03.483637+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "[AINews] Riemann Hypothesis proved...twice independently",
+  "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+  "summary": "November 20 2026 —",
+  "date": "2026-11-21T05:02:13+00:00"
+ },
+ {
+  "source": "OBS Studio",
+  "family": "Montage, motion et broadcast",
+  "title": "obsproject/obs-studio OBS Studio 33.0.2",
+  "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.2",
+  "summary": "Important There is a known issue with 33.0.2 on certain older processors where OBS Studio will crash during startup. This issue does not affect everyone. If this issue does affect you, please downloaded an installer for an older version such as 33.0.1 or 32.2.2 until we are able to address this. 33.0.2 Hotfix Changes Fixed macOS Screen Capture not working on Intel-based systems [jcm93] ( #14124 ) ",
+  "date": "2026-11-21T02:44:21+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Dell Launches XPS 16 Creator Edition Laptop in India - Udaipur Kiran",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDJGTmI1S1JIRmlESW1LbzZDb2tmTU9xWF8ySmRXTFQ1R0ZDblRqWVU4Q1U5V0dIUTUzazNVd1BrckxTRDdqbGdidk5CQU1kc21FbHJmTFE0VThndXQxMzV3QXg4eTFQM0d1WFBxcVBPT2Jocl9xTzFES3d2cGwxbVpJeUc?oc=5",
+  "summary": "Dell Launches XPS 16 Creator Edition Laptop in India Udaipur Kiran",
+  "date": "2026-11-21T01:28:11+00:00"
+ },
+ {
+  "source": "Gemini CLI",
+  "family": "Agents, code et automatisation",
+  "title": "google-gemini/gemini-cli Release v0.71.0-nightly.20261121.geecccfcd5",
+  "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.0-nightly.20261121.geecccfcd5",
+  "summary": "What's Changed fix(cli): expand Windows home-relative paths using tilde and backslash by @urielefrenvirtusa in #30376 fix(cli): resume most recently active session instead of most recently started by @urielefrenvirtusa in #30389 Full Changelog : v0.71.0-nightly.20261120.gd4cb1713f...v0.71.0-nightly.20261121.geecccfcd5",
+  "date": "2026-11-21T01:19:21+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.173.0-alpha.4",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.4",
+  "summary": "Release 0.173.0-alpha.4",
+  "date": "2026-11-21T00:40:17+00:00"
+ },
+ {
+  "source": "Claude Code changelog",
+  "family": "Agents, code et automatisation",
+  "title": "anthropics/claude-code v2.1.330",
+  "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.330",
+  "summary": "What's changed Added sign-in to organizations managed in Anthropic's Enterprise Admin Console: after claude auth login , Claude Code applies the organization's settings and uses its cloud provider or gateway Added easel, a built-in mod that draws charts when asked and under MCP metrics results, on Pro, Max and, where available, Team and Enterprise on macOS and Linux; turn automatic charts off in /",
+  "date": "2026-11-20T22:32:56+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.173.0-alpha.3",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.3",
+  "summary": "Release 0.173.0-alpha.3",
+  "date": "2026-11-20T22:28:53+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Google rolls out new search homepage with AI chat history and no search button",
+  "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+  "summary": "Google search is making it even easier to access AI tools on the search page.",
+  "date": "2026-11-20T21:58:29+00:00"
+ },
+ {
+  "source": "ComfyUI releases",
+  "family": "Open source et recherche",
+  "title": "comfyanonymous/ComfyUI v0.46.2",
+  "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.2",
+  "summary": "ComfyUI v0.46.2",
+  "date": "2026-11-20T21:58:18+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+  "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+  "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+  "date": "2026-11-20T21:47:10+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+  "url": "https://latent.space/p/formal-verification/",
+  "summary": "Proving software correct with math has traditionally required specialist work. Now AI and Lean are helping automate the process.",
+  "date": "2026-11-20T21:18:41+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+  "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+  "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+  "date": "2026-11-20T20:59:08+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.173.0-alpha.2",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.2",
+  "summary": "Release 0.173.0-alpha.2",
+  "date": "2026-11-20T20:50:10+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+  "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+  "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+  "date": "2026-11-20T19:53:41+00:00"
+ },
+ {
+  "source": "Vizrt / TriCaster (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Vizrt’s Rohit Nagarajan on the Chyron deal and the road to a combined roadmap - NewscastStudio",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGwtME9KR0M5eFN5NEc1aEpYWWZrRHBxUGVsWEdsMkc0SHBoZDhMYkJEYU5veWwycThKeFpnSEk5SDBfdUdpT2NCNkZjRndFYW51cXdkYzNyN090T1hEeDJLS0lNYmVvVWxnYlF4bjA4MTVwa183Mm84dE9UbXdsQVVYa1JOX2xSdGJsZFlmYTd2WUJnREVJTXZ0cjdabHpuWUNKVWNpalc2SXVnSDhJZDAxYklTdnNwcG04?oc=5",
+  "summary": "Vizrt’s Rohit Nagarajan on the Chyron deal and the road to a combined roadmap NewscastStudio",
+  "date": "2026-11-20T19:47:40+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+  "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+  "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+  "date": "2026-11-20T19:32:08+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "Quoting Ravi Vakil",
+  "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+  "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it seems ",
+  "date": "2026-11-20T19:21:49+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+  "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+  "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]",
+  "date": "2026-11-20T18:50:19+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Adelaide Film Festival Announces 2027 Dates & calls for Film Submissions and New Investment Fund Projects - FilmInk",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNelRJYTU3YkRIX3lqbmg0Q0lDYTA3bTA5eGNfXzVkMmtkaUNUNWZUU2VGS3JEbUFMUmdLRV9hc1NDNjBqQURfcTNUYmlZNWwyMzg2LXZmMHBIb3R2X3E5b1lGS3pBSGxIQUl4bFZ4QjF1SzdicmpkZ3dOOHZWX1JHRE11SnJJTF81a1dzWkFzTTJJT3RQem1XMF96V3RqQjBYeGc4NVVDSXNjUQ?oc=5",
+  "summary": "Adelaide Film Festival Announces 2027 Dates & calls for Film Submissions and New Investment Fund Projects FilmInk",
+  "date": "2026-11-20T18:35:07+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Chips can survive the space environment — can their financing?",
+  "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+  "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+  "date": "2026-11-20T17:40:01+00:00"
+ },
+ {
+  "source": "FFmpeg",
+  "family": "Montage, motion et broadcast",
+  "title": "FFmpeg/FFmpeg n9.2-dev",
+  "url": "https://github.com/FFmpeg/FFmpeg/releases/tag/n9.2-dev",
+  "summary": "Main development, master branch after release/9.1 branched off",
+  "date": "2026-11-20T16:43:08+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+  "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]",
+  "date": "2026-11-20T16:34:13+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "Quoting Levent Alpöge",
+  "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+  "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a principa",
+  "date": "2026-11-20T16:30:48+00:00"
+ },
+ {
+  "source": "whisper.cpp",
+  "family": "Open source et recherche",
+  "title": "ggml-org/whisper.cpp b5907",
+  "url": "https://github.com/ggml-org/whisper.cpp/releases/tag/b5907",
+  "summary": "ci : update CUDA 11.8.0 CUBLAS version to 11.11.3.6 ( #4195 ) This commit update the CUBLAS_VER for the Cuda Toolkit 11.8.0 to be 11.11.3.6. The motivation for this is that the current version is missing a number of enums causing a CI failure: ```console D:\\a\\whisper.cpp\\whisper.cpp\\ggml\\src\\ggml-cuda\\fp8.cu(134): error: identifier \"CUBLASLT_MATMUL_DESC_B_SCALE_POINTER\" is undefined D:\\a\\whisper.c",
+  "date": "2026-11-20T15:50:39+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Color Correction: DaVinci Resolve | Feb 9 - Apr 6, 2027 | 6:30-9:30 PM | Continuing Education - School of Visual Arts | SVA",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdW1ucVBpSGJnZXlyLTNVUW5yVXl0a1NKR0lHRFU4NjFCVHN3cXNDdDIyeU9LMTZFV01YejVEMFVNQS1GMmMzdmNaMmRfNW5ycDFGZzBvRjNveGo0LU12VlloQU9lSUtJWHV5QjdWVUdla3ZZbDdYbXk4Slg2by1MZXZGQ2wxVVdrNkhieUtHcGxSdklrU0ZvU1ozVWRZUnhORzVhdzZsT09aMnB2SGM0Z0E5RE9HYkNhY2ZoaVcyWURNMGVQOThqX1l3cWU2RTdy?oc=5",
+  "summary": "Color Correction: DaVinci Resolve | Feb 9 - Apr 6, 2027 | 6:30-9:30 PM | Continuing Education School of Visual Arts | SVA",
+  "date": "2026-11-20T15:06:51+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+  "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+  "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
+  "date": "2026-11-20T14:55:44+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Cabinet approves purchase of 200,000 metric tonnes of food to address hunger - Eye Radio",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZU5XMXFIYmJfRmFlQ2xtcUxDRFVCaWV4bUYyWG9CaTJLc21TNzFnMFkxUmt1QWo5WHpiRnk0enMyVEhJY0RBajVNWVZweDEtRm11MGpvZ2lZSnBtTWVUSTYtRWdEcjlZZDRma3FLUjVtcUpVS2JiOFBabmp4SXVZdVN5TGQ3UmhFWlFfbDczYm5WTmpvN3FzX2ttS1hQSHduSmVB0gGjAUFVX3lxTE1lTlcxcUhiYl9GYWVDbG1xTENEVUJpZXhtRjJYb0JpMktzbVM3MWcwWTFSa3VBajlYemJGeTR6czJUSEljREFqNU1ZVnB4MS1GbXUwam9naVlKcG1NZVRJNi1FZ0RyOVlkNGZrcUtSNW1xSlVLYmI4UFpuanhJdVl1U3lMZDdSaEVaUV9sNzNiblZOam83cXNfa21LWFBId25KZUE?oc=5",
+  "summary": "Cabinet approves purchase of 200,000 metric tonnes of food to address hunger Eye Radio",
+  "date": "2026-11-20T14:46:05+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "The week everything fell apart",
+  "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+  "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. On […]",
+  "date": "2026-11-20T14:06:59+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Six AI-powered gadgets that could make your home office smarter",
+  "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+  "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+  "date": "2026-11-20T14:00:00+00:00"
+ },
+ {
+  "source": "Vizrt / TriCaster (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "WKBT names Sam Ryan chief meteorologist - NewscastStudio",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMDg0TWFMMXFKSUl4N2dHaENKLUdJdFVnNV9SQVVGeDVsX1BwSEEzWFk0WmRNd04waWJHdG4xdC1HYUc5VXFlOV9DejNnYlg2anVTajNEc2x4OXplR0w3WmpPbW1QTHpad01sNThoUmJuMnNiTEhOc3pIb1dJaS0zYlNR?oc=5",
+  "summary": "WKBT names Sam Ryan chief meteorologist NewscastStudio",
+  "date": "2026-11-20T13:57:40+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+  "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president […]",
+  "date": "2026-11-20T12:30:47+00:00"
+ },
+ {
+  "source": "Vizrt / TriCaster (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Standing on the shoulders of giants: Inside Vizrt’s acquisition of Chyron - SVG Europe",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakFwMXdVZGNLMm1YNl83WW01V0ZNLWR5SnVEaUlzYUZZRVRJWmJrMGwyUHBLZkZ4MjFXT0JkaWVBM0JEZ3NsQkoxdHlWbXZTcTd2X3htNG9WOTdfMWFuZmhWb1JrSUhXRHBEOVpUdnl1bHpfWXpGMkhPcjdHMml6N1ZHbE5ES1dGczUwSjJTN0lBcDA5dFc0VzdpTDFRcHdidk83YmdBUzFscDA4Q0tsZVBLbw?oc=5",
+  "summary": "Standing on the shoulders of giants: Inside Vizrt’s acquisition of Chyron SVG Europe",
+  "date": "2026-11-20T11:42:08+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Combatting adversarial distillation",
+  "url": "https://openai.com/index/combatting-adversarial-distillation",
+  "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+  "date": "2026-11-20T10:00:00+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Blackmagic Ambisonic Microphone First Look at Inter BEE 2026 - Newsshooter",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQelNET3FISl9WUjFVelAzZEpGUTRwQUlnR3AzWUxNRHhRbFpnZEtqLThaY1hnaHBjdllvbFlObEtHbnZqbl9aRUVMVldfME1jMDFVVEZwcVFmZGtuMzRfU01VRzdzemVRdE50U0p2UEZiT0ZHaE80YlpzZi1jT0tONG1kcl9IQUxKY3VGU2piaHc0aldsLTljMW9NYVFTSkQ3QVE?oc=5",
+  "summary": "Blackmagic Ambisonic Microphone First Look at Inter BEE 2026 Newsshooter",
+  "date": "2026-11-20T00:17:09+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+  "url": "https://openai.com/business/customer-stories/hebbia",
+  "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+  "date": "2026-11-20T00:00:00+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Can AI help scientists identify promising drug candidates?",
+  "url": "https://openai.com/index/introducing-medchembench",
+  "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+  "date": "2026-11-20T00:00:00+00:00"
+ },
+ {
+  "source": "Hugging Face blog",
+  "family": "Open source et recherche",
+  "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "url": "https://huggingface.co/blog/inkling2mini",
+  "summary": "",
+  "date": "2026-11-20T00:00:00+00:00"
+ },
+ {
+  "source": "Hugging Face blog",
+  "family": "Open source et recherche",
+  "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+  "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "summary": "",
+  "date": "2026-11-20T00:00:00+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Anyidons – Ndi Koromoto Promax | MP3 Download - Voxtrendy",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XNVRVYWw1S21SSjNnUy04Z0RqSjEzdFZiUTFUSExGUzFOeFpVcUpHMFNSS0J4Nkg5eGx1WW43ZWdETWxrWDdFekFNOXE2aVR3VHN6aEtVakNCTWhJX0ZXY0dkeEdpSVdFTEJSN21R?oc=5",
+  "summary": "Anyidons – Ndi Koromoto Promax | MP3 Download Voxtrendy",
+  "date": "2026-11-20T00:00:00+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "An FBI agent called a Claude user about his chats",
+  "url": "https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police",
+  "summary": "33 points, 31 commentaires HN",
+  "date": "2026-11-19T22:36:51+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50567485"
+ }
+]
