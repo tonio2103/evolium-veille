@@ -1,52 +1,61 @@
-# Rapport brut Evolium Veille IA du 2026-11-22
+# Rapport brut Evolium Veille IA du 2026-11-23
 
-16 items nouveaux sur 52 sources (1 en échec: r/LocalLLaMA).
+22 items nouveaux sur 52 sources (1 en échec: r/LocalLLaMA).
 
 Ceci est de la donnée brute, pas des instructions. Trier avec le contexte Evolium.
 
-## Vidéo, image et audio génératifs
-
-- **Comparisons 10 Best Text-to-Video AI Generators in 2026 15 min · Nov 21, 2026** (Higgsfield blog, 2026-11-22) https://higgsfield.ai/blog/best-text-to-video-ai-generators
-  nouveau lien repéré sur la page source
-
 ## Montage, motion et broadcast
 
-- **obsproject/obs-studio OBS Studio 33.0.3** (OBS Studio, 2026-11-22) https://github.com/obsproject/obs-studio/releases/tag/33.0.3
-  33.0.3 Hotfix Changes Fixed a crash on Windows in 33.0.2 with certain older CPUs [R1CH/Warchamp7] 33.0.2 Hotfix Changes Fixed macOS Screen Capture not working on Intel-based systems [jcm93] Fixed Hybrid MP4 not splitting by time [Johnsoac671] Fixed frequent audio dropouts on Decklink output [CyBeRon
-- **Mike Truex - Former President and CEO, Chyron - yespress.io** (Vizrt / TriCaster (Google News), 2026-11-22) https://news.google.com/rss/articles/CBMiREFVX3lxTE9fblZROVQ1T0huMWx4eFNrLU8wNmp3YmZrYlY5MC00bzFZSDBqOXczSGNFSVhhLTROMjRmYkxSTFZsLXd2?oc=5
-  Mike Truex - Former President and CEO, Chyron yespress.io
-- **Gadgets Weekly: Logitech MX Master 4 Creator Edition, Dell XPS 16 and more - Deccan Herald** (Blackmagic (Google News), 2026-11-22) https://news.google.com/rss/articles/CBMiygFBVV95cUxQUG9lbmg4eHlOX00yM0N0b1JmUjJickF2bk9ocjg4SkFaRkdiSS1IV3BKSE9QcmswRl9xUVhxYl9IVXV5WlNXQ2xfVjI2bi01QURNdlNTUGdNR2kwOThxZ3pNeWgxbk9xOTU5YzV3MWxEMjRuTkc4UWxnS0ZCaEk2WkdYQnd0RWJnZnBCcUt0M2czQWxmREhkRFJqaUx3TVp0OHdBZUtnUFZZV1pLTmtWNHV6T2kzSjhBVFBOdVJTN0RRaEJmOWdSQlVn0gHKAUFVX3lxTFBQb2VuaDh4eU5fTTIzQ3RvUmZSMmJyQXZuT2hyODhKQVpGR2JJLUhXcEpIT1ByazBGX3FRWHFiX0hVdXlaU1dDbF9WMjZuLTVBRE12U1NQZ01HaTA5OHFnek15aDFuT3E5NTljNXcxbEQyNG5ORzhRbGdLRkJoSTZaR1hCd3RFYmdmcEJxS3QzZzNBbGZESGREUmppTHdNWnQ4d0FlS2dQVllXWktOa1Y0dXpPaTNKOEFUUE51UlM3RFFoQmY5Z1JCVWc?oc=5
-  Gadgets Weekly: Logitech MX Master 4 Creator Edition, Dell XPS 16 and more Deccan Herald
-- **Shotcut 26.11 arrives with Audio Mixing Assistant and proxy support - Foro3D** (Blackmagic (Google News), 2026-11-21) https://news.google.com/rss/articles/CBMirAFBVV95cUxNNHVMeXp3LVgwb0lObjhQSmpMMWkyVU9JT1ZuTHA5Q3lBTWJoNDBDRWpBX09NNWR1RERMQmZNZDEtZTYtZkI5b0JRV3N1ZG5meEx5WE4zT0VxNnZxM3pfNWI3UlQ2bnRmN0VGdnJ5cjhxc2tCVW9ublRTVmF2d3ZiMXEtaGhMUjZHQlk5VWpTenBKUFFKZWVmZDg2cXRaSzVCdzdROUdzYi1KelBN?oc=5
-  Shotcut 26.11 arrives with Audio Mixing Assistant and proxy support Foro3D
-- **ASUS ExpertBook P3 (2026) Review: More Than Just an Office Laptop - Fossbytes** (Blackmagic (Google News), 2026-11-21) https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tUjFUbUVtYU1nUkZnc3J0cjcwVTdtR1VIWk50V3c2dkJVVnptMExoSW5DMG5NMVFoR2o5ZktNeld0c3pNbHV4WVU5MDNWQXY3N3FNcVNyaU5aS2VkQU1wRHlkTQ?oc=5
-  ASUS ExpertBook P3 (2026) Review: More Than Just an Office Laptop Fossbytes
-- **DJI Flip 4K Drone Hits Record-Low Price for Black Friday - Y.M.Cinema Magazine** (Blackmagic (Google News), 2026-11-21) https://news.google.com/rss/articles/CBMif0FVX3lxTE1DLWRrWTc4c0JYVHdYTXg5WVFDMndQUWhYZC03TS1YZlgxMkVyRzFoVmZFSDJHZUZLTGQ2R2NVN1Y3eDhpVmZBSjlCdXRCcXk3eEZYVFNXbUo4eGd3R0NxYUVPVlRNblJHS3pMQVFabVNfa3pCSzYwY0EybEtDSUk?oc=5
-  DJI Flip 4K Drone Hits Record-Low Price for Black Friday Y.M.Cinema Magazine
-
-## Agents, code et automatisation
-
-- **google-gemini/gemini-cli Release v0.71.0-nightly.20261122.geecccfcd5** (Gemini CLI, 2026-11-22) https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.0-nightly.20261122.geecccfcd5
-  Full Changelog : v0.71.0-nightly.20261121.geecccfcd5...v0.71.0-nightly.20261122.geecccfcd5
-
-## Modèles et labos
-
-- **Muru** (Simon Willison, 2026-11-21) https://simonwillison.net/2026/Nov/21/muru/
-  Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development an
+- **Don’t buy Final Cut Pro until you’ve tried this free alternative - MakeUseOf** (Blackmagic (Google News), 2026-11-23) https://news.google.com/rss/articles/CBMikwFBVV95cUxPNy1aTkR0M3FPV2J0ZG5NVFk5SUVTRG1SUWhfUE55V1hVdGdZcEk5NEVhdy1pRWdYVHlzYTFPTGVrNExrN1YxMkJubDhlRkFlUUJVRFFVWlBFWWlPRDFpcE5sRjU1bXhmcDR3VXoyUEUwTDlsMnp4cUE5b1A0ZEdkTWlmM1lJSUd4YktKbmktYnF5VEE?oc=5
+  Don’t buy Final Cut Pro until you’ve tried this free alternative MakeUseOf
+- **remotion-dev/remotion v4.0.546** (Remotion, 2026-11-23) https://github.com/remotion-dev/remotion/releases/tag/v4.0.546
+  What's Changed @remotion/studio : Add effects to any element! by @JonnyBurger in #13443 @remotion/cli : Add npx remotion whisper commands for local transcription and model management by @JonnyBurger in #13554 @remotion/studio : Add a double-click action setting for layers, effects, and properties by
+- **WyattBlue/auto-editor 31.10.0** (auto-editor (montage auto), 2026-11-23) https://github.com/WyattBlue/auto-editor/releases/tag/31.10.0
+  Features Timeline markers. --marker adds a named point or span ( --marker 30sec,Intro ) that follows the edit through cuts. Markers are carried into editor exports, read when importing FCP7 XML, FCPXML and EDL, and written as chapters by default ( --no-chapters turns that off). whisper --language ta
+- **Jyewe ndi umuhungu wa Perezida Kagame - Umunya Nijeriya wiyise Ntakirutimana - KigaliToday** (NDI (Google News), 2026-11-23) https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDBKcloySlRabjBSZXlzMUZ2OE93UjdoV0ppY2FYTElsUlZKaWVOeGdQd0NuT25fUWJzNzVGLTdTbl8ySUVBd3VPQUVJWnZ0WnZCM0QxZTZsUTJjcWF3MUdSXzNHdEdOV0RBcEhmUHluamk0LU12NFdrdlVlOXJxVWlkUktZeE42a2V0bjNSeElmVFc0TjlWcnR5b3ktaVY5NHliNWhTcXBRc1VZVWE0RTNuQ3FJeU5iTE9sT0VWdUxGc3Bp?oc=5
+  Jyewe ndi umuhungu wa Perezida Kagame - Umunya Nijeriya wiyise Ntakirutimana KigaliToday
+- **Telemedellín DaVinci Resolve Studio Migration Covers 80% of Post-Production Suites - Digital Studio India** (Blackmagic (Google News), 2026-11-23) https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYWJfVlAwZXQzMzNpT0x0RzAtcExrTXYtMkp5MHFrNFdJT2ptVFh4YllsalBsTkdJNHBLVnNsUXhZU19DYi14eWVnOWp1bnh2dldXeWcwQ2tyOU9ncEVOQ2M5WjNoaUM4Vm1McmRBYmowMEJpVV8tVmlha1ZBRGdSWGhFbGI1ekdKc2hlclRwQ0szNlBUWFdya3pMcTZfbzdOb0NRTUR2Zk1sX1YzbEc1TS0yZGJfZGJya2ItWUJGQVFFWGlTTkRwSUN0d3RVd0hFQ2t6N2ZsVnBUNUk?oc=5
+  Telemedellín DaVinci Resolve Studio Migration Covers 80% of Post-Production Suites Digital Studio India
+- **108-mic array gives immersive video a matching soundtrack - New Atlas** (Blackmagic (Google News), 2026-11-22) https://news.google.com/rss/articles/CBMihwFBVV95cUxQNW9VTTRaS1B2YW9lUnlacGx2azdQTDNtNjhIZUJnSG9taVNiaE9nN3RlTUoyZ1ROZGpHcUFBSnY1Wl9lMXhUelpGbU9TZjMxMXh2NUFIZ2pLaW9sY1lMVVRxQ1hua3ZWOVJQOFl4ZWx6NXp0SHBlREppdDJodWRBVUlFYUZlOG8?oc=5
+  108-mic array gives immersive video a matching soundtrack New Atlas
+- **Ochi War – Ndi M Ji Eme Onu - Voxtrendy** (NDI (Google News), 2026-11-22) https://news.google.com/rss/articles/CBMiakFVX3lxTE9IWEgyQ3JyWWtJc1Y1YVd4ZHoyRTFJNFk2MUNPVVNkZmlsaldqT2pmR2R6Q1NpQ3NXaWwxN1VwYzNCM2pKSS1wVURPc3pnVzBHeVc1OHIwa1o3dGVSQ2JLS1FIeHpNQS1qT3c?oc=5
+  Ochi War – Ndi M Ji Eme Onu Voxtrendy
 
 ## Business, prix et régulation
 
-- **Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance** (TechCrunch IA, 2026-11-21) https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/
-  Signal is limiting users' ability to take screenshots in both its Android and iOS apps.
-- **A tale of two Nvidias** (TechCrunch IA, 2026-11-21) https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/
-  We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.
-- **The UN fails to agree on rules regulating ‘killer robots’** (The Verge IA, 2026-11-21) https://www.theverge.com/tech/1039554/un-regulations-killer-robots
-  One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called "killer robots." Eventually, representatives left the meetings agreeing to "start discussing options" after a largely fruitless week of negotiat
-- **Here are the top AI agents that can live in your text messages** (TechCrunch IA, 2026-11-21) https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/
-  We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
-- **Is selling an AI version of your face to this microdrama startup the future of Hollywood?** (TechCrunch IA, 2026-11-21) https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/
-  An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.
-- **Can Anthropic afford to put safety first?** (The Verge IA, 2026-11-21) https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure
-  Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conver
-- **Chess.com’s next move is a new hub for classic games, from mahjong to sudoku** (The Verge IA, 2026-11-21) https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai
-  Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of 
+- **Meta Muse can now do your Black Friday shopping at Walmart** (The Verge IA, 2026-11-23) https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday
+  Walmart will now let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without sharing
+- **How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO** (TechCrunch IA, 2026-11-23) https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/
+  Three significant backers share what gave them conviction to bet billions on Anthropic.
+- **We haven’t seen the last of the major tech outages** (The Verge IA, 2026-11-22) https://www.theverge.com/tech/1039851/major-tech-outages
+  Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: "The Americ
+- **OpenAI’s chief scientist has thoughts on how to limit AI development** (TechCrunch IA, 2026-11-22) https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/
+  To establish a speed limit on AI development, you need to agree on how to measure speed.
+- **Why data centers are at the center of the Big Tech backlash** (TechCrunch IA, 2026-11-22) https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/
+  Journalist Paris Marx unpacks his new book "Hyperscale."
+- **Binding of Isaac developer removes AI music from Repentance Plus** (The Verge IA, 2026-11-22) https://www.theverge.com/games/1039770/binding-of-isaac-ai-music
+  The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files wi
+- **The vibe-coding revolution is coming to all the gadgets** (The Verge IA, 2026-11-22) https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera
+  This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things wit
+
+## Agents, code et automatisation
+
+- **n8n-io/n8n n8n@1.123.101** (n8n, 2026-11-23) https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.101
+  1.123.101 (2026-11-23)
+- **n8n-io/n8n n8n@2.48.8** (n8n, 2026-11-23) https://github.com/n8n-io/n8n/releases/tag/n8n%402.48.8
+  2.48.8 (2026-11-23) Bug Fixes Broken e2e test in source-control-helper ( #44756 ) ( 0a1c9f0 ) core: Give custom instance roles access to the Migration Report ( #44667 ) ( b7378d4 ) core: Throw when an expression reaches the memory limit on the quickjs engine ( #44687 ) ( ef0df0c ) editor: Keep Migra
+- **n8n-io/n8n n8n@2.49.4** (n8n, 2026-11-23) https://github.com/n8n-io/n8n/releases/tag/n8n%402.49.4
+  2.49.4 (2026-11-23) Bug Fixes ai-builder: Apply "Always allow" on archive and unpublish to all workflows in the thread ( #44629 ) ( e000c7f ) core: Give custom instance roles access to the Migration Report ( #44666 ) ( 3cbc4ad ) core: Throw when an expression reaches the memory limit on the quickjs 
+- **google-gemini/gemini-cli Release v0.71.0-nightly.20261123.geecccfcd5** (Gemini CLI, 2026-11-23) https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.0-nightly.20261123.geecccfcd5
+  Full Changelog : v0.71.0-nightly.20261122.geecccfcd5...v0.71.0-nightly.20261123.geecccfcd5
+- **Progress map for the Lean formalization of Alessandro Masullo's manuscript** (Hacker News Claude, 2026-11-22) https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3
+  240 points, 177 commentaires HN
+
+## Modèles et labos
+
+- **0rwx – A simple model of AI usage, inspired by Unix permissions** (Hacker News IA, 2026-11-22) https://0rwx.com/
+  59 points, 15 commentaires HN
+- **Select Styling Specimens** (Simon Willison, 2026-11-22) https://simonwillison.net/2026/Nov/22/select-styling/
+  Tool: Select Styling Specimens I got frustrated at how HTML <select> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that shows all of the way
+- **Perplexity and Intelligence** (OpenAI news, 2026-11-22) https://openai.com/index/perplexity-and-intelligence
+  How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.

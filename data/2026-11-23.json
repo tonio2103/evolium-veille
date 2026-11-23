@@ -1,0 +1,180 @@
+[
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Don’t buy Final Cut Pro until you’ve tried this free alternative - MakeUseOf",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNy1aTkR0M3FPV2J0ZG5NVFk5SUVTRG1SUWhfUE55V1hVdGdZcEk5NEVhdy1pRWdYVHlzYTFPTGVrNExrN1YxMkJubDhlRkFlUUJVRFFVWlBFWWlPRDFpcE5sRjU1bXhmcDR3VXoyUEUwTDlsMnp4cUE5b1A0ZEdkTWlmM1lJSUd4YktKbmktYnF5VEE?oc=5",
+  "summary": "Don’t buy Final Cut Pro until you’ve tried this free alternative MakeUseOf",
+  "date": "2026-11-23T11:00:17+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Meta Muse can now do your Black Friday shopping at Walmart",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+  "summary": "Walmart will now let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without sharing your purchase history, […]",
+  "date": "2026-11-23T11:00:00+00:00"
+ },
+ {
+  "source": "Remotion",
+  "family": "Montage, motion et broadcast",
+  "title": "remotion-dev/remotion v4.0.546",
+  "url": "https://github.com/remotion-dev/remotion/releases/tag/v4.0.546",
+  "summary": "What's Changed @remotion/studio : Add effects to any element! by @JonnyBurger in #13443 @remotion/cli : Add npx remotion whisper commands for local transcription and model management by @JonnyBurger in #13554 @remotion/studio : Add a double-click action setting for layers, effects, and properties by @JonnyBurger in #13576 remotion : Keep <IFrame> mounted on audio-only frames by @JonnyBurger in #13",
+  "date": "2026-11-23T10:33:25+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@1.123.101",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.101",
+  "summary": "1.123.101 (2026-11-23)",
+  "date": "2026-11-23T08:38:52+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.48.8",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.48.8",
+  "summary": "2.48.8 (2026-11-23) Bug Fixes Broken e2e test in source-control-helper ( #44756 ) ( 0a1c9f0 ) core: Give custom instance roles access to the Migration Report ( #44667 ) ( b7378d4 ) core: Throw when an expression reaches the memory limit on the quickjs engine ( #44687 ) ( ef0df0c ) editor: Keep Migration Report controls inside narrow screens ( #44658 ) ( 311c382 ) Report MCP workflow trigger activa",
+  "date": "2026-11-23T08:37:01+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.49.4",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.49.4",
+  "summary": "2.49.4 (2026-11-23) Bug Fixes ai-builder: Apply \"Always allow\" on archive and unpublish to all workflows in the thread ( #44629 ) ( e000c7f ) core: Give custom instance roles access to the Migration Report ( #44666 ) ( 3cbc4ad ) core: Throw when an expression reaches the memory limit on the quickjs engine ( #44686 ) ( fe05e36 ) editor: Keep Migration Report controls inside narrow screens ( #44659 ",
+  "date": "2026-11-23T08:20:50+00:00"
+ },
+ {
+  "source": "auto-editor (montage auto)",
+  "family": "Montage, motion et broadcast",
+  "title": "WyattBlue/auto-editor 31.10.0",
+  "url": "https://github.com/WyattBlue/auto-editor/releases/tag/31.10.0",
+  "summary": "Features Timeline markers. --marker adds a named point or span ( --marker 30sec,Intro ) that follows the edit through cuts. Markers are carried into editor exports, read when importing FCP7 XML, FCPXML and EDL, and written as chapters by default ( --no-chapters turns that off). whisper --language takes three-letter codes, tags like en-US , and language names. An unknown language is now an error. W",
+  "date": "2026-11-23T07:20:42+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Jyewe ndi umuhungu wa Perezida Kagame - Umunya Nijeriya wiyise Ntakirutimana - KigaliToday",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDBKcloySlRabjBSZXlzMUZ2OE93UjdoV0ppY2FYTElsUlZKaWVOeGdQd0NuT25fUWJzNzVGLTdTbl8ySUVBd3VPQUVJWnZ0WnZCM0QxZTZsUTJjcWF3MUdSXzNHdEdOV0RBcEhmUHluamk0LU12NFdrdlVlOXJxVWlkUktZeE42a2V0bjNSeElmVFc0TjlWcnR5b3ktaVY5NHliNWhTcXBRc1VZVWE0RTNuQ3FJeU5iTE9sT0VWdUxGc3Bp?oc=5",
+  "summary": "Jyewe ndi umuhungu wa Perezida Kagame - Umunya Nijeriya wiyise Ntakirutimana KigaliToday",
+  "date": "2026-11-23T05:59:24+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Telemedellín DaVinci Resolve Studio Migration Covers 80% of Post-Production Suites - Digital Studio India",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYWJfVlAwZXQzMzNpT0x0RzAtcExrTXYtMkp5MHFrNFdJT2ptVFh4YllsalBsTkdJNHBLVnNsUXhZU19DYi14eWVnOWp1bnh2dldXeWcwQ2tyOU9ncEVOQ2M5WjNoaUM4Vm1McmRBYmowMEJpVV8tVmlha1ZBRGdSWGhFbGI1ekdKc2hlclRwQ0szNlBUWFdya3pMcTZfbzdOb0NRTUR2Zk1sX1YzbEc1TS0yZGJfZGJya2ItWUJGQVFFWGlTTkRwSUN0d3RVd0hFQ2t6N2ZsVnBUNUk?oc=5",
+  "summary": "Telemedellín DaVinci Resolve Studio Migration Covers 80% of Post-Production Suites Digital Studio India",
+  "date": "2026-11-23T04:05:32+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+  "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+  "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+  "date": "2026-11-23T01:25:53+00:00"
+ },
+ {
+  "source": "Gemini CLI",
+  "family": "Agents, code et automatisation",
+  "title": "google-gemini/gemini-cli Release v0.71.0-nightly.20261123.geecccfcd5",
+  "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.0-nightly.20261123.geecccfcd5",
+  "summary": "Full Changelog : v0.71.0-nightly.20261122.geecccfcd5...v0.71.0-nightly.20261123.geecccfcd5",
+  "date": "2026-11-23T01:21:53+00:00"
+ },
+ {
+  "source": "Hacker News IA",
+  "family": "Modèles et labos",
+  "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+  "url": "https://0rwx.com/",
+  "summary": "59 points, 15 commentaires HN",
+  "date": "2026-11-22T23:53:00+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50605445"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+  "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+  "summary": "240 points, 177 commentaires HN",
+  "date": "2026-11-22T23:12:10+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50605045"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "We haven’t seen the last of the major tech outages",
+  "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+  "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be […]",
+  "date": "2026-11-22T22:48:02+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "108-mic array gives immersive video a matching soundtrack - New Atlas",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNW9VTTRaS1B2YW9lUnlacGx2azdQTDNtNjhIZUJnSG9taVNiaE9nN3RlTUoyZ1ROZGpHcUFBSnY1Wl9lMXhUelpGbU9TZjMxMXh2NUFIZ2pLaW9sY1lMVVRxQ1hua3ZWOVJQOFl4ZWx6NXp0SHBlREppdDJodWRBVUlFYUZlOG8?oc=5",
+  "summary": "108-mic array gives immersive video a matching soundtrack New Atlas",
+  "date": "2026-11-22T22:10:02+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+  "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+  "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+  "date": "2026-11-22T21:14:07+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "Select Styling Specimens",
+  "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
+  "summary": "Tool: Select Styling Specimens I got frustrated at how HTML <select> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled: Build an HTML page that shows all of the ways a select box can be styled, I plan to take screenshots in every desktop and mobile browser After s",
+  "date": "2026-11-22T19:45:06+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Why data centers are at the center of the Big Tech backlash",
+  "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+  "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+  "date": "2026-11-22T18:08:43+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+  "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+  "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to […]",
+  "date": "2026-11-22T17:25:20+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "The vibe-coding revolution is coming to all the gadgets",
+  "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+  "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not […]",
+  "date": "2026-11-22T13:00:00+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Perplexity and Intelligence",
+  "url": "https://openai.com/index/perplexity-and-intelligence",
+  "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+  "date": "2026-11-22T00:00:00+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Ochi War – Ndi M Ji Eme Onu - Voxtrendy",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IWEgyQ3JyWWtJc1Y1YVd4ZHoyRTFJNFk2MUNPVVNkZmlsaldqT2pmR2R6Q1NpQ3NXaWwxN1VwYzNCM2pKSS1wVURPc3pnVzBHeVc1OHIwa1o3dGVSQ2JLS1FIeHpNQS1qT3c?oc=5",
+  "summary": "Ochi War – Ndi M Ji Eme Onu Voxtrendy",
+  "date": "2026-11-22T00:00:00+00:00"
+ }
+]
