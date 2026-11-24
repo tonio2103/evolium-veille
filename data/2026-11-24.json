@@ -1,0 +1,531 @@
+[
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Guides How to Make Beauty Video Ads with AI (Full Guide) 12 min · Nov 23, 2026",
+  "url": "https://higgsfield.ai/blog/how-to-make-beauty-video-ads-with-ai",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-24T13:07:27.384050+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Editorials Meet Higgsfield Editing Room: Remake Any Moment of a Video 7 min · Nov 21, 2026",
+  "url": "https://higgsfield.ai/blog/higgsfield-editing-room",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-24T13:07:27.384050+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "Editorials Higgsfield Introduces Property Studio: From Floor Plan to a 3D Layout and a Narrated Video Tour 7 min · Nov 21, 2026",
+  "url": "https://higgsfield.ai/blog/higgsfield-property-studio",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-24T13:07:27.384050+00:00"
+ },
+ {
+  "source": "Higgsfield blog",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "News Higgsfield Opens the $14 Billion Microdrama Market to Western Studios 8 min · Nov 23, 2026",
+  "url": "https://higgsfield.ai/blog/higgsfield-opens-14b-microdrama-market",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-24T13:07:27.384050+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "recraft/v4.1/flash/v2/text-to-image Recraft V4.1 Flash V2 generates raster images from text prompts, including photography, illustrations, and mixed-media compo",
+  "url": "https://fal.ai/models/recraft/v4.1/flash/v2/text-to-image",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-24T13:07:27.384050+00:00"
+ },
+ {
+  "source": "fal.ai nouveaux modèles",
+  "family": "Vidéo, image et audio génératifs",
+  "title": "recraft/vectorize/pro Recraft Vectorize Pro converts raster images into editable SVG vectors, preserving sharp corners, straight lines, and smooth curves. vecto",
+  "url": "https://fal.ai/models/recraft/vectorize/pro",
+  "summary": "nouveau lien repéré sur la page source",
+  "date": "2026-11-24T13:07:27.384050+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+  "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+  "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+  "date": "2026-11-24T12:30:05+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Top 10 Live Streaming 4K Capture Card Brands, Ranked for Buyer Fit - The Detroit News",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdFVHbGVVZ0ZiakZSenA5elljVmZ3aWJuWW9pWER5T3FKMjhZV1lkSHZ3Y2EtbThZOGgwWldLM3c4SnlhQ1JrN1AzVEp6bjNXb0tsUmZwZGRtTE9EaXdFb2NCNWs3eHBfeklJaFRXQXFRdnBZTmJjR2FPcEF4UnJDSk9pWlMycXB0UFV6SGhwdktuTGN3RnVRQUdMTTFQWUVuaDZlRlBIRDdFTkY4WC1yUVNXY3YwSVY0RkdjR3B3?oc=5",
+  "summary": "Top 10 Live Streaming 4K Capture Card Brands, Ranked for Buyer Fit The Detroit News",
+  "date": "2026-11-24T10:22:03+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@3.4.0",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%403.4.0",
+  "summary": "3.4.0 (2026-11-24) Bug Fixes AI Agent Node: Drop chat memory turns with empty content ( #43935 ) ( 9061640 ) ai-builder: Accept unlisted fields of open output schemas in field reference check ( #44375 ) ( 2161005 ) ai-builder: Apply \"Always allow\" on archive and unpublish to all workflows in the thread ( #44591 ) ( 0d6ad10 ) ai-builder: Document workflow settings and sticky notes in the builder kn",
+  "date": "2026-11-24T10:08:20+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.49.5",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.49.5",
+  "summary": "2.49.5 (2026-11-23) Bug Fixes core: Refresh the cached token of an expirable credential during its test ( #44832 ) ( 5041b0d ) core: Return an item that holds a value the vm expression engine cannot copy ( #44879 ) ( 36ef1a5 )",
+  "date": "2026-11-24T09:30:18+00:00"
+ },
+ {
+  "source": "n8n",
+  "family": "Agents, code et automatisation",
+  "title": "n8n-io/n8n n8n@2.50.0",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/n8n%402.50.0",
+  "summary": "2.50.0 (2026-11-24) Bug Fixes AI Agent Node: Drop chat memory turns with empty content ( #43935 ) ( 9061640 ) ai-builder: Accept unlisted fields of open output schemas in field reference check ( #44375 ) ( 2161005 ) ai-builder: Apply \"Always allow\" on archive and unpublish to all workflows in the thread ( #44591 ) ( 0d6ad10 ) ai-builder: Document workflow settings and sticky notes in the builder k",
+  "date": "2026-11-24T09:22:47+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "CinemaLAB 1.0– a film laboratory simulator for Resolve, Final Cut Pro, After Effects & Premiere Pro - Newsshooter",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1N0NXdOUG9pV2Y5bnBjOV9XWERvdU1QWGNxOHlmTU1aeVJCZV9RSHgxb0ZYWFVuNVplektUYkNOZUVGZHFab3J2eG9Hb0V5QUpxRGRJeVF2eU4yWV9FdEFBLXkwLWVvdU1ObHpKc3FVRFZQdTYxTlh6d1lxVXRrZ2tPbXRiTnEtaE9leEJ1S2VXbFZtemtiUnVGQUlwYjZnLUExYmE2MUt3cmJ2RE5ZYVpfWWxFdG1rZ2pWc1UtZ2hCUWhsTlBBS1dnejdRX1U?oc=5",
+  "summary": "CinemaLAB 1.0– a film laboratory simulator for Resolve, Final Cut Pro, After Effects & Premiere Pro Newsshooter",
+  "date": "2026-11-24T07:37:07+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.173.0-alpha.5",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.5",
+  "summary": "Release 0.173.0-alpha.5",
+  "date": "2026-11-24T06:48:20+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Save $4,950 USD on the Blackmagic Design 8TB Cloud Store Mini (4 x 2TB) - Newsshooter",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ1diRWprNVVzQ0JtX2wwb0xBMlEzQW5OVTMwX3k4NkQwT2xQUGVYamtqSUx0QjJVOGFYSjA1eWVZNDEyWVNHeHZ2Z29nVWlWajJFc1JaRXQyUXo3azlBLUNGdGlWd1lzZUNpRmxYd0M4alZ4R29hY19JNi14dGZTWnY1dkJIaGFYa2VOLXBnb0FxaXVWYWZQU2J0aVlTaHhNbm5MOFA5bFE2QTA?oc=5",
+  "summary": "Save $4,950 USD on the Blackmagic Design 8TB Cloud Store Mini (4 x 2TB) Newsshooter",
+  "date": "2026-11-24T05:17:20+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "datasette-charts 0.2a0",
+  "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+  "summary": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools. Here's a demo video, recorded on agent.datasette.io where you can sign in with GitHub to try the plugin yourself: Downl",
+  "date": "2026-11-24T04:24:29+00:00"
+ },
+ {
+  "source": "Latent Space",
+  "family": "Agents, code et automatisation",
+  "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+  "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+  "summary": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
+  "date": "2026-11-24T04:14:16+00:00"
+ },
+ {
+  "source": "Gemini CLI",
+  "family": "Agents, code et automatisation",
+  "title": "google-gemini/gemini-cli Release v0.71.1",
+  "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.1",
+  "summary": "What's Changed fix(patch): cherry-pick aafdfdf to release/v0.71.0-pr-30420 to patch version v0.71.0 and create version 0.71.1 by @gemini-cli-robot in #30429 Full Changelog : v0.71.0...v0.71.1",
+  "date": "2026-11-24T03:50:24+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "datasette-agent 0.7a1",
+  "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+  "summary": "Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user interacts with the plugin in a way that changes state. I built this in order to fix",
+  "date": "2026-11-24T03:45:57+00:00"
+ },
+ {
+  "source": "ComfyUI releases",
+  "family": "Open source et recherche",
+  "title": "comfyanonymous/ComfyUI v0.46.3",
+  "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.3",
+  "summary": "ComfyUI v0.46.3",
+  "date": "2026-11-24T03:32:16+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.174.0-alpha.1",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.1",
+  "summary": "Release 0.174.0-alpha.1",
+  "date": "2026-11-24T01:51:10+00:00"
+ },
+ {
+  "source": "Gemini CLI",
+  "family": "Agents, code et automatisation",
+  "title": "google-gemini/gemini-cli Release v0.71.0",
+  "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.0",
+  "summary": "What's Changed Changelog for v0.70.0-preview.0 by @gemini-cli-robot in #30361 chore(release): bump version to 0.71.0-nightly.20261118.g615d6bc8c by @gemini-cli-robot in #30366 Changelog for v0.69.0 by @gemini-cli-robot in #30365 fix(core,cli): parse PowerShell commands asynchronously to prevent UI spinner freeze by @tadipavan in #30334 chore(gcp): push development worker to private artifact regist",
+  "date": "2026-11-24T01:16:44+00:00"
+ },
+ {
+  "source": "Gemini CLI",
+  "family": "Agents, code et automatisation",
+  "title": "google-gemini/gemini-cli Release v0.71.0-nightly.20261124.gaafdfdfb5",
+  "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.0-nightly.20261124.gaafdfdfb5",
+  "summary": "What's Changed fix(a2a-server): enforce bearer token authentication and request input validation by @diegogodinezr in #30420 Full Changelog : v0.71.0-nightly.20261123.geecccfcd5...v0.71.0-nightly.20261124.gaafdfdfb5",
+  "date": "2026-11-24T01:13:47+00:00"
+ },
+ {
+  "source": "Gemini CLI",
+  "family": "Agents, code et automatisation",
+  "title": "google-gemini/gemini-cli Release v0.72.0-preview.0",
+  "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.72.0-preview.0",
+  "summary": "What's Changed Changelog for v0.70.0 by @gemini-cli-robot in #30380 fix(core): handle nested .gitignore negations under dir/** patterns by @urielefrenvirtusa in #30370 fix(cli): expand Windows home-relative paths using tilde and backslash by @urielefrenvirtusa in #30376 fix(cli): resume most recently active session instead of most recently started by @urielefrenvirtusa in #30389 fix(a2a-server): e",
+  "date": "2026-11-24T00:34:15+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.172.0",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.172.0",
+  "summary": "New Features Follow thread links from search results and transcripts to open saved conversations and nested agents in the terminal. ( #62332 ) Press Tab to complete arguments for supported slash commands. For example, /mcp lo completes to /mcp login . ( #62343 ) Jump between task groups in the agent command center with Shift+Up and Shift+Down . ( #62200 ) Optional stdio MCP servers with cached too",
+  "date": "2026-11-24T00:06:41+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+  "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+  "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transformer, a group of weight-shared layers runs for multiple iterations, refining the hidden states from the",
+  "date": "2026-11-23T23:40:49+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Trump engineered a risky comeback for Jensen Huang",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+  "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" […]",
+  "date": "2026-11-23T22:25:12+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Welcome to elite impunity, Jensen Huang",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+  "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is might […]",
+  "date": "2026-11-23T22:09:26+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+  "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+  "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+  "date": "2026-11-23T22:05:50+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+  "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+  "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+  "date": "2026-11-23T22:02:05+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+  "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+  "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+  "date": "2026-11-23T21:47:41+00:00"
+ },
+ {
+  "source": "Simon Willison",
+  "family": "Modèles et labos",
+  "title": "Ladybird's first alpha release",
+  "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+  "summary": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz for text shaping, Skia for 2D graphics, ffmpeg for video, and SQLite for the things you do with SQLite. Everything else is part of Ladybird, ",
+  "date": "2026-11-23T21:46:35+00:00"
+ },
+ {
+  "source": "Claude Code changelog",
+  "family": "Agents, code et automatisation",
+  "title": "anthropics/claude-code v2.1.331",
+  "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.331",
+  "summary": "What's changed Added Code Mode support in terminal sessions on Amazon Bedrock, Google Cloud's Agent Platform, Microsoft Foundry and Claude Platform on AWS Added oidc.groups_jsonpath to the Claude apps gateway, to read groups from the matching entries of a list of objects with a small subset of JSONPath (RFC 9535) Added an API connectivity section to claude doctor that reports whether the API can b",
+  "date": "2026-11-23T21:34:41+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+  "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+  "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+  "date": "2026-11-23T21:30:44+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+  "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+  "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+  "date": "2026-11-23T21:25:42+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "OpenAI and Cisco introduce Shirudo",
+  "url": "https://openai.com/index/introducing-shirudo",
+  "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+  "date": "2026-11-23T21:20:00+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "AI data centers throw another wrench into chaotic UN climate talks",
+  "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+  "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees […]",
+  "date": "2026-11-23T21:09:37+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+  "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+  "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+  "date": "2026-11-23T20:38:53+00:00"
+ },
+ {
+  "source": "Hacker News Claude",
+  "family": "Agents, code et automatisation",
+  "title": "Claude Ship",
+  "url": "https://claude.com/resources/articles/introducing-claude-ship",
+  "summary": "68 points, 23 commentaires HN",
+  "date": "2026-11-23T20:14:18+00:00",
+  "hn": "https://news.ycombinator.com/item?id=50618513"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Claude AI can review pull requests and ship fixes on its own now",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+  "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was […]",
+  "date": "2026-11-23T20:00:00+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "How Jensen Huang ended up as Nvidia CEO again",
+  "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+  "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been \"unfaithful\" to his wife […]",
+  "date": "2026-11-23T19:57:18+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.171.0-alpha.13.2",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.13.2",
+  "summary": "Release 0.171.0-alpha.13.2",
+  "date": "2026-11-23T19:43:27+00:00"
+ },
+ {
+  "source": "Vizrt / TriCaster (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Vizrt CEO Discusses Road Map For Chyron’s Future - TV News Check",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWVBUOS1qaUxUYjVKY3F6bFJqQU10a09hRkxPdXRMS0JvUERPeFBYZEZqQmM4YTIxLVVLR0pBSkNYeVFsaW90Q2taLVhqWWsxM2Z3OFVkMUg5TjFlSEFONG12YmI0dlNxOFBDbjYxY1M2Vm9KTmMwY3pRUDJQMXlEeDNEWEdEZ2ZsTmx0TjVn?oc=5",
+  "summary": "Vizrt CEO Discusses Road Map For Chyron’s Future TV News Check",
+  "date": "2026-11-23T19:38:57+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+  "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+  "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+  "date": "2026-11-23T19:14:46+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+  "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+  "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's Bee wearable. Nothing CEO Carl Pei demonstrated the new device […]",
+  "date": "2026-11-23T19:04:52+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+  "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The complaint filed in Virginia accuses Musk of willfully […]",
+  "date": "2026-11-23T18:26:47+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+  "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+  "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+  "date": "2026-11-23T18:12:22+00:00"
+ },
+ {
+  "source": "OpenAI Codex",
+  "family": "Agents, code et automatisation",
+  "title": "openai/codex 0.172.0-alpha.2.1",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.172.0-alpha.2.1",
+  "summary": "Release 0.172.0-alpha.2.1",
+  "date": "2026-11-23T18:07:33+00:00"
+ },
+ {
+  "source": "whisper.cpp",
+  "family": "Open source et recherche",
+  "title": "ggml-org/whisper.cpp v1.9.6",
+  "url": "https://github.com/ggml-org/whisper.cpp/releases/tag/v1.9.6",
+  "summary": "Overview New version has been released. More info: dist : releases and versioning of ggml-org projects Changelog since v1.9.5 96ec4d9 ggml : revert 5922450 ( #4200 ) 5eaee0c ci : update CUDA 11.8.0 CUBLAS version to 11.11.3.6 ( #4195 ) 258bb62 ci : update deploy-examples-wasm workflow plugins ( #4194 ) 95b3b2f go : replace -fopenmp with -lgomp in cgo LDFLAGS ( #4180 ) b5f9f6b cli : fix output wts ",
+  "date": "2026-11-23T17:51:11+00:00"
+ },
+ {
+  "source": "Hugging Face blog",
+  "family": "Open source et recherche",
+  "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+  "url": "https://huggingface.co/blog/allenai/robotrack",
+  "summary": "",
+  "date": "2026-11-23T17:20:37+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+  "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+  "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+  "date": "2026-11-23T17:14:23+00:00"
+ },
+ {
+  "source": "Google AI blog",
+  "family": "Modèles et labos",
+  "title": "A more tailored Google Search that’s uniquely yours",
+  "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+  "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+  "date": "2026-11-23T17:00:00+00:00"
+ },
+ {
+  "source": "Google DeepMind blog",
+  "family": "Modèles et labos",
+  "title": "Finding faster quantum algorithms with agents and formal verification",
+  "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+  "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+  "date": "2026-11-23T16:59:40+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Jensen Huang isn’t out of the woods yet",
+  "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+  "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+  "date": "2026-11-23T16:57:40+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+  "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+  "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+  "date": "2026-11-23T16:39:10+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+  "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+  "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communications director Steven Cheung said in a statement, […]",
+  "date": "2026-11-23T16:30:11+00:00"
+ },
+ {
+  "source": "The Verge IA",
+  "family": "Business, prix et régulation",
+  "title": "Tech leaders are celebrating Jensen Huang’s return",
+  "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+  "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable company. (The stock price has recently taken […]",
+  "date": "2026-11-23T16:14:04+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+  "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+  "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
+  "date": "2026-11-23T15:46:18+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+  "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+  "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+  "date": "2026-11-23T15:04:01+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+  "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+  "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+  "date": "2026-11-23T14:43:03+00:00"
+ },
+ {
+  "source": "TechCrunch IA",
+  "family": "Business, prix et régulation",
+  "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+  "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+  "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
+  "date": "2026-11-23T14:21:59+00:00"
+ },
+ {
+  "source": "Vizrt / TriCaster (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Vizrt CEO Discusses Road Map for Chyron's Future - TVTechnology",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWWs3UWNjcy1Lajk5bHhCSnBqSVJwQW5RYnRUaE9OeUhKZFhwSHR2MGJHNjFYYzE1c2JSeWlWMktLa1JxMXBmcDVhQ0piYldUN3huVWF4SGt6Sm1uUzhta0s1TXplNDIyRWJTZk5xMXJzQmRyZzByWUduZ0dvUHZQczR3X2FodmJ5Q21Bag?oc=5",
+  "summary": "Vizrt CEO Discusses Road Map for Chyron's Future TVTechnology",
+  "date": "2026-11-23T13:53:52+00:00"
+ },
+ {
+  "source": "Ars Technica IA",
+  "family": "Business, prix et régulation",
+  "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+  "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+  "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+  "date": "2026-11-23T12:00:00+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Connected intelligence for in-house legal",
+  "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+  "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+  "date": "2026-11-23T08:00:00+00:00"
+ },
+ {
+  "source": "OpenAI news",
+  "family": "Modèles et labos",
+  "title": "Richpanel helps companies automate 50% of support in 30 days",
+  "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+  "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+  "date": "2026-11-23T08:00:00+00:00"
+ },
+ {
+  "source": "NDI (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Jay Screw badman weekend(Official video lyrics) - YouTube",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DSkRtUzJZNFlITkVPaWRvVThrMjJkQktnZHdnVG9tZlR5MU5id21Fc0l2V2h1cFpyR1R5VTZZUlFJZjRzM3MxbkJ4aHBlSjQtS3N5c0pFTGt6RERE?oc=5",
+  "summary": "Jay Screw badman weekend(Official video lyrics) YouTube",
+  "date": "2026-11-23T07:41:53+00:00"
+ },
+ {
+  "source": "Blackmagic (Google News)",
+  "family": "Montage, motion et broadcast",
+  "title": "Blackmagic Design Ships 108-Mic Ambisonic Microphone - Wisevoter",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGlxeXhuUUQ4Z1BPRkFYSEZjVTk0MlVtV09ZbDhEVzVYU3hVcF9KMzRCcHhBWHVvUzBBaVFHV2UwZl9uLW8tR1JkemZ2eHItbU9QRk03OFYxSW13NHNpTXY4MmJ3Y2p5eDlOSlh5SmVSdjRrN1BxTk9xSGJ4dWNOVzBUdGs?oc=5",
+  "summary": "Blackmagic Design Ships 108-Mic Ambisonic Microphone Wisevoter",
+  "date": "2026-11-23T03:21:09+00:00"
+ }
+]
