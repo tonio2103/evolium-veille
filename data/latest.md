@@ -1,154 +1,182 @@
-# Rapport brut Evolium Veille IA du 2026-11-24
+# Rapport brut Evolium Veille IA du 2026-11-25
 
-66 items nouveaux sur 52 sources (3 en échec: r/LocalLLaMA, arXiv vidéo, arXiv agents).
+81 items nouveaux sur 52 sources (1 en échec: r/LocalLLaMA).
 
 Ceci est de la donnée brute, pas des instructions. Trier avec le contexte Evolium.
 
 ## Vidéo, image et audio génératifs
 
-- **Guides How to Make Beauty Video Ads with AI (Full Guide) 12 min · Nov 23, 2026** (Higgsfield blog, 2026-11-24) https://higgsfield.ai/blog/how-to-make-beauty-video-ads-with-ai
+- **Editorials Higgsfield GPU Harness: Cloud GPUs, Supported Apps and Pricing 10 min · Nov 23, 2026** (Higgsfield blog, 2026-11-25) https://higgsfield.ai/blog/higgsfield-gpu-harness
   nouveau lien repéré sur la page source
-- **Editorials Meet Higgsfield Editing Room: Remake Any Moment of a Video 7 min · Nov 21, 2026** (Higgsfield blog, 2026-11-24) https://higgsfield.ai/blog/higgsfield-editing-room
+- **krea/v3/edit/lora Edit and combine reference images with Krea 3, with up to 3 custom LoRAs applied. image editing multi-reference lora** (fal.ai nouveaux modèles, 2026-11-25) https://fal.ai/models/krea/v3/edit/lora
   nouveau lien repéré sur la page source
-- **Editorials Higgsfield Introduces Property Studio: From Floor Plan to a 3D Layout and a Narrated Video Tour 7 min · Nov 21, 2026** (Higgsfield blog, 2026-11-24) https://higgsfield.ai/blog/higgsfield-property-studio
+- **krea/v3/text-to-image/lora Generate images from text with Krea 3, with up to 3 custom LoRAs applied. image generation lora krea** (fal.ai nouveaux modèles, 2026-11-25) https://fal.ai/models/krea/v3/text-to-image/lora
   nouveau lien repéré sur la page source
-- **News Higgsfield Opens the $14 Billion Microdrama Market to Western Studios 8 min · Nov 23, 2026** (Higgsfield blog, 2026-11-24) https://higgsfield.ai/blog/higgsfield-opens-14b-microdrama-market
+- **krea/v3/trainer Train a Krea 3 text-to-image LoRA on your own images. lora text-to-image krea** (fal.ai nouveaux modèles, 2026-11-25) https://fal.ai/models/krea/v3/trainer
   nouveau lien repéré sur la page source
-- **recraft/v4.1/flash/v2/text-to-image Recraft V4.1 Flash V2 generates raster images from text prompts, including photography, illustrations, and mixed-media compo** (fal.ai nouveaux modèles, 2026-11-24) https://fal.ai/models/recraft/v4.1/flash/v2/text-to-image
+- **krea/v3/trainer/edit Train a Krea 3 edit LoRA from before/after image pairs. lora image editing krea** (fal.ai nouveaux modèles, 2026-11-25) https://fal.ai/models/krea/v3/trainer/edit
   nouveau lien repéré sur la page source
-- **recraft/vectorize/pro Recraft Vectorize Pro converts raster images into editable SVG vectors, preserving sharp corners, straight lines, and smooth curves. vecto** (fal.ai nouveaux modèles, 2026-11-24) https://fal.ai/models/recraft/vectorize/pro
+- **bytedance/seed-tts/v3 Seed TTS 3.0 generates multilingual speech from text with selectable voices and natural-language delivery instructions, plus controls for** (fal.ai nouveaux modèles, 2026-11-25) https://fal.ai/models/bytedance/seed-tts/v3
   nouveau lien repéré sur la page source
-
-## Business, prix et régulation
-
-- **Amazon says hackers' AI agents found and exploited 0-day with little human input** (Ars Technica IA, 2026-11-24) https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/
-  The Cairn AI framework is proving to be a boon for defenders and attackers.
-- **Trump engineered a risky comeback for Jensen Huang** (The Verge IA, 2026-11-23) https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated
-  After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Hua
-- **Welcome to elite impunity, Jensen Huang** (The Verge IA, 2026-11-23) https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang
-  I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a "free market" is 
-- **Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes** (TechCrunch IA, 2026-11-23) https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/
-  As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.
-- **Supertake raises $20M to let AI agents turn your market predictions into stock portfolios** (TechCrunch IA, 2026-11-23) https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/
-  Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.
-- **Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal** (TechCrunch IA, 2026-11-23) https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/
-  "The mistake has been corrected," Elon Musk chimed in.
-- **States sue SpaceX to stop Grok from generating child sex images, revenge porn** (Ars Technica IA, 2026-11-23) https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/
-  X says every Grok output is screened, but state AGs say Grok is still making CSAM.
-- **Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist** (TechCrunch IA, 2026-11-23) https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/
-  Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.
-- **AI data centers throw another wrench into chaotic UN climate talks** (The Verge IA, 2026-11-23) https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit
-  The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close
-- **Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ** (TechCrunch IA, 2026-11-23) https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/
-  "I'm going to be a better CEO the second time around," Huang told employees.
-- **Claude AI can review pull requests and ship fixes on its own now** (The Verge IA, 2026-11-23) https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests
-  Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks t
-- **How Jensen Huang ended up as Nvidia CEO again** (The Verge IA, 2026-11-23) https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return
-  The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been "unfai
-- **Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses** (TechCrunch IA, 2026-11-23) https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/
-  By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem
-- **Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription** (The Verge IA, 2026-11-23) https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording
-  Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's
-- **Oregon and Virginia sue SpaceX over Grok’s porn deepfakes** (The Verge IA, 2026-11-23) https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit
-  In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok 
-- **Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO** (TechCrunch IA, 2026-11-23) https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/
-  The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.
-- **Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips** (TechCrunch IA, 2026-11-23) https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/
-  Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.
-- **Jensen Huang isn’t out of the woods yet** (TechCrunch IA, 2026-11-23) https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/
-  Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.
-- **Trump reportedly called into Nvidia board meeting to advocate for Huang’s return** (TechCrunch IA, 2026-11-23) https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/
-  "I spoke to them, let me put it that way … And I convinced them," the president told CNBC.
-- **White House brags that Trump was ‘totally involved’ in getting Jensen reinstated** (The Verge IA, 2026-11-23) https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated
-  It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. "President Trump was totally involved and this is a great decision by the NVIDIA board," White House communications director Steven C
-- **Tech leaders are celebrating Jensen Huang’s return** (The Verge IA, 2026-11-23) https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay
-  Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) "terrorized" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable co
-- **Jensen Huang reinstated as Nvidia CEO, board chair** (Ars Technica IA, 2026-11-23) https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/
-  Trump says he spoke to the board and that Huang "did nothing wrong."
-- **Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing** (TechCrunch IA, 2026-11-23) https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/
-  The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.
-- **Sierra doubles valuation to $30B within six months as demand for AI in CX takes off** (TechCrunch IA, 2026-11-23) https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/
-  Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.
-- **Nvidia reverses course and brings Jensen Huang back as CEO** (TechCrunch IA, 2026-11-23) https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/
-  The stunning reversal was supported by senior officials in the U.S. government.
-- **Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI** (Ars Technica IA, 2026-11-23) https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/
-  The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.
-
-## Montage, motion et broadcast
-
-- **Top 10 Live Streaming 4K Capture Card Brands, Ranked for Buyer Fit - The Detroit News** (Blackmagic (Google News), 2026-11-24) https://news.google.com/rss/articles/CBMivgFBVV95cUxQdFVHbGVVZ0ZiakZSenA5elljVmZ3aWJuWW9pWER5T3FKMjhZV1lkSHZ3Y2EtbThZOGgwWldLM3c4SnlhQ1JrN1AzVEp6bjNXb0tsUmZwZGRtTE9EaXdFb2NCNWs3eHBfeklJaFRXQXFRdnBZTmJjR2FPcEF4UnJDSk9pWlMycXB0UFV6SGhwdktuTGN3RnVRQUdMTTFQWUVuaDZlRlBIRDdFTkY4WC1yUVNXY3YwSVY0RkdjR3B3?oc=5
-  Top 10 Live Streaming 4K Capture Card Brands, Ranked for Buyer Fit The Detroit News
-- **CinemaLAB 1.0– a film laboratory simulator for Resolve, Final Cut Pro, After Effects & Premiere Pro - Newsshooter** (Blackmagic (Google News), 2026-11-24) https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1N0NXdOUG9pV2Y5bnBjOV9XWERvdU1QWGNxOHlmTU1aeVJCZV9RSHgxb0ZYWFVuNVplektUYkNOZUVGZHFab3J2eG9Hb0V5QUpxRGRJeVF2eU4yWV9FdEFBLXkwLWVvdU1ObHpKc3FVRFZQdTYxTlh6d1lxVXRrZ2tPbXRiTnEtaE9leEJ1S2VXbFZtemtiUnVGQUlwYjZnLUExYmE2MUt3cmJ2RE5ZYVpfWWxFdG1rZ2pWc1UtZ2hCUWhsTlBBS1dnejdRX1U?oc=5
-  CinemaLAB 1.0– a film laboratory simulator for Resolve, Final Cut Pro, After Effects & Premiere Pro Newsshooter
-- **Save $4,950 USD on the Blackmagic Design 8TB Cloud Store Mini (4 x 2TB) - Newsshooter** (Blackmagic (Google News), 2026-11-24) https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ1diRWprNVVzQ0JtX2wwb0xBMlEzQW5OVTMwX3k4NkQwT2xQUGVYamtqSUx0QjJVOGFYSjA1eWVZNDEyWVNHeHZ2Z29nVWlWajJFc1JaRXQyUXo3azlBLUNGdGlWd1lzZUNpRmxYd0M4alZ4R29hY19JNi14dGZTWnY1dkJIaGFYa2VOLXBnb0FxaXVWYWZQU2J0aVlTaHhNbm5MOFA5bFE2QTA?oc=5
-  Save $4,950 USD on the Blackmagic Design 8TB Cloud Store Mini (4 x 2TB) Newsshooter
-- **Vizrt CEO Discusses Road Map For Chyron’s Future - TV News Check** (Vizrt / TriCaster (Google News), 2026-11-23) https://news.google.com/rss/articles/CBMijgFBVV95cUxOWVBUOS1qaUxUYjVKY3F6bFJqQU10a09hRkxPdXRMS0JvUERPeFBYZEZqQmM4YTIxLVVLR0pBSkNYeVFsaW90Q2taLVhqWWsxM2Z3OFVkMUg5TjFlSEFONG12YmI0dlNxOFBDbjYxY1M2Vm9KTmMwY3pRUDJQMXlEeDNEWEdEZ2ZsTmx0TjVn?oc=5
-  Vizrt CEO Discusses Road Map For Chyron’s Future TV News Check
-- **Vizrt CEO Discusses Road Map for Chyron's Future - TVTechnology** (Vizrt / TriCaster (Google News), 2026-11-23) https://news.google.com/rss/articles/CBMijAFBVV95cUxOWWs3UWNjcy1Lajk5bHhCSnBqSVJwQW5RYnRUaE9OeUhKZFhwSHR2MGJHNjFYYzE1c2JSeWlWMktLa1JxMXBmcDVhQ0piYldUN3huVWF4SGt6Sm1uUzhta0s1TXplNDIyRWJTZk5xMXJzQmRyZzByWUduZ0dvUHZQczR3X2FodmJ5Q21Bag?oc=5
-  Vizrt CEO Discusses Road Map for Chyron's Future TVTechnology
-- **Jay Screw badman weekend(Official video lyrics) - YouTube** (NDI (Google News), 2026-11-23) https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DSkRtUzJZNFlITkVPaWRvVThrMjJkQktnZHdnVG9tZlR5MU5id21Fc0l2V2h1cFpyR1R5VTZZUlFJZjRzM3MxbkJ4aHBlSjQtS3N5c0pFTGt6RERE?oc=5
-  Jay Screw badman weekend(Official video lyrics) YouTube
-- **Blackmagic Design Ships 108-Mic Ambisonic Microphone - Wisevoter** (Blackmagic (Google News), 2026-11-23) https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGlxeXhuUUQ4Z1BPRkFYSEZjVTk0MlVtV09ZbDhEVzVYU3hVcF9KMzRCcHhBWHVvUzBBaVFHV2UwZl9uLW8tR1JkemZ2eHItbU9QRk03OFYxSW13NHNpTXY4MmJ3Y2p5eDlOSlh5SmVSdjRrN1BxTk9xSGJ4dWNOVzBUdGs?oc=5
-  Blackmagic Design Ships 108-Mic Ambisonic Microphone Wisevoter
-
-## Agents, code et automatisation
-
-- **n8n-io/n8n n8n@3.4.0** (n8n, 2026-11-24) https://github.com/n8n-io/n8n/releases/tag/n8n%403.4.0
-  3.4.0 (2026-11-24) Bug Fixes AI Agent Node: Drop chat memory turns with empty content ( #43935 ) ( 9061640 ) ai-builder: Accept unlisted fields of open output schemas in field reference check ( #44375 ) ( 2161005 ) ai-builder: Apply "Always allow" on archive and unpublish to all workflows in the thr
-- **n8n-io/n8n n8n@2.49.5** (n8n, 2026-11-24) https://github.com/n8n-io/n8n/releases/tag/n8n%402.49.5
-  2.49.5 (2026-11-23) Bug Fixes core: Refresh the cached token of an expirable credential during its test ( #44832 ) ( 5041b0d ) core: Return an item that holds a value the vm expression engine cannot copy ( #44879 ) ( 36ef1a5 )
-- **n8n-io/n8n n8n@2.50.0** (n8n, 2026-11-24) https://github.com/n8n-io/n8n/releases/tag/n8n%402.50.0
-  2.50.0 (2026-11-24) Bug Fixes AI Agent Node: Drop chat memory turns with empty content ( #43935 ) ( 9061640 ) ai-builder: Accept unlisted fields of open output schemas in field reference check ( #44375 ) ( 2161005 ) ai-builder: Apply "Always allow" on archive and unpublish to all workflows in the th
-- **openai/codex 0.173.0-alpha.5** (OpenAI Codex, 2026-11-24) https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.5
-  Release 0.173.0-alpha.5
-- **[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft** (Latent Space, 2026-11-24) https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/
-  November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.
-- **google-gemini/gemini-cli Release v0.71.1** (Gemini CLI, 2026-11-24) https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.1
-  What's Changed fix(patch): cherry-pick aafdfdf to release/v0.71.0-pr-30420 to patch version v0.71.0 and create version 0.71.1 by @gemini-cli-robot in #30429 Full Changelog : v0.71.0...v0.71.1
-- **openai/codex 0.174.0-alpha.1** (OpenAI Codex, 2026-11-24) https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.1
-  Release 0.174.0-alpha.1
-- **google-gemini/gemini-cli Release v0.71.0** (Gemini CLI, 2026-11-24) https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.0
-  What's Changed Changelog for v0.70.0-preview.0 by @gemini-cli-robot in #30361 chore(release): bump version to 0.71.0-nightly.20261118.g615d6bc8c by @gemini-cli-robot in #30366 Changelog for v0.69.0 by @gemini-cli-robot in #30365 fix(core,cli): parse PowerShell commands asynchronously to prevent UI s
-- **google-gemini/gemini-cli Release v0.71.0-nightly.20261124.gaafdfdfb5** (Gemini CLI, 2026-11-24) https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.0-nightly.20261124.gaafdfdfb5
-  What's Changed fix(a2a-server): enforce bearer token authentication and request input validation by @diegogodinezr in #30420 Full Changelog : v0.71.0-nightly.20261123.geecccfcd5...v0.71.0-nightly.20261124.gaafdfdfb5
-- **google-gemini/gemini-cli Release v0.72.0-preview.0** (Gemini CLI, 2026-11-24) https://github.com/google-gemini/gemini-cli/releases/tag/v0.72.0-preview.0
-  What's Changed Changelog for v0.70.0 by @gemini-cli-robot in #30380 fix(core): handle nested .gitignore negations under dir/** patterns by @urielefrenvirtusa in #30370 fix(cli): expand Windows home-relative paths using tilde and backslash by @urielefrenvirtusa in #30376 fix(cli): resume most recentl
-- **openai/codex 0.172.0** (OpenAI Codex, 2026-11-24) https://github.com/openai/codex/releases/tag/rust-v0.172.0
-  New Features Follow thread links from search results and transcripts to open saved conversations and nested agents in the terminal. ( #62332 ) Press Tab to complete arguments for supported slash commands. For example, /mcp lo completes to /mcp login . ( #62343 ) Jump between task groups in the agent
-- **anthropics/claude-code v2.1.331** (Claude Code changelog, 2026-11-23) https://github.com/anthropics/claude-code/releases/tag/v2.1.331
-  What's changed Added Code Mode support in terminal sessions on Amazon Bedrock, Google Cloud's Agent Platform, Microsoft Foundry and Claude Platform on AWS Added oidc.groups_jsonpath to the Claude apps gateway, to read groups from the matching entries of a list of objects with a small subset of JSONP
-- **Claude Ship** (Hacker News Claude, 2026-11-23) https://claude.com/resources/articles/introducing-claude-ship
-  68 points, 23 commentaires HN
-- **openai/codex 0.171.0-alpha.13.2** (OpenAI Codex, 2026-11-23) https://github.com/openai/codex/releases/tag/rust-v0.171.0-alpha.13.2
-  Release 0.171.0-alpha.13.2
-- **openai/codex 0.172.0-alpha.2.1** (OpenAI Codex, 2026-11-23) https://github.com/openai/codex/releases/tag/rust-v0.172.0-alpha.2.1
-  Release 0.172.0-alpha.2.1
-
-## Modèles et labos
-
-- **datasette-charts 0.2a0** (Simon Willison, 2026-11-24) https://simonwillison.net/2026/Nov/24/datasette-charts/
-  Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools. Here's a demo video
-- **datasette-agent 0.7a1** (Simon Willison, 2026-11-24) https://simonwillison.net/2026/Nov/24/datasette-agent/
-  Release: datasette-agent 0.7a1 I small improvement to Datasette Agent : chat sessions can open an iframe side panel, and that panel can then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hash
-- **GLM-5.4: Toward Generalized Coding with Our First Loop Transformer** (Simon Willison, 2026-11-23) https://simonwillison.net/2026/Nov/23/glm-54/
-  GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs once per forward pass. In a Loop Transforme
-- **Ladybird's first alpha release** (Simon Willison, 2026-11-23) https://simonwillison.net/2026/Nov/23/ladybird/
-  Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz for text shaping, Skia for 2D graphics, f
-- **OpenAI and Cisco introduce Shirudo** (OpenAI news, 2026-11-23) https://openai.com/index/introducing-shirudo
-  OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.
-- **A more tailored Google Search that’s uniquely yours** (Google AI blog, 2026-11-23) https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/
-  Google Search bar with the text "Personal Intelligence" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons
-- **Finding faster quantum algorithms with agents and formal verification** (Google DeepMind blog, 2026-11-23) https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/
-  Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.
-- **Connected intelligence for in-house legal** (OpenAI news, 2026-11-23) https://openai.com/business/learn/connected-intelligence-for-in-house-legal
-  Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.
-- **Richpanel helps companies automate 50% of support in 30 days** (OpenAI news, 2026-11-23) https://openai.com/business/customer-stories/richpanel-ai-customer-support
-  Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.
 
 ## Open source et recherche
 
-- **comfyanonymous/ComfyUI v0.46.3** (ComfyUI releases, 2026-11-24) https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.3
-  ComfyUI v0.46.3
-- **ggml-org/whisper.cpp v1.9.6** (whisper.cpp, 2026-11-23) https://github.com/ggml-org/whisper.cpp/releases/tag/v1.9.6
-  Overview New version has been released. More info: dist : releases and versioning of ggml-org projects Changelog since v1.9.5 96ec4d9 ggml : revert 5922450 ( #4200 ) 5eaee0c ci : update CUDA 11.8.0 CUBLAS version to 11.11.3.6 ( #4195 ) 258bb62 ci : update deploy-examples-wasm workflow plugins ( #419
-- **RoboTrack: Point tracking for real-world robotic manipulation** (Hugging Face blog, 2026-11-23) https://huggingface.co/blog/allenai/robotrack
+- **An Indic Voice Agent with CUGA** (Hugging Face blog, 2026-11-25) https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga
+- **OmniAct: One Policy, One Million Embodiments** (arXiv vidéo, 2026-11-24) https://arxiv.org/abs/2611.33158v1
+  A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer through shared action representations, but these representations do not necessarily capture how dif
+- **PointX: Multi-View Consistent Intrinsics by Querying Surface Points** (arXiv vidéo, 2026-11-24) https://arxiv.org/abs/2611.33157v1
+  The appearance of a scene is determined by the albedo, roughness, metallicity and normal of every point on its surface, and by the light that reaches it, its irradiance. Recovering these intrinsics from images is ambiguous, and methods that predict them per pixel give the same surface point a differ
+- **DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning** (arXiv vidéo, 2026-11-24) https://arxiv.org/abs/2611.33153v1
+  We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video. Considering that utterance timing and audiovisual diarization are tightly coupled, DiaCap unifies the tasks 
+- **Abelian envelopes and quantum groups in Knop's interpolation categories** (arXiv agents, 2026-11-24) https://arxiv.org/abs/2611.33152v1
+  We show the existence of abelian envelopes for large classes of subcategories of Knop's tensor envelopes. It follows that these abelian envelopes correspond to groups or more generally Hopf algebras (``quantum groups'') in their parent interpolation categories. As a special case, we obtain that the 
+- **BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles** (arXiv agents, 2026-11-24) https://arxiv.org/abs/2611.33151v1
+  The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets. Beyond scaling, further progress can come from learning richer representations from existing data. We hypothesize that
+- **CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies** (arXiv agents, 2026-11-24) https://arxiv.org/abs/2611.33148v1
+  Reasoning models become long-horizon agents through reinforcement learning or, more cheaply, through fine-tuning on a stronger teacher's trajectories, which contain the teacher's chain-of-thought as well as its actions. The standard fine-tuning approach imitates both, yet the strongest teachers are 
+- **One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography** (arXiv vidéo, 2026-11-24) https://arxiv.org/abs/2611.33147v1
+  Creating a dialogue scene typically requires cutting between multiple views (e.g., close-ups, medium shots, and over-the-shoulder shots) of the actors. Yet capturing such coverage is costly and in many settings unavailable. We study dialogue re-cinematography: synthesizing additional shots from a si
+- **ROAM-Bench: Evaluating Embodied Active Spatial Intelligence through Evidence Verification** (arXiv agents, 2026-11-24) https://arxiv.org/abs/2611.33143v1
+  Embodied spatial intelligence requires agents to gather information through exploration and interaction, then use it to reason and act. Existing benchmarks insufficiently distinguish correct outcomes from completion of these task requirements. We introduce ROAM-Bench to evaluate these abilities unde
+- **iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction** (arXiv vidéo, 2026-11-24) https://arxiv.org/abs/2611.33141v1
+  World-action models (WAMs) build policies on pretrained video-generation models, on the premise that predicting how a scene evolves helps determine how to act. However, generating future scenes is expensive for real-time control. This motivates efficient proxies for future imagination, but how to tr
+- **Physicl Scenes: An Artist-created 3D Dataset for Learning Perception and Action** (arXiv vidéo, 2026-11-24) https://arxiv.org/abs/2611.33137v1
+  We present Physicl Scenes, a high-quality artist-created and curated dataset of 6,499 3D scenes spanning household rooms, public interiors, and outdoor spaces. The dataset combines detailed geometry, physically based materials, and carefully composed environments with object- and part-level semantic
+- **BriConstrain: Geometrically Constrained Decoding for Autoregressive Brick Assembly Generation** (arXiv vidéo, 2026-11-24) https://arxiv.org/abs/2611.33135v1
+  Language models can generate LEGO$^\circledR$ assemblies from text, but their builds often contain parts that collide or attach to nothing. The usual approach of rejecting and resampling invalid placements discards decoded tokens without guaranteeing a valid build. We present BriConstrain, a constra
+- **Exploratory Midtraining for Robot Policies** (arXiv agents, 2026-11-24) https://arxiv.org/abs/2611.33130v1
+  Robot policies predominantly learn from human-collected data emphasizing competent behavior, limiting coverage of the low-level behaviors needed to support autonomous improvement. We study how a form of midtraining can be used to build coverage over diverse low-level behaviors that connect challengi
+- **A note on input-oblivious unambiguous hierarchies** (arXiv agents, 2026-11-24) https://arxiv.org/abs/2611.33126v1
+  Unambiguous hierarchies are defined similarly to the polynomial hierarchy; however, all witnesses must be unique. Their versions differ in the mode of using oracles. We consider input-oblivious unambiguous hierarchies built from the class OUP, in which all positive inputs of the same length have the
+- **SAG-Mem-1.0 Technical Report** (arXiv agents, 2026-11-24) https://arxiv.org/abs/2611.33124v1
+  Long-term conversational memory requires retrieving complementary facts scattered across dialogue sessions, including intermediate evidence with limited similarity to the original question. Existing approaches often rely on derived memory representations or persistent relational structures, introduc
+- **Read My Lips: Context-aware Lip Reading Using Language and Audio-Visual Models** (arXiv vidéo, 2026-11-24) https://arxiv.org/abs/2611.33117v1
+  Real-world speech is often partially observable: audio may be missing or corrupted by noise and competing speakers, while the speaker's lips remain visible. Recovering speech requires combining what can be heard, seen, and inferred from context. We introduce RML (Read My Lips), a collaborative metho
+- **Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing Performance** (arXiv agents, 2026-11-24) https://arxiv.org/abs/2611.33098v1
+  Agents built on frontier language models are expensive. At every step, the frontier model re-reads its entire context and executes every subtask regardless of its difficulty. This paper explores the simple thesis that much of this cost can be removed by delegating easy subtasks to a small language m
+- **EventDiffusion: Learning Native Event Stream Distribution from Videos** (arXiv vidéo, 2026-11-24) https://arxiv.org/abs/2611.33096v1
+  Event cameras capture asynchronous brightness changes at high temporal resolution, but scarce recordings constrain data-driven research. Sparse RGB observations cannot uniquely determine intervening events since identical frames may correspond to streams with different activity, polarities, and timi
+- **AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design** (arXiv agents, 2026-11-24) https://arxiv.org/abs/2611.33093v1
+  A language-model decoder carries state between decoding steps, and in hardware a wrong state update can leave the current token correct and corrupt the output several tokens later, so a design can pass output tests and still be wrong. AIChipBench asks what LLM coding agents need to build such hardwa
+- **The Radar-based Activities of Daily Living (R-ADL) Dataset** (arXiv agents, 2026-11-24) https://arxiv.org/abs/2611.33088v1
+  Monitoring Activities of Daily Living (ADLs) supports safety and well-being for people living at home, especially older adults, and radar sensing is gaining increasing attention in the field of activity recognition for its ability to ensure privacy in the home while also surpassing technical limitat
+- **Uncertainty-Aware Candidate Generation for Entity Linking in Cyber Threat Intelligence** (arXiv agents, 2026-11-24) https://arxiv.org/abs/2611.33086v1
+  Entity Resolution (ER) pipelines often collapse ambiguity into early hard decisions: upstream Named Entity Recognition (NER) selects a single span and type, and downstream Entity Linking (EL) treats that choice as ground truth. This discards valuable information about the ambiguity of the underlying
+- **Spectrify: Framework for Hyperspectral Image Generation Using Computer Graphics** (arXiv vidéo, 2026-11-24) https://arxiv.org/abs/2611.33042v1
+  Hyperspectral images (HSIs) record the full spectrum of light at every pixel, so projecting an HSI through a camera's spectral sensitivities gives that camera's RAW image, and one HSI can supply training data for hyperspectral reconstruction and camera-pipeline methods. Real HSIs, however, are slow 
+- **Linear Probes Can Guide: Training-Free Control of Representation Generators** (arXiv vidéo, 2026-11-24) https://arxiv.org/abs/2611.33037v1
+  Representation-space generative models, such as Representation Autoencoders (RAEs), leverage pretrained vision foundation models (VFMs) primarily to accelerate training and improve sample fidelity. Yet VFMs are more than reconstruction tokenizers, as they feature rich representation spaces that are 
+- **SHARPnP: Self-Supervised and Plug-and-Play Hyperspectral Super-Resolution from Real Noisy Unaligned Camera Measurements** (arXiv vidéo, 2026-11-24) https://arxiv.org/abs/2611.33032v1
+  Affordable snapshot hyperspectral cameras capture spectral images in a single exposure but suffer from limited spatial resolution and sensor noise. Low-cost RGB cameras provide fine visible details to guide NIR reconstruction, but introduce spatially varying cross-camera misalignment. Supervised fus
+- **GRAPE-Bench: When Vision Degrades, Does Video Reasoning Hold?** (arXiv vidéo, 2026-11-24) https://arxiv.org/abs/2611.33020v1
+  Despite strong performance on standard benchmarks, video reasoning models remain vulnerable to visual degradation, raising concerns about their reliability in safety-critical scenarios. Existing benchmarks address this concern in part by simulating visual degradation or probing model reasoning with 
+- **E-MAPS: Event-Based Promptable Video Segmentation with Memory-as-Prompt** (arXiv vidéo, 2026-11-24) https://arxiv.org/abs/2611.33017v1
+  RGB-based video object segmentation (VOS) remains brittle under fast motion and adverse illumination. Event cameras preserve signal under blur and challenging exposure, but provide little evidence when motion slows. Interaction can restore object state for subsequent propagation, yet promptable even
+- **RePix-VFI: Re-rendering Observed Pixels for Video Frame Interpolation with Generative Priors from One-Step Diffusion** (arXiv vidéo, 2026-11-24) https://arxiv.org/abs/2611.33016v1
+  Multi-frame video frame interpolation (VFI) aims to reconstruct dense video from sparse keyframes, requiring accurate intermediate motion and faithful appearance. As temporal gaps grow, flow-based methods can retain observed textures but misplace them under ambiguous motion, whereas iterative latent
+- **Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton** (Hugging Face blog, 2026-11-24) https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance
+
+## Agents, code et automatisation
+
+- **n8n-io/n8n n8n@2.49.6** (n8n, 2026-11-25) https://github.com/n8n-io/n8n/releases/tag/n8n%402.49.6
+  2.49.6 (2026-11-25) Bug Fixes core: Align base64, urlEncode and format results of isolate expression engines with legacy ( #44969 ) ( 7fb24bd ) Features core: Evaluate urlEncode, base64Decode and format natively ( #44995 ) ( e79571f )
+- **n8n-io/n8n n8n@2.50.1** (n8n, 2026-11-25) https://github.com/n8n-io/n8n/releases/tag/n8n%402.50.1
+  2.50.1 (2026-11-25) Bug Fixes core, editor: Load the Assistant session timeline through the system agent routes ( #45074 ) ( e80660e ) core: Align base64, urlEncode and format results of isolate expression engines with legacy ( #44968 ) ( 32c599d ) editor: Keep an allowed trigger separate from its r
+- **[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab** (Latent Space, 2026-11-25) https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/
+  November 24, 2026 — Neon beats Astra and Fable on LiveBench and cuts Theo’s TS Rust benchmark runtime by 48.6%.
+- **anthropics/claude-code v2.1.332** (Claude Code changelog, 2026-11-25) https://github.com/anthropics/claude-code/releases/tag/v2.1.332
+  What's changed Added skills from MCP servers (beta). They show as server:skill in the / menu; other skills keep their names Added a PreSkillShellCommand hook event that can refuse a skill or command's inline shell commands as it loads; on 2.1.331 and older, a settings file naming it opens a dialog a
+- **openai/codex 0.174.0-alpha.5** (OpenAI Codex, 2026-11-25) https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.5
+  Release 0.174.0-alpha.5
+- **openai/codex 0.174.0-alpha.4** (OpenAI Codex, 2026-11-24) https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.4
+  Release 0.174.0-alpha.4
+- **openai/codex 0.174.0-alpha.3** (OpenAI Codex, 2026-11-24) https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.3
+  Release 0.174.0-alpha.3
+- **openai/codex 0.174.0-alpha.2** (OpenAI Codex, 2026-11-24) https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.2
+  Release 0.174.0-alpha.2
+
+## Montage, motion et broadcast
+
+- **Blackmagic Products Deployed at FUJIFILM’s In-House Studio - Content + Technology** (Blackmagic (Google News), 2026-11-25) https://news.google.com/rss/articles/CBMiqwFBVV95cUxPenpFY0o5UlBOaXlSS3pwY0l1dHB1MFhRNVNpVUR1RUR3WFA1MkU5bVo2YS1kWDdqQWkwazcyYk8wQTF0bWRfVTZhNWZvalIyLVpSMlNkdGtpMWhFU1ZWTDlXZEg1VFg0RGFWcmpYWUotaDFKanZLTWNXSkxybVRrdGZwQnhPTkltOXJ3d1B4UTBVYWR5VUEwcjAyOVFOMHVuaWN1RmlndEFORnc?oc=5
+  Blackmagic Products Deployed at FUJIFILM’s In-House Studio Content + Technology
+- **Singers Surprise Bukharian Philanthropist With ‘Atem Shalom’ - Anash.org** (Blackmagic (Google News), 2026-11-25) https://news.google.com/rss/articles/CBMigwFBVV95cUxOa0xHUmNRYUtkUGdSbmpXUXgzVVlCd2tzcjhmMDRIb3UyUV9JSTFoZVFBZ2NTWFFfX1Bqd3JJSEg2dDBLeGVwUkxLSnZGN1RCSVM0YW41Y19GV3lpd1Zsd0ZuZlBucjVFS1FQYVNJQzNKSWlnNlRYQzNBVlZjcDY0Q3RBWQ?oc=5
+  Singers Surprise Bukharian Philanthropist With ‘Atem Shalom’ Anash.org
+- **Blackmagic Camera App Adds 4K HDR Support for OPPO - Wisevoter** (Blackmagic (Google News), 2026-11-24) https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVdVemVSQXUyeWZLc3lyTE9wQVBCdUNXdXhHN0VIc29aQld1blNjZjBsMnlmRTFPOTd3Y2Fua0cxeUoxUC1fRERZUlFyT2ZiVjVLUklWZEozZEJfejVOOFE0UURuM2VYV096WUlWaGo5WW5iM2dzc3ZVckhtQ3N5U0tMSzFqc1Zt?oc=5
+  Blackmagic Camera App Adds 4K HDR Support for OPPO Wisevoter
+- **A Special Musical Rendition Featuring Avraham Fried - CrownHeights.info** (Blackmagic (Google News), 2026-11-24) https://news.google.com/rss/articles/CBMingFBVV95cUxQYjNKa0RqaHRPQllxWXpWcGpwRWUyeHJkY2xka0R1T0s0RTJaOTVJZXFsVnJUaUkyTlQ2SXdpR1BwcktscEpIVk5iUUFKcWt0bldDdHFfenRiTWgzXzI5clFwRVBJX1NlN1ZCZWZmaGcyaW91UVVFUFBjMmtleU90MWtMRVRXdW9JWU8zOHVQZjJTd0NGUTg5UXpjSjIwUQ?oc=5
+  A Special Musical Rendition Featuring Avraham Fried CrownHeights.info
+- **remotion-dev/remotion v4.0.547** (Remotion, 2026-11-24) https://github.com/remotion-dev/remotion/releases/tag/v4.0.547
+  What's Changed @remotion/cli : Add remotion elements add-library for adding Element Libraries to the config by @samohovets in #13584 remotion : Fix useVideoConfig() of a sequence with explicit durationInFrames being clamped by composition duration by @JonnyBurger in #13605 remotion : Keep emitted ar
+- **Inside Fox 13 Seattle’s new downtown broadcast facility - NewscastStudio** (NDI (Google News), 2026-11-24) https://news.google.com/rss/articles/CBMingFBVV95cUxNMnM3MUx2S3lydGg3VUFBTWI3aVpVVkZyYjlFNWNiZ2xWUFFjWFZXME12amxqNl9xaFRzc0NPTmtoWlJDMFBCVzVKLVNEZTQwbEZtZXltVlIwOGhOTTQxQVE4T2k1THNjcjBIQU1IN2hBMFM1ZVNrMkRTdEVhYlJNSmx6NzFwS1AzRVhFMWExRHY0SmV3MUI2QkRqemtadw?oc=5
+  Inside Fox 13 Seattle’s new downtown broadcast facility NewscastStudio
+- **Media - Blackmagic Design** (Blackmagic (Google News), 2026-11-24) https://news.google.com/rss/articles/CBMiakFVX3lxTFB0YXdQbTg1Wm43RUlNdmFIYVc2Sk9MczZ0N3JQdGxIejJOeDR2MXlRMTRmRjQ1TWxjWU83UHVHSUNKa0tzeFRfME9wczlyNmxHdFYzMzNFVW5Xc0ZRZ0xyQk5uYkdaanpFMUE?oc=5
+  Media Blackmagic Design
+- **Media - Blackmagic Design** (Blackmagic (Google News), 2026-11-24) https://news.google.com/rss/articles/CBMiakFVX3lxTE1Sdnl0TG5hTGl0RkhzaWF4bUhXdUFhQ1ZjNUpRaHBZMWlsT2xTMDB5bVFYaGpzTTVpZUE4WXhITEl4b1Fyd1pTcjlIWE5CMVBBQ2VsWTRwWkxBNWxxOXlqblZMU0JQZ1ZNc3c?oc=5
+  Media Blackmagic Design
+- **SuperStar DJ Zeantus Ndi Ego Mixtape Vol2 (Crusade Version) - Six9ja** (NDI (Google News), 2026-11-24) https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXJsT3dlOExoRFkzdGZzc0RXcThiak0wc19KYU00RHgyRjFLclFNNmg3cVlvMENEVEJrMzl6VE1CRVJmN2R1QzNFYTJ6VGkxclNLWnRoN1o1UEhxR3ZFWDdxX2ZQNGJKVXZTNDFJWnpfX0VHeHNhOFdPdzhfeFA3UmVJb1RDMVVfZ0Rwa1loWlJmRlhRYWFZdUZDUmM?oc=5
+  SuperStar DJ Zeantus Ndi Ego Mixtape Vol2 (Crusade Version) Six9ja
+
+## Business, prix et régulation
+
+- **Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion** (TechCrunch IA, 2026-11-25) https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/
+  Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to "historic" personal liability from a growing pile of lawsuits and raising the question of whether the
+- **Jensen Huang still thinks a succession plan creates unnecessary hierarchy** (TechCrunch IA, 2026-11-24) https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/
+  It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.
+- **In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy** (TechCrunch IA, 2026-11-24) https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/
+  The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.
+- **Even the best AI agents struggle with everyday life** (TechCrunch IA, 2026-11-24) https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/
+  As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.
+- **Walmart teams up with Meta to bring Black Friday deals to AI agent Muse** (TechCrunch IA, 2026-11-24) https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/
+  Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.
+- **Maple raises $5.3M to build AI products that protect your data, even from itself** (TechCrunch IA, 2026-11-24) https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/
+  The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.
+- **What's going on with the Riemann hypothesis?** (Ars Technica IA, 2026-11-24) https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/
+  A new AI-assisted proof seems to be solid, but we're not sure what it tells us.
+- **Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired** (The Verge IA, 2026-11-24) https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology
+  Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbaske
+- **Amazon drone crashes on garage after delivering shampoo, draws FAA probe** (Ars Technica IA, 2026-11-24) https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/
+  Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.
+- **Anthropic shares fall below IPO price, a worrying sign for AI startups** (TechCrunch IA, 2026-11-24) https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/
+  Anthropic’s post-IPO slump could put pressure on AI startup valuations.
+- **David Fincher is being dragged for suspected use of AI in his latest film** (The Verge IA, 2026-11-24) https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive
+  Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-ful
+- **UK warns AI-driven cyberattacks are exposing years of weak security** (TechCrunch IA, 2026-11-24) https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/
+  The British cyber agency says that "building strong foundations has never mattered more" as AI hacking tools rely on exploiting simple security flaws.
+- **Tidal announces ban on AI-generated music; 27 million tracks will be deleted** (Ars Technica IA, 2026-11-24) https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/
+  AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.
+- **Tidal will start banning AI-generated music next month** (The Verge IA, 2026-11-24) https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban
+  Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labe
+- **Meta brings its Muse AI assistant directly into Instagram DMs** (TechCrunch IA, 2026-11-24) https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/
+  The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.
+- **Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming** (TechCrunch IA, 2026-11-24) https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/
+  The company said it will still accept songs that were made with AI assistance, but not fully generated.
+- **Jensen Huang deepfakes are the hot new AI slop** (The Verge IA, 2026-11-24) https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes
+  Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive an
+- **Why a Crusoe investor is betting on solar and batteries to power future AI data centers** (TechCrunch IA, 2026-11-24) https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/
+  Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.
+- **The New York Times warns photographers not to update Photoshop over AI features** (The Verge IA, 2026-11-24) https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features
+  The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI "in ways that may not be apparent to users." In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and
+- **Pinterest will now let parents limit the AI-generated content their teens see** (TechCrunch IA, 2026-11-24) https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/
+  While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.
+- **Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia** (TechCrunch IA, 2026-11-24) https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/
+  Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.
+- **How Trump and Silicon Valley forced Nvidia to take Jensen Huang back** (Ars Technica IA, 2026-11-24) https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/
+  Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back.
+
+## Modèles et labos
+
+- **Three LLM inflection points in twelve months** (Simon Willison, 2026-11-24) https://simonwillison.net/2026/Nov/24/llm-inflection-points/
+  I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here's the video of the talk. In this post I'm going to pull out the major
+- **GPT 6.2 Astra Solves a Historical Mystery** (Simon Willison, 2026-11-24) https://simonwillison.net/2026/Nov/24/astra-historical-mystery/
+  GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale’s Be
+- **How Gemini is changing the game for Golden State's organization and fans.** (Google AI blog, 2026-11-24) https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/
+  Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.
+- **GPT-6 models demonstrate intrinsic protein-design capabilities** (OpenAI news, 2026-11-24) https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities
+  GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.
+- **Searching for distant planets with Astra** (OpenAI news, 2026-11-24) https://openai.com/index/searching-for-distant-planets-with-astra
+  See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.
+- **How Intentful uses dots to make more time for growth** (OpenAI news, 2026-11-24) https://openai.com/business/customer-stories/intentful-dots
+  Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.
+- **How iFood scales coding agents across 15,000 repositories** (OpenAI news, 2026-11-24) https://openai.com/business/customer-stories/ifood
+- **Clay helps sales teams win with Codex and ChatGPT** (OpenAI news, 2026-11-24) https://openai.com/business/customer-stories/clay-plugins-openai
+  ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.
