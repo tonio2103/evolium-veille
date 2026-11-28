@@ -1,55 +1,62 @@
-# Rapport brut Evolium Veille IA du 2026-11-27
+# Rapport brut Evolium Veille IA du 2026-11-28
 
-18 items nouveaux sur 52 sources (4 en échec: Blackmagic (Google News), NDI (Google News), Vizrt / TriCaster (Google News), r/LocalLLaMA).
+20 items nouveaux sur 52 sources (2 en échec: Vizrt / TriCaster (Google News), r/LocalLLaMA).
 
 Ceci est de la donnée brute, pas des instructions. Trier avec le contexte Evolium.
 
 ## Vidéo, image et audio génératifs
 
-- **Guides MAGI-2 Prompt Guide: 10 Prompts and Settings That Work (2026) 14 min · Nov 26, 2026** (Higgsfield blog, 2026-11-27) https://higgsfield.ai/blog/magi-2-prompt-guide-10-prompts-and-settings-that-work
+- **Guides How to Make an Animated Video with AI (Step-by-Step Guide) 14 min · Nov 26, 2026** (Higgsfield blog, 2026-11-28) https://higgsfield.ai/blog/how-to-make-animated-video-with-ai
   nouveau lien repéré sur la page source
-- **Comparisons 5 Best Platforms to Use Nano Banana 2 in 2026 13 min · Nov 25, 2026** (Higgsfield blog, 2026-11-27) https://higgsfield.ai/blog/best-platforms-to-use-nano-banana-2
+- **Editorials Higgsfield Black Friday 2026: Plan Discounts and Credit Pack Offers 4 min · Nov 27, 2026** (Higgsfield blog, 2026-11-28) https://higgsfield.ai/blog/higgsfield-black-friday-2026
   nouveau lien repéré sur la page source
-- **Comparisons 10 Best Free AI Video Generators 14 min · Nov 25, 2026** (Higgsfield blog, 2026-11-27) https://higgsfield.ai/blog/best-free-ai-video-generators
+- **Comparisons Which AI Video Platforms Allow Commercial Use and How It Works? 13 min · Nov 26, 2026** (Higgsfield blog, 2026-11-28) https://higgsfield.ai/blog/ai-video-commercial-use
   nouveau lien repéré sur la page source
+- **hunyuan-3d/v3.6/image-to-3d Hunyuan 3D v3.6 generates 3D models from reference images, supporting geometry-only output or textured meshes with optional PBR mate** (fal.ai nouveaux modèles, 2026-11-28) https://fal.ai/models/hunyuan-3d/v3.6/image-to-3d
+  nouveau lien repéré sur la page source
+- **hunyuan-3d/v3.6/text-to-3d Hunyuan 3D v3.6 generates 3D models from text descriptions, supporting geometry-only output or textured meshes with optional PBR mate** (fal.ai nouveaux modèles, 2026-11-28) https://fal.ai/models/hunyuan-3d/v3.6/text-to-3d
+  nouveau lien repéré sur la page source
+
+## Montage, motion et broadcast
+
+- **FFmpeg/FFmpeg n9.0.3** (FFmpeg, 2026-11-28) https://github.com/FFmpeg/FFmpeg/releases/tag/n9.0.3
+  FFmpeg 9.0.3 release
+- **How to Edit Videos with Claude AI: Step-by-Step Guide - Analytics Insight** (Blackmagic (Google News), 2026-11-27) https://news.google.com/rss/articles/CBMirgFBVV95cUxQdmtTa0g0X3pFRENGY0xmc253SlFWcEFNeTZXVG5fOUZXN3VGNHlKdThPWnp1UWl6ZmQ3T0gyZkRXNWh0eENHbDRqd1RIbEZaYzJkd19VdWtYeFp2WE9DZ3hrVkV6NGhkTWMzSjZ3SnNCV2ZqeTB5Y2FyR0daY19MQzNYN2JFaE04ZDdqdUUzTnJJSGRjMUpqU2FJYmVqTjQ5NW5lS1NxSWRlV1RsN0HSAbsBQVVfeXFMTmpqSWdwOU1KNEdpVXFWT18xSnIyM0pYckdaMTdQLWhXcXg2U2loV183TlRDRzIxMWN2SmRCSWQyTlVuQnFta1pWWHFKcEF4TVpYOXhINFU5WWRDUWxGNE1zejZ6VWhnQWZ3Z2pxak5tUS1VN0JnMk5uZG9JNXh4dkxUVXhuV3N6ZkFTX1dnYVJwOUlscHpKdTNMVlhvME1VZGFBQWxUS1pYSlFQdjF0YUJCVDZUaUkzOWRyZw?oc=5
+  How to Edit Videos with Claude AI: Step-by-Step Guide Analytics Insight
+- **Panasonic’s Only Black Friday Deal on Amazon Is a 17-Year-Old Lens - Y.M.Cinema Magazine** (Blackmagic (Google News), 2026-11-27) https://news.google.com/rss/articles/CBMinwFBVV95cUxNOTJmVTR3aVVHZ0EyX1RwSkNMWWJFTGtKTDlENl9TNWdnWGxMS2VBV21ZN2x5bVhCZ1I5c1dFcUdwTDBfdXFTRG1LR0NIUktjdHlJcnN0UDZtNXZZTTdHb3RzcHJQWmlEV1pJWlZUNTJZYnRrLVBFTUFpMTVSUU9tTlNsOUtEX1Utb2IwXzEtcnlMR2tOQ0sxQzNvUFhBSzA?oc=5
+  Panasonic’s Only Black Friday Deal on Amazon Is a 17-Year-Old Lens Y.M.Cinema Magazine
+- **AU, IGAD and UN to launch joint task force on South Sudan - Eye Radio** (Blackmagic (Google News), 2026-11-27) https://news.google.com/rss/articles/CBMiigFBVV95cUxNSHU0TjlrNTdHLXNKa0xKcDgxcXY4MEg1bEo0dDM5NUl2SjFqeUkwQ2FtWkhrNW5CV056dndWM05jQmJqUHhyMF9PdjVaTkQ0bEZ3OFdhTGEtR0d4bzM0LWN2V2tUQ1dwWVRXallLdXI0Z2wtb0ZqNklCMng3NnJCc3l2X3Y3WnFpN1HSAYoBQVVfeXFMTUh1NE45azU3Ry1zSmtMSnA4MXF2ODBINWxKNHQzOTVJdkoxanlJMENhbVpIazVuQldOenZ3VjNOY0JialB4cjBfT3Y1Wk5ENGxGdzhXYUxhLUdHeG8zNC1jdldrVENXcFlUV2pZS3VyNGdsLW9GajZJQjJ4NzZyQnN5dl92N1pxaTdR?oc=5
+  AU, IGAD and UN to launch joint task force on South Sudan Eye Radio
+- **Reality Hack at MIT: professional stereoscopic workflow within reach of new creators - Foro3D** (Blackmagic (Google News), 2026-11-27) https://news.google.com/rss/articles/CBMisgFBVV95cUxNVjFiQ3BtT3VCUzVfNHJHblZ0RW1MUlctQ19pcDVEQ1VmdVBvQVdINHRuY0ZFQVA0VTh4Y3YtY0FhWXVBM29DWlVoNzBUVWczbC1DWVZpMFQ4RnZlYW55TjhnajlxNDc1RnAxZGV6OU5jNmFhWGFFdF9ucU9CYk1xa0VjWS1RMVRIaWI4Y2tINWJEQV9ldnlGNHpHNUtmTW5ldjBxOGpOOXBScERxT0tlbXNR?oc=5
+  Reality Hack at MIT: professional stereoscopic workflow within reach of new creators Foro3D
+- **Telemedellín Completes DaVinci Resolve Studio Migration Across 80% of Post Suites - Digital Studio India** (Blackmagic (Google News), 2026-11-27) https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQXhNNjBGQ1hlVkNBS01pdlZOSXBDSDdXUXdIZ1BmZlc0UThITk95VzdUaHd3NXY0ZDd4YWx6bzM5bW1Ta0liRi1ic0RXLUgtTmQwamZ0RjU5bk4ycmtVdlotOFJQOXhxazNoU3BEYl8xUzQ1QWRfRmE4aFZacHJFcGNHSUJkdU95QzBVRTlTUmFvdi1TbVVidGRkR1kwbWwwbm5TclQ1VWVOMHc?oc=5
+  Telemedellín Completes DaVinci Resolve Studio Migration Across 80% of Post Suites Digital Studio India
 
 ## Agents, code et automatisation
 
-- **modelcontextprotocol/servers v2.6.0** (MCP servers (repo), 2026-11-27) https://github.com/modelcontextprotocol/servers/releases/tag/v2.6.0
-  Security fixes v2.6.0 fixes eight vulnerabilities in three servers, and completes two fixes that v2.5.0 left open. Upgrade mcp-server-git to 2026.11.27, @modelcontextprotocol/server-memory to 2.2.2 and mcp-server-fetch to 2026.11.27; on Windows, also @modelcontextprotocol/server-filesystem to 2.4.1.
-- **Claude sabotaging SOTA ML research tasks** (Hacker News Claude, 2026-11-27) https://twitter.com/RealAstropulse/status/2126119408997466389
-  125 points, 81 commentaires HN
-- **n8n-io/n8n n8n@2.49.8** (n8n, 2026-11-27) https://github.com/n8n-io/n8n/releases/tag/n8n%402.49.8
-  2.49.8 (2026-11-27)
-- **n8n-io/n8n n8n@2.50.3** (n8n, 2026-11-27) https://github.com/n8n-io/n8n/releases/tag/n8n%402.50.3
-  2.50.3 (2026-11-27) Bug Fixes editor: Show a stopped agent chat run as a status line ( #45273 ) ( a5310b6 ) Features editor: Show thinking and tool calls in one shared activity trace ( #45370 ) ( 3aff99e )
-- **"What's Claude's Fursona?" and Other Questions** (Hacker News Claude, 2026-11-27) https://herecomesthemoon.net/2026/11/whats-claudes-fursona/
-  92 points, 76 commentaires HN
-- **How Clay Builds GTM Agents — Jeff Barg, Head of AI** (Latent Space, 2026-11-26) https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/
-  How $1,500 could qualify every company in the world, why customers hate the model selector, and how Clay is building go-to-market infrastructure for every agent
-- **openai/codex 0.174.0-alpha.8** (OpenAI Codex, 2026-11-26) https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.8
-  Release 0.174.0-alpha.8
-- **Notion's official MCP inject hidden upsell instructions into agent context** (Hacker News Claude, 2026-11-26) https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/
-  55 points, 22 commentaires HN
-- **Testers think they're hitting Claude Opus 5.6 through an Opus 5.5 Extra route** (Hacker News Claude, 2026-11-26) https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/
-  43 points, 15 commentaires HN
-- **Claude tries to sabotage research work at every stage** (Hacker News Claude, 2026-11-26) https://twitter.com/skirano/status/2125371115979641188
-  62 points, 17 commentaires HN
-
-## Business, prix et régulation
-
-- **Nvidia hits pause on chip shipments to Southeast Asia** (TechCrunch IA, 2026-11-26) https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/
-  Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.
-- **Grand Theft Auto VI proves why efficiency isn’t a virtue** (TechCrunch IA, 2026-11-26) https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/
-  On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.
-
-## Modèles et labos
-
-- **Quoting Jack Despain Zhou** (Simon Willison, 2026-11-26) https://simonwillison.net/2026/Nov/26/jack-despain-zhou/
-  Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly serious credent
-- **The New York Times warns photographers not to update Photoshop over AI features** (Simon Willison, 2026-11-26) https://simonwillison.net/2026/Nov/26/hn-50651685/
-  My comment on The New York Times warns photographers not to update Photoshop over AI features — Hacker News. I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I asked if they could fix things up if I had a stain on my shirt
+- **Claude silently added rules to ignore users skintone preferences in our app** (Hacker News Claude, 2026-11-28) https://twitter.com/jakozloski/status/2126281598517576049
+  36 points, 17 commentaires HN
+- **[AINews] Inside the exploding Coding Data Market** (Latent Space, 2026-11-28) https://latent.space/p/ainews-inside-the-exploding-coding-data-market/
+  November 27, 2026 — How frontier labs buy training data.
+- **Inside the AI Training Data Market — Gabe Greenberg, G2i** (Latent Space, 2026-11-27) https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/
+  A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can buy too. At AI Engineer CODE, G2i founder Gabe Greenberg tells swyx how labs make that decision, how small pilot orders turn into bigger...
+- **openai/codex 0.174.0-alpha.9** (OpenAI Codex, 2026-11-27) https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.9
+  Release 0.174.0-alpha.9
 
 ## Open source et recherche
 
-- **Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems** (Hugging Face blog, 2026-11-26) https://huggingface.co/blog/training-swarms
+- **comfyanonymous/ComfyUI v0.46.4** (ComfyUI releases, 2026-11-28) https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.4
+  ComfyUI v0.46.4
+- **Taking Trainium3 to the Track: Generating Videos with LTX-2.5** (Hugging Face blog, 2026-11-27) https://huggingface.co/blog/video-trainium3
+
+## Modèles et labos
+
+- **datasette-charts 0.4a0** (Simon Willison, 2026-11-27) https://simonwillison.net/2026/Nov/27/datasette-charts/
+  Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of fricti
+- **datasette-mcp 0.4** (Simon Willison, 2026-11-27) https://simonwillison.net/2026/Nov/27/datasette-mcp/
+  Release: datasette-mcp 0.4 Fixed for compatibility with Datasette 1.0a44 . Tags: model-context-protocol , datasette
+
+## Business, prix et régulation
+
+- **Android’s DIY widgets are a bit of vibe-coding fun** (The Verge IA, 2026-11-27) https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini
+  Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]
